@@ -1,0 +1,16 @@
+5 5
+Karl Bücher
+31
+Adolf Köcher
+0
+Johann Frotzheim
+0
+Arnold Schaefer
+34
+Heinrich von Sybel
+2
+3 0 1870 Germany
+3 1 1871 Germany
+3 2 1873 Germany
+4 1 1871 Germany
+4 2 1873 Germany

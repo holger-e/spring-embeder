@@ -1,0 +1,30 @@
+10 9
+Albert Luther Candy
+0
+Carl Christian Engberg
+0
+Ellery William Davis
+4
+George Stetson Ely
+0
+William Pitt Durfee
+0
+Washington Irving Stringham
+1
+George Bruce Halsted
+0
+Oscar Howard Mitchell
+0
+James Joseph Sylvester
+14
+Fabian Franklin
+0
+2 0 1896 UnitedStates
+2 1 1899 UnitedStates
+8 6 1879 UnitedStates
+8 5 1880 UnitedStates
+8 9 1880 UnitedStates
+8 7 1882 UnitedStates
+8 3 1883 UnitedStates
+8 4 1883 UnitedStates
+8 2 1884 UnitedStates

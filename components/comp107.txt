@@ -1,0 +1,9 @@
+3 2
+Johannes Adolph von Kries
+2
+Hermann Cochius
+3
+Christian Wilhelm Braune
+3
+1 0 1874 Germany
+2 0 1874 Germany

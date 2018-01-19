@@ -1,0 +1,15 @@
+5 4
+Johann Gottlieb Krüger
+0
+Christoph Andreas Büttner
+1
+Christian Gottlieb Schwarz
+2
+Samuel Barthel
+3
+Gottfried Dewerdek
+4
+1 0 1734 Germany
+2 1 1726 Germany
+3 2 1699 Germany
+4 3 1696 Germany

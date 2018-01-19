@@ -1,0 +1,9 @@
+3 2
+Johann Frischmuth
+1
+Paul Heigel
+0
+Johann Kob
+2
+0 1 1660 Germany
+2 0 1639 Germany

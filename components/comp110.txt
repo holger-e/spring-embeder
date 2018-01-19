@@ -1,0 +1,10 @@
+3 3
+Christian Röhrensee
+1
+Johannes Heyl
+0
+Johannes Deutschmann
+2
+0 1 1696 Germany
+2 0 1664 Germany
+2 0 1665 Germany

@@ -1,0 +1,12 @@
+4 3
+John Keill
+1
+David Gregory
+3
+Jean Théophile Désaguliers
+0
+John Craig
+0
+0 2 1712 UnitedKingdom
+1 3 1687 UnitedKingdom
+1 0 1692 UnitedKingdom

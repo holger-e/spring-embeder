@@ -1,0 +1,9 @@
+3 2
+Antonio Valsalva
+459
+Marcello Malpighi
+460
+Giovanni Alfonso Borelli
+461
+1 0 1687 Italy
+2 1 1653 Italy

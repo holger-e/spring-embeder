@@ -1,0 +1,9 @@
+3 2
+Thomas Archer Hirst
+0
+Friedrich Ludwig Stegmann
+2
+John Tyndall
+0
+1 2 1850 Germany
+1 0 1852 Germany

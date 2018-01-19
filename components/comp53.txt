@@ -1,0 +1,12 @@
+4 3
+William Whewell
+1
+George Peacock
+1
+Augustus De Morgan
+0
+John Hudson
+2
+0 2 1826 UnitedKingdom
+1 2 1826 UnitedKingdom
+3 1 1816 UnitedKingdom

@@ -1,0 +1,76 @@
+25 25
+Jakob Kurtz
+0
+Johann Geilfus
+1
+Michael Wolf
+24
+Johann Heinrich Vulpius
+0
+Georgius Judex
+0
+Achim von Bredow
+0
+Sebastian Didelius
+0
+Johannes Bamberg
+0
+Andreas Jacobsen Langebech
+0
+Christoph Maschwedel
+0
+Marcus Bonaventura Pleier
+0
+Henning Christoph Friederich
+0
+Johann Weinmann
+0
+Philipp Rieckher
+0
+Georg Lange
+0
+Johann Caroli
+0
+Albert Reinmann
+0
+Johann Agricola
+0
+Nicolaus Neumeister
+0
+Andreas Kesler
+0
+Philipp Stoltzenberger
+0
+Johannes Zezeling
+0
+Jacob Leitner
+0
+Timotheus Julius
+0
+Johann Hentzelmann
+0
+1 0 1650 Germany
+2 1 1612 Germany
+2 16 1612 Germany
+2 23 1618 Germany
+2 24 1618 Germany
+2 19 1619 Germany
+2 20 1619 Germany
+2 21 1619 Germany
+2 22 1619 Germany
+2 11 1620 Germany
+2 12 1620 Germany
+2 13 1620 Germany
+2 14 1620 Germany
+2 15 1620 Germany
+2 17 1620 Germany
+2 18 1620 Germany
+2 6 1621 Germany
+2 7 1621 Germany
+2 8 1621 Germany
+2 9 1621 Germany
+2 10 1621 Germany
+2 15 1621 Germany
+2 4 1622 Germany
+2 5 1622 Germany
+2 3 1623 Germany

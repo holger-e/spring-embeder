@@ -1,0 +1,9 @@
+3 2
+Kaarle Krohn
+6
+Julius Krohn
+7
+Elias Lönnrot
+8
+1 0 1888 Finland
+2 1 1862 Finland

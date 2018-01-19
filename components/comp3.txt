@@ -1,0 +1,112 @@
+36 39
+Ruth Gentry
+0
+Charlotte Angas Scott
+8
+James Harkness
+1
+Emilie Norton Martin
+0
+Arthur Cayley
+7518
+Ernest William Brown
+9
+George Howard Darwin
+7002
+Andrew Russell Forsyth
+6992
+Edmund Taylor Whittaker
+6991
+Sir Francis Galton
+4026
+Karl Pearson
+4025
+George Chrystal
+545
+Isabel Maddison
+0
+William Hopkins
+14749
+Joseph John Thomson
+2509
+Isaac Barrow
+14759
+Isaac Newton
+14758
+Alfred North Whitehead
+1233
+Edward John Routh
+10272
+John William Strutt (Lord Rayleigh)
+2511
+Thomas Jones
+14751
+John Dawson
+14751
+Adam Sedgwick
+14750
+George Gabriel Stokes
+2513
+John Cranke
+14752
+Roger Cotes
+14756
+Robert Smith
+14755
+James Clerk Maxwell
+547
+William Whiston
+0
+Benjamin Pulleyn
+14759
+Horace Lamb
+0
+Isaac Todhunter
+10273
+Thomas Postlethwaite
+14752
+Stephen Whisson
+14753
+Walter Taylor
+14754
+William Henry Bragg
+36
+1 0 1896 UnitedStates
+1 12 1896 UnitedStates
+1 3 1899 UnitedStates
+2 3 1899 UnitedStates
+4 7 1881 UnitedKingdom
+4 1 1885 UnitedKingdom
+6 8 1895 UnitedKingdom
+6 5 1897 UnitedKingdom
+7 8 1895 UnitedKingdom
+9 10 1879 UnitedKingdom
+13 23 1841 UnitedKingdom
+13 9 1847 UnitedKingdom
+13 31 1848 UnitedKingdom
+13 27 1854 UnitedKingdom
+13 18 1857 UnitedKingdom
+13 4 1864 Netherlands
+15 16 1668 UnitedKingdom
+16 28 1695 UnitedKingdom
+16 25 1706 UnitedKingdom
+18 19 1868 UnitedKingdom
+18 6 1871 UnitedKingdom
+18 17 1884 UnitedKingdom
+18 35 1885 UnitedKingdom
+19 14 1883 UnitedKingdom
+20 22 1811 UnitedKingdom
+21 22 1811 UnitedKingdom
+22 13 1830 UnitedKingdom
+23 19 1868 UnitedKingdom
+23 30 1872 UnitedKingdom
+24 20 1782 UnitedKingdom
+25 26 1715 UnitedKingdom
+26 34 1723 UnitedKingdom
+27 30 1872 UnitedKingdom
+27 11 1875 UnitedKingdom
+29 16 1668 UnitedKingdom
+31 18 1857 UnitedKingdom
+32 20 1782 UnitedKingdom
+33 32 1756 UnitedKingdom
+34 33 1742 UnitedKingdom

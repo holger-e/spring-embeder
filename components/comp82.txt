@@ -1,0 +1,19 @@
+6 6
+Heinrich Martin Christian Klausing
+4
+Gerhard Lüders
+0
+Johannes Oertel
+0
+Friedrich Jacob Firnhaber
+1
+Georg Christoph Seybold
+0
+Jacob Wilhelm Feuerlein
+2
+0 2 1715 Germany
+0 3 1715 Germany
+0 4 1715 Germany
+0 1 1718 Germany
+3 4 1715 Germany
+5 3 1711 Germany

@@ -1,0 +1,16 @@
+5 5
+Louis Marcel Brillouin
+462
+Aimé Auguste Cotton
+120
+Jules Louis Gabriel Violle
+341
+Charles Camichel
+190
+Jules Charles Antonin Macé de Lépinay
+0
+0 3 1895 France
+0 1 1896 France
+2 4 1879 France
+2 3 1895 France
+2 1 1896 France

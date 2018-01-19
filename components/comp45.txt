@@ -1,0 +1,9 @@
+3 2
+Julius Scheiner
+0
+Heinrich Karl Friedrich Kreutz
+0
+Eduard Schönfeld
+2
+2 1 1880 Germany
+2 0 1882 Germany

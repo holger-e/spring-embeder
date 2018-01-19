@@ -1,0 +1,83 @@
+27 28
+Francesco Brioschi
+1812
+Antonio Luigi Gaudenzio Giuseppe Cremona
+1807
+Giuseppe Veronese
+1780
+Guido Castelnuovo
+1779
+Cesare Arzelà
+533
+Pietro Paoli
+1817
+Sebastiano Canovai
+1817
+Enrico Betti
+2171
+Vito Volterra
+817
+Antonio Bordoni
+1813
+Eugenio Beltrami
+2
+Eugenio Bertini
+26
+Giovanni Battista Guccia
+0
+Giuseppe Battaglini
+237
+Ottaviano Fabrizio Mossotti
+0
+Vincenzo Brunacci
+1816
+Ulisse Dini
+759
+Luigi Bianchi
+575
+Tullio Levi-Civita
+185
+Gregorio Ricci-Curbastro
+186
+Federigo Enriques
+235
+Gaetano Scorza
+21
+Alfredo Capelli
+0
+Giovanni Frattini
+0
+Gabrio Piola
+0
+Giuseppe Doveri
+2172
+Ernesto Padova
+0
+0 1 1853 Italy
+0 10 1856 Italy
+1 11 1869 Italy
+1 2 1877 Italy
+1 12 1880 Italy
+2 3 1886 Italy
+3 20 1891 Italy
+5 15 1788 Italy
+6 15 1788 Italy
+7 16 1865 Italy
+7 4 1871 Italy
+7 19 1875 Italy
+7 17 1877 Italy
+7 8 1882 Italy
+7 20 1891 Italy
+9 0 1845 Italy
+10 26 1866 Italy
+10 23 1875 Italy
+11 21 1899 Italy
+13 23 1875 Italy
+13 22 1877 Italy
+15 9 1807 Italy
+15 14 1811 Italy
+15 24 1816 Italy
+16 19 1875 Italy
+16 17 1877 Italy
+19 18 1893 Italy
+25 7 1846 Italy

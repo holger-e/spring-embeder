@@ -1,0 +1,9 @@
+3 2
+Justus Friedrich Wippermann
+1
+Nicolaus Storch
+0
+Johann Helfrich Chuno
+2
+0 1 1688 Germany
+2 0 1674 Germany

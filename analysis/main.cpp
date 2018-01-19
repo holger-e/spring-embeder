@@ -43,12 +43,14 @@ vector<string> split(string &s, string delim) {
 }
 
 // Depth first search to explore graph and count size of subgraph.
-int visitCon(int v, vector<vector<edge>> &adjlist, vector<bool> &visited) {
+int visitCon(int v, int c, vector<vector<edge>> &adjlist, vector<bool> &visited,
+    vector<int> &comps) {
   visited[v] = true;
+  comps[v] = c;
   int size = 1;
   for (auto w : adjlist[v]) {
     if (!visited[w.adviseeId]) {
-      size += visitCon(w.adviseeId, adjlist, visited);
+      size += visitCon(w.adviseeId, c, adjlist, visited, comps);
     }
   }
   return size;
@@ -112,12 +114,12 @@ int main() {
   
   // Connectivity.
   vector<bool> visited(n, false);
+  vector<int> comps(n, -1);
   int components = 0;
   map<int, int> componentSizes;
   for (int i = 0; i < n; i++) {
     if (!visited[i]) {
-      components++;
-      int size = visitCon(i, undirected, visited);
+      int size = visitCon(i, components++, undirected, visited, comps);
       componentSizes[size]++;
     }
   }
@@ -205,5 +207,38 @@ int main() {
     } else cout << "  " << e.first << ": " << e.second << endl;
   }
 
+  // Print components in different files.
+  map<int, vector<int>> verts;
+  for (int i = 0; i < n; i++) {
+    verts[comps[i]].push_back(i);
+  }
+  for (int j = 0; j < (int)components; j++) {
+    string name = "../components/comp" + to_string(j) + string(".txt");
+    ofstream fout(name);
+    
+    vector<vertex> verts;
+    vector<edge> edges;
+    int counter = 0;
+    map<int, int> shortIdx;
+    for (int i = 0; i < n; i++) {
+      if (comps[i] == j) {
+        shortIdx[i] = counter++;
+        verts.push_back(mathematicians[i]);
+        for (edge w : directed[i]) {
+          edges.push_back(w);
+        }
+      }
+    }
+    fout << verts.size() << " " << edges.size() << endl;
+    for (int i = 0; i < (int)verts.size(); i++) {
+      fout << verts[i].name << endl;
+      fout << verts[i].descendants << endl;
+    }
+    for (int i = 0; i < (int)edges.size(); i++) {
+      fout << shortIdx[edges[i].advisorId] << " "
+           << shortIdx[edges[i].adviseeId] << " "
+           << edges[i].year << " " << edges[i].country << endl;
+    }
+  }
   return 0;
 }
