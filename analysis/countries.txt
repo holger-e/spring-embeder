@@ -1,0 +1,13 @@
+Only 5 components contain edges from more than one country:
+comp0.txt => 1816 vertices, ?? countries
+comp3.txt => 36 vertices, 3 countries
+comp35.txt => 4 vertices, 2 countries
+comp43.txt => 8 vertices, 1 country + 1 empty (probably also Switzerland)
+comp62.txt => 4 vertices, 2 countries
+comp71.txt => 6 vertices, 2 countries + 1 empty (probably also Switzerland or
+  France)
+
+Open Questions:
+1) In total only 20 countries are missing, maybe these can be googled.
+2) How is the country distribution in comp0.txt? Create "country graph" and look
+   at its topology, hopefully very easy.
