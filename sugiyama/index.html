@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Graph Drawing Challenge 2018</title>
+    <style>
+      html, body {
+        margin: 0px;
+        padding: 0px;
+      }
+    </style>
+    <script>
+      const CANVAS_ID = "canvas";
+      const CANVAS_WIDTH = 1000;
+      const CANVAS_HEIGHT = 4000;
+
+      window.addEventListener("load", function() {
+        // Gets canvas and context.
+        let canvas = document.getElementById("canvas");
+        canvas.width = CANVAS_WIDTH;
+        canvas.height = CANVAS_HEIGHT;
+        if (!canvas) {
+          console.log("Could not find canvas with id " + CANVAS_ID + ".");
+        }
+        let ctx = canvas.getContext("2d");
+
+        // Initializes embedder.
+        let embedder = new GraphEmbedder(ctx);
+
+        let vert1 = new Vertex("Paul Jungeblut", 100, 100, 50, 10);
+        let vert2 = new Vertex("Holger Ebhart", 200, 200, 60, 20);
+        embedder.addVertex(vert1);
+        embedder.addVertex(vert2);
+
+        let edge1 = new Edge(vert1, vert2);
+        embedder.addEdge(edge1);
+
+        // Rendering loop.
+        function draw() {
+          embedder.draw();
+          window.requestAnimationFrame(draw);
+        }
+        window.requestAnimationFrame(draw);
+      });
+    </script>
+  </head>
+  <body>
+    <canvas id="canvas"></canvas>
+    <script src="vertex.js"></script>
+    <script src="edge.js"></script>
+    <script src="graphEmbedder.js"></script>
+  </body>
+</html>
