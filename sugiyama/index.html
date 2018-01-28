@@ -7,15 +7,21 @@
         margin: 0px;
         padding: 0px;
       }
+
+      #exportBox {
+        position: fixed;
+        top: 10px;
+        right: 10px;
+      }
     </style>
     <script>
       const CANVAS_ID = "canvas";
-      const CANVAS_WIDTH = 1000;
-      const CANVAS_HEIGHT = 4000;
+      const CANVAS_WIDTH = 500;
+      const CANVAS_HEIGHT = 500;
 
       window.addEventListener("load", function() {
         // Gets canvas and context.
-        let canvas = document.getElementById("canvas");
+        let canvas = document.getElementById(CANVAS_ID);
         canvas.width = CANVAS_WIDTH;
         canvas.height = CANVAS_HEIGHT;
         if (!canvas) {
@@ -41,10 +47,21 @@
         }
         window.requestAnimationFrame(draw);
       });
+
+      function exportImage() {
+        let canvas = document.getElementById(CANVAS_ID);
+        if (!canvas) {
+          console.log("Could not find canvas with id " + CANVAS_ID + ".");
+        }
+        console.log(canvas.toDataURL());
+      }
     </script>
   </head>
   <body>
     <canvas id="canvas"></canvas>
+    <div id="exportBox">
+      <button onclick="exportImage()">Export</button>
+    </div>
     <script src="vertex.js"></script>
     <script src="edge.js"></script>
     <script src="graphEmbedder.js"></script>
