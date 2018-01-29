@@ -21,13 +21,6 @@ function setUp(){
     //spring_embeder();
 }
 
-var c_rep = 1;
-var c_spring = 2;
-var l = 1; // spring length
-var max_iterations = 1;
-var eps = 0.05;
-var change_weight = 1;
-
 var n = 5;
 var vertices = [];// = [0,2,4,5,7,7];
 var positions = [];// = [new Victor(0,0),new Victor(0,-100),new Victor(100,100),new Victor(100,0), new Victor(50,50)];
@@ -119,19 +112,35 @@ function draw_circle(x,y){
     ctx.stroke();
 }
 
+var c_rep = 1;
+var c_spring = 2;
+var l = 1; // spring length
+var max_iterations = 1;
+var eps = 0.05;
+var change_weight = 1;
+var delta_weight = new Victor(change_weight, change_weight);
+
 // starts spring-embeder algorithm
 function embed(){
     
     var iterations = 0;
     var max_variation = 0;
     do{
+        var changeVec = [];
+        // calculate forces of current layout
         for (var i = 0; i < n; ++i){
             var change = get_force(i);
             max_variation = Math.max(max_variation, change.lengthSq());
             
-            change.multiply(new Victor(change_weight, change_weight));
+            
+            // add new position
+            changeVec.push(change.clone());
+        }
+        // set new positions / create new layout
+        for (var i = 0; i < n; ++i){
             // set new position
-            positions[i].add(change);
+            changeVec[i].multiply(delta_weight);
+            positions[i].add(changeVec[i]);
         }
         
         iterations++;
@@ -142,7 +151,9 @@ function embed(){
 // delivers force for vertex v
 function get_force(v){
     
+    // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     // requires edge list to be sorted ascending
+    // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     
     var force = new Victor(0,0);
     
@@ -153,10 +164,10 @@ function get_force(v){
         if (offset < range && edges[offset] == u){
             // u and v are adjacent -> attractive force
             offset++;
-            force.add(attr_force(positions[v], positions[u]));
+            force.add(attr_force(positions[v].clone(), positions[u].clone()));
         }else{
             // u and v not adjacent -> repulsive force
-            force.add(rep_force(positions[v], positions[u]));
+            force.add(rep_force(positions[v].clone(), positions[u].clone()));
         }
     }
     //alert(force.x + " - " + force.y);
@@ -165,14 +176,22 @@ function get_force(v){
 
 // delivers attractive force for vertex v (between vertices v and u)
 function attr_force(v, u){
-    var x1 = c_spring * Math.log(v.subtract(u).length() / l);
-    return u.subtract(v).normalize().multiply(new Victor(x1,x1));
+    v.subtract(u);
+    var x1 = c_spring * Math.log(v.length() / l);
+    u.subtract(v);
+    u.normalize();
+    u.multiply(new Victor(x1,x1));
+    return u;
 }
 
 // delivers repulsive force for vertex v (between vertices v and u)
 function rep_force(v, u){
-    var x1 = c_rep / v.subtract(u).lengthSq();
-    return v.subtract(u).normalize().multiply(new Victor(x1,x1));
+    v.subtract(u);
+    var x1 = c_rep / v.lengthSq();
+    v.subtract(u);
+    v.normalize();
+    v.multiply(new Victor(x1,x1));
+    return v;
 }
 
 function rand_input(){
