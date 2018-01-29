@@ -13,6 +13,8 @@ function setUp(){
     w = canvas.width;
     h = canvas.height;
     
+    readInputFile("test.txt");
+    
     rand_input();
     
     draw();
@@ -27,9 +29,9 @@ var eps = 0.05;
 var change_weight = 1;
 
 var n = 5;
-var vertices = [0,2,4,5,7,7];
-var positions = [new Victor(0,0),new Victor(0,-100),new Victor(100,100),new Victor(100,0), new Victor(50,50)];
-var edges = [1,2,3,3,0,0,1];
+var vertices = [];// = [0,2,4,5,7,7];
+var positions = [];// = [new Victor(0,0),new Victor(0,-100),new Victor(100,100),new Victor(100,0), new Victor(50,50)];
+var edges = [];// = [1,2,3,3,0,0,1];
 
 function spring_embeder(){
     embed();
@@ -66,7 +68,8 @@ function draw(){
     for (var i = 0; i < n; ++i){  
         // draw edges
         for (var j = vertices[i]; j < vertices[i+1]; ++j) {
-            draw_line(positions[i].x, positions[i].y, positions[edges[j]].x, positions[edges[j]].y);
+            //draw_line(positions[i].x, positions[i].y, positions[edges[j]].x, positions[edges[j]].y);
+            draw_arrow(positions[i].clone(), positions[edges[j]].clone());
         }
     }
     
@@ -77,6 +80,32 @@ function draw_line(x1,y1,x2,y2){
     ctx.moveTo(x1,y1);
     ctx.lineTo(x2,y2);
     ctx.strokeStyle = '#ff0000';
+    ctx.stroke();
+}
+
+function draw_arrow(from, to){
+    ctx.strokeStyle = '#ff0000';
+    ctx.beginPath();
+    ctx.moveTo(from.x, from.y);
+    ctx.lineTo(to.x, to.y);
+    ctx.stroke();
+    
+    ctx.beginPath();
+    ctx.moveTo(to.x, to.y);
+    
+    from.subtract(to);
+    from.normalize();
+    from.multiply(new Victor(20,20));
+    from.rotate(Math.PI / 10);
+    to.add(from);
+    ctx.lineTo(to.x, to.y);
+    //alert(to.x + " - " + to.y + "\n" + a1.x + " - " + a1.y);
+    to.subtract(from);
+    ctx.moveTo(to.x, to.y);
+    from.rotate( - Math.PI / 5);
+    to.add(from);
+    
+    ctx.lineTo(to.x, to.y);
     ctx.stroke();
 }
 
@@ -148,6 +177,40 @@ function rep_force(v, u){
 
 function rand_input(){
     for (var i = 0; i < n; ++i){
-        positions[i] = new Victor (Math.random() * w, Math.random() * h);
+        positions.push(new Victor (Math.random() * w, Math.random() * h));
     }
+}
+
+
+
+
+function readInputFile(file)
+{
+    var rawFile = new XMLHttpRequest();
+    rawFile.open("GET", file, false);
+    rawFile.onreadystatechange = function ()
+    {
+        if(rawFile.readyState === 4)
+        {
+            if(rawFile.status === 200 || rawFile.status == 0)
+            {
+                var input = rawFile.responseText;
+                var lines = input.split("\n");
+                n = parseInt(lines[0]);
+                var m = parseInt(lines[1]);
+                var j = -1;
+                for (i=2; i < m + 2; ++i){
+                    var edge = lines[i].split(" ");
+                    while(parseInt(edge[0]) != j){
+                        j++;
+                        vertices.push(i-2);
+                    }
+                    edges.push(parseInt(edge[1]));
+                    //alert(lines[i]);
+                }
+                vertices.push(m);
+            }
+        }
+    }
+    rawFile.send(null);
 }
