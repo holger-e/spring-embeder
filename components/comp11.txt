@@ -1,9 +1,0 @@
-3 2
-Heinrich Maier
-1
-Ernst Meumann
-2
-Christoph Eberhard von Sigwart
-5
-2 1 1891 Germany
-2 0 1892 Germany

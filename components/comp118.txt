@@ -1,9 +1,0 @@
-3 2
-Johann Pali
-0
-Berthold Hauser
-2
-Bartolomäus Kün
-0
-1 0 1751 Germany
-1 2 1751 Germany

@@ -1,9 +1,0 @@
-3 2
-Theodore William Richards
-201
-Josiah Parsons Cooke
-202
-Gilbert Newton Lewis
-4
-0 2 1899 UnitedStates
-1 0 1888 UnitedStates
