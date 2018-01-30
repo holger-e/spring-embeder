@@ -1,1 +1,1 @@
-{"vertices": [{"name": "William Arnold Anthony", "descendants": 378, "year": 1862, "country": "UnitedStates"}, {"name": "Harris Joseph Ryan", "descendants": 377, "year": 1887, "country": "UnitedStates"}], "edges": [{"from": 0, "to": 1}]}
+const COMP_52 = {"vertices": [{"name": "William Arnold Anthony", "descendants": 378, "year": 1862, "country": "UnitedStates"}, {"name": "Harris Joseph Ryan", "descendants": 377, "year": 1887, "country": "UnitedStates"}], "edges": [{"from": 0, "to": 1}]};

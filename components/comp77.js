@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Hans Adolf Eduard Driesch", "descendants": 3, "year": 1889, "country": "Germany"}, {"name": "Ernst Haeckel", "descendants": 4, "year": 1864, "country": "Germany"}], "edges": [{"from": 1, "to": 0}]}
+const COMP_77 = {"vertices": [{"name": "Hans Adolf Eduard Driesch", "descendants": 3, "year": 1889, "country": "Germany"}, {"name": "Ernst Haeckel", "descendants": 4, "year": 1864, "country": "Germany"}], "edges": [{"from": 1, "to": 0}]};

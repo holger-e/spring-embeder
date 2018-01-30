@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Edward Bennett", "descendants": 236, "year": 1897, "country": "UnitedStates"}, {"name": "Reginald Fessenden", "descendants": 237, "year": 1872, "country": "UnitedStates"}], "edges": [{"from": 1, "to": 0}]}
+const COMP_44 = {"vertices": [{"name": "Edward Bennett", "descendants": 236, "year": 1897, "country": "UnitedStates"}, {"name": "Reginald Fessenden", "descendants": 237, "year": 1872, "country": "UnitedStates"}], "edges": [{"from": 1, "to": 0}]};

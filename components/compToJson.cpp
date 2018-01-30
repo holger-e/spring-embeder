@@ -60,18 +60,18 @@ string readComponent(int i) {
   res += "}";
 
   freopen(("comp" + to_string(i) + ".js").c_str(), "w", stdout);
-  cout << res << endl;
+  cout << "const COMP_" << to_string(i) << " = " << res << ";" << endl;
   return res;
 }
 
 int main() {
-  string all = "";
+  string all = "const GRAPH = ";
   all += "[";
   for (int i = 0; i < 122; i++) {
     if (i) all += ", ";
     all += readComponent(i);
   }
-  all += "]";
+  all += "];";
   freopen("all.js", "w", stdout);
   cout << all << endl;
 }

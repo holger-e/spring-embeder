@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Christian Gottlob Biener", "descendants": 2, "year": 1770, "country": "Germany"}, {"name": "Moritz von Prasse", "descendants": 1, "year": 1795, "country": "Germany"}], "edges": [{"from": 0, "to": 1}]}
+const COMP_74 = {"vertices": [{"name": "Christian Gottlob Biener", "descendants": 2, "year": 1770, "country": "Germany"}, {"name": "Moritz von Prasse", "descendants": 1, "year": 1795, "country": "Germany"}], "edges": [{"from": 0, "to": 1}]};

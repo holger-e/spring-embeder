@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Jonathan Adolf Wilhelm Zenneck", "descendants": 17, "year": 1894, "country": "Germany"}, {"name": "Theodor (Gustav Heinrich) Eimer", "descendants": 18, "year": 1869, "country": "Germany"}], "edges": [{"from": 1, "to": 0}]}
+const COMP_93 = {"vertices": [{"name": "Jonathan Adolf Wilhelm Zenneck", "descendants": 17, "year": 1894, "country": "Germany"}, {"name": "Theodor (Gustav Heinrich) Eimer", "descendants": 18, "year": 1869, "country": "Germany"}], "edges": [{"from": 1, "to": 0}]};

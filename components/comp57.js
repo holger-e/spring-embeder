@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Zephyrin Victor Elliot", "descendants": 0, "year": 1876, "country": "France"}, {"name": "Charles Briot", "descendants": 1, "year": 1851, "country": "France"}], "edges": [{"from": 1, "to": 0}]}
+const COMP_57 = {"vertices": [{"name": "Zephyrin Victor Elliot", "descendants": 0, "year": 1876, "country": "France"}, {"name": "Charles Briot", "descendants": 1, "year": 1851, "country": "France"}], "edges": [{"from": 1, "to": 0}]};

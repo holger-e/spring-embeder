@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Johannes Joachim Balthasar", "descendants": 1, "year": 1682, "country": "Poland"}, {"name": "Gabriel Groddek", "descendants": 0, "year": 1707, "country": "Poland"}], "edges": [{"from": 0, "to": 1}]}
+const COMP_42 = {"vertices": [{"name": "Johannes Joachim Balthasar", "descendants": 1, "year": 1682, "country": "Poland"}, {"name": "Gabriel Groddek", "descendants": 0, "year": 1707, "country": "Poland"}], "edges": [{"from": 0, "to": 1}]};

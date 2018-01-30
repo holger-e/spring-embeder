@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Valentin Konstantinovich Ivanov", "descendants": 63, "year": 1847, "country": "Russia"}, {"name": "A. I. Vasilʹev", "descendants": 0, "year": 1872, "country": "Russia"}], "edges": [{"from": 0, "to": 1}]}
+const COMP_56 = {"vertices": [{"name": "Valentin Konstantinovich Ivanov", "descendants": 63, "year": 1847, "country": "Russia"}, {"name": "A. I. Vasilʹev", "descendants": 0, "year": 1872, "country": "Russia"}], "edges": [{"from": 0, "to": 1}]};

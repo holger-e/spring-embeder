@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Kaspar Wenckh", "descendants": 1, "year": 1597, "country": "Germany"}, {"name": "Magnus F. Zürcher", "descendants": 0, "year": 1622, "country": "Germany"}], "edges": [{"from": 0, "to": 1}]}
+const COMP_84 = {"vertices": [{"name": "Kaspar Wenckh", "descendants": 1, "year": 1597, "country": "Germany"}, {"name": "Magnus F. Zürcher", "descendants": 0, "year": 1622, "country": "Germany"}], "edges": [{"from": 0, "to": 1}]};

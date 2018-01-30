@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Wilhelm Dilthey", "descendants": 6, "year": 1852, "country": "Germany"}, {"name": "Eberhard Gothein", "descendants": 3, "year": 1877, "country": "Germany"}], "edges": [{"from": 0, "to": 1}]}
+const COMP_92 = {"vertices": [{"name": "Wilhelm Dilthey", "descendants": 6, "year": 1852, "country": "Germany"}, {"name": "Eberhard Gothein", "descendants": 3, "year": 1877, "country": "Germany"}], "edges": [{"from": 0, "to": 1}]};

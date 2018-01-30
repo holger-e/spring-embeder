@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Niels Henrik Abel", "descendants": 0, "year": 1822, "country": "Norway"}, {"name": "Bernt Michael Holmboe", "descendants": 1967, "year": 1797, "country": "Norway"}], "edges": [{"from": 1, "to": 0}]}
+const COMP_32 = {"vertices": [{"name": "Niels Henrik Abel", "descendants": 0, "year": 1822, "country": "Norway"}, {"name": "Bernt Michael Holmboe", "descendants": 1967, "year": 1797, "country": "Norway"}], "edges": [{"from": 1, "to": 0}]};

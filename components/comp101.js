@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Maximilian Duncker", "descendants": 1, "year": 1811, "country": "Germany"}, {"name": "Sanwar Sunny", "descendants": 0, "year": 1836, "country": "Germany"}], "edges": [{"from": 0, "to": 1}]}
+const COMP_101 = {"vertices": [{"name": "Maximilian Duncker", "descendants": 1, "year": 1811, "country": "Germany"}, {"name": "Sanwar Sunny", "descendants": 0, "year": 1836, "country": "Germany"}], "edges": [{"from": 0, "to": 1}]};

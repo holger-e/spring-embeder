@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Hermann Umpfenbach", "descendants": 1, "year": 1828, "country": "Germany"}, {"name": "Heinrich Dölp", "descendants": 0, "year": 1853, "country": "Germany"}], "edges": [{"from": 0, "to": 1}]}
+const COMP_34 = {"vertices": [{"name": "Hermann Umpfenbach", "descendants": 1, "year": 1828, "country": "Germany"}, {"name": "Heinrich Dölp", "descendants": 0, "year": 1853, "country": "Germany"}], "edges": [{"from": 0, "to": 1}]};

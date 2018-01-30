@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Thomas Craig", "descendants": 1, "year": 1872, "country": "UnitedStates"}, {"name": "Alexander Pell", "descendants": 0, "year": 1897, "country": "UnitedStates"}], "edges": [{"from": 0, "to": 1}]}
+const COMP_15 = {"vertices": [{"name": "Thomas Craig", "descendants": 1, "year": 1872, "country": "UnitedStates"}, {"name": "Alexander Pell", "descendants": 0, "year": 1897, "country": "UnitedStates"}], "edges": [{"from": 0, "to": 1}]};

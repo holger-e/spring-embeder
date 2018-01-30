@@ -1,1 +1,1 @@
-{"vertices": [{"name": "Johann Balthasar Lauterbach", "descendants": 0, "year": 1685, "country": "Germany"}, {"name": "Johann Andreas Schmidt", "descendants": 1, "year": 1660, "country": "Germany"}], "edges": [{"from": 1, "to": 0}]}
+const COMP_97 = {"vertices": [{"name": "Johann Balthasar Lauterbach", "descendants": 0, "year": 1685, "country": "Germany"}, {"name": "Johann Andreas Schmidt", "descendants": 1, "year": 1660, "country": "Germany"}], "edges": [{"from": 1, "to": 0}]};
