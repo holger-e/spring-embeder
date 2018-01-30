@@ -57,9 +57,9 @@ class Vertex {
     let words = this._name.split(" ");
     let curLine = "";
     let lines = [];
-    // This can result in endless loop, if one part of the name is too long for
-    // single line. In this case we should either break differently or increase
-    // MAX_WIDTH.
+    // This can result in shitty drawings, if one part of the name is too long
+    // for single line. In this case we should either break differently or
+    // increase MAX_WIDTH.
     for (let word of words) {
       let testText = curLine.length == 0 ? word : curLine + " " + word;
       let lineMetric = ctx.measureText(testText);
