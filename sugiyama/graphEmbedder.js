@@ -9,6 +9,8 @@ class GraphEmbedder {
 
     // The drag and drop target.
     this._dragDropTarget = undefined;
+    this._xOffset = undefined;
+    this._yOffset = undefined;
 
     // Event handlers for drag and drop of the vertices.
     this._ctx.canvas.addEventListener("mousedown", this._mouseDownHandler.bind(this));
@@ -52,9 +54,13 @@ class GraphEmbedder {
 
     this._positionTarget(x, y);
     this._dragDropTarget = undefined;
+    this._xOffset = undefined;
+    this._yOffset = undefined;
   }
 
   _positionTarget(x, y) {
+    x -= this._xOffset;
+    y -= this._yOffset;
     let maxx = this._ctx.canvas.width - this._dragDropTarget.width;
     let maxy = this._ctx.canvas.height - this._dragDropTarget.height;
     this._dragDropTarget.x = Math.max(0, Math.min(x, maxx));
@@ -66,6 +72,8 @@ class GraphEmbedder {
       this._dropTarget(x, y);
     }
     this._dragDropTarget = target;
+    this._xOffset = x - target.x;
+    this._yOffset = y - target.y;
   }
 
   _selectTarget(x, y) {
@@ -75,7 +83,6 @@ class GraphEmbedder {
              y >= v.y && y <= v.y + v.height;
     });
     if (target !== undefined) {
-      console.log("Select", target);
       this._setTarget(x, y, target);
     }
   }
