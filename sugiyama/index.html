@@ -32,13 +32,19 @@
         // Initializes embedder.
         let embedder = new GraphEmbedder(ctx);
 
-        let vert1 = new Vertex("Paul Jungeblut", 100, 100, 50, 10);
-        let vert2 = new Vertex("Holger Ebhart", 200, 200, 60, 20);
+        let vert1 = new Vertex("Paul Jungeblut", 100, 100);
+        let vert2 = new Vertex("Holger Ebhart", 100, 200);
+        let vert3 = new Vertex("Karl-Theodor Maria Nikolaus Johann Jacob Philipp Franz Joseph Sylvester Buhl-Freiherr von und zu Guttenberg", 300, 300);
         embedder.addVertex(vert1);
         embedder.addVertex(vert2);
+        embedder.addVertex(vert3);
 
         let edge1 = new Edge(vert1, vert2);
+        let edge2 = new Edge(vert1, vert3);
+        let edge3 = new Edge(vert2, vert3);
         embedder.addEdge(edge1);
+        embedder.addEdge(edge2);
+        embedder.addEdge(edge3);
 
         // Rendering loop.
         function draw() {
