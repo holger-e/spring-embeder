@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Nilos Kabasilas", "descendants": 142617, "year": 1363, "country": "Greece"}, {"name": "Gregory Palamas", "descendants": 142618, "year": 1338, "country": "Greece"}], "edges": [{"from": 1, "to": 0}]}

@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Fyodor Aleksandrovich Bredikhin", "descendants": 42, "year": 1865, "country": "Russia"}, {"name": "Aristarchus Apollonovich Belopolski", "descendants": 0, "year": 1896, "country": "Russia"}, {"name": "Witold Karlovic Tseraskii", "descendants": 0, "year": 1883, "country": "Russia"}], "edges": [{"from": 0, "to": 2}, {"from": 0, "to": 1}]}

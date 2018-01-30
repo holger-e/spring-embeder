@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Santiago Ramón y Cajal", "descendants": 87, "year": 1877, "country": "Spain"}, {"name": "Aureliano Maestre de San Juan", "descendants": 88, "year": 1851, "country": "Spain"}, {"name": "Eloy Carlos Ordóñez", "descendants": 89, "year": 1826, "country": "Spain"}], "edges": [{"from": 1, "to": 0}, {"from": 2, "to": 1}]}

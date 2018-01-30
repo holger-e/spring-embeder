@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Christian Röhrensee", "descendants": 1, "year": 1665, "country": "Germany"}, {"name": "Johannes Heyl", "descendants": 0, "year": 1696, "country": "Germany"}, {"name": "Johannes Deutschmann", "descendants": 2, "year": 1640, "country": "Germany"}], "edges": [{"from": 0, "to": 1}, {"from": 2, "to": 0}, {"from": 2, "to": 0}]}

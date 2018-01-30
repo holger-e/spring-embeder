@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Axel Thue", "descendants": 362, "year": 1889, "country": "Norway"}, {"name": "Elling Holst", "descendants": 363, "year": 1864, "country": "Norway"}], "edges": [{"from": 1, "to": 0}]}

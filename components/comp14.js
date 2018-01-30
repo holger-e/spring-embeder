@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Isaac Joachim Schwatt", "descendants": 1, "year": 1893, "country": "UnitedStates"}, {"name": "Edwin Schofield Crawley", "descendants": 3, "year": 1868, "country": "UnitedStates"}], "edges": [{"from": 1, "to": 0}]}

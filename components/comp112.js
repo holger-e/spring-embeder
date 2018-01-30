@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Hermann Eduard von Holst", "descendants": 483, "year": 1865, "country": "Germany"}, {"name": "Albert Bushnell Hart", "descendants": 482, "year": 1885, "country": "Germany"}, {"name": "Ludwig Häusser", "descendants": 484, "year": 1840, "country": "Germany"}], "edges": [{"from": 0, "to": 1}, {"from": 2, "to": 0}]}

@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Johann Vollbracht", "descendants": 1, "year": 1597, "country": "Germany"}, {"name": "Johann Friedrich Rhaetius jun.", "descendants": 0, "year": 1622, "country": "Germany"}], "edges": [{"from": 0, "to": 1}]}

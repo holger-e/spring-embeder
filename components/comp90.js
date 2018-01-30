@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Magnus Georg von Paucker", "descendants": 0, "year": 1813, "country": "Estonia"}, {"name": "Sigismund Gottfried Huth", "descendants": 1, "year": 1788, "country": "Estonia"}], "edges": [{"from": 1, "to": 0}]}

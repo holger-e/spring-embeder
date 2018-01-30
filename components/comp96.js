@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Georg Pötzinger", "descendants": 0, "year": 1720, "country": "Germany"}, {"name": "Friedrich Wilhelm Stübner", "descendants": 2, "year": 1702, "country": "Germany"}, {"name": "Georg Friedrich Behrmann", "descendants": 0, "year": 1733, "country": "Germany"}], "edges": [{"from": 1, "to": 0}, {"from": 1, "to": 2}]}

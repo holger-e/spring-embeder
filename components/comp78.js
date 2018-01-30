@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Ludwig Joseph Brentano", "descendants": 493, "year": 1867, "country": "Germany"}, {"name": "Heinrich Herkner", "descendants": 1, "year": 1886, "country": "Germany"}, {"name": "Johann Alphons Renatus von Helferich", "descendants": 494, "year": 1842, "country": "Germany"}], "edges": [{"from": 0, "to": 1}, {"from": 2, "to": 0}]}

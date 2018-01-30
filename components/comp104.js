@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Georg Paul Jenisch", "descendants": 0, "year": 1654, "country": "Germany"}, {"name": "Johann Rudolph Saltzmann", "descendants": 1, "year": 1629, "country": "Germany"}], "edges": [{"from": 1, "to": 0}]}

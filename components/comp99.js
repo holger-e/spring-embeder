@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Kaarle Krohn", "descendants": 6, "year": 1888, "country": "Finland"}, {"name": "Julius Krohn", "descendants": 7, "year": 1862, "country": "Finland"}, {"name": "Elias Lönnrot", "descendants": 8, "year": 1837, "country": "Finland"}], "edges": [{"from": 1, "to": 0}, {"from": 2, "to": 1}]}

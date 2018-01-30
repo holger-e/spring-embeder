@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Joseph V. Collins", "descendants": 0, "year": 1886, "country": "UnitedStates"}, {"name": "Samuel J. Kirkwood", "descendants": 1, "year": 1861, "country": "UnitedStates"}], "edges": [{"from": 1, "to": 0}]}

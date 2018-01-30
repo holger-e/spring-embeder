@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Johannes Adolf Siebenhaar", "descendants": 0, "year": 1745, "country": "Germany"}, {"name": "Gottlob Heinrich Richter", "descendants": 1, "year": 1724, "country": "Germany"}, {"name": "Gottlieb Stolle", "descendants": 2, "year": 1699, "country": "Germany"}], "edges": [{"from": 1, "to": 0}, {"from": 2, "to": 1}]}

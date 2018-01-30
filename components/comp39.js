@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Arthur Joachim von Oettingen", "descendants": 0, "year": 1865, "country": "Estonia"}, {"name": "Friedrich Ludwig Kämtz", "descendants": 1, "year": 1840, "country": "Estonia"}], "edges": [{"from": 1, "to": 0}]}

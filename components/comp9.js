@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Johannes Hjelmslev", "descendants": 1, "year": 1897, "country": "Denmark"}, {"name": "Kristian Frederik Vilhelm Kroman", "descendants": 2, "year": 1872, "country": "Denmark"}], "edges": [{"from": 1, "to": 0}]}

@@ -1,0 +1,1 @@
+{"vertices": [{"name": "Alois Riehl", "descendants": 1207, "year": 1860, "country": "Germany"}, {"name": "Paul Hensel", "descendants": 108, "year": 1885, "country": "Germany"}], "edges": [{"from": 0, "to": 1}]}
