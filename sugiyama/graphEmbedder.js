@@ -75,6 +75,7 @@ class GraphEmbedder {
              y >= v.y && y <= v.y + v.height;
     });
     if (target !== undefined) {
+      console.log("Select", target);
       this._setTarget(x, y, target);
     }
   }

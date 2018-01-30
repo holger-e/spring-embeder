@@ -16,8 +16,8 @@
     </style>
     <script>
       const CANVAS_ID = "canvas";
-      const CANVAS_WIDTH = 500;
-      const CANVAS_HEIGHT = 500;
+      const CANVAS_WIDTH = 1000;
+      const CANVAS_HEIGHT = 800;
 
       window.addEventListener("load", function() {
         // Gets canvas and context.
@@ -39,12 +39,17 @@
         embedder.addVertex(vert2);
         embedder.addVertex(vert3);
 
+        let dummy1 = new DummyVertex(100, 300);
+        embedder.addVertex(dummy1);
+
         let edge1 = new Edge(vert1, vert2);
         let edge2 = new Edge(vert1, vert3);
-        let edge3 = new Edge(vert2, vert3);
+        let edge3 = new Edge(vert2, dummy1);
+        let edge4 = new Edge(dummy1, vert3);
         embedder.addEdge(edge1);
         embedder.addEdge(edge2);
         embedder.addEdge(edge3);
+        embedder.addEdge(edge4);
 
         // Rendering loop.
         function draw() {
@@ -69,6 +74,7 @@
       <button onclick="exportImage()">Export</button>
     </div>
     <script src="vertex.js"></script>
+    <script src="dummyVertex.js"></script>
     <script src="edge.js"></script>
     <script src="graphEmbedder.js"></script>
   </body>

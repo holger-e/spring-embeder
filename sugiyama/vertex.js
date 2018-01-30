@@ -1,4 +1,4 @@
-const MAX_WIDTH = 150;
+const MAX_WIDTH = 200;
 const LINE_HEIGHT = 15;
 const FONT_SIZE = 12;
 
