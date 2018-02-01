@@ -1,9 +1,0 @@
-3 2
-Georg Wolfgang Krafft
-0
-Johann Michael Hallwachs
-1
-Christoph Friedrich Gross
-2
-1 0 1725 Germany
-2 1 1725 Germany

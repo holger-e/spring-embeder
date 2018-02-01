@@ -1,0 +1,1 @@
+const COMP_54 = {"vertices": [{"name": "Martinus Antonius del Rio", "descendants": 1, "year": 1572, "country": "France"}, {"name": "Johannes (Jan van Ostaeyen) Stadius", "descendants": 2, "year": 1547, "country": "France"}], "edges": [{"from": 1, "to": 0}]};

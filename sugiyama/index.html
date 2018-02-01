@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta charset="utf-8">
     <title>Graph Drawing Challenge 2018</title>
     <style>
       html, body {
@@ -16,8 +17,8 @@
     </style>
     <script>
       const CANVAS_ID = "canvas";
-      const CANVAS_WIDTH = 500;
-      const CANVAS_HEIGHT = 500;
+      const CANVAS_WIDTH = 1000;
+      const CANVAS_HEIGHT = 800;
 
       window.addEventListener("load", function() {
         // Gets canvas and context.
@@ -31,18 +32,11 @@
 
         // Initializes embedder.
         let embedder = new GraphEmbedder(ctx);
-
-        let vert1 = new Vertex("Paul Jungeblut", 100, 100, 50, 10);
-        let vert2 = new Vertex("Holger Ebhart", 200, 200, 60, 20);
-        embedder.addVertex(vert1);
-        embedder.addVertex(vert2);
-
-        let edge1 = new Edge(vert1, vert2);
-        embedder.addEdge(edge1);
+        let sugiyama = new Sugiyama(embedder, COMP_71);
 
         // Rendering loop.
         function draw() {
-          embedder.draw();
+          sugiyama.draw();
           window.requestAnimationFrame(draw);
         }
         window.requestAnimationFrame(draw);
@@ -62,8 +56,11 @@
     <div id="exportBox">
       <button onclick="exportImage()">Export</button>
     </div>
+    <script src="../components/comp71.js"></script>
     <script src="vertex.js"></script>
+    <script src="dummyVertex.js"></script>
     <script src="edge.js"></script>
     <script src="graphEmbedder.js"></script>
+    <script src="sugiyama.js"></script>
   </body>
 </html>

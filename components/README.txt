@@ -1,16 +1,17 @@
-Format ist jeweils:
-N M // #Knoten #Kanten
-Name 0
-Descendants 0
-Name 1
-Descendants 1
-.
-.
-.
-Name N-1
-Descendants N-1
-Advisor Advisee Jahr Land(optional) // Kante 0
-.
-.
-.
-Advisor Advisee Jahr Land(optional) // Kante M-1
+n m
+Index1
+Name1
+Descendants1
+Jahr1
+Land1
+...
+IndexN
+NameN
+DescendantsN
+JahrN
+LandN
+Kinder1 Kind1 Kind2 Kind3 ...
+Kinder2 Kind1
+Kinder3 Kind1 ...
+...
+KinderM

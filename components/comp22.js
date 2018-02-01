@@ -1,0 +1,1 @@
+const COMP_22 = {"vertices": [{"name": "Friedrich Wilhelm Franz Meyer", "descendants": 344, "year": 1873, "country": "Germany"}, {"name": "Emil Adalbert Müller", "descendants": 22, "year": 1898, "country": "Germany"}], "edges": [{"from": 0, "to": 1}]};

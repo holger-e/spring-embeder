@@ -1,9 +1,0 @@
-3 2
-Johannes Adolf Siebenhaar
-0
-Gottlob Heinrich Richter
-1
-Gottlieb Stolle
-2
-1 0 1745 Germany
-2 1 1724 Germany

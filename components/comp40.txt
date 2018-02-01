@@ -1,9 +1,0 @@
-3 2
-Philipp Johann Gustav von Jolly
-1
-Philipp Franz Heinrich Carl
-0
-Johann von Lamont
-1
-0 1 1860 Germany
-2 1 1860 Germany

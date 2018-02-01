@@ -1,0 +1,1 @@
+const COMP_94 = {"vertices": [{"name": "Sylvio Ferraz-Mello", "descendants": 5, "year": 1753, "country": "Brazil"}, {"name": "Rodolpho Vilhena de Moraes", "descendants": 0, "year": 1778, "country": "Brazil"}], "edges": [{"from": 0, "to": 1}]};

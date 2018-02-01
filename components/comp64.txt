@@ -1,9 +1,0 @@
-3 2
-Johann Maukisch
-1
-Simon Löffler
-0
-Ananias Weber
-2
-0 1 1645 Germany
-2 0 1642 Germany

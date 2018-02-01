@@ -1,0 +1,1 @@
+const COMP_37 = {"vertices": [{"name": "Franciszek Karliński", "descendants": 2, "year": 1850, "country": "Poland"}, {"name": "Julian Zgorzalewicz", "descendants": 0, "year": 1867, "country": "Poland"}, {"name": "Władysław Kretkowski", "descendants": 0, "year": 1882, "country": "Poland"}], "edges": [{"from": 0, "to": 1}, {"from": 0, "to": 2}]};

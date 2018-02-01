@@ -1,9 +1,0 @@
-3 2
-Hermann Eduard von Holst
-483
-Albert Bushnell Hart
-482
-Ludwig Häusser
-484
-0 1 1885 Germany
-2 0 1865 Germany

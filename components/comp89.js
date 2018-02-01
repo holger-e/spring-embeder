@@ -1,0 +1,1 @@
+const COMP_89 = {"vertices": [{"name": "Johann Leonhard Jacobäus", "descendants": 0, "year": 1682, "country": "Germany"}, {"name": "Johannes Georg Meisner", "descendants": 1, "year": 1657, "country": "Germany"}], "edges": [{"from": 1, "to": 0}]};

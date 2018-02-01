@@ -5,12 +5,17 @@ class Edge {
   }
 
   draw(ctx) {
-    let from = this._from.center;
-    let to = this._to.center;
+    let from = this._from.getDimensions(ctx);
+    let to = this._to.getDimensions(ctx);
+
+    let fromX = this._from.x + Math.round(from.width / 2);
+    let fromY = this._from.y + Math.round(from.height / 2);
+    let toX = this._to.x + Math.round(to.width / 2);
+    let toY = this._to.y + Math.round(to.height / 2);
 
     ctx.beginPath();
-    ctx.moveTo(from.x, from.y);
-    ctx.lineTo(to.x, to.y)
+    ctx.moveTo(fromX, fromY);
+    ctx.lineTo(toX, toY)
     ctx.closePath();
     ctx.stroke();
   }

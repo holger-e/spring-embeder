@@ -1,0 +1,1 @@
+const COMP_45 = {"vertices": [{"name": "Julius Scheiner", "descendants": 0, "year": 1882, "country": "Germany"}, {"name": "Heinrich Karl Friedrich Kreutz", "descendants": 0, "year": 1880, "country": "Germany"}, {"name": "Eduard Schönfeld", "descendants": 2, "year": 1856, "country": "Germany"}], "edges": [{"from": 2, "to": 1}, {"from": 2, "to": 0}]};

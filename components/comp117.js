@@ -1,0 +1,1 @@
+const COMP_117 = {"vertices": [{"name": "Edmund Beecher Wilson", "descendants": 60, "year": 1881, "country": "UnitedStates"}, {"name": "William Keith Brooks", "descendants": 61, "year": 1856, "country": "UnitedStates"}], "edges": [{"from": 1, "to": 0}]};

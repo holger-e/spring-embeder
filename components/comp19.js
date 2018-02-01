@@ -1,0 +1,1 @@
+const COMP_19 = {"vertices": [{"name": "Johannes Friedrich Seiler", "descendants": 0, "year": 1757, "country": "Germany"}, {"name": "Johannes Ernst Basilius Wideburg", "descendants": 2, "year": 1736, "country": "Germany"}, {"name": "Johannes Lorenz Böckmann", "descendants": 0, "year": 1764, "country": "Germany"}], "edges": [{"from": 1, "to": 0}, {"from": 1, "to": 2}]};

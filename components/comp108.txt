@@ -1,9 +1,0 @@
-3 2
-Johannes Wilhelm Heyl
-1
-Christian Pescheck
-0
-Johann Boecler
-2
-0 1 1699 Germany
-2 0 1716 Germany

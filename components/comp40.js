@@ -1,0 +1,1 @@
+const COMP_40 = {"vertices": [{"name": "Philipp Johann Gustav von Jolly", "descendants": 1, "year": 1835, "country": "Germany"}, {"name": "Philipp Franz Heinrich Carl", "descendants": 0, "year": 1860, "country": "Germany"}, {"name": "Johann von Lamont", "descendants": 1, "year": 1835, "country": "Germany"}], "edges": [{"from": 0, "to": 1}, {"from": 2, "to": 1}]};

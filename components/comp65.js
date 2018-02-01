@@ -1,0 +1,1 @@
+const COMP_65 = {"vertices": [{"name": "Enno Dirk Wiersma", "descendants": 1, "year": 1886, "country": "Netherlands"}, {"name": "Hendrik Albert Kooyker", "descendants": 2, "year": 1861, "country": "Netherlands"}], "edges": [{"from": 1, "to": 0}]};

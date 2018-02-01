@@ -1,0 +1,1 @@
+const COMP_115 = {"vertices": [{"name": "Johann Paul Gumprecht", "descendants": 1, "year": 1698, "country": "Germany"}, {"name": "Johann Heinrich Winkler", "descendants": 0, "year": 1724, "country": "Germany"}, {"name": "Andreas Christoph Calvisius", "descendants": 2, "year": 1673, "country": "Germany"}], "edges": [{"from": 0, "to": 1}, {"from": 2, "to": 0}]};

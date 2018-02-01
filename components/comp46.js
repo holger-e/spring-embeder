@@ -1,0 +1,1 @@
+const COMP_46 = {"vertices": [{"name": "Robert Andrews Millikan", "descendants": 370, "year": 1895, "country": "UnitedStates"}, {"name": "Albert Abraham Michelson", "descendants": 377, "year": 1870, "country": "UnitedStates"}, {"name": "Ogden Rood", "descendants": 371, "year": 1870, "country": "UnitedStates"}], "edges": [{"from": 1, "to": 0}, {"from": 2, "to": 0}]};

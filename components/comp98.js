@@ -1,0 +1,1 @@
+const COMP_98 = {"vertices": [{"name": "Georg Gottlieb Haubold", "descendants": 0, "year": 1748, "country": "Germany"}, {"name": "Christian Friedrich Berringer", "descendants": 1, "year": 1723, "country": "Germany"}], "edges": [{"from": 1, "to": 0}]};
