@@ -1,0 +1,139 @@
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Someone has two countries.
+Countries:
+Austria: 68
+Belgium: 21
+CzechRepublic: 11
+Denmark: 2
+Estonia: 1
+Finland: 4
+France: 102
+Germany: 1277
+Greece: 3
+Italy: 45
+Netherlands: 435
+Norway: 2
+Poland: 6
+Russia: 9
+Sweden: 26
+Switzerland: 45
+Ukraine: 2
+UnitedKingdom: 14
+UnitedStates: 114
+empty: 13
+
+Edges in country graph:
+empty --> UnitedStates
+empty --> Germany
+empty --> Switzerland
+empty --> Russia
+empty --> Netherlands
+empty --> Austria
+empty --> CzechRepublic
+empty --> France
+empty --> Italy
+empty --> Poland
+empty --> Norway
+empty --> Belgium
+empty --> UnitedKingdom
+empty --> Greece
+UnitedStates --> empty
+Germany --> empty
+Germany --> UnitedStates
+Germany --> Switzerland
+Germany --> Russia
+Germany --> Netherlands
+Germany --> Finland
+Germany --> Ukraine
+Germany --> Austria
+Germany --> France
+Germany --> Sweden
+Germany --> Italy
+Germany --> Poland
+Germany --> Belgium
+Germany --> UnitedKingdom
+Germany --> Denmark
+Germany --> Estonia
+Switzerland --> Germany
+Switzerland --> Netherlands
+Netherlands --> empty
+Netherlands --> Germany
+Netherlands --> Switzerland
+Netherlands --> Austria
+Netherlands --> France
+Netherlands --> Sweden
+Netherlands --> Italy
+Netherlands --> Belgium
+Netherlands --> UnitedKingdom
+Ukraine --> Russia
+Austria --> UnitedStates
+Austria --> Germany
+Austria --> CzechRepublic
+Austria --> Italy
+CzechRepublic --> empty
+CzechRepublic --> Austria
+France --> empty
+France --> UnitedStates
+France --> Germany
+France --> Switzerland
+France --> Russia
+France --> Netherlands
+France --> Ukraine
+France --> Austria
+France --> Italy
+France --> Belgium
+Sweden --> UnitedStates
+Sweden --> Germany
+Sweden --> Finland
+Italy --> empty
+Italy --> Germany
+Italy --> Switzerland
+Italy --> Netherlands
+Italy --> France
+Italy --> Poland
+Italy --> Belgium
+Italy --> Greece
+Poland --> Germany
+Norway --> Germany
+Norway --> France
+Belgium --> Germany
+Belgium --> Netherlands
+Belgium --> France
+Belgium --> Italy
+Belgium --> UnitedKingdom
+UnitedKingdom --> empty
+UnitedKingdom --> UnitedStates
+UnitedKingdom --> Germany
+UnitedKingdom --> Netherlands
+UnitedKingdom --> Italy
+Denmark --> Germany
+Denmark --> Netherlands
+Greece --> Germany
+Greece --> Italy
+Estonia --> Germany

@@ -13,7 +13,7 @@ function setUp(){
     w = canvas.width;
     h = canvas.height;
     
-    readInputFile("test.txt");
+    parseInput();
     
     rand_input();
     
@@ -21,7 +21,6 @@ function setUp(){
     //spring_embeder();
 }
 
-var n = 5;
 var vertices = [];// = [0,2,4,5,7,7];
 var positions = [];// = [new Victor(0,0),new Victor(0,-100),new Victor(100,100),new Victor(100,0), new Victor(50,50)];
 var edges = [];// = [1,2,3,3,0,0,1];
@@ -54,8 +53,9 @@ function draw(){
     // calculate absolute positions
     for (var i = 0; i < n; ++i){
         positions[i] = new Victor(Math.abs( (positions[i].x - min_x) * steps_x + w * offset * 0.5), Math.abs( (max_y - positions[i].y) * steps_y + h * offset * 0.5 ));
+
         // draw vertices
-        draw_circle(positions[i].x, positions[i].y);
+        draw_circle(positions[i].x, positions[i].y, String(map_inv[i]));
     }
 
     for (var i = 0; i < n; ++i){  
@@ -102,7 +102,7 @@ function draw_arrow(from, to){
     ctx.stroke();
 }
 
-function draw_circle(x,y){
+function draw_circle(x,y, vertex_name){
     ctx.beginPath();
     ctx.arc(x, y, 8, 0, 2 * Math.PI, false);
     ctx.fillStyle = 'black';
@@ -110,12 +110,13 @@ function draw_circle(x,y){
     ctx.lineWidth = 3;
     ctx.fill();
     ctx.stroke();
+    ctx.fillText(vertex_name,x-20,y+15);
 }
 
 var c_rep = 1;
 var c_spring = 2;
 var l = 1; // spring length
-var max_iterations = 1;
+var max_iterations = 1000;
 var eps = 0.05;
 var change_weight = 1;
 var delta_weight = new Victor(change_weight, change_weight);
@@ -202,34 +203,45 @@ function rand_input(){
 
 
 
+var map = {};
+var map_inv = [];
 
-function readInputFile(file)
+function parseInput()
 {
-    var rawFile = new XMLHttpRequest();
-    rawFile.open("GET", file, false);
-    rawFile.onreadystatechange = function ()
-    {
-        if(rawFile.readyState === 4)
-        {
-            if(rawFile.status === 200 || rawFile.status == 0)
-            {
-                var input = rawFile.responseText;
-                var lines = input.split("\n");
-                n = parseInt(lines[0]);
-                var m = parseInt(lines[1]);
-                var j = -1;
-                for (i=2; i < m + 2; ++i){
-                    var edge = lines[i].split(" ");
-                    while(parseInt(edge[0]) != j){
-                        j++;
-                        vertices.push(i-2);
-                    }
-                    edges.push(parseInt(edge[1]));
-                    //alert(lines[i]);
-                }
-                vertices.push(m);
-            }
-        }
+    var vertex_num = 0;
+    var temp_edge_count = [];
+    for (var i = 0;i < n; ++i){
+        map[vertices_orig[i]] = vertex_num++;
+        map_inv.push(String(vertices_orig[i]));
     }
-    rawFile.send(null);
+    
+    var count = 0;
+    var temp_edges = [];
+    var last_vert = 0;
+    var vertex_num = 0;
+    for (var i = 0; i < m; ++i){
+        var e = edges_orig[i].split(" --> ");
+        if (map[e[0]] != last_vert){
+            while (map[e[0]] - last_vert > 1){
+                vertices.push(count);
+                last_vert++;
+            }
+            last_vert = map[e[0]];
+            temp_edges.sort();
+            for (let x of temp_edges){
+                edges.push(x);
+            }
+            temp_edges = [];
+            vertices.push(count);
+        }
+        count++;
+        temp_edges.push(map[e[1]]);
+    }
+    
+    // finish vertex array
+    vertices.push(m);
+    
+    console.log(vertices);
+    console.log(edges);
+    
 }
