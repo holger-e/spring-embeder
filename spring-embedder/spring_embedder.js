@@ -21,6 +21,7 @@ function setUp(){
     //spring_embeder();
 }
 
+var degree = [];
 var vertices = [];// = [0,2,4,5,7,7];
 var positions = [];// = [new Victor(0,0),new Victor(0,-100),new Victor(100,100),new Victor(100,0), new Victor(50,50)];
 var edges = [];// = [1,2,3,3,0,0,1];
@@ -110,10 +111,10 @@ function draw_circle(x,y, vertex_name){
     ctx.lineWidth = 3;
     ctx.fill();
     ctx.stroke();
-    ctx.fillText(vertex_name,x-20,y+15);
+    ctx.fillText(vertex_name,x-20,y+18);
 }
 
-var c_rep = 1;
+var c_rep = 1000;
 var c_spring = 2;
 var l = 1; // spring length
 var max_iterations = 1000;
@@ -137,10 +138,12 @@ function embed(){
             // add new position
             changeVec.push(change.clone());
         }
+        var w = change_weight;//(1/Math.log(iterations)) * change_weight;
         // set new positions / create new layout
         for (var i = 0; i < n; ++i){
             // set new position
-            changeVec[i].multiply(delta_weight);
+            var w_vertex = w * (1.0/degree[i]);
+            changeVec[i].multiply(new Victor(w_vertex, w_vertex));
             positions[i].add(changeVec[i]);
         }
         
@@ -213,6 +216,7 @@ function parseInput()
     for (var i = 0;i < n; ++i){
         map[vertices_orig[i]] = vertex_num++;
         map_inv.push(String(vertices_orig[i]));
+        degree.push(0);
     }
     
     var count = 0;
@@ -221,12 +225,14 @@ function parseInput()
     var vertex_num = 0;
     for (var i = 0; i < m; ++i){
         var e = edges_orig[i].split(" --> ");
-        if (map[e[0]] != last_vert){
-            while (map[e[0]] - last_vert > 1){
+        var from = map[e[0]];
+        var to = map[e[1]];
+        if (from != last_vert){
+            while (from - last_vert > 1){
                 vertices.push(count);
                 last_vert++;
             }
-            last_vert = map[e[0]];
+            last_vert = from;
             temp_edges.sort();
             for (let x of temp_edges){
                 edges.push(x);
@@ -235,7 +241,9 @@ function parseInput()
             vertices.push(count);
         }
         count++;
-        temp_edges.push(map[e[1]]);
+        temp_edges.push(to);
+        degree[from]++;
+        degree[to]++;
     }
     
     // finish vertex array
