@@ -17,8 +17,8 @@
     </style>
     <script>
       const CANVAS_ID = "canvas";
-      const CANVAS_WIDTH = 1000;
-      const CANVAS_HEIGHT = 800;
+      const CANVAS_WIDTH = 1500;
+      const CANVAS_HEIGHT = 12000;
 
       window.addEventListener("load", function() {
         // Gets canvas and context.
@@ -32,12 +32,12 @@
 
         // Initializes embedder.
         let embedder = new GraphEmbedder(ctx);
-        let sugiyama = new Sugiyama(embedder, COMP_71);
+        let sugiyama = new Sugiyama(embedder, COMP_0);
 
         // Rendering loop.
         function draw() {
           sugiyama.draw();
-          window.requestAnimationFrame(draw);
+          //window.requestAnimationFrame(draw);
         }
         window.requestAnimationFrame(draw);
       });
@@ -56,6 +56,9 @@
     <div id="exportBox">
       <button onclick="exportImage()">Export</button>
     </div>
+    <script src="../numeric/numeric.js"></script>
+    <script src="../components/comp0.js"></script>
+    <script src="../components/comp1.js"></script>
     <script src="../components/comp71.js"></script>
     <script src="vertex.js"></script>
     <script src="dummyVertex.js"></script>

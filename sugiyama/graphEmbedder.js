@@ -64,7 +64,9 @@ class GraphEmbedder {
     let maxx = this._ctx.canvas.width - this._dragDropTarget.width;
     let maxy = this._ctx.canvas.height - this._dragDropTarget.height;
     this._dragDropTarget.x = Math.max(0, Math.min(x, maxx));
-    this._dragDropTarget.y = Math.max(0, Math.min(y, maxy));
+
+    // Deactivated. Only left/right dragging is allowed.
+    // this._dragDropTarget.y = Math.max(0, Math.min(y, maxy));
   }
 
   _setTarget(x, y, target) {

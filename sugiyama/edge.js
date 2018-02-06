@@ -4,6 +4,14 @@ class Edge {
     this._to = to;
   }
 
+  get from() {
+    return this._from;
+  }
+
+  get to() {
+    return this._to;
+  }
+
   draw(ctx) {
     let from = this._from.getDimensions(ctx);
     let to = this._to.getDimensions(ctx);
