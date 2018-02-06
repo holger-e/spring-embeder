@@ -1,0 +1,655 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" version="1.1" baseProfile="full" viewBox="-43 -2 1367 2311.08">
+	<g>
+		<g>
+			<path fill="none" d=" M244.75,11.5 L244.75,64.5" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M244.75,64.5 L244.75,117.5" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M244.75,117.5 L244.75,170.5" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M244.75,170.5 L244.75,223.5" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M244.75,223.5 L153,277.083" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M244.75,223.5 L336.5,277.083" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M336.5,277.083 L336.5,330.083" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M336.5,330.083 L383.75,383.083" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M336.5,330.083 L292,436.083" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M383.75,383.083 L516,489.083" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M292,436.083 L237,489.083" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M237,489.083 L376.5,660.417" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M516,489.083 L376.5,660.417" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M516,489.083 L961,660.417" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M376.5,660.417 L376.5,713.417" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M376.5,713.417 L376.5,766.417" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M153,277.083 L153,330.083 M153,330.083 L153,660.417 M153,660.417 L153,766.417" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M237,489.083 L178,660.417 M178,660.417 L153,766.417" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M376.5,713.417 L438,819.417" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M153,766.417 L153,872.417" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M153,872.417 L237,933.583" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M237,489.083 L237,660.417 M237,660.417 L237,819.417 M237,819.417 L237,933.583" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M438,819.417 L237,933.583" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M438,819.417 L438,872.417 M438,872.417 L438,986.583" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M438,986.583 L237,1076.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M237,933.583 L237,1076.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M376.5,766.417 L376.5,819.417 M376.5,819.417 L376.5,986.583 M376.5,986.583 L376.5,1129.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M376.5,1129.58 L87.5,1248.92" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M153,872.417 L87.5,933.583 M87.5,933.583 L87.5,1076.58 M87.5,1076.58 L87.5,1248.92" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M438,986.583 L462,1076.58 M462,1076.58 L462,1248.92" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M462,1248.92 L604.833,1366.86" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M87.5,1248.92 L0,1301.92 M0,1301.92 L0,1445.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M604.833,1366.86 L563.5,1445.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M237,1076.58 L232,1129.58 M232,1129.58 L232,1301.92" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M87.5,1248.92 L87.5,1301.92 M87.5,1301.92 L87.5,1366.86 M87.5,1366.86 L87.5,1513.25" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M563.5,1445.58 L563.5,1513.25" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M563.5,1445.58 L697.5,1513.25" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1103.25,1445.58 L1068.5,1513.25" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1033.75,872.417 L1033.75,933.583 M1033.75,933.583 L1033.75,1366.86 M1033.75,1366.86 L1068.5,1513.25" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M697.5,1513.25 L648,1566.25" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M648,1566.25 L546.5,1667.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M563.5,1445.58 L479,1513.25 M479,1513.25 L546.5,1667.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M648,1566.25 L883,1720.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M376.5,1129.58 L376.5,1248.92 M376.5,1248.92 L376.5,1667.58 M376.5,1667.58 L376.5,1773.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M648,1566.25 L648,1667.58 M648,1667.58 L648,1773.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M604.833,1366.86 L772,1445.58 M772,1445.58 L772,1667.58 M772,1667.58 L772,1773.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M546.5,1667.58 L546.5,1720.58 M546.5,1720.58 L546.5,1871.75" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M772,1773.58 L546.5,1871.75" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M546.5,1871.75 L546.5,1924.75" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M883,1720.58 L883,1773.58 M883,1773.58 L883,1924.75" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M772,1773.58 L883,1924.75" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M772,1773.58 L712.5,1924.75" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M546.5,1924.75 L653,2030.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M653,2030.58 L701.5,2083.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M712.5,1924.75 L961,2030.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M961,660.417 L961,713.417 M961,713.417 L961,1871.75 M961,1871.75 L961,2030.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M961,2030.58 L961,2136.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M712.5,1924.75 L701.5,2083.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M712.5,1924.75 L836,2083.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M883,1924.75 L836,2083.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M546.5,1924.75 L571.5,2083.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M712.5,1924.75 L571.5,2083.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M87.5,1513.25 L87.5,1566.25 M87.5,1566.25 L87.5,2083.58 M87.5,2083.58 L87.5,2189.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M0,1445.58 L0,1513.25 M0,1513.25 L0,2136.58 M0,2136.58 L0,2242.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M571.5,2083.58 L571.5,2136.58 M571.5,2136.58 L571.5,2242.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M836,2083.58 L836,2136.58 M836,2136.58 L836,2189.58 M836,2189.58 L836,2295.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M701.5,2083.58 L701.5,2136.58 M701.5,2136.58 L701.5,2189.58 M701.5,2189.58 L701.5,2295.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M462,1248.92 L454,1301.92 M454,1301.92 L454,2083.58 M454,2083.58 L454,2189.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1209.5,1129.58 L1209.5,1248.92 M1209.5,1248.92 L1209.5,2189.58 M1209.5,2189.58 L1209.5,2295.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1068.5,1513.25 L1068.5,1566.25 M1068.5,1566.25 L1068.5,2189.58 M1068.5,2189.58 L1068.5,2295.58" stroke="#000000" stroke-width="2.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,11.5 L1300.5,64.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,64.5 L1300.5,117.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,117.5 L1300.5,170.5" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,170.5 L1300.5,277.083" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,277.083 L1300.5,330.083" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,330.083 L1300.5,383.083" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,383.083 L1300.5,436.083" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,436.083 L1300.5,660.417" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,660.417 L1300.5,713.417" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,713.417 L1300.5,766.417" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,766.417 L1300.5,872.417" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,872.417 L1300.5,933.583" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,933.583 L1300.5,986.583" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,986.583 L1300.5,1129.58" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,1129.58 L1300.5,1248.92" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,1248.92 L1300.5,1301.92" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,1301.92 L1300.5,1366.86" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,1366.86 L1300.5,1445.58" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,1445.58 L1300.5,1513.25" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,1513.25 L1300.5,1667.58" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,1667.58 L1300.5,1773.58" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,1773.58 L1300.5,1924.75" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,1924.75 L1300.5,2030.58" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,2030.58 L1300.5,2083.58" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,2083.58 L1300.5,2136.58" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,2136.58 L1300.5,2189.58" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,2189.58 L1300.5,2242.58" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+		<g>
+			<path fill="none" d=" M1300.5,2242.58 L1300.5,2295.58" stroke="#000000" stroke-width="1.000000px" />
+		</g>
+	</g>
+	<g>
+		<rect x="196.74999999999994" y="0" width="96" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="244.74999999999994" y="11.5" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">UNIX-PDP7</text>
+	</g>
+	<g>
+		<rect x="130.74999999999994" y="53" width="228" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="244.74999999999994" y="64.5" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Unix Time Sharing System 1</text>
+	</g>
+	<g>
+		<rect x="130.74999999999994" y="106" width="228" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="244.74999999999994" y="117.5" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Unix Time Sharing System 2</text>
+	</g>
+	<g>
+		<rect x="130.74999999999994" y="159" width="228" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="244.74999999999994" y="170.5" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Unix Time Sharing System 3</text>
+	</g>
+	<g>
+		<rect x="130.74999999999994" y="212" width="228" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="244.74999999999994" y="223.5" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Unix Time Sharing System 4</text>
+	</g>
+	<g>
+		<rect x="108.5" y="265.58333333333337" width="89" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="153" y="277.08333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">PWB/UNIX</text>
+	</g>
+	<g>
+		<rect x="222.5" y="265.58333333333337" width="228" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="336.5" y="277.08333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Unix Time Sharing System 5</text>
+	</g>
+	<g>
+		<rect x="222.5" y="318.58333333333337" width="228" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="336.5" y="330.08333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Unix Time Sharing System 6</text>
+	</g>
+	<g>
+		<rect x="359.25" y="371.58333333333337" width="49" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="383.75" y="383.08333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1BSD</text>
+	</g>
+	<g>
+		<rect x="178" y="424.58333333333337" width="228" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="292" y="436.08333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Unix Time Sharing System 7</text>
+	</g>
+	<g>
+		<rect x="200" y="477.58333333333337" width="74" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="237" y="489.08333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">UNIX32V</text>
+	</g>
+	<g>
+		<rect x="491.5" y="477.58333333333337" width="49" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="516" y="489.08333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2BSD</text>
+	</g>
+	<g>
+		<rect x="352" y="648.91666666666674" width="49" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="376.5" y="660.41666666666674" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">3BSD</text>
+	</g>
+	<g>
+		<rect x="924" y="648.91666666666674" width="74" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="961" y="660.41666666666674" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2.79BSD</text>
+	</g>
+	<g>
+		<rect x="344.5" y="701.91666666666674" width="64" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="376.5" y="713.41666666666674" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4.1BSD</text>
+	</g>
+	<g>
+		<rect x="94" y="754.91666666666674" width="118" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="153" y="766.41666666666674" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Unix System III</text>
+	</g>
+	<g>
+		<rect x="329" y="754.91666666666674" width="95" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="376.5" y="766.41666666666674" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Sun OS 1.0</text>
+	</g>
+	<g>
+		<rect x="401.5" y="807.91666666666674" width="73" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="438" y="819.41666666666674" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4.1cBSD</text>
+	</g>
+	<g>
+		<rect x="94.5" y="860.91666666666674" width="117" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="153" y="872.41666666666674" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Unix System V</text>
+	</g>
+	<g>
+		<rect x="1012.75" y="860.91666666666674" width="42" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="1033.75" y="872.41666666666674" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">GNU</text>
+	</g>
+	<g>
+		<rect x="122.5" y="922.08333333333337" width="229" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="237" y="933.58333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Unix Time-Sharing System 8</text>
+	</g>
+	<g>
+		<rect x="406" y="975.08333333333337" width="64" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="438" y="986.58333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4.3BSD</text>
+	</g>
+	<g>
+		<rect x="122.5" y="1065.0833333333335" width="229" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="237" y="1076.5833333333335" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Unix Time-Sharing System 9</text>
+	</g>
+	<g>
+		<rect x="331.5" y="1118.0833333333335" width="90" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="376.5" y="1129.5833333333335" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">SunOS 3.2</text>
+	</g>
+	<g>
+		<rect x="1173" y="1118.0833333333335" width="73" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="1209.5" y="1129.5833333333335" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Minix 1.1</text>
+	</g>
+	<g>
+		<rect x="-17" y="1237.4166666666667" width="209" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="87.5" y="1248.9166666666667" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">UNIX System V Release 4</text>
+	</g>
+	<g>
+		<rect x="401.5" y="1237.4166666666667" width="121" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="462" y="1248.9166666666667" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4.3BSD Tahoe</text>
+	</g>
+	<g>
+		<rect x="112.5" y="1290.4166666666667" width="239" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="232" y="1301.9166666666667" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Unix Time-Sharing System 10</text>
+	</g>
+	<g>
+		<rect x="548.83333333333326" y="1355.3611111111111" width="112" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="604.83333333333326" y="1366.8611111111111" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4.3BSD Reno</text>
+	</g>
+	<g>
+		<rect x="-36" y="1434.0833333333333" width="72" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="0" y="1445.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Solaris 2</text>
+	</g>
+	<g>
+		<rect x="520" y="1434.0833333333333" width="87" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="563.5" y="1445.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">BSD Net/2</text>
+	</g>
+	<g>
+		<rect x="1058.75" y="1434.0833333333333" width="89" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="1103.25" y="1445.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Linux 0.0.1</text>
+	</g>
+	<g>
+		<rect x="32.5" y="1501.75" width="110" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="87.5" y="1513.25" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">UnixWare 1.0</text>
+	</g>
+	<g>
+		<rect x="504" y="1501.75" width="119" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="563.5" y="1513.25" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">BSD/386 0.3.1</text>
+	</g>
+	<g>
+		<rect x="648" y="1501.75" width="99" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="697.5" y="1513.25" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">386BSD 0.0</text>
+	</g>
+	<g>
+		<rect x="1024" y="1501.75" width="89" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="1068.5" y="1513.25" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">GNU/Linux</text>
+	</g>
+	<g>
+		<rect x="598.5" y="1554.75" width="99" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="648" y="1566.25" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">386BSD 0.1</text>
+	</g>
+	<g>
+		<rect x="498" y="1656.0833333333333" width="97" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="546.5" y="1667.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">NetBSD 0.8</text>
+	</g>
+	<g>
+		<rect x="830" y="1709.0833333333333" width="106" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="883" y="1720.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">FreeBSD 1.0</text>
+	</g>
+	<g>
+		<rect x="324" y="1762.0833333333333" width="105" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="376.5" y="1773.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">SunOS 4.1.4</text>
+	</g>
+	<g>
+		<rect x="598.5" y="1762.0833333333333" width="99" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="648" y="1773.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">386BSD 1.0</text>
+	</g>
+	<g>
+		<rect x="722.5" y="1762.0833333333333" width="99" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="772" y="1773.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4.4BSD-Lite</text>
+	</g>
+	<g>
+		<rect x="498" y="1860.25" width="97" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="546.5" y="1871.75" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">NetBSD 1.0</text>
+	</g>
+	<g>
+		<rect x="498" y="1913.25" width="97" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="546.5" y="1924.75" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">NetBSD 1.1</text>
+	</g>
+	<g>
+		<rect x="830" y="1913.25" width="106" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="883" y="1924.75" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">FreeBSD 2.0</text>
+	</g>
+	<g>
+		<rect x="620" y="1913.25" width="185" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="712.5" y="1924.75" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4.4BSD-Lite Release 2</text>
+	</g>
+	<g>
+		<rect x="596.5" y="2019.0833333333333" width="113" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="653" y="2030.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">OpenBSD 2.0</text>
+	</g>
+	<g>
+		<rect x="878.5" y="2019.0833333333333" width="165" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="961" y="2030.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2.11 BSD Patch 335</text>
+	</g>
+	<g>
+		<rect x="523" y="2072.083333333333" width="97" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="571.5" y="2083.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">NetBSD 1.3</text>
+	</g>
+	<g>
+		<rect x="783" y="2072.083333333333" width="106" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="836" y="2083.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">FreeBSD 3.0</text>
+	</g>
+	<g>
+		<rect x="645" y="2072.083333333333" width="113" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="701.5" y="2083.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">OpenBSD 2.3</text>
+	</g>
+	<g>
+		<rect x="878.5" y="2125.083333333333" width="165" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="961" y="2136.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2.11 BSD Patch 431</text>
+	</g>
+	<g>
+		<rect x="25" y="2178.083333333333" width="125" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="87.5" y="2189.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">UnixWare 7.1.4</text>
+	</g>
+	<g>
+		<rect x="361.5" y="2178.083333333333" width="185" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="454" y="2189.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">4.3 BSD-Quasijarus 0c</text>
+	</g>
+	<g>
+		<rect x="-41" y="2231.083333333333" width="82" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="0" y="2242.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Solaris 10</text>
+	</g>
+	<g>
+		<rect x="523" y="2231.083333333333" width="97" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="571.5" y="2242.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">NetBSD 3.0</text>
+	</g>
+	<g>
+		<rect x="783" y="2284.083333333333" width="106" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="836" y="2295.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">FreeBSD 6.1</text>
+	</g>
+	<g>
+		<rect x="645" y="2284.083333333333" width="113" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="701.5" y="2295.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">OpenBSD 3.9</text>
+	</g>
+	<g>
+		<rect x="1165.5" y="2284.083333333333" width="88" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="1209.5" y="2295.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">Minix 3.1.2</text>
+	</g>
+	<g>
+		<rect x="996.5" y="2284.083333333333" width="144" height="23" fill="#ADD8E6" stroke-width="2.000000px" stroke="#4682B4" />
+		<text x="1068.5" y="2295.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">GNU/Linux 2.6.16</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="0" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="11.5" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1969</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="53" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="64.5" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1971</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="106" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="117.5" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1972</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="159" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="170.5" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1973</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="265.58333333333337" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="277.08333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1974</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="318.58333333333337" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="330.08333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1975</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="371.58333333333337" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="383.08333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1978</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="424.58333333333337" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="436.08333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1979</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="648.91666666666674" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="660.41666666666674" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1980</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="701.91666666666674" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="713.41666666666674" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1981</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="754.91666666666674" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="766.41666666666674" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1982</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="860.91666666666674" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="872.41666666666674" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1983</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="922.08333333333337" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="933.58333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1985</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="975.08333333333337" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="986.58333333333337" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1986</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="1118.0833333333335" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="1129.5833333333335" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1987</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="1237.4166666666667" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="1248.9166666666667" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1988</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="1290.4166666666667" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="1301.9166666666667" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1989</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="1355.3611111111111" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="1366.8611111111111" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1990</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="1434.0833333333333" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="1445.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1991</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="1501.75" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="1513.25" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1992</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="1656.0833333333333" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="1667.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1993</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="1762.0833333333333" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="1773.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1994</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="1913.25" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="1924.75" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1995</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="2019.0833333333333" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="2030.5833333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1996</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="2072.083333333333" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="2083.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">1998</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="2125.083333333333" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="2136.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2000</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="2178.083333333333" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="2189.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2004</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="2231.083333333333" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="2242.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2005</text>
+	</g>
+	<g>
+		<rect x="1278.5" y="2284.083333333333" width="44" height="23" fill="#FFFFFF" stroke-width="1.000000px" stroke="#000000" />
+		<text x="1300.5" y="2295.583333333333" text-anchor="middle" dominant-baseline="middle" font-family="Arial" font-size="10" fill="#000000">2006</text>
+	</g>
+</svg>
