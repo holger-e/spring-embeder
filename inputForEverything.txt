@@ -1,0 +1,10 @@
+n m
+name1
+descendants1
+year1
+country1
+x1
+y1
+...
+from1 to1 #controlPoints=c x1 y1 .. xc yc
+...
