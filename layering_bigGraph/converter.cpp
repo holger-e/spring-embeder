@@ -61,7 +61,7 @@ int main(){
     int i = 0;
     for (node n : nodes){
         cout << "node [" << endl << "id " << i << endl << "template \"oreas:std:rect simple\"" << endl <<
-        "label \"" << n.name << " - " << n.country << " - " << n.descendants << "\"" << endl;
+        "label \"" << n.name << " / " << n.country << " / " << n.descendants << " / " << n.year << "\"" << endl;
         
         cout << "graphics [\nw 100.0\nh 23.0\nfill \"#add8e6\"\nline \"#4682b4\"\npattern \"1\"\nstipple 1\nlineWidth 2.0\nwidth 1.0\n]" << endl;
         cout << "]" << endl;

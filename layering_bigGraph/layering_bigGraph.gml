@@ -4,7 +4,7 @@ graph [
   node [
     id 0
     template "oreas:std:rect simple"
-    label "Paul Friedrich Biedermann / Germany / 0"
+    label "Paul Friedrich Biedermann / Germany / 0 / 1887"
     graphics [
       x 32137.50000
       y 11.50000000
@@ -21,7 +21,7 @@ graph [
   node [
     id 1
     template "oreas:std:rect simple"
-    label "Ernst Leonard Lindelöf / Finland / 2011"
+    label "Ernst Leonard Lindelöf / Finland / 2011 / 1893"
     graphics [
       x 48875.00000
       y 334.5000000
@@ -38,7 +38,7 @@ graph [
   node [
     id 2
     template "oreas:std:rect simple"
-    label "E. H. (Eliakim Hastings) Moore / UnitedStates / 22070"
+    label "E. H. (Eliakim Hastings) Moore / UnitedStates / 22070 / 1885"
     graphics [
       x 48700.00000
       y 387.5000000
@@ -55,7 +55,7 @@ graph [
   node [
     id 3
     template "oreas:std:rect simple"
-    label "Richard Heinrich Baltzer / Germany / 3"
+    label "Richard Heinrich Baltzer / Germany / 3 / 1860"
     graphics [
       x 80000.00000
       y 387.5000000
@@ -72,7 +72,7 @@ graph [
   node [
     id 4
     template "oreas:std:rect simple"
-    label "Ferdinand Georg Frobenius / Germany / 9764"
+    label "Ferdinand Georg Frobenius / Germany / 9764 / 1870"
     graphics [
       x 76250.00000
       y 710.5000000
@@ -89,7 +89,7 @@ graph [
   node [
     id 5
     template "oreas:std:rect simple"
-    label "Alfred Loewy / Germany / 1178"
+    label "Alfred Loewy / Germany / 1178 / 1894"
     graphics [
       x 46712.50000
       y 710.5000000
@@ -106,7 +106,7 @@ graph [
   node [
     id 6
     template "oreas:std:rect simple"
-    label "Leonard Eugene Dickson / UnitedStates / 931"
+    label "Leonard Eugene Dickson / UnitedStates / 931 / 1896"
     graphics [
       x 48775.00000
       y 1033.500000
@@ -123,7 +123,7 @@ graph [
   node [
     id 7
     template "oreas:std:rect simple"
-    label "John Irwin Hutchinson / UnitedStates / 5"
+    label "John Irwin Hutchinson / UnitedStates / 5 / 1896"
     graphics [
       x 17800.00000
       y 1033.500000
@@ -140,7 +140,7 @@ graph [
   node [
     id 8
     template "oreas:std:rect simple"
-    label "Herbert Ellsworth Slaught / UnitedStates / 0"
+    label "Herbert Ellsworth Slaught / UnitedStates / 0 / 1898"
     graphics [
       x 48700.00000
       y 1086.500000
@@ -157,7 +157,7 @@ graph [
   node [
     id 9
     template "oreas:std:rect simple"
-    label "John Anthony Miller / UnitedStates / 0"
+    label "John Anthony Miller / UnitedStates / 0 / 1899"
     graphics [
       x 76525.00000
       y 1139.500000
@@ -174,7 +174,7 @@ graph [
   node [
     id 10
     template "oreas:std:rect simple"
-    label "Oskar Bolza / Germany / 921"
+    label "Oskar Bolza / Germany / 921 / 1886"
     graphics [
       x 17800.00000
       y 1192.500000
@@ -191,7 +191,7 @@ graph [
   node [
     id 11
     template "oreas:std:rect simple"
-    label "David Hilbert / Germany / 29544"
+    label "David Hilbert / Germany / 29544 / 1885"
     graphics [
       x 49175.00000
       y 1245.500000
@@ -208,7 +208,7 @@ graph [
   node [
     id 12
     template "oreas:std:rect simple"
-    label "Otto Blumenthal / Germany / 10"
+    label "Otto Blumenthal / Germany / 10 / 1898"
     graphics [
       x 49175.00000
       y 1368.500000
@@ -225,7 +225,7 @@ graph [
   node [
     id 13
     template "oreas:std:rect simple"
-    label "Hans von Schaper / Germany / 0"
+    label "Hans von Schaper / Germany / 0 / 1898"
     graphics [
       x 49325.00000
       y 1421.500000
@@ -242,7 +242,7 @@ graph [
   node [
     id 14
     template "oreas:std:rect simple"
-    label "Heinrich Dörrie / Germany / 0"
+    label "Heinrich Dörrie / Germany / 0 / 1898"
     graphics [
       x 49475.00000
       y 1421.500000
@@ -259,7 +259,7 @@ graph [
   node [
     id 15
     template "oreas:std:rect simple"
-    label "Michael Feldblum / Germany / 0"
+    label "Michael Feldblum / Germany / 0 / 1899"
     graphics [
       x 49025.00000
       y 1421.500000
@@ -276,7 +276,7 @@ graph [
   node [
     id 16
     template "oreas:std:rect simple"
-    label "Fritz Beer / Germany / 0"
+    label "Fritz Beer / Germany / 0 / 1899"
     graphics [
       x 49250.00000
       y 1474.500000
@@ -293,7 +293,7 @@ graph [
   node [
     id 17
     template "oreas:std:rect simple"
-    label "Legh Wilber Reid / Germany / 0"
+    label "Legh Wilber Reid / Germany / 0 / 1899"
     graphics [
       x 49400.00000
       y 1527.500000
@@ -310,7 +310,7 @@ graph [
   node [
     id 18
     template "oreas:std:rect simple"
-    label "Anne Lucy Bosworth / Germany / 0"
+    label "Anne Lucy Bosworth / Germany / 0 / 1899"
     graphics [
       x 49100.00000
       y 1580.500000
@@ -327,7 +327,7 @@ graph [
   node [
     id 19
     template "oreas:std:rect simple"
-    label "C. Felix (Christian) Klein / Germany / 56567"
+    label "C. Felix (Christian) Klein / Germany / 56567 / 1868"
     graphics [
       x 17725.00000
       y 1633.500000
@@ -344,7 +344,7 @@ graph [
   node [
     id 20
     template "oreas:std:rect simple"
-    label "Julius Plücker / Germany / 57878"
+    label "Julius Plücker / Germany / 57878 / 1823"
     graphics [
       x 77525.00000
       y 1633.500000
@@ -361,7 +361,7 @@ graph [
   node [
     id 21
     template "oreas:std:rect simple"
-    label "Josef Diekmann / Germany / 0"
+    label "Josef Diekmann / Germany / 0 / 1871"
     graphics [
       x 17000.00000
       y 1956.500000
@@ -378,7 +378,7 @@ graph [
   node [
     id 22
     template "oreas:std:rect simple"
-    label "C. L. Ferdinand (Carl Louis) Lindemann / Germany / 42622"
+    label "C. L. Ferdinand (Carl Louis) Lindemann / Germany / 42622 / 1873"
     graphics [
       x 46900.00000
       y 2279.500000
@@ -395,7 +395,7 @@ graph [
   node [
     id 23
     template "oreas:std:rect simple"
-    label "Adolf Weiler / Germany / 1"
+    label "Adolf Weiler / Germany / 1 / 1873"
     graphics [
       x 17300.00000
       y 2410.833333
@@ -412,7 +412,7 @@ graph [
   node [
     id 24
     template "oreas:std:rect simple"
-    label "Wilhelm Braun / Germany / 0"
+    label "Wilhelm Braun / Germany / 0 / 1875"
     graphics [
       x 17150.00000
       y 2463.833333
@@ -429,7 +429,7 @@ graph [
   node [
     id 25
     template "oreas:std:rect simple"
-    label "Axel Carl Gustav Harnack / Germany / 0"
+    label "Axel Carl Gustav Harnack / Germany / 0 / 1875"
     graphics [
       x 18500.00000
       y 2463.833333
@@ -446,7 +446,7 @@ graph [
   node [
     id 26
     template "oreas:std:rect simple"
-    label "Ludwig Wedekind / Germany / 0"
+    label "Ludwig Wedekind / Germany / 0 / 1875"
     graphics [
       x 17825.00000
       y 2516.833333
@@ -463,7 +463,7 @@ graph [
   node [
     id 27
     template "oreas:std:rect simple"
-    label "Karl Friedrich Wilhelm Rohn / Germany / 16"
+    label "Karl Friedrich Wilhelm Rohn / Germany / 16 / 1878"
     graphics [
       x 7650.000000
       y 2569.833333
@@ -480,7 +480,7 @@ graph [
   node [
     id 28
     template "oreas:std:rect simple"
-    label "Joseph Gierster / Germany / 0"
+    label "Joseph Gierster / Germany / 0 / 1881"
     graphics [
       x 18800.00000
       y 2622.833333
@@ -497,7 +497,7 @@ graph [
   node [
     id 29
     template "oreas:std:rect simple"
-    label "Adolf Hurwitz / Germany / 123"
+    label "Adolf Hurwitz / Germany / 123 / 1881"
     graphics [
       x 18475.00000
       y 2622.833333
@@ -514,7 +514,7 @@ graph [
   node [
     id 30
     template "oreas:std:rect simple"
-    label "Otto Staude / Germany / 25"
+    label "Otto Staude / Germany / 25 / 1881"
     graphics [
       x 17625.00000
       y 2675.833333
@@ -531,7 +531,7 @@ graph [
   node [
     id 31
     template "oreas:std:rect simple"
-    label "Ernst Julius Martin Lange / Germany / 0"
+    label "Ernst Julius Martin Lange / Germany / 0 / 1882"
     graphics [
       x 19075.00000
       y 2675.833333
@@ -548,7 +548,7 @@ graph [
   node [
     id 32
     template "oreas:std:rect simple"
-    label "Guido Weichold / Germany / 0"
+    label "Guido Weichold / Germany / 0 / 1883"
     graphics [
       x 17225.00000
       y 2728.833333
@@ -565,7 +565,7 @@ graph [
   node [
     id 33
     template "oreas:std:rect simple"
-    label "Friedrich Dingeldey / Germany / 0"
+    label "Friedrich Dingeldey / Germany / 0 / 1885"
     graphics [
       x 17450.00000
       y 2781.833333
@@ -582,7 +582,7 @@ graph [
   node [
     id 34
     template "oreas:std:rect simple"
-    label "Ernst Wilhelm Fiedler / Germany / 0"
+    label "Ernst Wilhelm Fiedler / Germany / 0 / 1885"
     graphics [
       x 19200.00000
       y 2781.833333
@@ -599,7 +599,7 @@ graph [
   node [
     id 35
     template "oreas:std:rect simple"
-    label "Otto Fischer / Germany / 0"
+    label "Otto Fischer / Germany / 0 / 1885"
     graphics [
       x 19050.00000
       y 2834.833333
@@ -616,7 +616,7 @@ graph [
   node [
     id 36
     template "oreas:std:rect simple"
-    label "Paul Richard Domsch / Germany / 0"
+    label "Paul Richard Domsch / Germany / 0 / 1885"
     graphics [
       x 19275.00000
       y 2834.833333
@@ -633,7 +633,7 @@ graph [
   node [
     id 37
     template "oreas:std:rect simple"
-    label "Henry Burchard Fine / Germany / 0"
+    label "Henry Burchard Fine / Germany / 0 / 1886"
     graphics [
       x 17300.00000
       y 2834.833333
@@ -650,7 +650,7 @@ graph [
   node [
     id 38
     template "oreas:std:rect simple"
-    label "Robert Karl Emanuel Fricke / Germany / 0"
+    label "Robert Karl Emanuel Fricke / Germany / 0 / 1886"
     graphics [
       x 17462.50000
       y 2887.833333
@@ -667,7 +667,7 @@ graph [
   node [
     id 39
     template "oreas:std:rect simple"
-    label "Georg Friedrich / Germany / 0"
+    label "Georg Friedrich / Germany / 0 / 1886"
     graphics [
       x 19025.00000
       y 2940.833333
@@ -684,7 +684,7 @@ graph [
   node [
     id 40
     template "oreas:std:rect simple"
-    label "Paul Gustav Heinrich Nimsch / Germany / 0"
+    label "Paul Gustav Heinrich Nimsch / Germany / 0 / 1886"
     graphics [
       x 18875.00000
       y 2993.833333
@@ -701,7 +701,7 @@ graph [
   node [
     id 41
     template "oreas:std:rect simple"
-    label "Richard Emil Olbricht / Germany / 0"
+    label "Richard Emil Olbricht / Germany / 0 / 1887"
     graphics [
       x 19000.00000
       y 2993.833333
@@ -718,7 +718,7 @@ graph [
   node [
     id 42
     template "oreas:std:rect simple"
-    label "Willibald Alexander Reichardt / Germany / 0"
+    label "Willibald Alexander Reichardt / Germany / 0 / 1887"
     graphics [
       x 14375.00000
       y 3046.833333
@@ -735,7 +735,7 @@ graph [
   node [
     id 43
     template "oreas:std:rect simple"
-    label "Alexander Carl Johann Adolph Witting / Germany / 0"
+    label "Alexander Carl Johann Adolph Witting / Germany / 0 / 1886"
     graphics [
       x 5050.000000
       y 3099.833333
@@ -752,7 +752,7 @@ graph [
   node [
     id 44
     template "oreas:std:rect simple"
-    label "Mellen Woodman Haskell / Germany / 54"
+    label "Mellen Woodman Haskell / Germany / 54 / 1890"
     graphics [
       x 4875.000000
       y 3152.833333
@@ -769,7 +769,7 @@ graph [
   node [
     id 45
     template "oreas:std:rect simple"
-    label "J. Schroeder / Germany / 0"
+    label "J. Schroeder / Germany / 0 / 1890"
     graphics [
       x 14450.00000
       y 3209.166667
@@ -786,7 +786,7 @@ graph [
   node [
     id 46
     template "oreas:std:rect simple"
-    label "Maxime Bôcher / Germany / 2985"
+    label "Maxime Bôcher / Germany / 2985 / 1891"
     graphics [
       x 18150.00000
       y 3209.166667
@@ -803,7 +803,7 @@ graph [
   node [
     id 47
     template "oreas:std:rect simple"
-    label "Henry Seely White / Germany / 0"
+    label "Henry Seely White / Germany / 0 / 1891"
     graphics [
       x 18325.00000
       y 3265.500000
@@ -820,7 +820,7 @@ graph [
   node [
     id 48
     template "oreas:std:rect simple"
-    label "Henry Dallas Thompson / Germany / 0"
+    label "Henry Dallas Thompson / Germany / 0 / 1892"
     graphics [
       x 7675.000000
       y 3318.500000
@@ -837,7 +837,7 @@ graph [
   node [
     id 49
     template "oreas:std:rect simple"
-    label "Karl Schellenberg / Germany / 0"
+    label "Karl Schellenberg / Germany / 0 / 1892"
     graphics [
       x 18000.00000
       y 3371.500000
@@ -854,7 +854,7 @@ graph [
   node [
     id 50
     template "oreas:std:rect simple"
-    label "Ernst Ritter / Germany / 0"
+    label "Ernst Ritter / Germany / 0 / 1891"
     graphics [
       x 16925.00000
       y 3371.500000
@@ -871,7 +871,7 @@ graph [
   node [
     id 51
     template "oreas:std:rect simple"
-    label "Edward Burr Van Vleck / Germany / 445"
+    label "Edward Burr Van Vleck / Germany / 445 / 1893"
     graphics [
       x 18575.00000
       y 3424.500000
@@ -888,7 +888,7 @@ graph [
   node [
     id 52
     template "oreas:std:rect simple"
-    label "Friedrich Georg Schilling / Germany / 0"
+    label "Friedrich Georg Schilling / Germany / 0 / 1894"
     graphics [
       x 17975.00000
       y 3477.500000
@@ -905,7 +905,7 @@ graph [
   node [
     id 53
     template "oreas:std:rect simple"
-    label "Th. Glauner / Germany / 0"
+    label "Th. Glauner / Germany / 0 / 1894"
     graphics [
       x 4900.000000
       y 3530.500000
@@ -922,7 +922,7 @@ graph [
   node [
     id 54
     template "oreas:std:rect simple"
-    label "Frederick Shenstone Woods / Germany / 2"
+    label "Frederick Shenstone Woods / Germany / 2 / 1895"
     graphics [
       x 17075.00000
       y 3530.500000
@@ -939,7 +939,7 @@ graph [
   node [
     id 55
     template "oreas:std:rect simple"
-    label "Virgil Snyder / Germany / 48"
+    label "Virgil Snyder / Germany / 48 / 1895"
     graphics [
       x 18375.00000
       y 3583.500000
@@ -956,7 +956,7 @@ graph [
   node [
     id 56
     template "oreas:std:rect simple"
-    label "Charles Jaccottet / Germany / 0"
+    label "Charles Jaccottet / Germany / 0 / 1895"
     graphics [
       x 7825.000000
       y 3636.500000
@@ -973,7 +973,7 @@ graph [
   node [
     id 57
     template "oreas:std:rect simple"
-    label "Philipp Furtwängler / Germany / 3876"
+    label "Philipp Furtwängler / Germany / 3876 / 1896"
     graphics [
       x 18650.00000
       y 3689.500000
@@ -990,7 +990,7 @@ graph [
   node [
     id 58
     template "oreas:std:rect simple"
-    label "Mary Frances Winston / Germany / 0"
+    label "Mary Frances Winston / Germany / 0 / 1897"
     graphics [
       x 4975.000000
       y 3689.500000
@@ -1007,7 +1007,7 @@ graph [
   node [
     id 59
     template "oreas:std:rect simple"
-    label "William Edward Story / Germany / 9080"
+    label "William Edward Story / Germany / 9080 / 1875"
     graphics [
       x 16850.00000
       y 3742.500000
@@ -1024,7 +1024,7 @@ graph [
   node [
     id 60
     template "oreas:std:rect simple"
-    label "Henry Taber / UnitedStates / 6"
+    label "Henry Taber / UnitedStates / 6 / 1888"
     graphics [
       x 17000.00000
       y 4065.500000
@@ -1041,7 +1041,7 @@ graph [
   node [
     id 61
     template "oreas:std:rect simple"
-    label "Warren Gardner Bullard / UnitedStates / 0"
+    label "Warren Gardner Bullard / UnitedStates / 0 / 1896"
     graphics [
       x 16650.00000
       y 4065.500000
@@ -1058,7 +1058,7 @@ graph [
   node [
     id 62
     template "oreas:std:rect simple"
-    label "Linnaeus Wayland Dowling / UnitedStates / 5"
+    label "Linnaeus Wayland Dowling / UnitedStates / 5 / 1895"
     graphics [
       x 14750.00000
       y 4118.500000
@@ -1075,7 +1075,7 @@ graph [
   node [
     id 63
     template "oreas:std:rect simple"
-    label "Frederick Carlos Ferry / UnitedStates / 0"
+    label "Frederick Carlos Ferry / UnitedStates / 0 / 1898"
     graphics [
       x 17075.00000
       y 4171.500000
@@ -1092,7 +1092,7 @@ graph [
   node [
     id 64
     template "oreas:std:rect simple"
-    label "John Shaw French / UnitedStates / 0"
+    label "John Shaw French / UnitedStates / 0 / 1899"
     graphics [
       x 16850.00000
       y 4224.500000
@@ -1109,7 +1109,7 @@ graph [
   node [
     id 65
     template "oreas:std:rect simple"
-    label "John Ethan Hill / UnitedStates / 0"
+    label "John Ethan Hill / UnitedStates / 0 / 1895"
     graphics [
       x 16675.00000
       y 4224.500000
@@ -1126,7 +1126,7 @@ graph [
   node [
     id 66
     template "oreas:std:rect simple"
-    label "Thomas Franklin Holgate / UnitedStates / 0"
+    label "Thomas Franklin Holgate / UnitedStates / 0 / 1895"
     graphics [
       x 16700.00000
       y 4277.500000
@@ -1143,7 +1143,7 @@ graph [
   node [
     id 67
     template "oreas:std:rect simple"
-    label "William Henry Metzler / UnitedStates / 0"
+    label "William Henry Metzler / UnitedStates / 0 / 1893"
     graphics [
       x 16925.00000
       y 4277.500000
@@ -1160,7 +1160,7 @@ graph [
   node [
     id 68
     template "oreas:std:rect simple"
-    label "Thomas Flint Nichols / UnitedStates / 0"
+    label "Thomas Flint Nichols / UnitedStates / 0 / 1895"
     graphics [
       x 17100.00000
       y 4277.500000
@@ -1177,7 +1177,7 @@ graph [
   node [
     id 69
     template "oreas:std:rect simple"
-    label "Jacob William Albert Young / UnitedStates / 0"
+    label "Jacob William Albert Young / UnitedStates / 0 / 1892"
     graphics [
       x 16775.00000
       y 4600.500000
@@ -1194,7 +1194,7 @@ graph [
   node [
     id 70
     template "oreas:std:rect simple"
-    label "Ernest William Rettger / UnitedStates / 0"
+    label "Ernest William Rettger / UnitedStates / 0 / 1898"
     graphics [
       x 17000.00000
       y 4600.500000
@@ -1211,7 +1211,7 @@ graph [
   node [
     id 71
     template "oreas:std:rect simple"
-    label "Karl Theodor Wilhelm Weierstraß / Germany / 31528"
+    label "Karl Theodor Wilhelm Weierstraß / Germany / 31528 / 1841"
     graphics [
       x 60975.00000
       y 4600.500000
@@ -1228,7 +1228,7 @@ graph [
   node [
     id 72
     template "oreas:std:rect simple"
-    label "Hermann Amandus Schwarz / Germany / 10480"
+    label "Hermann Amandus Schwarz / Germany / 10480 / 1864"
     graphics [
       x 70975.00000
       y 4923.500000
@@ -1245,7 +1245,7 @@ graph [
   node [
     id 73
     template "oreas:std:rect simple"
-    label "Frank Nelson Cole / UnitedStates / 2173"
+    label "Frank Nelson Cole / UnitedStates / 2173 / 1886"
     graphics [
       x 18725.00000
       y 5246.500000
@@ -1262,7 +1262,7 @@ graph [
   node [
     id 74
     template "oreas:std:rect simple"
-    label "James Waterman Glover / UnitedStates / 75"
+    label "James Waterman Glover / UnitedStates / 75 / 1895"
     graphics [
       x 18300.00000
       y 5299.500000
@@ -1279,7 +1279,7 @@ graph [
   node [
     id 75
     template "oreas:std:rect simple"
-    label "Heinrich Maschke / Germany / 10"
+    label "Heinrich Maschke / Germany / 10 / 1880"
     graphics [
       x 76175.00000
       y 5589.166667
@@ -1296,7 +1296,7 @@ graph [
   node [
     id 76
     template "oreas:std:rect simple"
-    label "Diederik Johannes Korteweg / Netherlands / 2428"
+    label "Diederik Johannes Korteweg / Netherlands / 2428 / 1878"
     graphics [
       x 4183.333333
       y 5642.166667
@@ -1313,7 +1313,7 @@ graph [
   node [
     id 77
     template "oreas:std:rect simple"
-    label "Edmund Landau / Germany / 6184"
+    label "Edmund Landau / Germany / 6184 / 1899"
     graphics [
       x 76200.00000
       y 5729.055556
@@ -1330,7 +1330,7 @@ graph [
   node [
     id 78
     template "oreas:std:rect simple"
-    label "H. A. (Hubert Anson) Newton / UnitedStates / 22109"
+    label "H. A. (Hubert Anson) Newton / UnitedStates / 22109 / 1850"
     graphics [
       x 48625.00000
       y 5782.055556
@@ -1347,7 +1347,7 @@ graph [
   node [
     id 79
     template "oreas:std:rect simple"
-    label "James C. Watson / Germany / 0"
+    label "James C. Watson / Germany / 0 / 1870"
     graphics [
       x 46625.00000
       y 5782.055556
@@ -1364,7 +1364,7 @@ graph [
   node [
     id 80
     template "oreas:std:rect simple"
-    label "Henry Freeman Stecker / UnitedStates / 0"
+    label "Henry Freeman Stecker / UnitedStates / 0 / 1897"
     graphics [
       x 14600.00000
       y 5838.388889
@@ -1381,7 +1381,7 @@ graph [
   node [
     id 81
     template "oreas:std:rect simple"
-    label "Theodore Running / UnitedStates / 0"
+    label "Theodore Running / UnitedStates / 0 / 1899"
     graphics [
       x 14750.00000
       y 5891.388889
@@ -1398,7 +1398,7 @@ graph [
   node [
     id 82
     template "oreas:std:rect simple"
-    label "Charles A. Van Velzer / UnitedStates / 2"
+    label "Charles A. Van Velzer / UnitedStates / 2 / 1873"
     graphics [
       x 14600.00000
       y 5964.388889
@@ -1415,7 +1415,7 @@ graph [
   node [
     id 83
     template "oreas:std:rect simple"
-    label "Milton Brockett Porter / UnitedStates / 1"
+    label "Milton Brockett Porter / UnitedStates / 1 / 1897"
     graphics [
       x 18150.00000
       y 6017.388889
@@ -1432,7 +1432,7 @@ graph [
   node [
     id 84
     template "oreas:std:rect simple"
-    label "Frederick Hollister Safford / UnitedStates / 1"
+    label "Frederick Hollister Safford / UnitedStates / 1 / 1897"
     graphics [
       x 18075.00000
       y 6070.388889
@@ -1449,7 +1449,7 @@ graph [
   node [
     id 85
     template "oreas:std:rect simple"
-    label "Donald Francis Campbell / UnitedStates / 0"
+    label "Donald Francis Campbell / UnitedStates / 0 / 1898"
     graphics [
       x 18225.00000
       y 6070.388889
@@ -1466,7 +1466,7 @@ graph [
   node [
     id 86
     template "oreas:std:rect simple"
-    label "Gottfried Schlumberger / Switzerland / 0"
+    label "Gottfried Schlumberger / Switzerland / 0 / 1896"
     graphics [
       x 18300.00000
       y 6143.388889
@@ -1483,7 +1483,7 @@ graph [
   node [
     id 87
     template "oreas:std:rect simple"
-    label "Ernst Julius Amberg / Switzerland / 0"
+    label "Ernst Julius Amberg / Switzerland / 0 / 1897"
     graphics [
       x 18425.00000
       y 6143.388889
@@ -1500,7 +1500,7 @@ graph [
   node [
     id 88
     template "oreas:std:rect simple"
-    label "Sofya Vasilyevna Kovalevskaya / Germany / 1"
+    label "Sofya Vasilyevna Kovalevskaya / Germany / 1 / 1874"
     graphics [
       x 70400.00000
       y 6466.388889
@@ -1517,7 +1517,7 @@ graph [
   node [
     id 89
     template "oreas:std:rect simple"
-    label "Heinrich Bruns / Germany / 3779"
+    label "Heinrich Bruns / Germany / 3779 / 1871"
     graphics [
       x 52550.00000
       y 6466.388889
@@ -1534,7 +1534,7 @@ graph [
   node [
     id 90
     template "oreas:std:rect simple"
-    label "Georg Hettner / Germany / 0"
+    label "Georg Hettner / Germany / 0 / 1877"
     graphics [
       x 61275.00000
       y 6466.388889
@@ -1551,7 +1551,7 @@ graph [
   node [
     id 91
     template "oreas:std:rect simple"
-    label "Ludwig Friedrich Wilhelm August Kiepert / Germany / 0"
+    label "Ludwig Friedrich Wilhelm August Kiepert / Germany / 0 / 1870"
     graphics [
       x 61100.00000
       y 6466.388889
@@ -1568,7 +1568,7 @@ graph [
   node [
     id 92
     template "oreas:std:rect simple"
-    label "Wilhelm Killing / Germany / 13"
+    label "Wilhelm Killing / Germany / 13 / 1872"
     graphics [
       x 60975.00000
       y 6466.388889
@@ -1585,7 +1585,7 @@ graph [
   node [
     id 93
     template "oreas:std:rect simple"
-    label "Johannes Knoblauch / Germany / 0"
+    label "Johannes Knoblauch / Germany / 0 / 1882"
     graphics [
       x 54725.00000
       y 6789.388889
@@ -1602,7 +1602,7 @@ graph [
   node [
     id 94
     template "oreas:std:rect simple"
-    label "Ernst Kötter / Germany / 0"
+    label "Ernst Kötter / Germany / 0 / 1884"
     graphics [
       x 55950.00000
       y 6842.388889
@@ -1619,7 +1619,7 @@ graph [
   node [
     id 95
     template "oreas:std:rect simple"
-    label "Reinhold Franz von Lilienthal / Germany / 15"
+    label "Reinhold Franz von Lilienthal / Germany / 15 / 1882"
     graphics [
       x 60993.75000
       y 6896.638889
@@ -1636,7 +1636,7 @@ graph [
   node [
     id 96
     template "oreas:std:rect simple"
-    label "Hans von Carl Friedrich von Mangoldt / Germany / 2"
+    label "Hans von Carl Friedrich von Mangoldt / Germany / 2 / 1878"
     graphics [
       x 61250.00000
       y 6896.638889
@@ -1653,7 +1653,7 @@ graph [
   node [
     id 97
     template "oreas:std:rect simple"
-    label "Felix Hermann Müller / Germany / 0"
+    label "Felix Hermann Müller / Germany / 0 / 1867"
     graphics [
       x 61212.50000
       y 6950.888889
@@ -1670,7 +1670,7 @@ graph [
   node [
     id 98
     template "oreas:std:rect simple"
-    label "Eugen Otto Erwin Netto / Germany / 23"
+    label "Eugen Otto Erwin Netto / Germany / 23 / 1870"
     graphics [
       x 69050.00000
       y 7003.888889
@@ -1687,7 +1687,7 @@ graph [
   node [
     id 99
     template "oreas:std:rect simple"
-    label "Friedrich Hermann Schottky / Germany / 3866"
+    label "Friedrich Hermann Schottky / Germany / 3866 / 1875"
     graphics [
       x 70225.00000
       y 7326.888889
@@ -1704,7 +1704,7 @@ graph [
   node [
     id 100
     template "oreas:std:rect simple"
-    label "Ludwig Stickelberger / Germany / 3"
+    label "Ludwig Stickelberger / Germany / 3 / 1874"
     graphics [
       x 61400.00000
       y 7379.888889
@@ -1721,7 +1721,7 @@ graph [
   node [
     id 101
     template "oreas:std:rect simple"
-    label "Wilhelm Ludwig Thomé / Germany / 0"
+    label "Wilhelm Ludwig Thomé / Germany / 0 / 1865"
     graphics [
       x 61525.00000
       y 7379.888889
@@ -1738,7 +1738,7 @@ graph [
   node [
     id 102
     template "oreas:std:rect simple"
-    label "Harris Hancock / Germany / 43"
+    label "Harris Hancock / Germany / 43 / 1894"
     graphics [
       x 73800.00000
       y 7379.888889
@@ -1755,7 +1755,7 @@ graph [
   node [
     id 103
     template "oreas:std:rect simple"
-    label "Lazarus Immanuel Fuchs / Germany / 9009"
+    label "Lazarus Immanuel Fuchs / Germany / 9009 / 1858"
     graphics [
       x 75400.00000
       y 7702.888889
@@ -1772,7 +1772,7 @@ graph [
   node [
     id 104
     template "oreas:std:rect simple"
-    label "Stanislaw Zaremba / France / 5218"
+    label "Stanislaw Zaremba / France / 5218 / 1889"
     graphics [
       x 61012.50000
       y 8017.555556
@@ -1789,7 +1789,7 @@ graph [
   node [
     id 105
     template "oreas:std:rect simple"
-    label "Ludwig Boltzmann / Austria / 3546"
+    label "Ludwig Boltzmann / Austria / 3546 / 1866"
     graphics [
       x 52650.00000
       y 8017.555556
@@ -1806,7 +1806,7 @@ graph [
   node [
     id 106
     template "oreas:std:rect simple"
-    label "Kazimierz Twardowski / Austria / 1465"
+    label "Kazimierz Twardowski / Austria / 1465 / 1891"
     graphics [
       x 74450.00000
       y 8070.555556
@@ -1823,7 +1823,7 @@ graph [
   node [
     id 107
     template "oreas:std:rect simple"
-    label "Franz Clemens Brentano / Germany / 1477"
+    label "Franz Clemens Brentano / Germany / 1477 / 1862"
     graphics [
       x 74281.25000
       y 8149.805556
@@ -1840,7 +1840,7 @@ graph [
   node [
     id 108
     template "oreas:std:rect simple"
-    label "Heinrich W.E. Jung / Germany / 176"
+    label "Heinrich W.E. Jung / Germany / 176 / 1899"
     graphics [
       x 70225.00000
       y 8149.805556
@@ -1857,7 +1857,7 @@ graph [
   node [
     id 109
     template "oreas:std:rect simple"
-    label "Carl Gustav Jacob Jacobi / Germany / 17818"
+    label "Carl Gustav Jacob Jacobi / Germany / 17818 / 1825"
     graphics [
       x 47575.00000
       y 8249.888889
@@ -1874,7 +1874,7 @@ graph [
   node [
     id 110
     template "oreas:std:rect simple"
-    label "Paul Albert Gordan / Germany / 1341"
+    label "Paul Albert Gordan / Germany / 1341 / 1862"
     graphics [
       x 48625.00000
       y 8249.888889
@@ -1891,7 +1891,7 @@ graph [
   node [
     id 111
     template "oreas:std:rect simple"
-    label "Heinrich Martin Weber / Germany / 548"
+    label "Heinrich Martin Weber / Germany / 548 / 1863"
     graphics [
       x 46175.00000
       y 8249.888889
@@ -1908,7 +1908,7 @@ graph [
   node [
     id 112
     template "oreas:std:rect simple"
-    label "Luigi Puccianti / Italy / 382"
+    label "Luigi Puccianti / Italy / 382 / 1898"
     graphics [
       x 69175.00000
       y 8249.888889
@@ -1925,7 +1925,7 @@ graph [
   node [
     id 113
     template "oreas:std:rect simple"
-    label "Johann Christoph Sturm / Germany / 15480"
+    label "Johann Christoph Sturm / Germany / 15480 / 1662"
     graphics [
       x 16825.00000
       y 8572.888889
@@ -1942,7 +1942,7 @@ graph [
   node [
     id 114
     template "oreas:std:rect simple"
-    label "Samuel Pufendorf / Germany / 0"
+    label "Samuel Pufendorf / Germany / 0 / 1658"
     graphics [
       x 7825.000000
       y 8572.888889
@@ -1959,7 +1959,7 @@ graph [
   node [
     id 115
     template "oreas:std:rect simple"
-    label "Georg Alexander Pick / Austria / 672"
+    label "Georg Alexander Pick / Austria / 672 / 1880"
     graphics [
       x 53837.50000
       y 8895.888889
@@ -1976,7 +1976,7 @@ graph [
   node [
     id 116
     template "oreas:std:rect simple"
-    label "Pieter (Petrus) Leonard (Leonardus) Rijke / Netherlands / 3549"
+    label "Pieter (Petrus) Leonard (Leonardus) Rijke / Netherlands / 3549 / 1836"
     graphics [
       x 1075.000000
       y 9039.722222
@@ -1993,7 +1993,7 @@ graph [
   node [
     id 117
     template "oreas:std:rect simple"
-    label "Joseph Louis Lagrange / Italy / 98922"
+    label "Joseph Louis Lagrange / Italy / 98922 / 1754"
     graphics [
       x 50225.00000
       y 9362.722222
@@ -2010,7 +2010,7 @@ graph [
   node [
     id 118
     template "oreas:std:rect simple"
-    label "Simeon Denis Poisson / France / 98919"
+    label "Simeon Denis Poisson / France / 98919 / 1800"
     graphics [
       x 50775.00000
       y 9362.722222
@@ -2027,7 +2027,7 @@ graph [
   node [
     id 119
     template "oreas:std:rect simple"
-    label "Gustav Peter Lejeune Dirichlet / Germany / 58467"
+    label "Gustav Peter Lejeune Dirichlet / Germany / 58467 / 1827"
     graphics [
       x 51625.00000
       y 9685.722222
@@ -2044,7 +2044,7 @@ graph [
   node [
     id 120
     template "oreas:std:rect simple"
-    label "Jean-Baptiste Joseph Fourier / Germany / 58469"
+    label "Jean-Baptiste Joseph Fourier / Germany / 58469 / 1802"
     graphics [
       x 52175.00000
       y 9685.722222
@@ -2061,7 +2061,7 @@ graph [
   node [
     id 121
     template "oreas:std:rect simple"
-    label "Leopold Kronecker / Germany / 4954"
+    label "Leopold Kronecker / Germany / 4954 / 1845"
     graphics [
       x 54075.00000
       y 10008.72222
@@ -2078,7 +2078,7 @@ graph [
   node [
     id 122
     template "oreas:std:rect simple"
-    label "Ferdinand Gotthold Max Eisenstein / Germany / 0"
+    label "Ferdinand Gotthold Max Eisenstein / Germany / 0 / 1845"
     graphics [
       x 55687.50000
       y 10123.38889
@@ -2095,7 +2095,7 @@ graph [
   node [
     id 123
     template "oreas:std:rect simple"
-    label "Johann Friedrich Pfaff / Germany / 90967"
+    label "Johann Friedrich Pfaff / Germany / 90967 / 1786"
     graphics [
       x 67500.00000
       y 10176.38889
@@ -2112,7 +2112,7 @@ graph [
   node [
     id 124
     template "oreas:std:rect simple"
-    label "Carl Friedrich Gauß / Germany / 80638"
+    label "Carl Friedrich Gauß / Germany / 80638 / 1799"
     graphics [
       x 77050.00000
       y 10176.38889
@@ -2129,7 +2129,7 @@ graph [
   node [
     id 125
     template "oreas:std:rect simple"
-    label "Bernhard (Georg Friedrich Bernhard) Riemann / Germany / 1"
+    label "Bernhard (Georg Friedrich Bernhard) Riemann / Germany / 1 / 1851"
     graphics [
       x 77125.00000
       y 10499.38889
@@ -2146,7 +2146,7 @@ graph [
   node [
     id 126
     template "oreas:std:rect simple"
-    label "J. W. Richard (Julius Wilhelm) Dedekind / Germany / 0"
+    label "J. W. Richard (Julius Wilhelm) Dedekind / Germany / 0 / 1852"
     graphics [
       x 76975.00000
       y 10499.38889
@@ -2163,7 +2163,7 @@ graph [
   node [
     id 127
     template "oreas:std:rect simple"
-    label "M. Sophus (Marius) Lie / Norway / 1964"
+    label "M. Sophus (Marius) Lie / Norway / 1964 / 1872"
     graphics [
       x 13775.00000
       y 10722.38889
@@ -2180,7 +2180,7 @@ graph [
   node [
     id 128
     template "oreas:std:rect simple"
-    label "Ernst Eduard Kummer / Germany / 35656"
+    label "Ernst Eduard Kummer / Germany / 35656 / 1831"
     graphics [
       x 63725.00000
       y 11045.38889
@@ -2197,7 +2197,7 @@ graph [
   node [
     id 129
     template "oreas:std:rect simple"
-    label "Paul Du Bois-Reymond / Germany / 2425"
+    label "Paul Du Bois-Reymond / Germany / 2425 / 1859"
     graphics [
       x 70425.00000
       y 11045.38889
@@ -2214,7 +2214,7 @@ graph [
   node [
     id 130
     template "oreas:std:rect simple"
-    label "Otto Dziobek / Germany / 0"
+    label "Otto Dziobek / Germany / 0 / 1881"
     graphics [
       x 70475.00000
       y 11368.38889
@@ -2231,7 +2231,7 @@ graph [
   node [
     id 131
     template "oreas:std:rect simple"
-    label "Amandus Wendt / Germany / 0"
+    label "Amandus Wendt / Germany / 0 / 1880"
     graphics [
       x 60800.00000
       y 11368.38889
@@ -2248,7 +2248,7 @@ graph [
   node [
     id 132
     template "oreas:std:rect simple"
-    label "Jacob Horn / Germany / 1"
+    label "Jacob Horn / Germany / 1 / 1889"
     graphics [
       x 54450.00000
       y 11368.38889
@@ -2265,7 +2265,7 @@ graph [
   node [
     id 133
     template "oreas:std:rect simple"
-    label "Leo Königsberger / Germany / 2068"
+    label "Leo Königsberger / Germany / 2068 / 1860"
     graphics [
       x 58875.00000
       y 11368.38889
@@ -2282,7 +2282,7 @@ graph [
   node [
     id 134
     template "oreas:std:rect simple"
-    label "Richard Gottfried Karl Müller / Germany / 0"
+    label "Richard Gottfried Karl Müller / Germany / 0 / 1884"
     graphics [
       x 54575.00000
       y 11368.38889
@@ -2299,7 +2299,7 @@ graph [
   node [
     id 135
     template "oreas:std:rect simple"
-    label "Carl Julius Cranz / Germany / 0"
+    label "Carl Julius Cranz / Germany / 0 / 1883"
     graphics [
       x 70450.00000
       y 11691.38889
@@ -2316,7 +2316,7 @@ graph [
   node [
     id 136
     template "oreas:std:rect simple"
-    label "Richard Fuchs / Germany / 2"
+    label "Richard Fuchs / Germany / 2 / 1897"
     graphics [
       x 75325.00000
       y 12014.38889
@@ -2333,7 +2333,7 @@ graph [
   node [
     id 137
     template "oreas:std:rect simple"
-    label "Georg Jakob Wallenberg / Germany / 0"
+    label "Georg Jakob Wallenberg / Germany / 0 / 1890"
     graphics [
       x 74700.00000
       y 12067.38889
@@ -2350,7 +2350,7 @@ graph [
   node [
     id 138
     template "oreas:std:rect simple"
-    label "Carl David Tolmé Runge / Germany / 1432"
+    label "Carl David Tolmé Runge / Germany / 1432 / 1880"
     graphics [
       x 63200.00000
       y 12390.38889
@@ -2367,7 +2367,7 @@ graph [
   node [
     id 139
     template "oreas:std:rect simple"
-    label "Rudolf Ernst Rothe / Germany / 24"
+    label "Rudolf Ernst Rothe / Germany / 24 / 1897"
     graphics [
       x 70700.00000
       y 12390.38889
@@ -2384,7 +2384,7 @@ graph [
   node [
     id 140
     template "oreas:std:rect simple"
-    label "Stanislaus Jolles / Germany / 57"
+    label "Stanislaus Jolles / Germany / 57 / 1883"
     graphics [
       x 17475.00000
       y 12390.38889
@@ -2401,7 +2401,7 @@ graph [
   node [
     id 141
     template "oreas:std:rect simple"
-    label "Olaus Magnus Friedrich Erdmann Henrici / Germany / 0"
+    label "Olaus Magnus Friedrich Erdmann Henrici / Germany / 0 / 1863"
     graphics [
       x 17625.00000
       y 12713.38889
@@ -2418,7 +2418,7 @@ graph [
   node [
     id 142
     template "oreas:std:rect simple"
-    label "Grace Young (geb. Chisholm) / Germany / 0"
+    label "Grace Young (geb. Chisholm) / Germany / 0 / 1895"
     graphics [
       x 17900.00000
       y 12713.38889
@@ -2435,7 +2435,7 @@ graph [
   node [
     id 143
     template "oreas:std:rect simple"
-    label "Wilhelm Scheibner / Germany / 15437"
+    label "Wilhelm Scheibner / Germany / 15437 / 1848"
     graphics [
       x 26275.00000
       y 12713.38889
@@ -2452,7 +2452,7 @@ graph [
   node [
     id 144
     template "oreas:std:rect simple"
-    label "Paul Gustav Heinrich Bachmann / Germany / 2"
+    label "Paul Gustav Heinrich Bachmann / Germany / 2 / 1862"
     graphics [
       x 65100.00000
       y 13036.38889
@@ -2469,7 +2469,7 @@ graph [
   node [
     id 145
     template "oreas:std:rect simple"
-    label "Alexander Wilhelm von Brill / Germany / 1140"
+    label "Alexander Wilhelm von Brill / Germany / 1140 / 1864"
     graphics [
       x 47975.00000
       y 13036.38889
@@ -2486,7 +2486,7 @@ graph [
   node [
     id 146
     template "oreas:std:rect simple"
-    label "Franz Ernst Neumann / Germany / 2230"
+    label "Franz Ernst Neumann / Germany / 2230 / 1825"
     graphics [
       x 12875.00000
       y 13176.05556
@@ -2503,7 +2503,7 @@ graph [
   node [
     id 147
     template "oreas:std:rect simple"
-    label "Wilhelm Wirtinger / Austria / 3202"
+    label "Wilhelm Wirtinger / Austria / 3202 / 1887"
     graphics [
       x 47675.00000
       y 13499.05556
@@ -2520,7 +2520,7 @@ graph [
   node [
     id 148
     template "oreas:std:rect simple"
-    label "Friedrich Wilhelm Bessel / Germany / 35696"
+    label "Friedrich Wilhelm Bessel / Germany / 35696 / 1810"
     graphics [
       x 76825.00000
       y 13499.05556
@@ -2537,7 +2537,7 @@ graph [
   node [
     id 149
     template "oreas:std:rect simple"
-    label "Rudolf Friedrich Alfred Clebsch / Germany / 1289"
+    label "Rudolf Friedrich Alfred Clebsch / Germany / 1289 / 1854"
     graphics [
       x 26350.00000
       y 13499.05556
@@ -2554,7 +2554,7 @@ graph [
   node [
     id 150
     template "oreas:std:rect simple"
-    label "Otto Ludwig Hölder / Germany / 2420"
+    label "Otto Ludwig Hölder / Germany / 2420 / 1882"
     graphics [
       x 70425.00000
       y 13552.05556
@@ -2571,7 +2571,7 @@ graph [
   node [
     id 151
     template "oreas:std:rect simple"
-    label "Jožef Stefan / Austria / 3556"
+    label "Jožef Stefan / Austria / 3556 / 1858"
     graphics [
       x 52650.00000
       y 13605.05556
@@ -2588,7 +2588,7 @@ graph [
   node [
     id 152
     template "oreas:std:rect simple"
-    label "C. H. Eduard (Christoph Hugo) Study / Germany / 111"
+    label "C. H. Eduard (Christoph Hugo) Study / Germany / 111 / 1884"
     graphics [
       x 45112.50000
       y 13836.38889
@@ -2605,7 +2605,7 @@ graph [
   node [
     id 153
     template "oreas:std:rect simple"
-    label "Moritz Pasch / Germany / 30"
+    label "Moritz Pasch / Germany / 30 / 1865"
     graphics [
       x 71625.00000
       y 13889.38889
@@ -2622,7 +2622,7 @@ graph [
   node [
     id 154
     template "oreas:std:rect simple"
-    label "Heinrich Eduard Schroeter / Germany / 538"
+    label "Heinrich Eduard Schroeter / Germany / 538 / 1854"
     graphics [
       x 73000.00000
       y 14212.38889
@@ -2639,7 +2639,7 @@ graph [
   node [
     id 155
     template "oreas:std:rect simple"
-    label "Fritz Kötter / Germany / 6"
+    label "Fritz Kötter / Germany / 6 / 1867"
     graphics [
       x 76375.00000
       y 14212.38889
@@ -2656,7 +2656,7 @@ graph [
   node [
     id 156
     template "oreas:std:rect simple"
-    label "Georg Wilhelm Scheffers / Germany / 3"
+    label "Georg Wilhelm Scheffers / Germany / 3 / 1890"
     graphics [
       x 13875.00000
       y 14212.38889
@@ -2673,7 +2673,7 @@ graph [
   node [
     id 157
     template "oreas:std:rect simple"
-    label "Gösta Magnus Mittag-Leffler / Sweden / 2123"
+    label "Gösta Magnus Mittag-Leffler / Sweden / 2123 / 1872"
     graphics [
       x 66275.00000
       y 14212.38889
@@ -2690,7 +2690,7 @@ graph [
   node [
     id 158
     template "oreas:std:rect simple"
-    label "Johann Benedict Listing / Germany / 1713"
+    label "Johann Benedict Listing / Germany / 1713 / 1834"
     graphics [
       x 76550.00000
       y 14212.38889
@@ -2707,7 +2707,7 @@ graph [
   node [
     id 159
     template "oreas:std:rect simple"
-    label "Rudolf Otto Sigismund Lipschitz / Germany / 56568"
+    label "Rudolf Otto Sigismund Lipschitz / Germany / 56568 / 1853"
     graphics [
       x 48125.00000
       y 14535.38889
@@ -2724,7 +2724,7 @@ graph [
   node [
     id 160
     template "oreas:std:rect simple"
-    label "Anders Wiman / Sweden / 1159"
+    label "Anders Wiman / Sweden / 1159 / 1892"
     graphics [
       x 60800.00000
       y 14535.38889
@@ -2741,7 +2741,7 @@ graph [
   node [
     id 161
     template "oreas:std:rect simple"
-    label "Josip Plemelj / Austria / 105"
+    label "Josip Plemelj / Austria / 105 / 1898"
     graphics [
       x 49125.00000
       y 14535.38889
@@ -2758,7 +2758,7 @@ graph [
   node [
     id 162
     template "oreas:std:rect simple"
-    label "Carl Fabian Emanuel Björling / Sweden / 1161"
+    label "Carl Fabian Emanuel Björling / Sweden / 1161 / 1863"
     graphics [
       x 60800.00000
       y 14588.38889
@@ -2775,7 +2775,7 @@ graph [
   node [
     id 163
     template "oreas:std:rect simple"
-    label "Jakob Bergstedt / Sweden / 0"
+    label "Jakob Bergstedt / Sweden / 0 / 1886"
     graphics [
       x 60625.00000
       y 14588.38889
@@ -2792,7 +2792,7 @@ graph [
   node [
     id 164
     template "oreas:std:rect simple"
-    label "Emanuel Gabriel Björling / Sweden / 1162"
+    label "Emanuel Gabriel Björling / Sweden / 1162 / 1830"
     graphics [
       x 60925.00000
       y 14653.05556
@@ -2809,7 +2809,7 @@ graph [
   node [
     id 165
     template "oreas:std:rect simple"
-    label "Jöns Svanberg / Sweden / 3308"
+    label "Jöns Svanberg / Sweden / 3308 / 1796"
     graphics [
       x 62493.75000
       y 14653.05556
@@ -2826,7 +2826,7 @@ graph [
   node [
     id 166
     template "oreas:std:rect simple"
-    label "Helge von Koch / Sweden / 1"
+    label "Helge von Koch / Sweden / 1 / 1892"
     graphics [
       x 66275.00000
       y 14940.63889
@@ -2843,7 +2843,7 @@ graph [
   node [
     id 167
     template "oreas:std:rect simple"
-    label "Max Planck / Germany / 219"
+    label "Max Planck / Germany / 219 / 1879"
     graphics [
       x 47975.00000
       y 14993.63889
@@ -2860,7 +2860,7 @@ graph [
   node [
     id 168
     template "oreas:std:rect simple"
-    label "Otto Mencke / Germany / 101114"
+    label "Otto Mencke / Germany / 101114 / 1665"
     graphics [
       x 45925.00000
       y 15046.63889
@@ -2877,7 +2877,7 @@ graph [
   node [
     id 169
     template "oreas:std:rect simple"
-    label "Charles Newton Little / UnitedStates / 0"
+    label "Charles Newton Little / UnitedStates / 0 / 1885"
     graphics [
       x 48600.00000
       y 15046.63889
@@ -2894,7 +2894,7 @@ graph [
   node [
     id 170
     template "oreas:std:rect simple"
-    label "Karl Elbs / Germany / 1"
+    label "Karl Elbs / Germany / 1 / 1871"
     graphics [
       x 74850.00000
       y 15161.30556
@@ -2911,7 +2911,7 @@ graph [
   node [
     id 171
     template "oreas:std:rect simple"
-    label "Alfred Kleiner / Switzerland / 4"
+    label "Alfred Kleiner / Switzerland / 4 / 1874"
     graphics [
       x 43387.50000
       y 15214.30556
@@ -2928,7 +2928,7 @@ graph [
   node [
     id 172
     template "oreas:std:rect simple"
-    label "Johannes Peter Müller / Germany / 6430"
+    label "Johannes Peter Müller / Germany / 6430 / 1822"
     graphics [
       x 65931.25000
       y 15214.30556
@@ -2945,7 +2945,7 @@ graph [
   node [
     id 173
     template "oreas:std:rect simple"
-    label "Nicolai Vasilievich Bugaev / Russia / 6159"
+    label "Nicolai Vasilievich Bugaev / Russia / 6159 / 1866"
     graphics [
       x 62100.00000
       y 15537.30556
@@ -2962,7 +2962,7 @@ graph [
   node [
     id 174
     template "oreas:std:rect simple"
-    label "Nikolay Yakovlevich Sonin / Russia / 0"
+    label "Nikolay Yakovlevich Sonin / Russia / 0 / 1874"
     graphics [
       x 61975.00000
       y 15537.30556
@@ -2979,7 +2979,7 @@ graph [
   node [
     id 175
     template "oreas:std:rect simple"
-    label "Angelo Battelli / Italy / 383"
+    label "Angelo Battelli / Italy / 383 / 1884"
     graphics [
       x 69175.00000
       y 15601.97222
@@ -2996,7 +2996,7 @@ graph [
   node [
     id 176
     template "oreas:std:rect simple"
-    label "Josiah Royce / UnitedStates / 1949"
+    label "Josiah Royce / UnitedStates / 1949 / 1878"
     graphics [
       x 70850.00000
       y 15601.97222
@@ -3013,7 +3013,7 @@ graph [
   node [
     id 177
     template "oreas:std:rect simple"
-    label "Jacques Salomon Hadamard / France / 3901"
+    label "Jacques Salomon Hadamard / France / 3901 / 1892"
     graphics [
       x 69325.00000
       y 15654.97222
@@ -3030,7 +3030,7 @@ graph [
   node [
     id 178
     template "oreas:std:rect simple"
-    label "Göran Dillner / Sweden / 2124"
+    label "Göran Dillner / Sweden / 2124 / 1863"
     graphics [
       x 66350.00000
       y 15707.97222
@@ -3047,7 +3047,7 @@ graph [
   node [
     id 179
     template "oreas:std:rect simple"
-    label "Andrea Naccari / Italy / 384"
+    label "Andrea Naccari / Italy / 384 / 1862"
     graphics [
       x 69175.00000
       y 15707.97222
@@ -3064,7 +3064,7 @@ graph [
   node [
     id 180
     template "oreas:std:rect simple"
-    label "Heinrich Ferdinand Scherk / Germany / 35658"
+    label "Heinrich Ferdinand Scherk / Germany / 35658 / 1823"
     graphics [
       x 72050.00000
       y 16030.97222
@@ -3081,7 +3081,7 @@ graph [
   node [
     id 181
     template "oreas:std:rect simple"
-    label "Michel Chasles / France / 41742"
+    label "Michel Chasles / France / 41742 / 1814"
     graphics [
       x 49750.00000
       y 16353.97222
@@ -3098,7 +3098,7 @@ graph [
   node [
     id 182
     template "oreas:std:rect simple"
-    label "Markus Herfo Fordemann / Germany / 1"
+    label "Markus Herfo Fordemann / Germany / 1 / 1856"
     graphics [
       x 5200.000000
       y 16353.97222
@@ -3115,7 +3115,7 @@ graph [
   node [
     id 183
     template "oreas:std:rect simple"
-    label "Emil Weyr / Germany / 4388"
+    label "Emil Weyr / Germany / 4388 / 1870"
     graphics [
       x 46250.00000
       y 16676.97222
@@ -3132,7 +3132,7 @@ graph [
   node [
     id 184
     template "oreas:std:rect simple"
-    label "Otto Wilhelm Fiedler / Germany / 6207"
+    label "Otto Wilhelm Fiedler / Germany / 6207 / 1858"
     graphics [
       x 43300.00000
       y 16676.97222
@@ -3149,7 +3149,7 @@ graph [
   node [
     id 185
     template "oreas:std:rect simple"
-    label "Johannes Frischauf / Austria / 7355"
+    label "Johannes Frischauf / Austria / 7355 / 1861"
     graphics [
       x 68125.00000
       y 16999.97222
@@ -3166,7 +3166,7 @@ graph [
   node [
     id 186
     template "oreas:std:rect simple"
-    label "Gustav Ritter von Escherich / Austria / 7315"
+    label "Gustav Ritter von Escherich / Austria / 7315 / 1873"
     graphics [
       x 48425.00000
       y 16999.97222
@@ -3183,7 +3183,7 @@ graph [
   node [
     id 187
     template "oreas:std:rect simple"
-    label "Rudolf Eucken / Germany / 3"
+    label "Rudolf Eucken / Germany / 3 / 1866"
     graphics [
       x 67375.00000
       y 16999.97222
@@ -3200,7 +3200,7 @@ graph [
   node [
     id 188
     template "oreas:std:rect simple"
-    label "Franz Jakob Clemens / Germany / 1478"
+    label "Franz Jakob Clemens / Germany / 1478 / 1837"
     graphics [
       x 74275.00000
       y 17322.97222
@@ -3217,7 +3217,7 @@ graph [
   node [
     id 189
     template "oreas:std:rect simple"
-    label "William James / UnitedStates / 394"
+    label "William James / UnitedStates / 394 / 1869"
     graphics [
       x 76750.00000
       y 17375.97222
@@ -3234,7 +3234,7 @@ graph [
   node [
     id 190
     template "oreas:std:rect simple"
-    label "Christoph Gudermann / Germany / 31530"
+    label "Christoph Gudermann / Germany / 31530 / 1823"
     graphics [
       x 61800.00000
       y 17698.97222
@@ -3251,7 +3251,7 @@ graph [
   node [
     id 191
     template "oreas:std:rect simple"
-    label "Georg Ferdinand Ludwig Philipp Cantor / Germany / 1"
+    label "Georg Ferdinand Ludwig Philipp Cantor / Germany / 1 / 1867"
     graphics [
       x 62075.00000
       y 17698.97222
@@ -3268,7 +3268,7 @@ graph [
   node [
     id 192
     template "oreas:std:rect simple"
-    label "Christian Ludwig Gerling / Germany / 57879"
+    label "Christian Ludwig Gerling / Germany / 57879 / 1812"
     graphics [
       x 77450.00000
       y 17751.97222
@@ -3285,7 +3285,7 @@ graph [
   node [
     id 193
     template "oreas:std:rect simple"
-    label "Hermann Minkowski / Germany / 4478"
+    label "Hermann Minkowski / Germany / 4478 / 1885"
     graphics [
       x 47150.00000
       y 18074.97222
@@ -3302,7 +3302,7 @@ graph [
   node [
     id 194
     template "oreas:std:rect simple"
-    label "Hans Meyer / Germany / 0"
+    label "Hans Meyer / Germany / 0 / 1879"
     graphics [
       x 70650.00000
       y 18074.97222
@@ -3319,7 +3319,7 @@ graph [
   node [
     id 195
     template "oreas:std:rect simple"
-    label "Adolf Kneser / Germany / 661"
+    label "Adolf Kneser / Germany / 661 / 1884"
     graphics [
       x 59675.00000
       y 18074.97222
@@ -3336,7 +3336,7 @@ graph [
   node [
     id 196
     template "oreas:std:rect simple"
-    label "Camille Marie Ennemond Jordan / France / 660"
+    label "Camille Marie Ennemond Jordan / France / 660 / 1860"
     graphics [
       x 78750.00000
       y 18074.97222
@@ -3353,7 +3353,7 @@ graph [
   node [
     id 197
     template "oreas:std:rect simple"
-    label "Arnold Johannes Wilhelm Sommerfeld / Germany / 8982"
+    label "Arnold Johannes Wilhelm Sommerfeld / Germany / 8982 / 1891"
     graphics [
       x 47175.00000
       y 18397.97222
@@ -3370,7 +3370,7 @@ graph [
   node [
     id 198
     template "oreas:std:rect simple"
-    label "Carl Gottfried Neumann / Germany / 13417"
+    label "Carl Gottfried Neumann / Germany / 13417 / 1856"
     graphics [
       x 22200.00000
       y 18397.97222
@@ -3387,7 +3387,7 @@ graph [
   node [
     id 199
     template "oreas:std:rect simple"
-    label "Charles Hermite / France / 6927"
+    label "Charles Hermite / France / 6927 / 1841"
     graphics [
       x 73525.00000
       y 18720.97222
@@ -3404,7 +3404,7 @@ graph [
   node [
     id 200
     template "oreas:std:rect simple"
-    label "Albert Wangerin / Germany / 97"
+    label "Albert Wangerin / Germany / 97 / 1866"
     graphics [
       x 12875.00000
       y 18720.97222
@@ -3421,7 +3421,7 @@ graph [
   node [
     id 201
     template "oreas:std:rect simple"
-    label "Karl Johannes Thomae / Germany / 440"
+    label "Karl Johannes Thomae / Germany / 440 / 1864"
     graphics [
       x 6400.000000
       y 18720.97222
@@ -3438,7 +3438,7 @@ graph [
   node [
     id 202
     template "oreas:std:rect simple"
-    label "Georg Daniel Eduard Weyer / Germany / 0"
+    label "Georg Daniel Eduard Weyer / Germany / 0 / 1852"
     graphics [
       x 72075.00000
       y 18720.97222
@@ -3455,7 +3455,7 @@ graph [
   node [
     id 203
     template "oreas:std:rect simple"
-    label "Gustav Adolph Roch / Germany / 0"
+    label "Gustav Adolph Roch / Germany / 0 / 1862"
     graphics [
       x 39575.00000
       y 19043.97222
@@ -3472,7 +3472,7 @@ graph [
   node [
     id 204
     template "oreas:std:rect simple"
-    label "Moritz Wilhelm Drobisch / Germany / 1484"
+    label "Moritz Wilhelm Drobisch / Germany / 1484 / 1824"
     graphics [
       x 37475.00000
       y 19043.97222
@@ -3489,7 +3489,7 @@ graph [
   node [
     id 205
     template "oreas:std:rect simple"
-    label "Hermann Hankel / Germany / 6"
+    label "Hermann Hankel / Germany / 6 / 1861"
     graphics [
       x 33925.00000
       y 19366.97222
@@ -3506,7 +3506,7 @@ graph [
   node [
     id 206
     template "oreas:std:rect simple"
-    label "Ernst Christian Julius Schering / Germany / 937"
+    label "Ernst Christian Julius Schering / Germany / 937 / 1854"
     graphics [
       x 7675.000000
       y 19366.97222
@@ -3523,7 +3523,7 @@ graph [
   node [
     id 207
     template "oreas:std:rect simple"
-    label "Henri Poincaré / France / 983"
+    label "Henri Poincaré / France / 983 / 1879"
     graphics [
       x 73450.00000
       y 19366.97222
@@ -3540,7 +3540,7 @@ graph [
   node [
     id 208
     template "oreas:std:rect simple"
-    label "Gaston Darboux / France / 20133"
+    label "Gaston Darboux / France / 20133 / 1866"
     graphics [
       x 55500.00000
       y 19366.97222
@@ -3557,7 +3557,7 @@ graph [
   node [
     id 209
     template "oreas:std:rect simple"
-    label "Jules Tannery / France / 4632"
+    label "Jules Tannery / France / 4632 / 1874"
     graphics [
       x 71200.00000
       y 19689.97222
@@ -3574,7 +3574,7 @@ graph [
   node [
     id 210
     template "oreas:std:rect simple"
-    label "C. Émile (Charles) Picard / France / 12988"
+    label "C. Émile (Charles) Picard / France / 12988 / 1877"
     graphics [
       x 62400.00000
       y 19689.97222
@@ -3591,7 +3591,7 @@ graph [
   node [
     id 211
     template "oreas:std:rect simple"
-    label "Kurt Hensel / Germany / 1814"
+    label "Kurt Hensel / Germany / 1814 / 1884"
     graphics [
       x 53875.00000
       y 19846.30556
@@ -3608,7 +3608,7 @@ graph [
   node [
     id 212
     template "oreas:std:rect simple"
-    label "Wallace Clement Sabine / UnitedStates / 2178"
+    label "Wallace Clement Sabine / UnitedStates / 2178 / 1888"
     graphics [
       x 78950.00000
       y 20169.30556
@@ -3625,7 +3625,7 @@ graph [
   node [
     id 213
     template "oreas:std:rect simple"
-    label "Karl Reinhold / Germany / 3446"
+    label "Karl Reinhold / Germany / 3446 / 1787"
     graphics [
       x 66650.00000
       y 20169.30556
@@ -3642,7 +3642,7 @@ graph [
   node [
     id 214
     template "oreas:std:rect simple"
-    label "August Ferdinand Möbius / Germany / 6218"
+    label "August Ferdinand Möbius / Germany / 6218 / 1815"
     graphics [
       x 49125.00000
       y 20169.30556
@@ -3659,7 +3659,7 @@ graph [
   node [
     id 215
     template "oreas:std:rect simple"
-    label "Edward Kasner / UnitedStates / 739"
+    label "Edward Kasner / UnitedStates / 739 / 1899"
     graphics [
       x 47825.00000
       y 20169.30556
@@ -3676,7 +3676,7 @@ graph [
   node [
     id 216
     template "oreas:std:rect simple"
-    label "Amadeus Hahn / Germany / 0"
+    label "Amadeus Hahn / Germany / 0 / 1886"
     graphics [
       x 6400.000000
       y 20350.63889
@@ -3693,7 +3693,7 @@ graph [
   node [
     id 217
     template "oreas:std:rect simple"
-    label "Eugen Czervinski / Germany / 0"
+    label "Eugen Czervinski / Germany / 0 / 1888"
     graphics [
       x 7175.000000
       y 20350.63889
@@ -3710,7 +3710,7 @@ graph [
   node [
     id 218
     template "oreas:std:rect simple"
-    label "Rudolf Constantin Straubel / Germany / 5"
+    label "Rudolf Constantin Straubel / Germany / 5 / 1888"
     graphics [
       x 5725.000000
       y 20350.63889
@@ -3727,7 +3727,7 @@ graph [
   node [
     id 219
     template "oreas:std:rect simple"
-    label "Max Reinhold / Germany / 0"
+    label "Max Reinhold / Germany / 0 / 1889"
     graphics [
       x 6225.000000
       y 20350.63889
@@ -3744,7 +3744,7 @@ graph [
   node [
     id 220
     template "oreas:std:rect simple"
-    label "Theodor Tuch / Germany / 0"
+    label "Theodor Tuch / Germany / 0 / 1890"
     graphics [
       x 7375.000000
       y 20350.63889
@@ -3761,7 +3761,7 @@ graph [
   node [
     id 221
     template "oreas:std:rect simple"
-    label "Pius Sack / Germany / 0"
+    label "Pius Sack / Germany / 0 / 1890"
     graphics [
       x 6700.000000
       y 20403.63889
@@ -3778,7 +3778,7 @@ graph [
   node [
     id 222
     template "oreas:std:rect simple"
-    label "Albert Henschel / Germany / 0"
+    label "Albert Henschel / Germany / 0 / 1891"
     graphics [
       x 5525.000000
       y 20403.63889
@@ -3795,7 +3795,7 @@ graph [
   node [
     id 223
     template "oreas:std:rect simple"
-    label "Hermann Oppenheimer / Germany / 0"
+    label "Hermann Oppenheimer / Germany / 0 / 1892"
     graphics [
       x 5375.000000
       y 20403.63889
@@ -3812,7 +3812,7 @@ graph [
   node [
     id 224
     template "oreas:std:rect simple"
-    label "Eduard Penzold / Germany / 0"
+    label "Eduard Penzold / Germany / 0 / 1892"
     graphics [
       x 6050.000000
       y 20403.63889
@@ -3829,7 +3829,7 @@ graph [
   node [
     id 225
     template "oreas:std:rect simple"
-    label "Walter Rudolphi / Germany / 0"
+    label "Walter Rudolphi / Germany / 0 / 1883"
     graphics [
       x 13300.00000
       y 20403.63889
@@ -3846,7 +3846,7 @@ graph [
   node [
     id 226
     template "oreas:std:rect simple"
-    label "Cuthbert Cullis / Germany / 0"
+    label "Cuthbert Cullis / Germany / 0 / 1895"
     graphics [
       x 5900.000000
       y 20403.63889
@@ -3863,7 +3863,7 @@ graph [
   node [
     id 227
     template "oreas:std:rect simple"
-    label "Karl Rückoldt / Germany / 0"
+    label "Karl Rückoldt / Germany / 0 / 1885"
     graphics [
       x 6825.000000
       y 20493.30556
@@ -3880,7 +3880,7 @@ graph [
   node [
     id 228
     template "oreas:std:rect simple"
-    label "Johann Heinrich F. Fricke / Germany / 0"
+    label "Johann Heinrich F. Fricke / Germany / 0 / 1897"
     graphics [
       x 7525.000000
       y 20493.30556
@@ -3897,7 +3897,7 @@ graph [
   node [
     id 229
     template "oreas:std:rect simple"
-    label "Hans Boegehold / Germany / 0"
+    label "Hans Boegehold / Germany / 0 / 1898"
     graphics [
       x 6700.000000
       y 20493.30556
@@ -3914,7 +3914,7 @@ graph [
   node [
     id 230
     template "oreas:std:rect simple"
-    label "Demetrius Danitsch / Germany / 0"
+    label "Demetrius Danitsch / Germany / 0 / 1885"
     graphics [
       x 5350.000000
       y 20493.30556
@@ -3931,7 +3931,7 @@ graph [
   node [
     id 231
     template "oreas:std:rect simple"
-    label "Friedrich Lefler / Germany / 0"
+    label "Friedrich Lefler / Germany / 0 / 1881"
     graphics [
       x 7000.000000
       y 20493.30556
@@ -3948,7 +3948,7 @@ graph [
   node [
     id 232
     template "oreas:std:rect simple"
-    label "K. Heinrich Otto (Karl) Liebmann / Germany / 163"
+    label "K. Heinrich Otto (Karl) Liebmann / Germany / 163 / 1895"
     graphics [
       x 7150.000000
       y 20493.30556
@@ -3965,7 +3965,7 @@ graph [
   node [
     id 233
     template "oreas:std:rect simple"
-    label "Johannes Beinhorn / Germany / 0"
+    label "Johannes Beinhorn / Germany / 0 / 1894"
     graphics [
       x 6575.000000
       y 20493.30556
@@ -3982,7 +3982,7 @@ graph [
   node [
     id 234
     template "oreas:std:rect simple"
-    label "Heinrich Schaefer / Germany / 0"
+    label "Heinrich Schaefer / Germany / 0 / 1875"
     graphics [
       x 6200.000000
       y 20549.63889
@@ -3999,7 +3999,7 @@ graph [
   node [
     id 235
     template "oreas:std:rect simple"
-    label "Johannes Ostwald / Germany / 2"
+    label "Johannes Ostwald / Germany / 2 / 1876"
     graphics [
       x 5925.000000
       y 20549.63889
@@ -4016,7 +4016,7 @@ graph [
   node [
     id 236
     template "oreas:std:rect simple"
-    label "Ludwig Neumann / Germany / 223"
+    label "Ludwig Neumann / Germany / 223 / 1878"
     graphics [
       x 5675.000000
       y 20549.63889
@@ -4033,7 +4033,7 @@ graph [
   node [
     id 237
     template "oreas:std:rect simple"
-    label "Otto Baumann / Germany / 0"
+    label "Otto Baumann / Germany / 0 / 1878"
     graphics [
       x 7350.000000
       y 20549.63889
@@ -4050,7 +4050,7 @@ graph [
   node [
     id 238
     template "oreas:std:rect simple"
-    label "Carl Kroeber / Germany / 0"
+    label "Carl Kroeber / Germany / 0 / 1878"
     graphics [
       x 5800.000000
       y 20549.63889
@@ -4067,7 +4067,7 @@ graph [
   node [
     id 239
     template "oreas:std:rect simple"
-    label "Ernst Ziemer / Germany / 0"
+    label "Ernst Ziemer / Germany / 0 / 1881"
     graphics [
       x 5450.000000
       y 20549.63889
@@ -4084,7 +4084,7 @@ graph [
   node [
     id 240
     template "oreas:std:rect simple"
-    label "Richard Sellentin / Germany / 0"
+    label "Richard Sellentin / Germany / 0 / 1881"
     graphics [
       x 6050.000000
       y 20549.63889
@@ -4101,7 +4101,7 @@ graph [
   node [
     id 241
     template "oreas:std:rect simple"
-    label "Joh Schaeffler / Germany / 0"
+    label "Joh Schaeffler / Germany / 0 / 1881"
     graphics [
       x 6550.000000
       y 20549.63889
@@ -4118,7 +4118,7 @@ graph [
   node [
     id 242
     template "oreas:std:rect simple"
-    label "Richard Dietrich / Germany / 0"
+    label "Richard Dietrich / Germany / 0 / 1881"
     graphics [
       x 6975.000000
       y 20549.63889
@@ -4135,7 +4135,7 @@ graph [
   node [
     id 243
     template "oreas:std:rect simple"
-    label "Richard Berthold / Germany / 0"
+    label "Richard Berthold / Germany / 0 / 1885"
     graphics [
       x 7450.000000
       y 20602.63889
@@ -4152,7 +4152,7 @@ graph [
   node [
     id 244
     template "oreas:std:rect simple"
-    label "Georg Sarantopoulos / Germany / 0"
+    label "Georg Sarantopoulos / Germany / 0 / 1881"
     graphics [
       x 5600.000000
       y 20602.63889
@@ -4169,7 +4169,7 @@ graph [
   node [
     id 245
     template "oreas:std:rect simple"
-    label "Otto Zimmermann / Germany / 0"
+    label "Otto Zimmermann / Germany / 0 / 1881"
     graphics [
       x 7075.000000
       y 20602.63889
@@ -4186,7 +4186,7 @@ graph [
   node [
     id 246
     template "oreas:std:rect simple"
-    label "Adolf Fordemann / Germany / 0"
+    label "Adolf Fordemann / Germany / 0 / 1881"
     graphics [
       x 5200.000000
       y 20602.63889
@@ -4203,7 +4203,7 @@ graph [
   node [
     id 247
     template "oreas:std:rect simple"
-    label "&nbsp; Meyer / Germany / 0"
+    label "&nbsp; Meyer / Germany / 0 / 1881"
     graphics [
       x 6475.000000
       y 20602.63889
@@ -4220,7 +4220,7 @@ graph [
   node [
     id 248
     template "oreas:std:rect simple"
-    label "Julius Hoch / Germany / 0"
+    label "Julius Hoch / Germany / 0 / 1881"
     graphics [
       x 7200.000000
       y 20655.63889
@@ -4237,7 +4237,7 @@ graph [
   node [
     id 249
     template "oreas:std:rect simple"
-    label "Carl August Hossfeld / Germany / 0"
+    label "Carl August Hossfeld / Germany / 0 / 1882"
     graphics [
       x 6250.000000
       y 20708.63889
@@ -4254,7 +4254,7 @@ graph [
   node [
     id 250
     template "oreas:std:rect simple"
-    label "Ernst Hoyer / Germany / 0"
+    label "Ernst Hoyer / Germany / 0 / 1883"
     graphics [
       x 6125.000000
       y 20708.63889
@@ -4271,7 +4271,7 @@ graph [
   node [
     id 251
     template "oreas:std:rect simple"
-    label "Bernhard Trognitz / Germany / 0"
+    label "Bernhard Trognitz / Germany / 0 / 1883"
     graphics [
       x 7275.000000
       y 20761.63889
@@ -4288,7 +4288,7 @@ graph [
   node [
     id 252
     template "oreas:std:rect simple"
-    label "Paul Rudolph / Germany / 0"
+    label "Paul Rudolph / Germany / 0 / 1884"
     graphics [
       x 7575.000000
       y 20814.63889
@@ -4305,7 +4305,7 @@ graph [
   node [
     id 253
     template "oreas:std:rect simple"
-    label "Bernhard Heiland / Germany / 0"
+    label "Bernhard Heiland / Germany / 0 / 1884"
     graphics [
       x 6325.000000
       y 20867.63889
@@ -4322,7 +4322,7 @@ graph [
   node [
     id 254
     template "oreas:std:rect simple"
-    label "Eugen Jahnke / Germany / 0"
+    label "Eugen Jahnke / Germany / 0 / 1889"
     graphics [
       x 12650.00000
       y 20867.63889
@@ -4339,7 +4339,7 @@ graph [
   node [
     id 255
     template "oreas:std:rect simple"
-    label "Rudolph Mischer / Germany / 0"
+    label "Rudolph Mischer / Germany / 0 / 1881"
     graphics [
       x 6900.000000
       y 20990.63889
@@ -4356,7 +4356,7 @@ graph [
   node [
     id 256
     template "oreas:std:rect simple"
-    label "Paul Plettenberg / Germany / 0"
+    label "Paul Plettenberg / Germany / 0 / 1883"
     graphics [
       x 12425.00000
       y 20990.63889
@@ -4373,7 +4373,7 @@ graph [
   node [
     id 257
     template "oreas:std:rect simple"
-    label "August Gutzmer / Germany / 50"
+    label "August Gutzmer / Germany / 50 / 1892"
     graphics [
       x 12800.00000
       y 20990.63889
@@ -4390,7 +4390,7 @@ graph [
   node [
     id 258
     template "oreas:std:rect simple"
-    label "Gustav Kase / Germany / 0"
+    label "Gustav Kase / Germany / 0 / 1890"
     graphics [
       x 12675.00000
       y 20990.63889
@@ -4407,7 +4407,7 @@ graph [
   node [
     id 259
     template "oreas:std:rect simple"
-    label "Richard Regener / Germany / 0"
+    label "Richard Regener / Germany / 0 / 1885"
     graphics [
       x 12550.00000
       y 20990.63889
@@ -4424,7 +4424,7 @@ graph [
   node [
     id 260
     template "oreas:std:rect simple"
-    label "Karl Theodor Martin Bochow / Germany / 0"
+    label "Karl Theodor Martin Bochow / Germany / 0 / 1885"
     graphics [
       x 12400.00000
       y 21043.63889
@@ -4441,7 +4441,7 @@ graph [
   node [
     id 261
     template "oreas:std:rect simple"
-    label "Paul Schafheitlin / Germany / 0"
+    label "Paul Schafheitlin / Germany / 0 / 1885"
     graphics [
       x 12825.00000
       y 21043.63889
@@ -4458,7 +4458,7 @@ graph [
   node [
     id 262
     template "oreas:std:rect simple"
-    label "Konrad Simon / Germany / 0"
+    label "Konrad Simon / Germany / 0 / 1887"
     graphics [
       x 12075.00000
       y 21043.63889
@@ -4475,7 +4475,7 @@ graph [
   node [
     id 263
     template "oreas:std:rect simple"
-    label "Herman Fürle / Germany / 0"
+    label "Herman Fürle / Germany / 0 / 1887"
     graphics [
       x 12975.00000
       y 21043.63889
@@ -4492,7 +4492,7 @@ graph [
   node [
     id 264
     template "oreas:std:rect simple"
-    label "Adolf Offenhauer / Germany / 0"
+    label "Adolf Offenhauer / Germany / 0 / 1887"
     graphics [
       x 13125.00000
       y 21096.63889
@@ -4509,7 +4509,7 @@ graph [
   node [
     id 265
     template "oreas:std:rect simple"
-    label "Robert Claus / Germany / 0"
+    label "Robert Claus / Germany / 0 / 1887"
     graphics [
       x 12375.00000
       y 21096.63889
@@ -4526,7 +4526,7 @@ graph [
   node [
     id 266
     template "oreas:std:rect simple"
-    label "Friedrich Fitting / Germany / 0"
+    label "Friedrich Fitting / Germany / 0 / 1888"
     graphics [
       x 13600.00000
       y 21149.63889
@@ -4543,7 +4543,7 @@ graph [
   node [
     id 267
     template "oreas:std:rect simple"
-    label "Friedrich Wilhelm Kirchner / Germany / 0"
+    label "Friedrich Wilhelm Kirchner / Germany / 0 / 1888"
     graphics [
       x 13450.00000
       y 21202.63889
@@ -4560,7 +4560,7 @@ graph [
   node [
     id 268
     template "oreas:std:rect simple"
-    label "Heinrich Bork / Germany / 0"
+    label "Heinrich Bork / Germany / 0 / 1889"
     graphics [
       x 13150.00000
       y 21202.63889
@@ -4577,7 +4577,7 @@ graph [
   node [
     id 269
     template "oreas:std:rect simple"
-    label "Gustav Pflaumbaum / Germany / 0"
+    label "Gustav Pflaumbaum / Germany / 0 / 1889"
     graphics [
       x 12225.00000
       y 21255.63889
@@ -4594,7 +4594,7 @@ graph [
   node [
     id 270
     template "oreas:std:rect simple"
-    label "Theodor Arendt / Germany / 0"
+    label "Theodor Arendt / Germany / 0 / 1884"
     graphics [
       x 12050.00000
       y 21255.63889
@@ -4611,7 +4611,7 @@ graph [
   node [
     id 271
     template "oreas:std:rect simple"
-    label "Max Rosenkranz / Germany / 0"
+    label "Max Rosenkranz / Germany / 0 / 1890"
     graphics [
       x 13375.00000
       y 21308.63889
@@ -4628,7 +4628,7 @@ graph [
   node [
     id 272
     template "oreas:std:rect simple"
-    label "Rudolf Gaertner / Germany / 0"
+    label "Rudolf Gaertner / Germany / 0 / 1891"
     graphics [
       x 13525.00000
       y 21361.63889
@@ -4645,7 +4645,7 @@ graph [
   node [
     id 273
     template "oreas:std:rect simple"
-    label "Eugen Hollaender / Germany / 0"
+    label "Eugen Hollaender / Germany / 0 / 1891"
     graphics [
       x 12300.00000
       y 21361.63889
@@ -4662,7 +4662,7 @@ graph [
   node [
     id 274
     template "oreas:std:rect simple"
-    label "Ernst Kullrich / Germany / 0"
+    label "Ernst Kullrich / Germany / 0 / 1891"
     graphics [
       x 13050.00000
       y 21414.63889
@@ -4679,7 +4679,7 @@ graph [
   node [
     id 275
     template "oreas:std:rect simple"
-    label "Albrecht Fischer / Germany / 0"
+    label "Albrecht Fischer / Germany / 0 / 1891"
     graphics [
       x 13625.00000
       y 21467.63889
@@ -4696,7 +4696,7 @@ graph [
   node [
     id 276
     template "oreas:std:rect simple"
-    label "Georg Bohlmann / Germany / 0"
+    label "Georg Bohlmann / Germany / 0 / 1892"
     graphics [
       x 13225.00000
       y 21467.63889
@@ -4713,7 +4713,7 @@ graph [
   node [
     id 277
     template "oreas:std:rect simple"
-    label "Hermann Ernst Graßmann / Germany / 1"
+    label "Hermann Ernst Graßmann / Germany / 1 / 1893"
     graphics [
       x 12900.00000
       y 21467.63889
@@ -4730,7 +4730,7 @@ graph [
   node [
     id 278
     template "oreas:std:rect simple"
-    label "Josef Kupferberg / Germany / 0"
+    label "Josef Kupferberg / Germany / 0 / 1895"
     graphics [
       x 12150.00000
       y 21467.63889
@@ -4747,7 +4747,7 @@ graph [
   node [
     id 279
     template "oreas:std:rect simple"
-    label "Franz Gauger / Germany / 0"
+    label "Franz Gauger / Germany / 0 / 1885"
     graphics [
       x 5275.000000
       y 21520.63889
@@ -4764,7 +4764,7 @@ graph [
   node [
     id 280
     template "oreas:std:rect simple"
-    label "Shunkichi Kimura / UnitedStates / 0"
+    label "Shunkichi Kimura / UnitedStates / 0 / 1896"
     graphics [
       x 52400.00000
       y 21573.63889
@@ -4781,7 +4781,7 @@ graph [
   node [
     id 281
     template "oreas:std:rect simple"
-    label "William Anthony Granville / UnitedStates / 0"
+    label "William Anthony Granville / UnitedStates / 0 / 1897"
     graphics [
       x 52175.00000
       y 21573.63889
@@ -4798,7 +4798,7 @@ graph [
   node [
     id 282
     template "oreas:std:rect simple"
-    label "Jacob Westlund / UnitedStates / 0"
+    label "Jacob Westlund / UnitedStates / 0 / 1898"
     graphics [
       x 52325.00000
       y 21626.63889
@@ -4815,7 +4815,7 @@ graph [
   node [
     id 283
     template "oreas:std:rect simple"
-    label "Wendell Melville Strong / UnitedStates / 0"
+    label "Wendell Melville Strong / UnitedStates / 0 / 1898"
     graphics [
       x 52475.00000
       y 21626.63889
@@ -4832,7 +4832,7 @@ graph [
   node [
     id 284
     template "oreas:std:rect simple"
-    label "George Tucker Sellew / UnitedStates / 0"
+    label "George Tucker Sellew / UnitedStates / 0 / 1898"
     graphics [
       x 52200.00000
       y 21626.63889
@@ -4849,7 +4849,7 @@ graph [
   node [
     id 285
     template "oreas:std:rect simple"
-    label "William Elwood Byerly / UnitedStates / 0"
+    label "William Elwood Byerly / UnitedStates / 0 / 1873"
     graphics [
       x 41675.00000
       y 21626.63889
@@ -4866,7 +4866,7 @@ graph [
   node [
     id 286
     template "oreas:std:rect simple"
-    label "David Bierens de Haan / Netherlands / 795"
+    label "David Bierens de Haan / Netherlands / 795 / 1847"
     graphics [
       x 1250.000000
       y 21626.63889
@@ -4883,7 +4883,7 @@ graph [
   node [
     id 287
     template "oreas:std:rect simple"
-    label "Gerhard Hermann Waldemar Kowalewski / Germany / 714"
+    label "Gerhard Hermann Waldemar Kowalewski / Germany / 714 / 1898"
     graphics [
       x 14325.00000
       y 21626.63889
@@ -4900,7 +4900,7 @@ graph [
   node [
     id 288
     template "oreas:std:rect simple"
-    label "Leonhard Euler / Switzerland / 102757"
+    label "Leonhard Euler / Switzerland / 102757 / 1726"
     graphics [
       x 8375.000000
       y 21949.63889
@@ -4917,7 +4917,7 @@ graph [
   node [
     id 289
     template "oreas:std:rect simple"
-    label "Émile Borel / France / 7454"
+    label "Émile Borel / France / 7454 / 1893"
     graphics [
       x 55575.00000
       y 21949.63889
@@ -4934,7 +4934,7 @@ graph [
   node [
     id 290
     template "oreas:std:rect simple"
-    label "Johann Albert Arndt / Germany / 0"
+    label "Johann Albert Arndt / Germany / 0 / 1833"
     graphics [
       x 53725.00000
       y 21949.63889
@@ -4951,7 +4951,7 @@ graph [
   node [
     id 291
     template "oreas:std:rect simple"
-    label "Theodor Berner / Germany / 0"
+    label "Theodor Berner / Germany / 0 / 1864"
     graphics [
       x 62475.00000
       y 21949.63889
@@ -4968,7 +4968,7 @@ graph [
   node [
     id 292
     template "oreas:std:rect simple"
-    label "Wilhelm Gustav Adolf Biermann / Germany / 0"
+    label "Wilhelm Gustav Adolf Biermann / Germany / 0 / 1865"
     graphics [
       x 62875.00000
       y 21949.63889
@@ -4985,7 +4985,7 @@ graph [
   node [
     id 293
     template "oreas:std:rect simple"
-    label "Max Blasendorff / Germany / 0"
+    label "Max Blasendorff / Germany / 0 / 1883"
     graphics [
       x 62300.00000
       y 21949.63889
@@ -5002,7 +5002,7 @@ graph [
   node [
     id 294
     template "oreas:std:rect simple"
-    label "Johann Robert Boymann / Germany / 0"
+    label "Johann Robert Boymann / Germany / 0 / 1839"
     graphics [
       x 53575.00000
       y 22130.97222
@@ -5019,7 +5019,7 @@ graph [
   node [
     id 295
     template "oreas:std:rect simple"
-    label "Hermann Bröcker / Germany / 0"
+    label "Hermann Bröcker / Germany / 0 / 1893"
     graphics [
       x 75825.00000
       y 22130.97222
@@ -5036,7 +5036,7 @@ graph [
   node [
     id 296
     template "oreas:std:rect simple"
-    label "Franz Brünnow / Germany / 0"
+    label "Franz Brünnow / Germany / 0 / 1843"
     graphics [
       x 53700.00000
       y 22130.97222
@@ -5053,7 +5053,7 @@ graph [
   node [
     id 297
     template "oreas:std:rect simple"
-    label "Enno Heeren Dirksen / Germany / 17832"
+    label "Enno Heeren Dirksen / Germany / 17832 / 1820"
     graphics [
       x 52975.00000
       y 22453.97222
@@ -5070,7 +5070,7 @@ graph [
   node [
     id 298
     template "oreas:std:rect simple"
-    label "Hermann Julius Hartenstein / Germany / 0"
+    label "Hermann Julius Hartenstein / Germany / 0 / 1887"
     graphics [
       x 25325.00000
       y 22453.97222
@@ -5087,7 +5087,7 @@ graph [
   node [
     id 299
     template "oreas:std:rect simple"
-    label "Ferdinand Rudio / Germany / 0"
+    label "Ferdinand Rudio / Germany / 0 / 1880"
     graphics [
       x 62475.00000
       y 22453.97222
@@ -5104,7 +5104,7 @@ graph [
   node [
     id 300
     template "oreas:std:rect simple"
-    label "Walther Hermann Nernst / Germany / 101"
+    label "Walther Hermann Nernst / Germany / 101 / 1887"
     graphics [
       x 25125.00000
       y 22776.97222
@@ -5121,7 +5121,7 @@ graph [
   node [
     id 301
     template "oreas:std:rect simple"
-    label "Robert Karl Hermann Haußner / Germany / 492"
+    label "Robert Karl Hermann Haußner / Germany / 492 / 1888"
     graphics [
       x 49675.00000
       y 22776.97222
@@ -5138,7 +5138,7 @@ graph [
   node [
     id 302
     template "oreas:std:rect simple"
-    label "Woldemar Voigt / Germany / 254"
+    label "Woldemar Voigt / Germany / 254 / 1874"
     graphics [
       x 12025.00000
       y 22829.97222
@@ -5155,7 +5155,7 @@ graph [
   node [
     id 303
     template "oreas:std:rect simple"
-    label "Friedrich Busse / Germany / 0"
+    label "Friedrich Busse / Germany / 0 / 1896"
     graphics [
       x 75175.00000
       y 23152.97222
@@ -5172,7 +5172,7 @@ graph [
   node [
     id 304
     template "oreas:std:rect simple"
-    label "Ferdinand Caspary / Germany / 0"
+    label "Ferdinand Caspary / Germany / 0 / 1875"
     graphics [
       x 66700.00000
       y 23152.97222
@@ -5189,7 +5189,7 @@ graph [
   node [
     id 305
     template "oreas:std:rect simple"
-    label "Elwin Bruno Christoffel / Germany / 74"
+    label "Elwin Bruno Christoffel / Germany / 74 / 1856"
     graphics [
       x 67150.00000
       y 23152.97222
@@ -5206,7 +5206,7 @@ graph [
   node [
     id 306
     template "oreas:std:rect simple"
-    label "Carl August Dilling / Germany / 0"
+    label "Carl August Dilling / Germany / 0 / 1831"
     graphics [
       x 52875.00000
       y 23152.97222
@@ -5223,7 +5223,7 @@ graph [
   node [
     id 307
     template "oreas:std:rect simple"
-    label "Ludwig Ideler / Germany / 3"
+    label "Ludwig Ideler / Germany / 3 / 1805"
     graphics [
       x 53175.00000
       y 23375.97222
@@ -5240,7 +5240,7 @@ graph [
   node [
     id 308
     template "oreas:std:rect simple"
-    label "Karl Färber / Germany / 0"
+    label "Karl Färber / Germany / 0 / 1889"
     graphics [
       x 54025.00000
       y 23375.97222
@@ -5257,7 +5257,7 @@ graph [
   node [
     id 309
     template "oreas:std:rect simple"
-    label "Karl Fischer / Germany / 0"
+    label "Karl Fischer / Germany / 0 / 1896"
     graphics [
       x 79925.00000
       y 23375.97222
@@ -5274,7 +5274,7 @@ graph [
   node [
     id 310
     template "oreas:std:rect simple"
-    label "Johann Heinrich Fölsing / Germany / 0"
+    label "Johann Heinrich Fölsing / Germany / 0 / 1836"
     graphics [
       x 52900.00000
       y 23375.97222
@@ -5291,7 +5291,7 @@ graph [
   node [
     id 311
     template "oreas:std:rect simple"
-    label "Joseph Christof Fry / Germany / 0"
+    label "Joseph Christof Fry / Germany / 0 / 1864"
     graphics [
       x 66500.00000
       y 23428.97222
@@ -5308,7 +5308,7 @@ graph [
   node [
     id 312
     template "oreas:std:rect simple"
-    label "Franz Gehring / Germany / 0"
+    label "Franz Gehring / Germany / 0 / 1860"
     graphics [
       x 66725.00000
       y 23428.97222
@@ -5325,7 +5325,7 @@ graph [
   node [
     id 313
     template "oreas:std:rect simple"
-    label "Paul Günther / Germany / 0"
+    label "Paul Günther / Germany / 0 / 1889"
     graphics [
       x 75000.00000
       y 23428.97222
@@ -5342,7 +5342,7 @@ graph [
   node [
     id 314
     template "oreas:std:rect simple"
-    label "Carl Immanuel Gerhardt / Germany / 0"
+    label "Carl Immanuel Gerhardt / Germany / 0 / 1837"
     graphics [
       x 53000.00000
       y 23485.30556
@@ -5359,7 +5359,7 @@ graph [
   node [
     id 315
     template "oreas:std:rect simple"
-    label "Adolph Gustav Goepel / Germany / 0"
+    label "Adolph Gustav Goepel / Germany / 0 / 1835"
     graphics [
       x 52875.00000
       y 23485.30556
@@ -5376,7 +5376,7 @@ graph [
   node [
     id 316
     template "oreas:std:rect simple"
-    label "Justus Graßmann / Germany / 0"
+    label "Justus Graßmann / Germany / 0 / 1875"
     graphics [
       x 66875.00000
       y 23485.30556
@@ -5393,7 +5393,7 @@ graph [
   node [
     id 317
     template "oreas:std:rect simple"
-    label "Adalbert Harprecht / Germany / 0"
+    label "Adalbert Harprecht / Germany / 0 / 1862"
     graphics [
       x 66525.00000
       y 23485.30556
@@ -5410,7 +5410,7 @@ graph [
   node [
     id 318
     template "oreas:std:rect simple"
-    label "Lothar Heffter / Germany / 13"
+    label "Lothar Heffter / Germany / 13 / 1886"
     graphics [
       x 74925.00000
       y 23538.30556
@@ -5427,7 +5427,7 @@ graph [
   node [
     id 319
     template "oreas:std:rect simple"
-    label "Eduard Heinrich Heine / Germany / 3"
+    label "Eduard Heinrich Heine / Germany / 3 / 1842"
     graphics [
       x 53025.00000
       y 23538.30556
@@ -5444,7 +5444,7 @@ graph [
   node [
     id 320
     template "oreas:std:rect simple"
-    label "Maximilian Henoch / Germany / 0"
+    label "Maximilian Henoch / Germany / 0 / 1867"
     graphics [
       x 65425.00000
       y 23538.30556
@@ -5461,7 +5461,7 @@ graph [
   node [
     id 321
     template "oreas:std:rect simple"
-    label "Gerhard Hessenberg / Germany / 49"
+    label "Gerhard Hessenberg / Germany / 49 / 1899"
     graphics [
       x 72225.00000
       y 23861.30556
@@ -5478,7 +5478,7 @@ graph [
   node [
     id 322
     template "oreas:std:rect simple"
-    label "Willy Howe / Germany / 0"
+    label "Willy Howe / Germany / 0 / 1887"
     graphics [
       x 55050.00000
       y 23861.30556
@@ -5495,7 +5495,7 @@ graph [
   node [
     id 323
     template "oreas:std:rect simple"
-    label "Paul Hoyer / Germany / 1"
+    label "Paul Hoyer / Germany / 1 / 1879"
     graphics [
       x 54925.00000
       y 23861.30556
@@ -5512,7 +5512,7 @@ graph [
   node [
     id 324
     template "oreas:std:rect simple"
-    label "Johannes Diderik van der Waals / Netherlands / 2661"
+    label "Johannes Diderik van der Waals / Netherlands / 2661 / 1873"
     graphics [
       x 3900.000000
       y 23861.30556
@@ -5529,7 +5529,7 @@ graph [
   node [
     id 325
     template "oreas:std:rect simple"
-    label "Gustav de Vries / Netherlands / 0"
+    label "Gustav de Vries / Netherlands / 0 / 1894"
     graphics [
       x 4125.000000
       y 24184.30556
@@ -5546,7 +5546,7 @@ graph [
   node [
     id 326
     template "oreas:std:rect simple"
-    label "Friedrich Engel / Germany / 347"
+    label "Friedrich Engel / Germany / 347 / 1883"
     graphics [
       x 17900.00000
       y 24184.30556
@@ -5563,7 +5563,7 @@ graph [
   node [
     id 327
     template "oreas:std:rect simple"
-    label "Adolph Christian Gustav Mayer / Germany / 738"
+    label "Adolph Christian Gustav Mayer / Germany / 738 / 1861"
     graphics [
       x 14325.00000
       y 24184.30556
@@ -5580,7 +5580,7 @@ graph [
   node [
     id 328
     template "oreas:std:rect simple"
-    label "David Andrew Rothrock / Germany / 0"
+    label "David Andrew Rothrock / Germany / 0 / 1899"
     graphics [
       x 14750.00000
       y 24184.30556
@@ -5597,7 +5597,7 @@ graph [
   node [
     id 329
     template "oreas:std:rect simple"
-    label "Otto Paul Pfitzner / Germany / 0"
+    label "Otto Paul Pfitzner / Germany / 0 / 1884"
     graphics [
       x 45200.00000
       y 24184.30556
@@ -5614,7 +5614,7 @@ graph [
   node [
     id 330
     template "oreas:std:rect simple"
-    label "Wilhelm Max Wundt / Germany / 619"
+    label "Wilhelm Max Wundt / Germany / 619 / 1856"
     graphics [
       x 64539.28571
       y 24507.30556
@@ -5631,7 +5631,7 @@ graph [
   node [
     id 331
     template "oreas:std:rect simple"
-    label "Hermann Werner / Germany / 0"
+    label "Hermann Werner / Germany / 0 / 1889"
     graphics [
       x 19837.50000
       y 24507.30556
@@ -5648,7 +5648,7 @@ graph [
   node [
     id 332
     template "oreas:std:rect simple"
-    label "Richard Kummer / Germany / 2"
+    label "Richard Kummer / Germany / 2 / 1894"
     graphics [
       x 14250.00000
       y 24830.30556
@@ -5665,7 +5665,7 @@ graph [
   node [
     id 333
     template "oreas:std:rect simple"
-    label "Richard Koch / Germany / 0"
+    label "Richard Koch / Germany / 0 / 1898"
     graphics [
       x 17850.00000
       y 24830.30556
@@ -5682,7 +5682,7 @@ graph [
   node [
     id 334
     template "oreas:std:rect simple"
-    label "Alexis Letnikow / Germany / 0"
+    label "Alexis Letnikow / Germany / 0 / 1867"
     graphics [
       x 37700.00000
       y 24830.30556
@@ -5699,7 +5699,7 @@ graph [
   node [
     id 335
     template "oreas:std:rect simple"
-    label "Gottlob Friedrich Ludwig Frege / Germany / 0"
+    label "Gottlob Friedrich Ludwig Frege / Germany / 0 / 1873"
     graphics [
       x 17050.00000
       y 24830.30556
@@ -5716,7 +5716,7 @@ graph [
   node [
     id 336
     template "oreas:std:rect simple"
-    label "Ernst Zermelo / Germany / 3"
+    label "Ernst Zermelo / Germany / 3 / 1894"
     graphics [
       x 72225.00000
       y 25153.30556
@@ -5733,7 +5733,7 @@ graph [
   node [
     id 337
     template "oreas:std:rect simple"
-    label "Ernst Steinitz / Germany / 0"
+    label "Ernst Steinitz / Germany / 0 / 1894"
     graphics [
       x 74875.00000
       y 25153.30556
@@ -5750,7 +5750,7 @@ graph [
   node [
     id 338
     template "oreas:std:rect simple"
-    label "Paul Stäckel / Germany / 23"
+    label "Paul Stäckel / Germany / 23 / 1885"
     graphics [
       x 53950.00000
       y 25153.30556
@@ -5767,7 +5767,7 @@ graph [
   node [
     id 339
     template "oreas:std:rect simple"
-    label "Arthur Moritz Schoenflies / Germany / 6"
+    label "Arthur Moritz Schoenflies / Germany / 6 / 1877"
     graphics [
       x 60200.00000
       y 25153.30556
@@ -5784,7 +5784,7 @@ graph [
   node [
     id 340
     template "oreas:std:rect simple"
-    label "Jacob Lüroth / Germany / 1"
+    label "Jacob Lüroth / Germany / 1 / 1865"
     graphics [
       x 41825.00000
       y 25153.30556
@@ -5801,7 +5801,7 @@ graph [
   node [
     id 341
     template "oreas:std:rect simple"
-    label "Karl Eduard Zetzsche / Germany / 0"
+    label "Karl Eduard Zetzsche / Germany / 0 / 1857"
     graphics [
       x 45000.00000
       y 25153.30556
@@ -5818,7 +5818,7 @@ graph [
   node [
     id 342
     template "oreas:std:rect simple"
-    label "Ernst Schröder / Germany / 6"
+    label "Ernst Schröder / Germany / 6 / 1862"
     graphics [
       x 42625.00000
       y 25153.30556
@@ -5835,7 +5835,7 @@ graph [
   node [
     id 343
     template "oreas:std:rect simple"
-    label "Max Noether / Germany / 139"
+    label "Max Noether / Germany / 139 / 1868"
     graphics [
       x 24575.00000
       y 25153.30556
@@ -5852,7 +5852,7 @@ graph [
   node [
     id 344
     template "oreas:std:rect simple"
-    label "Otto Hesse / Germany / 14724"
+    label "Otto Hesse / Germany / 14724 / 1840"
     graphics [
       x 32550.00000
       y 25153.30556
@@ -5869,7 +5869,7 @@ graph [
   node [
     id 345
     template "oreas:std:rect simple"
-    label "Gustav Robert Kirchhoff / Germany / 339"
+    label "Gustav Robert Kirchhoff / Germany / 339 / 1847"
     graphics [
       x 42400.00000
       y 25476.30556
@@ -5886,7 +5886,7 @@ graph [
   node [
     id 346
     template "oreas:std:rect simple"
-    label "Felix Hausdorff / Germany / 3"
+    label "Felix Hausdorff / Germany / 3 / 1891"
     graphics [
       x 38150.00000
       y 25476.30556
@@ -5903,7 +5903,7 @@ graph [
   node [
     id 347
     template "oreas:std:rect simple"
-    label "Georg Rost / Germany / 2103"
+    label "Georg Rost / Germany / 2103 / 1892"
     graphics [
       x 66200.00000
       y 25476.30556
@@ -5920,7 +5920,7 @@ graph [
   node [
     id 348
     template "oreas:std:rect simple"
-    label "Karl Christian von Langsdorf / Germany / 59018"
+    label "Karl Christian von Langsdorf / Germany / 59018 / 1781"
     graphics [
       x 57025.00000
       y 25476.30556
@@ -5937,7 +5937,7 @@ graph [
   node [
     id 349
     template "oreas:std:rect simple"
-    label "Martin Ohm / Germany / 56605"
+    label "Martin Ohm / Germany / 56605 / 1811"
     graphics [
       x 55375.00000
       y 25476.30556
@@ -5954,7 +5954,7 @@ graph [
   node [
     id 350
     template "oreas:std:rect simple"
-    label "Ludwig Schlesinger / Germany / 342"
+    label "Ludwig Schlesinger / Germany / 342 / 1887"
     graphics [
       x 64850.00000
       y 25799.30556
@@ -5971,7 +5971,7 @@ graph [
   node [
     id 351
     template "oreas:std:rect simple"
-    label "Friedrich Heinrich Schur / Germany / 16"
+    label "Friedrich Heinrich Schur / Germany / 16 / 1879"
     graphics [
       x 62475.00000
       y 25799.30556
@@ -5988,7 +5988,7 @@ graph [
   node [
     id 352
     template "oreas:std:rect simple"
-    label "Hans Lorenz / Germany / 57"
+    label "Hans Lorenz / Germany / 57 / 1892"
     graphics [
       x 38400.00000
       y 25799.30556
@@ -6005,7 +6005,7 @@ graph [
   node [
     id 353
     template "oreas:std:rect simple"
-    label "Hermann Ludwig Gustav Wiener / Germany / 0"
+    label "Hermann Ludwig Gustav Wiener / Germany / 0 / 1881"
     graphics [
       x 43925.00000
       y 25872.30556
@@ -6022,7 +6022,7 @@ graph [
   node [
     id 354
     template "oreas:std:rect simple"
-    label "Christian M. von Wolff / Germany / 9990"
+    label "Christian M. von Wolff / Germany / 9990 / 1703"
     graphics [
       x 33200.00000
       y 25872.30556
@@ -6039,7 +6039,7 @@ graph [
   node [
     id 355
     template "oreas:std:rect simple"
-    label "Heinrich Züge / Germany / 0"
+    label "Heinrich Züge / Germany / 0 / 1875"
     graphics [
       x 53025.00000
       y 25872.30556
@@ -6056,7 +6056,7 @@ graph [
   node [
     id 356
     template "oreas:std:rect simple"
-    label "Karl Baer / Germany / 1"
+    label "Karl Baer / Germany / 1 / 1881"
     graphics [
       x 52900.00000
       y 25872.30556
@@ -6073,7 +6073,7 @@ graph [
   node [
     id 357
     template "oreas:std:rect simple"
-    label "Julius Bauschinger / Germany / 850"
+    label "Julius Bauschinger / Germany / 850 / 1884"
     graphics [
       x 38775.00000
       y 25872.30556
@@ -6090,7 +6090,7 @@ graph [
   node [
     id 358
     template "oreas:std:rect simple"
-    label "Julius Weingarten / Germany / 24"
+    label "Julius Weingarten / Germany / 24 / 1860"
     graphics [
       x 53950.00000
       y 26195.30556
@@ -6107,7 +6107,7 @@ graph [
   node [
     id 359
     template "oreas:std:rect simple"
-    label "Theodor Vahlen / Germany / 4"
+    label "Theodor Vahlen / Germany / 4 / 1893"
     graphics [
       x 72225.00000
       y 26195.30556
@@ -6124,7 +6124,7 @@ graph [
   node [
     id 360
     template "oreas:std:rect simple"
-    label "Hans Battermann / Germany / 3"
+    label "Hans Battermann / Germany / 3 / 1881"
     graphics [
       x 79775.00000
       y 26518.30556
@@ -6141,7 +6141,7 @@ graph [
   node [
     id 361
     template "oreas:std:rect simple"
-    label "Karl Schwering / Germany / 0"
+    label "Karl Schwering / Germany / 0 / 1869"
     graphics [
       x 62475.00000
       y 26518.30556
@@ -6158,7 +6158,7 @@ graph [
   node [
     id 362
     template "oreas:std:rect simple"
-    label "Hermann Ludwig Ferdinand von Helmholtz / Germany / 6428"
+    label "Hermann Ludwig Ferdinand von Helmholtz / Germany / 6428 / 1842"
     graphics [
       x 69800.00000
       y 26518.30556
@@ -6175,7 +6175,7 @@ graph [
   node [
     id 363
     template "oreas:std:rect simple"
-    label "Jacob Rosanes / Germany / 487"
+    label "Jacob Rosanes / Germany / 487 / 1865"
     graphics [
       x 74200.00000
       y 26518.30556
@@ -6192,7 +6192,7 @@ graph [
   node [
     id 364
     template "oreas:std:rect simple"
-    label "Carl Snell / Germany / 14"
+    label "Carl Snell / Germany / 14 / 1835"
     graphics [
       x 45000.00000
       y 26649.63889
@@ -6209,7 +6209,7 @@ graph [
   node [
     id 365
     template "oreas:std:rect simple"
-    label "Julius Sommer / Germany / 0"
+    label "Julius Sommer / Germany / 0 / 1897"
     graphics [
       x 47750.00000
       y 26649.63889
@@ -6226,7 +6226,7 @@ graph [
   node [
     id 366
     template "oreas:std:rect simple"
-    label "Hermann Bernhard Ludwig Stahl / Germany / 47"
+    label "Hermann Bernhard Ludwig Stahl / Germany / 47 / 1882"
     graphics [
       x 58725.00000
       y 26972.63889
@@ -6243,7 +6243,7 @@ graph [
   node [
     id 367
     template "oreas:std:rect simple"
-    label "Friedrich Otto Rudolf Sturm / Germany / 503"
+    label "Friedrich Otto Rudolf Sturm / Germany / 503 / 1863"
     graphics [
       x 73000.00000
       y 26972.63889
@@ -6260,7 +6260,7 @@ graph [
   node [
     id 368
     template "oreas:std:rect simple"
-    label "Aurel Edmund Voß / Germany / 147"
+    label "Aurel Edmund Voß / Germany / 147 / 1869"
     graphics [
       x 26350.00000
       y 26972.63889
@@ -6277,7 +6277,7 @@ graph [
   node [
     id 369
     template "oreas:std:rect simple"
-    label "Joseph Wellstein / Germany / 6"
+    label "Joseph Wellstein / Germany / 6 / 1894"
     graphics [
       x 46150.00000
       y 26972.63889
@@ -6294,7 +6294,7 @@ graph [
   node [
     id 370
     template "oreas:std:rect simple"
-    label "Karl Theodor Reye / Germany / 75"
+    label "Karl Theodor Reye / Germany / 75 / 1861"
     graphics [
       x 17475.00000
       y 26972.63889
@@ -6311,7 +6311,7 @@ graph [
   node [
     id 371
     template "oreas:std:rect simple"
-    label "Maximilian Simon / Germany / 0"
+    label "Maximilian Simon / Germany / 0 / 1867"
     graphics [
       x 62725.00000
       y 27295.63889
@@ -6328,7 +6328,7 @@ graph [
   node [
     id 372
     template "oreas:std:rect simple"
-    label "James P. Pierpont / Austria / 31"
+    label "James P. Pierpont / Austria / 31 / 1894"
     graphics [
       x 52200.00000
       y 27295.63889
@@ -6345,7 +6345,7 @@ graph [
   node [
     id 373
     template "oreas:std:rect simple"
-    label "Ernst Fischer / Austria / 11"
+    label "Ernst Fischer / Austria / 11 / 1899"
     graphics [
       x 54875.00000
       y 27348.63889
@@ -6362,7 +6362,7 @@ graph [
   node [
     id 374
     template "oreas:std:rect simple"
-    label "Leopold Gegenbauer / Austria / 47"
+    label "Leopold Gegenbauer / Austria / 47 / 1871"
     graphics [
       x 52200.00000
       y 27348.63889
@@ -6379,7 +6379,7 @@ graph [
   node [
     id 375
     template "oreas:std:rect simple"
-    label "Karl Friesach / Austria / 7316"
+    label "Karl Friesach / Austria / 7316 / 1848"
     graphics [
       x 48450.00000
       y 27348.63889
@@ -6396,7 +6396,7 @@ graph [
   node [
     id 376
     template "oreas:std:rect simple"
-    label "Franz Carl Josef Mertens / Germany / 1084"
+    label "Franz Carl Josef Mertens / Germany / 1084 / 1865"
     graphics [
       x 56400.00000
       y 27671.63889
@@ -6413,7 +6413,7 @@ graph [
   node [
     id 377
     template "oreas:std:rect simple"
-    label "Max Christian Ernst Müller / Germany / 0"
+    label "Max Christian Ernst Müller / Germany / 0 / 1891"
     graphics [
       x 58950.00000
       y 27671.63889
@@ -6430,7 +6430,7 @@ graph [
   node [
     id 378
     template "oreas:std:rect simple"
-    label "Pieter Hendrik Schoute / Netherlands / 788"
+    label "Pieter Hendrik Schoute / Netherlands / 788 / 1870"
     graphics [
       x 1350.000000
       y 27994.63889
@@ -6447,7 +6447,7 @@ graph [
   node [
     id 379
     template "oreas:std:rect simple"
-    label "Alfred Tauber / Austria / 0"
+    label "Alfred Tauber / Austria / 0 / 1888"
     graphics [
       x 47000.00000
       y 27994.63889
@@ -6464,7 +6464,7 @@ graph [
   node [
     id 380
     template "oreas:std:rect simple"
-    label "Georg Franz Julius Meyer / Germany / 12"
+    label "Georg Franz Julius Meyer / Germany / 12 / 1888"
     graphics [
       x 48975.00000
       y 28047.63889
@@ -6481,7 +6481,7 @@ graph [
   node [
     id 381
     template "oreas:std:rect simple"
-    label "Paul Hermann Harzer / Germany / 1604"
+    label "Paul Hermann Harzer / Germany / 1604 / 1878"
     graphics [
       x 42775.00000
       y 28047.63889
@@ -6498,7 +6498,7 @@ graph [
   node [
     id 382
     template "oreas:std:rect simple"
-    label "Andreas Heinrich Voigt / Germany / 5"
+    label "Andreas Heinrich Voigt / Germany / 5 / 1890"
     graphics [
       x 46350.00000
       y 28100.63889
@@ -6515,7 +6515,7 @@ graph [
   node [
     id 383
     template "oreas:std:rect simple"
-    label "Willem Kapteyn / Netherlands / 50"
+    label "Willem Kapteyn / Netherlands / 50 / 1872"
     graphics [
       x 32225.00000
       y 28100.63889
@@ -6532,7 +6532,7 @@ graph [
   node [
     id 384
     template "oreas:std:rect simple"
-    label "Eilhard Ernst Gustav Wiedemann / Germany / 428"
+    label "Eilhard Ernst Gustav Wiedemann / Germany / 428 / 1872"
     graphics [
       x 41450.00000
       y 28423.63889
@@ -6549,7 +6549,7 @@ graph [
   node [
     id 385
     template "oreas:std:rect simple"
-    label "Oskar Emil Meyer / Germany / 0"
+    label "Oskar Emil Meyer / Germany / 0 / 1860"
     graphics [
       x 11875.00000
       y 28423.63889
@@ -6566,7 +6566,7 @@ graph [
   node [
     id 386
     template "oreas:std:rect simple"
-    label "Hermann Karl Julius Traugott Schäffer / Germany / 0"
+    label "Hermann Karl Julius Traugott Schäffer / Germany / 0 / 1847"
     graphics [
       x 45000.00000
       y 28423.63889
@@ -6583,7 +6583,7 @@ graph [
   node [
     id 387
     template "oreas:std:rect simple"
-    label "Adolf Piltz / Germany / 0"
+    label "Adolf Piltz / Germany / 0 / 1881"
     graphics [
       x 62875.00000
       y 28746.63889
@@ -6600,7 +6600,7 @@ graph [
   node [
     id 388
     template "oreas:std:rect simple"
-    label "Leo Pochhammer / Germany / 2"
+    label "Leo Pochhammer / Germany / 2 / 1863"
     graphics [
       x 59500.00000
       y 28746.63889
@@ -6617,7 +6617,7 @@ graph [
   node [
     id 389
     template "oreas:std:rect simple"
-    label "Friedrich Emil Prym / Germany / 2106"
+    label "Friedrich Emil Prym / Germany / 2106 / 1863"
     graphics [
       x 63425.00000
       y 29069.63889
@@ -6634,7 +6634,7 @@ graph [
   node [
     id 390
     template "oreas:std:rect simple"
-    label "Robert Schumacher / Germany / 0"
+    label "Robert Schumacher / Germany / 0 / 1886"
     graphics [
       x 43800.00000
       y 29069.63889
@@ -6651,7 +6651,7 @@ graph [
   node [
     id 391
     template "oreas:std:rect simple"
-    label "Richard Henke / Germany / 0"
+    label "Richard Henke / Germany / 0 / 1868"
     graphics [
       x 37775.00000
       y 29392.63889
@@ -6668,7 +6668,7 @@ graph [
   node [
     id 392
     template "oreas:std:rect simple"
-    label "Johann August Grunert / Germany / 2"
+    label "Johann August Grunert / Germany / 2 / 1820"
     graphics [
       x 67650.00000
       y 29392.63889
@@ -6685,7 +6685,7 @@ graph [
   node [
     id 393
     template "oreas:std:rect simple"
-    label "Wilhelm Schmidt / Germany / 0"
+    label "Wilhelm Schmidt / Germany / 0 / 1876"
     graphics [
       x 24950.00000
       y 29445.63889
@@ -6702,7 +6702,7 @@ graph [
   node [
     id 394
     template "oreas:std:rect simple"
-    label "Richard Falckenberg / Germany / 1092"
+    label "Richard Falckenberg / Germany / 1092 / 1877"
     graphics [
       x 73975.00000
       y 29498.63889
@@ -6719,7 +6719,7 @@ graph [
   node [
     id 395
     template "oreas:std:rect simple"
-    label "Johannes Franz Hartmann / Germany / 6"
+    label "Johannes Franz Hartmann / Germany / 6 / 1891"
     graphics [
       x 48125.00000
       y 29821.63889
@@ -6736,7 +6736,7 @@ graph [
   node [
     id 396
     template "oreas:std:rect simple"
-    label "Willy (Wilhelm) Carl Werner Otto Fritz Franz Wien / Germany / 2"
+    label "Willy (Wilhelm) Carl Werner Otto Fritz Franz Wien / Germany / 2 / 1886"
     graphics [
       x 69575.00000
       y 29821.63889
@@ -6753,7 +6753,7 @@ graph [
   node [
     id 397
     template "oreas:std:rect simple"
-    label "Heinrich Rubens / Germany / 6"
+    label "Heinrich Rubens / Germany / 6 / 1889"
     graphics [
       x 48300.00000
       y 29821.63889
@@ -6770,7 +6770,7 @@ graph [
   node [
     id 398
     template "oreas:std:rect simple"
-    label "August Johann Streng / Germany / 1"
+    label "August Johann Streng / Germany / 1 / 1861"
     graphics [
       x 71150.00000
       y 29821.63889
@@ -6787,7 +6787,7 @@ graph [
   node [
     id 399
     template "oreas:std:rect simple"
-    label "Martin Bloch / Germany / 0"
+    label "Martin Bloch / Germany / 0 / 1892"
     graphics [
       x 69125.00000
       y 29874.63889
@@ -6804,7 +6804,7 @@ graph [
   node [
     id 400
     template "oreas:std:rect simple"
-    label "Fritz Bremer / Germany / 0"
+    label "Fritz Bremer / Germany / 0 / 1890"
     graphics [
       x 68975.00000
       y 29927.63889
@@ -6821,7 +6821,7 @@ graph [
   node [
     id 401
     template "oreas:std:rect simple"
-    label "Philipp Brückel / Germany / 0"
+    label "Philipp Brückel / Germany / 0 / 1888"
     graphics [
       x 71350.00000
       y 29927.63889
@@ -6838,7 +6838,7 @@ graph [
   node [
     id 402
     template "oreas:std:rect simple"
-    label "Emil Daub / Germany / 0"
+    label "Emil Daub / Germany / 0 / 1888"
     graphics [
       x 71125.00000
       y 29927.63889
@@ -6855,7 +6855,7 @@ graph [
   node [
     id 403
     template "oreas:std:rect simple"
-    label "Peter Dittmar / Germany / 0"
+    label "Peter Dittmar / Germany / 0 / 1888"
     graphics [
       x 71325.00000
       y 29980.63889
@@ -6872,7 +6872,7 @@ graph [
   node [
     id 404
     template "oreas:std:rect simple"
-    label "Adam Flechsenhaar / Germany / 0"
+    label "Adam Flechsenhaar / Germany / 0 / 1899"
     graphics [
       x 67775.00000
       y 29980.63889
@@ -6889,7 +6889,7 @@ graph [
   node [
     id 405
     template "oreas:std:rect simple"
-    label "Philipp Friedrich / Germany / 0"
+    label "Philipp Friedrich / Germany / 0 / 1886"
     graphics [
       x 80000.00000
       y 29980.63889
@@ -6906,7 +6906,7 @@ graph [
   node [
     id 406
     template "oreas:std:rect simple"
-    label "Karl Ernst Jakob Keil / Germany / 0"
+    label "Karl Ernst Jakob Keil / Germany / 0 / 1888"
     graphics [
       x 72250.00000
       y 30033.63889
@@ -6923,7 +6923,7 @@ graph [
   node [
     id 407
     template "oreas:std:rect simple"
-    label "Adam Keller / Germany / 0"
+    label "Adam Keller / Germany / 0 / 1888"
     graphics [
       x 69050.00000
       y 30033.63889
@@ -6940,7 +6940,7 @@ graph [
   node [
     id 408
     template "oreas:std:rect simple"
-    label "Gottfried Kemmer / Germany / 0"
+    label "Gottfried Kemmer / Germany / 0 / 1898"
     graphics [
       x 71775.00000
       y 30086.63889
@@ -6957,7 +6957,7 @@ graph [
   node [
     id 409
     template "oreas:std:rect simple"
-    label "Karl Kratz / Germany / 0"
+    label "Karl Kratz / Germany / 0 / 1896"
     graphics [
       x 71900.00000
       y 30086.63889
@@ -6974,7 +6974,7 @@ graph [
   node [
     id 410
     template "oreas:std:rect simple"
-    label "Jakob Kraus / Germany / 0"
+    label "Jakob Kraus / Germany / 0 / 1886"
     graphics [
       x 80075.00000
       y 30086.63889
@@ -6991,7 +6991,7 @@ graph [
   node [
     id 411
     template "oreas:std:rect simple"
-    label "Wilhelm Loos / Germany / 0"
+    label "Wilhelm Loos / Germany / 0 / 1896"
     graphics [
       x 69275.00000
       y 30086.63889
@@ -7008,7 +7008,7 @@ graph [
   node [
     id 412
     template "oreas:std:rect simple"
-    label "Philipp Männchen / Germany / 0"
+    label "Philipp Männchen / Germany / 0 / 1898"
     graphics [
       x 71625.00000
       y 30159.63889
@@ -7025,7 +7025,7 @@ graph [
   node [
     id 413
     template "oreas:std:rect simple"
-    label "Bernhard Marggraff / Germany / 0"
+    label "Bernhard Marggraff / Germany / 0 / 1889"
     graphics [
       x 68925.00000
       y 30159.63889
@@ -7042,7 +7042,7 @@ graph [
   node [
     id 414
     template "oreas:std:rect simple"
-    label "Peter Muth / Germany / 0"
+    label "Peter Muth / Germany / 0 / 1890"
     graphics [
       x 71500.00000
       y 30159.63889
@@ -7059,7 +7059,7 @@ graph [
   node [
     id 415
     template "oreas:std:rect simple"
-    label "Salomon Levi van Oss / Germany / 0"
+    label "Salomon Levi van Oss / Germany / 0 / 1894"
     graphics [
       x 69050.00000
       y 30159.63889
@@ -7076,7 +7076,7 @@ graph [
   node [
     id 416
     template "oreas:std:rect simple"
-    label "Heinrich Pitz / Germany / 0"
+    label "Heinrich Pitz / Germany / 0 / 1884"
     graphics [
       x 60500.00000
       y 30482.63889
@@ -7093,7 +7093,7 @@ graph [
   node [
     id 417
     template "oreas:std:rect simple"
-    label "Julius Rothholz / Germany / 0"
+    label "Julius Rothholz / Germany / 0 / 1892"
     graphics [
       x 69275.00000
       y 30730.63889
@@ -7110,7 +7110,7 @@ graph [
   node [
     id 418
     template "oreas:std:rect simple"
-    label "Karl Schmitz / Germany / 0"
+    label "Karl Schmitz / Germany / 0 / 1896"
     graphics [
       x 74125.00000
       y 30730.63889
@@ -7127,7 +7127,7 @@ graph [
   node [
     id 419
     template "oreas:std:rect simple"
-    label "Heinrich Schnell / Germany / 0"
+    label "Heinrich Schnell / Germany / 0 / 1891"
     graphics [
       x 69550.00000
       y 30730.63889
@@ -7144,7 +7144,7 @@ graph [
   node [
     id 420
     template "oreas:std:rect simple"
-    label "Karl Stoltz / Germany / 0"
+    label "Karl Stoltz / Germany / 0 / 1890"
     graphics [
       x 69400.00000
       y 30730.63889
@@ -7161,7 +7161,7 @@ graph [
   node [
     id 421
     template "oreas:std:rect simple"
-    label "Wilhelm Thienemann / Germany / 0"
+    label "Wilhelm Thienemann / Germany / 0 / 1890"
     graphics [
       x 72150.00000
       y 30783.63889
@@ -7178,7 +7178,7 @@ graph [
   node [
     id 422
     template "oreas:std:rect simple"
-    label "Karl Uhrig / Germany / 0"
+    label "Karl Uhrig / Germany / 0 / 1891"
     graphics [
       x 71925.00000
       y 30783.63889
@@ -7195,7 +7195,7 @@ graph [
   node [
     id 423
     template "oreas:std:rect simple"
-    label "Otto Weimar / Germany / 0"
+    label "Otto Weimar / Germany / 0 / 1890"
     graphics [
       x 71425.00000
       y 30783.63889
@@ -7212,7 +7212,7 @@ graph [
   node [
     id 424
     template "oreas:std:rect simple"
-    label "Hermann Willig / Germany / 0"
+    label "Hermann Willig / Germany / 0 / 1886"
     graphics [
       x 71125.00000
       y 31106.63889
@@ -7229,7 +7229,7 @@ graph [
   node [
     id 425
     template "oreas:std:rect simple"
-    label "Karl Zulauf / Germany / 0"
+    label "Karl Zulauf / Germany / 0 / 1897"
     graphics [
       x 69475.00000
       y 31106.63889
@@ -7246,7 +7246,7 @@ graph [
   node [
     id 426
     template "oreas:std:rect simple"
-    label "Robert Daublewsky von Sterneck / Austria / 1221"
+    label "Robert Daublewsky von Sterneck / Austria / 1221 / 1893"
     graphics [
       x 47225.00000
       y 31106.63889
@@ -7263,7 +7263,7 @@ graph [
   node [
     id 427
     template "oreas:std:rect simple"
-    label "Simon Goldschmidt / Germany / 0"
+    label "Simon Goldschmidt / Germany / 0 / 1883"
     graphics [
       x 71700.00000
       y 31106.63889
@@ -7280,7 +7280,7 @@ graph [
   node [
     id 428
     template "oreas:std:rect simple"
-    label "Karl Doehlemann / Germany / 649"
+    label "Karl Doehlemann / Germany / 649 / 1889"
     graphics [
       x 43875.00000
       y 31159.63889
@@ -7297,7 +7297,7 @@ graph [
   node [
     id 429
     template "oreas:std:rect simple"
-    label "Sebastian Finsterwalder / Germany / 868"
+    label "Sebastian Finsterwalder / Germany / 868 / 1886"
     graphics [
       x 47900.00000
       y 31159.63889
@@ -7314,7 +7314,7 @@ graph [
   node [
     id 430
     template "oreas:std:rect simple"
-    label "Ernst Abbe / Germany / 10"
+    label "Ernst Abbe / Germany / 10 / 1862"
     graphics [
       x 44925.00000
       y 31159.63889
@@ -7331,7 +7331,7 @@ graph [
   node [
     id 431
     template "oreas:std:rect simple"
-    label "Emil Karl Lampe / Germany / 0"
+    label "Emil Karl Lampe / Germany / 0 / 1864"
     graphics [
       x 62875.00000
       y 31482.63889
@@ -7348,7 +7348,7 @@ graph [
   node [
     id 432
     template "oreas:std:rect simple"
-    label "Karl Schwarzschild / Germany / 4"
+    label "Karl Schwarzschild / Germany / 4 / 1897"
     graphics [
       x 39075.00000
       y 31535.63889
@@ -7365,7 +7365,7 @@ graph [
   node [
     id 433
     template "oreas:std:rect simple"
-    label "Wilhelm Julius Förster / Germany / 34"
+    label "Wilhelm Julius Förster / Germany / 34 / 1854"
     graphics [
       x 79750.00000
       y 31535.63889
@@ -7382,7 +7382,7 @@ graph [
   node [
     id 434
     template "oreas:std:rect simple"
-    label "Otto Lummer / Germany / 65"
+    label "Otto Lummer / Germany / 65 / 1884"
     graphics [
       x 69600.00000
       y 31535.63889
@@ -7399,7 +7399,7 @@ graph [
   node [
     id 435
     template "oreas:std:rect simple"
-    label "Otto Julius Heinrich Knopf / Germany / 5"
+    label "Otto Julius Heinrich Knopf / Germany / 5 / 1880"
     graphics [
       x 45000.00000
       y 31535.63889
@@ -7416,7 +7416,7 @@ graph [
   node [
     id 436
     template "oreas:std:rect simple"
-    label "Alfred Pringsheim / Germany / 31"
+    label "Alfred Pringsheim / Germany / 31 / 1872"
     graphics [
       x 58925.00000
       y 31535.63889
@@ -7433,7 +7433,7 @@ graph [
   node [
     id 437
     template "oreas:std:rect simple"
-    label "Wilhelm Conrad Röntgen / Switzerland / 280"
+    label "Wilhelm Conrad Röntgen / Switzerland / 280 / 1869"
     graphics [
       x 44275.00000
       y 31535.63889
@@ -7450,7 +7450,7 @@ graph [
   node [
     id 438
     template "oreas:std:rect simple"
-    label "Martin Johann Krause / Germany / 13"
+    label "Martin Johann Krause / Germany / 13 / 1873"
     graphics [
       x 56581.25000
       y 31691.97222
@@ -7467,7 +7467,7 @@ graph [
   node [
     id 439
     template "oreas:std:rect simple"
-    label "Karl Böhm / Germany / 96"
+    label "Karl Böhm / Germany / 96 / 1896"
     graphics [
       x 58750.00000
       y 31691.97222
@@ -7484,7 +7484,7 @@ graph [
   node [
     id 440
     template "oreas:std:rect simple"
-    label "Max Abraham / Germany / 0"
+    label "Max Abraham / Germany / 0 / 1897"
     graphics [
       x 47975.00000
       y 32014.97222
@@ -7501,7 +7501,7 @@ graph [
   node [
     id 441
     template "oreas:std:rect simple"
-    label "Friedrich Junker / Germany / 0"
+    label "Friedrich Junker / Germany / 0 / 1889"
     graphics [
       x 48100.00000
       y 32014.97222
@@ -7518,7 +7518,7 @@ graph [
   node [
     id 442
     template "oreas:std:rect simple"
-    label "Edward Ullrich / Germany / 0"
+    label "Edward Ullrich / Germany / 0 / 1884"
     graphics [
       x 58900.00000
       y 32014.97222
@@ -7535,7 +7535,7 @@ graph [
   node [
     id 443
     template "oreas:std:rect simple"
-    label "Erwin Johannes Papperitz / Germany / 1"
+    label "Erwin Johannes Papperitz / Germany / 1 / 1883"
     graphics [
       x 23400.00000
       y 32014.97222
@@ -7552,7 +7552,7 @@ graph [
   node [
     id 444
     template "oreas:std:rect simple"
-    label "Heinrich Burkhardt / Germany / 12"
+    label "Heinrich Burkhardt / Germany / 12 / 1887"
     graphics [
       x 44100.00000
       y 32014.97222
@@ -7569,7 +7569,7 @@ graph [
   node [
     id 445
     template "oreas:std:rect simple"
-    label "Arthur Korn / Germany / 0"
+    label "Arthur Korn / Germany / 0 / 1890"
     graphics [
       x 33500.00000
       y 32337.97222
@@ -7586,7 +7586,7 @@ graph [
   node [
     id 446
     template "oreas:std:rect simple"
-    label "Paul Epstein / Germany / 1"
+    label "Paul Epstein / Germany / 1 / 1895"
     graphics [
       x 67150.00000
       y 32337.97222
@@ -7603,7 +7603,7 @@ graph [
   node [
     id 447
     template "oreas:std:rect simple"
-    label "Johann Bernoulli / Switzerland / 102953"
+    label "Johann Bernoulli / Switzerland / 102953 / 1690"
     graphics [
       x 8900.000000
       y 32337.97222
@@ -7620,7 +7620,7 @@ graph [
   node [
     id 448
     template "oreas:std:rect simple"
-    label "Emil Friedrich Wilhelm Naetsch / Germany / 10"
+    label "Emil Friedrich Wilhelm Naetsch / Germany / 10 / 1894"
     graphics [
       x 21275.00000
       y 32337.97222
@@ -7637,7 +7637,7 @@ graph [
   node [
     id 449
     template "oreas:std:rect simple"
-    label "Mihailo Petrovic / France / 743"
+    label "Mihailo Petrovic / France / 743 / 1894"
     graphics [
       x 67025.00000
       y 32337.97222
@@ -7654,7 +7654,7 @@ graph [
   node [
     id 450
     template "oreas:std:rect simple"
-    label "Johannes   Volkelt / Germany / 13"
+    label "Johannes   Volkelt / Germany / 13 / 1873"
     graphics [
       x 76200.00000
       y 32660.97222
@@ -7671,7 +7671,7 @@ graph [
   node [
     id 451
     template "oreas:std:rect simple"
-    label "Jacob Bernoulli / Switzerland / 102956"
+    label "Jacob Bernoulli / Switzerland / 102956 / 1680"
     graphics [
       x 9000.000000
       y 32660.97222
@@ -7688,7 +7688,7 @@ graph [
   node [
     id 452
     template "oreas:std:rect simple"
-    label "Carl Stumpf / Germany / 310"
+    label "Carl Stumpf / Germany / 310 / 1869"
     graphics [
       x 55050.00000
       y 32660.97222
@@ -7705,7 +7705,7 @@ graph [
   node [
     id 453
     template "oreas:std:rect simple"
-    label "Sophie Germain / Germany / 0"
+    label "Sophie Germain / Germany / 0 / 1830"
     graphics [
       x 77050.00000
       y 32660.97222
@@ -7722,7 +7722,7 @@ graph [
   node [
     id 454
     template "oreas:std:rect simple"
-    label "Joseph Liouville / France / 13015"
+    label "Joseph Liouville / France / 13015 / 1836"
     graphics [
       x 56250.00000
       y 32983.97222
@@ -7739,7 +7739,7 @@ graph [
   node [
     id 455
     template "oreas:std:rect simple"
-    label "Heinrich Kayser / Germany / 2"
+    label "Heinrich Kayser / Germany / 2 / 1879"
     graphics [
       x 48800.00000
       y 33036.97222
@@ -7756,7 +7756,7 @@ graph [
   node [
     id 456
     template "oreas:std:rect simple"
-    label "Max Heinze / Germany / 33"
+    label "Max Heinze / Germany / 33 / 1869"
     graphics [
       x 72400.00000
       y 33036.97222
@@ -7773,7 +7773,7 @@ graph [
   node [
     id 457
     template "oreas:std:rect simple"
-    label "Wilhelm Gottlieb Hankel / Germany / 7030"
+    label "Wilhelm Gottlieb Hankel / Germany / 7030 / 1839"
     graphics [
       x 40825.00000
       y 33359.97222
@@ -7790,7 +7790,7 @@ graph [
   node [
     id 458
     template "oreas:std:rect simple"
-    label "Friedrich Paulsen / Germany / 8"
+    label "Friedrich Paulsen / Germany / 8 / 1871"
     graphics [
       x 66525.00000
       y 33359.97222
@@ -7807,7 +7807,7 @@ graph [
   node [
     id 459
     template "oreas:std:rect simple"
-    label "Eduard Ritter von Weber / Germany / 4"
+    label "Eduard Ritter von Weber / Germany / 4 / 1893"
     graphics [
       x 44075.00000
       y 33359.97222
@@ -7824,7 +7824,7 @@ graph [
   node [
     id 460
     template "oreas:std:rect simple"
-    label "Wilhelm Windelband / Germany / 17"
+    label "Wilhelm Windelband / Germany / 17 / 1870"
     graphics [
       x 60350.00000
       y 33359.97222
@@ -7841,7 +7841,7 @@ graph [
   node [
     id 461
     template "oreas:std:rect simple"
-    label "Eduard Selling / Germany / 0"
+    label "Eduard Selling / Germany / 0 / 1859"
     graphics [
       x 77125.00000
       y 33682.97222
@@ -7858,7 +7858,7 @@ graph [
   node [
     id 462
     template "oreas:std:rect simple"
-    label "Johann Tobias Mayer / Germany / 20546"
+    label "Johann Tobias Mayer / Germany / 20546 / 1773"
     graphics [
       x 53100.00000
       y 33682.97222
@@ -7875,7 +7875,7 @@ graph [
   node [
     id 463
     template "oreas:std:rect simple"
-    label "Bernhard Friedrich Thibaut / Germany / 46646"
+    label "Bernhard Friedrich Thibaut / Germany / 46646 / 1796"
     graphics [
       x 56575.00000
       y 33682.97222
@@ -7892,7 +7892,7 @@ graph [
   node [
     id 464
     template "oreas:std:rect simple"
-    label "Christian August Hausen / Germany / 101111"
+    label "Christian August Hausen / Germany / 101111 / 1713"
     graphics [
       x 51750.00000
       y 33768.47222
@@ -7909,7 +7909,7 @@ graph [
   node [
     id 465
     template "oreas:std:rect simple"
-    label "Friedrich Julius Richelot / Germany / 13884"
+    label "Friedrich Julius Richelot / Germany / 13884 / 1831"
     graphics [
       x 50450.00000
       y 34091.47222
@@ -7926,7 +7926,7 @@ graph [
   node [
     id 466
     template "oreas:std:rect simple"
-    label "Wilhelm Eduard Weber / Germany / 198"
+    label "Wilhelm Eduard Weber / Germany / 198 / 1827"
     graphics [
       x 34675.00000
       y 34091.47222
@@ -7943,7 +7943,7 @@ graph [
   node [
     id 467
     template "oreas:std:rect simple"
-    label "Georg Diem / Germany / 0"
+    label "Georg Diem / Germany / 0 / 1898"
     graphics [
       x 46775.00000
       y 34091.47222
@@ -7960,7 +7960,7 @@ graph [
   node [
     id 468
     template "oreas:std:rect simple"
-    label "Max Karl Richter / Germany / 0"
+    label "Max Karl Richter / Germany / 0 / 1887"
     graphics [
       x 22450.00000
       y 34144.47222
@@ -7977,7 +7977,7 @@ graph [
   node [
     id 469
     template "oreas:std:rect simple"
-    label "Moritz Richard Rühlmann / Germany / 0"
+    label "Moritz Richard Rühlmann / Germany / 0 / 1867"
     graphics [
       x 39225.00000
       y 34467.47222
@@ -7994,7 +7994,7 @@ graph [
   node [
     id 470
     template "oreas:std:rect simple"
-    label "Theodor Adrian / Germany / 0"
+    label "Theodor Adrian / Germany / 0 / 1882"
     graphics [
       x 45850.00000
       y 34467.47222
@@ -8011,7 +8011,7 @@ graph [
   node [
     id 471
     template "oreas:std:rect simple"
-    label "Friedrich August / Germany / 0"
+    label "Friedrich August / Germany / 0 / 1862"
     graphics [
       x 59100.00000
       y 34790.47222
@@ -8028,7 +8028,7 @@ graph [
   node [
     id 472
     template "oreas:std:rect simple"
-    label "Friedrich Bachmann / Germany / 0"
+    label "Friedrich Bachmann / Germany / 0 / 1861"
     graphics [
       x 59275.00000
       y 34790.47222
@@ -8045,7 +8045,7 @@ graph [
   node [
     id 473
     template "oreas:std:rect simple"
-    label "Joseph Brutkowski / Germany / 0"
+    label "Joseph Brutkowski / Germany / 0 / 1859"
     graphics [
       x 59275.00000
       y 35113.47222
@@ -8062,7 +8062,7 @@ graph [
   node [
     id 474
     template "oreas:std:rect simple"
-    label "Vilhelm Friman Koren Bjerknes / Germany / 98"
+    label "Vilhelm Friman Koren Bjerknes / Germany / 98 / 1890"
     graphics [
       x 73800.00000
       y 35113.47222
@@ -8079,7 +8079,7 @@ graph [
   node [
     id 475
     template "oreas:std:rect simple"
-    label "Walter Brix / Germany / 0"
+    label "Walter Brix / Germany / 0 / 1889"
     graphics [
       x 55225.00000
       y 35113.47222
@@ -8096,7 +8096,7 @@ graph [
   node [
     id 476
     template "oreas:std:rect simple"
-    label "Eduard Riecke / Germany / 0"
+    label "Eduard Riecke / Germany / 0 / 1871"
     graphics [
       x 34675.00000
       y 35303.13889
@@ -8113,7 +8113,7 @@ graph [
   node [
     id 477
     template "oreas:std:rect simple"
-    label "Alfred Enneper / Germany / 0"
+    label "Alfred Enneper / Germany / 0 / 1856"
     graphics [
       x 51525.00000
       y 35303.13889
@@ -8130,7 +8130,7 @@ graph [
   node [
     id 478
     template "oreas:std:rect simple"
-    label "Nicolaus Engelhard / Netherlands / 4"
+    label "Nicolaus Engelhard / Netherlands / 4 / 1723"
     graphics [
       x 74575.00000
       y 35303.13889
@@ -8147,7 +8147,7 @@ graph [
   node [
     id 479
     template "oreas:std:rect simple"
-    label "Johann Jacob Schilling / Germany / 0"
+    label "Johann Jacob Schilling / Germany / 0 / 1726"
     graphics [
       x 74700.00000
       y 35303.13889
@@ -8164,7 +8164,7 @@ graph [
   node [
     id 480
     template "oreas:std:rect simple"
-    label "Benjamin Osgood Peirce / Germany / 1"
+    label "Benjamin Osgood Peirce / Germany / 1 / 1877"
     graphics [
       x 41450.00000
       y 35303.13889
@@ -8181,7 +8181,7 @@ graph [
   node [
     id 481
     template "oreas:std:rect simple"
-    label "Christian Ernst Wendt / Germany / 0"
+    label "Christian Ernst Wendt / Germany / 0 / 1797"
     graphics [
       x 57025.00000
       y 35626.13889
@@ -8198,7 +8198,7 @@ graph [
   node [
     id 482
     template "oreas:std:rect simple"
-    label "Conrad Haenig / Germany / 0"
+    label "Conrad Haenig / Germany / 0 / 1888"
     graphics [
       x 48375.00000
       y 35626.13889
@@ -8215,7 +8215,7 @@ graph [
   node [
     id 483
     template "oreas:std:rect simple"
-    label "Georg Simon Klügel / Germany / 1"
+    label "Georg Simon Klügel / Germany / 1 / 1763"
     graphics [
       x 64362.50000
       y 35679.13889
@@ -8232,7 +8232,7 @@ graph [
   node [
     id 484
     template "oreas:std:rect simple"
-    label "Christoph Bürckmann / Germany / 0"
+    label "Christoph Bürckmann / Germany / 0 / 1726"
     graphics [
       x 51750.00000
       y 35679.13889
@@ -8249,7 +8249,7 @@ graph [
   node [
     id 485
     template "oreas:std:rect simple"
-    label "Heinrich Emil Timerding / Germany / 0"
+    label "Heinrich Emil Timerding / Germany / 0 / 1894"
     graphics [
       x 17475.00000
       y 35679.13889
@@ -8266,7 +8266,7 @@ graph [
   node [
     id 486
     template "oreas:std:rect simple"
-    label "Kazimierz Żorawski / Germany / 207"
+    label "Kazimierz Żorawski / Germany / 207 / 1891"
     graphics [
       x 8200.000000
       y 35679.13889
@@ -8283,7 +8283,7 @@ graph [
   node [
     id 487
     template "oreas:std:rect simple"
-    label "Zdzisław Krygowski / Poland / 0"
+    label "Zdzisław Krygowski / Poland / 0 / 1895"
     graphics [
       x 8075.000000
       y 35679.13889
@@ -8300,7 +8300,7 @@ graph [
   node [
     id 488
     template "oreas:std:rect simple"
-    label "Jan Ralski / Poland / 0"
+    label "Jan Ralski / Poland / 0 / 1883"
     graphics [
       x 56400.00000
       y 36002.13889
@@ -8317,7 +8317,7 @@ graph [
   node [
     id 489
     template "oreas:std:rect simple"
-    label "Maria Alexander von Baraniecki / Germany / 2"
+    label "Maria Alexander von Baraniecki / Germany / 2 / 1877"
     graphics [
       x 41300.00000
       y 36002.13889
@@ -8334,7 +8334,7 @@ graph [
   node [
     id 490
     template "oreas:std:rect simple"
-    label "Stanisław Żurakowski / Poland / 0"
+    label "Stanisław Żurakowski / Poland / 0 / 1886"
     graphics [
       x 41175.00000
       y 36002.13889
@@ -8351,7 +8351,7 @@ graph [
   node [
     id 491
     template "oreas:std:rect simple"
-    label "Stanisław Kępiński / Poland / 0"
+    label "Stanisław Kępiński / Poland / 0 / 1891"
     graphics [
       x 41050.00000
       y 36002.13889
@@ -8368,7 +8368,7 @@ graph [
   node [
     id 492
     template "oreas:std:rect simple"
-    label "Johann Andreas Segner / Germany / 90973"
+    label "Johann Andreas Segner / Germany / 90973 / 1729"
     graphics [
       x 76975.00000
       y 36002.13889
@@ -8385,7 +8385,7 @@ graph [
   node [
     id 493
     template "oreas:std:rect simple"
-    label "Friedrich Gustav Hahn / Germany / 1"
+    label "Friedrich Gustav Hahn / Germany / 1 / 1877"
     graphics [
       x 52187.50000
       y 36002.13889
@@ -8402,7 +8402,7 @@ graph [
   node [
     id 494
     template "oreas:std:rect simple"
-    label "Friedrich Adolf Trendelenburg / Germany / 3445"
+    label "Friedrich Adolf Trendelenburg / Germany / 3445 / 1826"
     graphics [
       x 68640.62500
       y 36002.13889
@@ -8419,7 +8419,7 @@ graph [
   node [
     id 495
     template "oreas:std:rect simple"
-    label "August Hermann Niemeyer / Germany / 0"
+    label "August Hermann Niemeyer / Germany / 0 / 1777"
     graphics [
       x 77100.00000
       y 36147.01389
@@ -8436,7 +8436,7 @@ graph [
   node [
     id 496
     template "oreas:std:rect simple"
-    label "Christian Garve / Germany / 0"
+    label "Christian Garve / Germany / 0 / 1766"
     graphics [
       x 76975.00000
       y 36147.01389
@@ -8453,7 +8453,7 @@ graph [
   node [
     id 497
     template "oreas:std:rect simple"
-    label "Johann Ephraim Scheibel / Germany / 0"
+    label "Johann Ephraim Scheibel / Germany / 0 / 1758"
     graphics [
       x 76950.00000
       y 36200.01389
@@ -8470,7 +8470,7 @@ graph [
   node [
     id 498
     template "oreas:std:rect simple"
-    label "Erhard Weigel / Germany / 110288"
+    label "Erhard Weigel / Germany / 110288 / 1650"
     graphics [
       x 11150.00000
       y 36523.01389
@@ -8487,7 +8487,7 @@ graph [
   node [
     id 499
     template "oreas:std:rect simple"
-    label "Gottfried Wilhelm Leibniz / Germany / 109466"
+    label "Gottfried Wilhelm Leibniz / Germany / 109466 / 1670"
     graphics [
       x 33125.00000
       y 36523.01389
@@ -8504,7 +8504,7 @@ graph [
   node [
     id 500
     template "oreas:std:rect simple"
-    label "Marie Gernet / Germany / 0"
+    label "Marie Gernet / Germany / 0 / 1895"
     graphics [
       x 58575.00000
       y 36523.01389
@@ -8521,7 +8521,7 @@ graph [
   node [
     id 501
     template "oreas:std:rect simple"
-    label "Ernst Adolf Wendt / Germany / 0"
+    label "Ernst Adolf Wendt / Germany / 0 / 1894"
     graphics [
       x 74425.00000
       y 36523.01389
@@ -8538,7 +8538,7 @@ graph [
   node [
     id 502
     template "oreas:std:rect simple"
-    label "Wilhelm Paul Schumann / Germany / 0"
+    label "Wilhelm Paul Schumann / Germany / 0 / 1897"
     graphics [
       x 68200.00000
       y 36523.01389
@@ -8555,7 +8555,7 @@ graph [
   node [
     id 503
     template "oreas:std:rect simple"
-    label "Richard Schumann / Germany / 0"
+    label "Richard Schumann / Germany / 0 / 1888"
     graphics [
       x 47525.00000
       y 36846.01389
@@ -8572,7 +8572,7 @@ graph [
   node [
     id 504
     template "oreas:std:rect simple"
-    label "Wilhelm Ernst Martin Georg Ahrens / Germany / 0"
+    label "Wilhelm Ernst Martin Georg Ahrens / Germany / 0 / 1895"
     graphics [
       x 17550.00000
       y 36846.01389
@@ -8589,7 +8589,7 @@ graph [
   node [
     id 505
     template "oreas:std:rect simple"
-    label "Karl Bobek / CzechRepublic / 1"
+    label "Karl Bobek / CzechRepublic / 1 / 1874"
     graphics [
       x 52725.00000
       y 36846.01389
@@ -8606,7 +8606,7 @@ graph [
   node [
     id 506
     template "oreas:std:rect simple"
-    label "Reinhold Heinrich Robert Müller / Germany / 0"
+    label "Reinhold Heinrich Robert Müller / Germany / 0 / 1883"
     graphics [
       x 22450.00000
       y 36846.01389
@@ -8623,7 +8623,7 @@ graph [
   node [
     id 507
     template "oreas:std:rect simple"
-    label "Hugo Hans von Seeliger / Germany / 3271"
+    label "Hugo Hans von Seeliger / Germany / 3271 / 1872"
     graphics [
       x 38775.00000
       y 36846.01389
@@ -8640,7 +8640,7 @@ graph [
   node [
     id 508
     template "oreas:std:rect simple"
-    label "Philipp Ludwig Seidel / Germany / 130"
+    label "Philipp Ludwig Seidel / Germany / 130 / 1854"
     graphics [
       x 43725.00000
       y 36846.01389
@@ -8657,7 +8657,7 @@ graph [
   node [
     id 509
     template "oreas:std:rect simple"
-    label "Gustav Conrad Bauer / Germany / 2466"
+    label "Gustav Conrad Bauer / Germany / 2466 / 1862"
     graphics [
       x 44300.00000
       y 37169.01389
@@ -8674,7 +8674,7 @@ graph [
   node [
     id 510
     template "oreas:std:rect simple"
-    label "Vincenz Nachreiner / Germany / 0"
+    label "Vincenz Nachreiner / Germany / 0 / 1872"
     graphics [
       x 43500.00000
       y 37169.01389
@@ -8691,7 +8691,7 @@ graph [
   node [
     id 511
     template "oreas:std:rect simple"
-    label "Hugo Krüss / Germany / 0"
+    label "Hugo Krüss / Germany / 0 / 1873"
     graphics [
       x 44075.00000
       y 37169.01389
@@ -8708,7 +8708,7 @@ graph [
   node [
     id 512
     template "oreas:std:rect simple"
-    label "Christus Kakuriotis / Germany / 0"
+    label "Christus Kakuriotis / Germany / 0 / 1872"
     graphics [
       x 43775.00000
       y 37169.01389
@@ -8725,7 +8725,7 @@ graph [
   node [
     id 513
     template "oreas:std:rect simple"
-    label "Christian August Vogler / Germany / 0"
+    label "Christian August Vogler / Germany / 0 / 1873"
     graphics [
       x 43625.00000
       y 37169.01389
@@ -8742,7 +8742,7 @@ graph [
   node [
     id 514
     template "oreas:std:rect simple"
-    label "Anton von Braunmühl / Germany / 7"
+    label "Anton von Braunmühl / Germany / 7 / 1878"
     graphics [
       x 43900.00000
       y 37169.01389
@@ -8759,7 +8759,7 @@ graph [
   node [
     id 515
     template "oreas:std:rect simple"
-    label "Wilhelm Hess / Germany / 0"
+    label "Wilhelm Hess / Germany / 0 / 1880"
     graphics [
       x 44275.00000
       y 37392.01389
@@ -8776,7 +8776,7 @@ graph [
   node [
     id 516
     template "oreas:std:rect simple"
-    label "Walfried Marx / Germany / 0"
+    label "Walfried Marx / Germany / 0 / 1880"
     graphics [
       x 44100.00000
       y 37392.01389
@@ -8793,7 +8793,7 @@ graph [
   node [
     id 517
     template "oreas:std:rect simple"
-    label "Georg Kerschensteiner / Germany / 0"
+    label "Georg Kerschensteiner / Germany / 0 / 1883"
     graphics [
       x 43975.00000
       y 37392.01389
@@ -8810,7 +8810,7 @@ graph [
   node [
     id 518
     template "oreas:std:rect simple"
-    label "Otto Dotterweich / Germany / 0"
+    label "Otto Dotterweich / Germany / 0 / 1884"
     graphics [
       x 43800.00000
       y 37392.01389
@@ -8827,7 +8827,7 @@ graph [
   node [
     id 519
     template "oreas:std:rect simple"
-    label "Gottlieb Herting / Germany / 0"
+    label "Gottlieb Herting / Germany / 0 / 1884"
     graphics [
       x 43475.00000
       y 37706.68056
@@ -8844,7 +8844,7 @@ graph [
   node [
     id 520
     template "oreas:std:rect simple"
-    label "Alfons Schmitz / Germany / 0"
+    label "Alfons Schmitz / Germany / 0 / 1887"
     graphics [
       x 44475.00000
       y 37706.68056
@@ -8861,7 +8861,7 @@ graph [
   node [
     id 521
     template "oreas:std:rect simple"
-    label "Ernst Schöner / Germany / 0"
+    label "Ernst Schöner / Germany / 0 / 1887"
     graphics [
       x 44725.00000
       y 37706.68056
@@ -8878,7 +8878,7 @@ graph [
   node [
     id 522
     template "oreas:std:rect simple"
-    label "Ernst Emil Ferdinand Anding / Germany / 0"
+    label "Ernst Emil Ferdinand Anding / Germany / 0 / 1888"
     graphics [
       x 38875.00000
       y 37706.68056
@@ -8895,7 +8895,7 @@ graph [
   node [
     id 523
     template "oreas:std:rect simple"
-    label "Karl Geiger / Germany / 0"
+    label "Karl Geiger / Germany / 0 / 1889"
     graphics [
       x 44600.00000
       y 37706.68056
@@ -8912,7 +8912,7 @@ graph [
   node [
     id 524
     template "oreas:std:rect simple"
-    label "Richard Schorr / Germany / 0"
+    label "Richard Schorr / Germany / 0 / 1889"
     graphics [
       x 38775.00000
       y 38029.68056
@@ -8929,7 +8929,7 @@ graph [
   node [
     id 525
     template "oreas:std:rect simple"
-    label "Karl Oertel / Germany / 0"
+    label "Karl Oertel / Germany / 0 / 1890"
     graphics [
       x 38650.00000
       y 38029.68056
@@ -8946,7 +8946,7 @@ graph [
   node [
     id 526
     template "oreas:std:rect simple"
-    label "Adalbert M. Bock / Germany / 0"
+    label "Adalbert M. Bock / Germany / 0 / 1892"
     graphics [
       x 38900.00000
       y 38029.68056
@@ -8963,7 +8963,7 @@ graph [
   node [
     id 527
     template "oreas:std:rect simple"
-    label "Oscar Hecker / Germany / 0"
+    label "Oscar Hecker / Germany / 0 / 1891"
     graphics [
       x 38525.00000
       y 38029.68056
@@ -8980,7 +8980,7 @@ graph [
   node [
     id 528
     template "oreas:std:rect simple"
-    label "Joseph Mayer / Germany / 0"
+    label "Joseph Mayer / Germany / 0 / 1895"
     graphics [
       x 45850.00000
       y 38029.68056
@@ -8997,7 +8997,7 @@ graph [
   node [
     id 529
     template "oreas:std:rect simple"
-    label "Johann Goettler / Germany / 0"
+    label "Johann Goettler / Germany / 0 / 1897"
     graphics [
       x 45725.00000
       y 38352.68056
@@ -9014,7 +9014,7 @@ graph [
   node [
     id 530
     template "oreas:std:rect simple"
-    label "Johannes Höppner / Germany / 0"
+    label "Johannes Höppner / Germany / 0 / 1899"
     graphics [
       x 46000.00000
       y 38352.68056
@@ -9031,7 +9031,7 @@ graph [
   node [
     id 531
     template "oreas:std:rect simple"
-    label "Ludwig Marc / Germany / 0"
+    label "Ludwig Marc / Germany / 0 / 1899"
     graphics [
       x 45850.00000
       y 38352.68056
@@ -9048,7 +9048,7 @@ graph [
   node [
     id 532
     template "oreas:std:rect simple"
-    label "Robert Mayr / Germany / 0"
+    label "Robert Mayr / Germany / 0 / 1899"
     graphics [
       x 45575.00000
       y 38352.68056
@@ -9065,7 +9065,7 @@ graph [
   node [
     id 533
     template "oreas:std:rect simple"
-    label "Gottlob Friedrich Lipps / Germany / 0"
+    label "Gottlob Friedrich Lipps / Germany / 0 / 1888"
     graphics [
       x 45425.00000
       y 38352.68056
@@ -9082,7 +9082,7 @@ graph [
   node [
     id 534
     template "oreas:std:rect simple"
-    label "Oswald Külpe / Germany / 20"
+    label "Oswald Külpe / Germany / 20 / 1887"
     graphics [
       x 68200.00000
       y 38352.68056
@@ -9099,7 +9099,7 @@ graph [
   node [
     id 535
     template "oreas:std:rect simple"
-    label "Paul Karl Ludwig Drude / Germany / 246"
+    label "Paul Karl Ludwig Drude / Germany / 246 / 1887"
     graphics [
       x 12025.00000
       y 38675.68056
@@ -9116,7 +9116,7 @@ graph [
   node [
     id 536
     template "oreas:std:rect simple"
-    label "Johann Franz Friedrich Encke / Germany / 10049"
+    label "Johann Franz Friedrich Encke / Germany / 10049 / 1825"
     graphics [
       x 65875.00000
       y 38675.68056
@@ -9133,7 +9133,7 @@ graph [
   node [
     id 537
     template "oreas:std:rect simple"
-    label "Paul Friedrich Ferdinand Kempf / Germany / 0"
+    label "Paul Friedrich Ferdinand Kempf / Germany / 0 / 1878"
     graphics [
       x 79650.00000
       y 38675.68056
@@ -9150,7 +9150,7 @@ graph [
   node [
     id 538
     template "oreas:std:rect simple"
-    label "Friedrich Robert Helmert / Germany / 3"
+    label "Friedrich Robert Helmert / Germany / 3 / 1868"
     graphics [
       x 41450.00000
       y 38675.68056
@@ -9167,7 +9167,7 @@ graph [
   node [
     id 539
     template "oreas:std:rect simple"
-    label "Friedrich Christian von Riese / Germany / 0"
+    label "Friedrich Christian von Riese / Germany / 0 / 1825"
     graphics [
       x 52987.50000
       y 38675.68056
@@ -9184,7 +9184,7 @@ graph [
   node [
     id 540
     template "oreas:std:rect simple"
-    label "Alexander Radzig / Germany / 0"
+    label "Alexander Radzig / Germany / 0 / 1895"
     graphics [
       x 76200.00000
       y 38675.68056
@@ -9201,7 +9201,7 @@ graph [
   node [
     id 541
     template "oreas:std:rect simple"
-    label "Joseph Raatz / Germany / 0"
+    label "Joseph Raatz / Germany / 0 / 1861"
     graphics [
       x 66925.00000
       y 38675.68056
@@ -9218,7 +9218,7 @@ graph [
   node [
     id 542
     template "oreas:std:rect simple"
-    label "Edgar Odell Lovett / Germany / 0"
+    label "Edgar Odell Lovett / Germany / 0 / 1898"
     graphics [
       x 14075.00000
       y 38675.68056
@@ -9235,7 +9235,7 @@ graph [
   node [
     id 543
     template "oreas:std:rect simple"
-    label "Ladislaus von Bortkewitsch / Germany / 1346"
+    label "Ladislaus von Bortkewitsch / Germany / 1346 / 1892"
     graphics [
       x 79275.00000
       y 38675.68056
@@ -9252,7 +9252,7 @@ graph [
   node [
     id 544
     template "oreas:std:rect simple"
-    label "Carl Schilling / Germany / 0"
+    label "Carl Schilling / Germany / 0 / 1880"
     graphics [
       x 70925.00000
       y 38675.68056
@@ -9269,7 +9269,7 @@ graph [
   node [
     id 545
     template "oreas:std:rect simple"
-    label "Ernst Heinrich Tölken / Germany / 1"
+    label "Ernst Heinrich Tölken / Germany / 1 / 1822"
     graphics [
       x 66050.00000
       y 38998.68056
@@ -9286,7 +9286,7 @@ graph [
   node [
     id 546
     template "oreas:std:rect simple"
-    label "Leo Ladislaus Wituski / Germany / 0"
+    label "Leo Ladislaus Wituski / Germany / 0 / 1853"
     graphics [
       x 56200.00000
       y 38998.68056
@@ -9303,7 +9303,7 @@ graph [
   node [
     id 547
     template "oreas:std:rect simple"
-    label "Franz Woepcke / Germany / 0"
+    label "Franz Woepcke / Germany / 0 / 1847"
     graphics [
       x 65925.00000
       y 38998.68056
@@ -9320,7 +9320,7 @@ graph [
   node [
     id 548
     template "oreas:std:rect simple"
-    label "Eduard Wiltheiss / Germany / 0"
+    label "Eduard Wiltheiss / Germany / 0 / 1879"
     graphics [
       x 68575.00000
       y 38998.68056
@@ -9337,7 +9337,7 @@ graph [
   node [
     id 549
     template "oreas:std:rect simple"
-    label "Alexander Wernicke / Germany / 0"
+    label "Alexander Wernicke / Germany / 0 / 1879"
     graphics [
       x 63025.00000
       y 38998.68056
@@ -9354,7 +9354,7 @@ graph [
   node [
     id 550
     template "oreas:std:rect simple"
-    label "Wilhelm Wernicke / Germany / 0"
+    label "Wilhelm Wernicke / Germany / 0 / 1863"
     graphics [
       x 59275.00000
       y 38998.68056
@@ -9371,7 +9371,7 @@ graph [
   node [
     id 551
     template "oreas:std:rect simple"
-    label "Wilhelm Karl Ludwig Wagner / Germany / 0"
+    label "Wilhelm Karl Ludwig Wagner / Germany / 0 / 1855"
     graphics [
       x 59100.00000
       y 38998.68056
@@ -9388,7 +9388,7 @@ graph [
   node [
     id 552
     template "oreas:std:rect simple"
-    label "Hermann Waldaestel / Germany / 0"
+    label "Hermann Waldaestel / Germany / 0 / 1860"
     graphics [
       x 59500.00000
       y 38998.68056
@@ -9405,7 +9405,7 @@ graph [
   node [
     id 553
     template "oreas:std:rect simple"
-    label "Karl Weltzien / Germany / 0"
+    label "Karl Weltzien / Germany / 0 / 1882"
     graphics [
       x 68725.00000
       y 38998.68056
@@ -9422,7 +9422,7 @@ graph [
   node [
     id 554
     template "oreas:std:rect simple"
-    label "Rudolf Mehmke / Germany / 1"
+    label "Rudolf Mehmke / Germany / 1 / 1880"
     graphics [
       x 70550.00000
       y 39321.68056
@@ -9439,7 +9439,7 @@ graph [
   node [
     id 555
     template "oreas:std:rect simple"
-    label "Theophilus Wildius / Germany / 0"
+    label "Theophilus Wildius / Germany / 0 / 1654"
     graphics [
       x 11075.00000
       y 39321.68056
@@ -9456,7 +9456,7 @@ graph [
   node [
     id 556
     template "oreas:std:rect simple"
-    label "Ludwig Lange / Germany / 0"
+    label "Ludwig Lange / Germany / 0 / 1886"
     graphics [
       x 64525.00000
       y 39321.68056
@@ -9473,7 +9473,7 @@ graph [
   node [
     id 557
     template "oreas:std:rect simple"
-    label "Christoph Vogel / Germany / 0"
+    label "Christoph Vogel / Germany / 0 / 1652"
     graphics [
       x 10950.00000
       y 39321.68056
@@ -9490,7 +9490,7 @@ graph [
   node [
     id 558
     template "oreas:std:rect simple"
-    label "Hermann Rudolf Lotze / Germany / 374"
+    label "Hermann Rudolf Lotze / Germany / 374 / 1838"
     graphics [
       x 58175.00000
       y 39321.68056
@@ -9507,7 +9507,7 @@ graph [
   node [
     id 559
     template "oreas:std:rect simple"
-    label "Josef Grünwald / CzechRepublic / 0"
+    label "Josef Grünwald / CzechRepublic / 0 / 1899"
     graphics [
       x 53200.00000
       y 39644.68056
@@ -9524,7 +9524,7 @@ graph [
   node [
     id 560
     template "oreas:std:rect simple"
-    label "Anton Vincenz Huber / Germany / 0"
+    label "Anton Vincenz Huber / Germany / 0 / 1883"
     graphics [
       x 74275.00000
       y 39644.68056
@@ -9541,7 +9541,7 @@ graph [
   node [
     id 561
     template "oreas:std:rect simple"
-    label "Gustav Kohn / Austria / 0"
+    label "Gustav Kohn / Austria / 0 / 1881"
     graphics [
       x 51900.00000
       y 39644.68056
@@ -9558,7 +9558,7 @@ graph [
   node [
     id 562
     template "oreas:std:rect simple"
-    label "Ernst Blaschke / Austria / 0"
+    label "Ernst Blaschke / Austria / 0 / 1884"
     graphics [
       x 56875.00000
       y 39644.68056
@@ -9575,7 +9575,7 @@ graph [
   node [
     id 563
     template "oreas:std:rect simple"
-    label "Karl Carda / Austria / 0"
+    label "Karl Carda / Austria / 0 / 1894"
     graphics [
       x 47375.00000
       y 39644.68056
@@ -9592,7 +9592,7 @@ graph [
   node [
     id 564
     template "oreas:std:rect simple"
-    label "Otto Stolz / Austria / 2"
+    label "Otto Stolz / Austria / 2 / 1870"
     graphics [
       x 52075.00000
       y 39967.68056
@@ -9609,7 +9609,7 @@ graph [
   node [
     id 565
     template "oreas:std:rect simple"
-    label "Konrad Zindler / Austria / 40"
+    label "Konrad Zindler / Austria / 40 / 1890"
     graphics [
       x 68900.00000
       y 39967.68056
@@ -9626,7 +9626,7 @@ graph [
   node [
     id 566
     template "oreas:std:rect simple"
-    label "Carl Christian Bruhns / Germany / 5184"
+    label "Carl Christian Bruhns / Germany / 5184 / 1856"
     graphics [
       x 46625.00000
       y 39967.68056
@@ -9643,7 +9643,7 @@ graph [
   node [
     id 567
     template "oreas:std:rect simple"
-    label "Josef Anton Gmeiner / Austria / 0"
+    label "Josef Anton Gmeiner / Austria / 0 / 1895"
     graphics [
       x 52200.00000
       y 39967.68056
@@ -9660,7 +9660,7 @@ graph [
   node [
     id 568
     template "oreas:std:rect simple"
-    label "Georg Christoph Lichtenberg / Germany / 62315"
+    label "Georg Christoph Lichtenberg / Germany / 62315 / 1765"
     graphics [
       x 55325.00000
       y 40290.68056
@@ -9677,7 +9677,7 @@ graph [
   node [
     id 569
     template "oreas:std:rect simple"
-    label "Heinrich Wilhelm Brandes / Germany / 35659"
+    label "Heinrich Wilhelm Brandes / Germany / 35659 / 1800"
     graphics [
       x 71325.00000
       y 40290.68056
@@ -9694,7 +9694,7 @@ graph [
   node [
     id 570
     template "oreas:std:rect simple"
-    label "Reinder Johan Escher / Netherlands / 0"
+    label "Reinder Johan Escher / Netherlands / 0 / 1885"
     graphics [
       x 1325.000000
       y 40290.68056
@@ -9711,7 +9711,7 @@ graph [
   node [
     id 571
     template "oreas:std:rect simple"
-    label "Nicolaas Pieter Kapteyn / Netherlands / 0"
+    label "Nicolaas Pieter Kapteyn / Netherlands / 0 / 1872"
     graphics [
       x 25125.00000
       y 40613.68056
@@ -9728,7 +9728,7 @@ graph [
   node [
     id 572
     template "oreas:std:rect simple"
-    label "Hermann Kühne / Germany / 0"
+    label "Hermann Kühne / Germany / 0 / 1892"
     graphics [
       x 76200.00000
       y 40613.68056
@@ -9745,7 +9745,7 @@ graph [
   node [
     id 573
     template "oreas:std:rect simple"
-    label "Max Johannes Brückner / Germany / 0"
+    label "Max Johannes Brückner / Germany / 0 / 1886"
     graphics [
       x 22450.00000
       y 40936.68056
@@ -9762,7 +9762,7 @@ graph [
   node [
     id 574
     template "oreas:std:rect simple"
-    label "Johann Ludwig Lenz / Germany / 0"
+    label "Johann Ludwig Lenz / Germany / 0 / 1777"
     graphics [
       x 73275.00000
       y 40936.68056
@@ -9779,7 +9779,7 @@ graph [
   node [
     id 575
     template "oreas:std:rect simple"
-    label "Carl Anton Bjerknes / Norway / 1965"
+    label "Carl Anton Bjerknes / Norway / 1965 / 1847"
     graphics [
       x 8025.000000
       y 41009.68056
@@ -9796,7 +9796,7 @@ graph [
   node [
     id 576
     template "oreas:std:rect simple"
-    label "Cato Maximilian Guldberg / Norway / 1965"
+    label "Cato Maximilian Guldberg / Norway / 1965 / 1847"
     graphics [
       x 8150.000000
       y 41009.68056
@@ -9813,7 +9813,7 @@ graph [
   node [
     id 577
     template "oreas:std:rect simple"
-    label "Nathan Mannheimer / Germany / 0"
+    label "Nathan Mannheimer / Germany / 0 / 1898"
     graphics [
       x 59950.00000
       y 41332.68056
@@ -9830,7 +9830,7 @@ graph [
   node [
     id 578
     template "oreas:std:rect simple"
-    label "Carl Heineck / Germany / 0"
+    label "Carl Heineck / Germany / 0 / 1899"
     graphics [
       x 16900.00000
       y 41332.68056
@@ -9847,7 +9847,7 @@ graph [
   node [
     id 579
     template "oreas:std:rect simple"
-    label "Enno Jürgens / Germany / 0"
+    label "Enno Jürgens / Germany / 0 / 1873"
     graphics [
       x 59825.00000
       y 41332.68056
@@ -9864,7 +9864,7 @@ graph [
   node [
     id 580
     template "oreas:std:rect simple"
-    label "Konstantin Winterberg / Germany / 0"
+    label "Konstantin Winterberg / Germany / 0 / 1874"
     graphics [
       x 76050.00000
       y 41332.68056
@@ -9881,7 +9881,7 @@ graph [
   node [
     id 581
     template "oreas:std:rect simple"
-    label "Christian Samuel Weiss / Germany / 2231"
+    label "Christian Samuel Weiss / Germany / 2231 / 1801"
     graphics [
       x 13500.00000
       y 41332.68056
@@ -9898,7 +9898,7 @@ graph [
   node [
     id 582
     template "oreas:std:rect simple"
-    label "Abraham Gotthelf Kästner / Germany / 101106"
+    label "Abraham Gotthelf Kästner / Germany / 101106 / 1739"
     graphics [
       x 59250.00000
       y 41655.68056
@@ -9915,7 +9915,7 @@ graph [
   node [
     id 583
     template "oreas:std:rect simple"
-    label "Joannes Theodorus Meyer / Germany / 0"
+    label "Joannes Theodorus Meyer / Germany / 0 / 1866"
     graphics [
       x 50450.00000
       y 41655.68056
@@ -9932,7 +9932,7 @@ graph [
   node [
     id 584
     template "oreas:std:rect simple"
-    label "Rudolf Camerer / Germany / 2"
+    label "Rudolf Camerer / Germany / 2 / 1895"
     graphics [
       x 39075.00000
       y 41655.68056
@@ -9949,7 +9949,7 @@ graph [
   node [
     id 585
     template "oreas:std:rect simple"
-    label "John Trowbridge / UnitedStates / 3350"
+    label "John Trowbridge / UnitedStates / 3350 / 1873"
     graphics [
       x 78950.00000
       y 41978.68056
@@ -9966,7 +9966,7 @@ graph [
   node [
     id 586
     template "oreas:std:rect simple"
-    label "Fritz Rohde / Germany / 0"
+    label "Fritz Rohde / Germany / 0 / 1886"
     graphics [
       x 56425.00000
       y 41978.68056
@@ -9983,7 +9983,7 @@ graph [
   node [
     id 587
     template "oreas:std:rect simple"
-    label "Friedrich Küstner / Germany / 16"
+    label "Friedrich Küstner / Germany / 16 / 1880"
     graphics [
       x 79675.00000
       y 41978.68056
@@ -10000,7 +10000,7 @@ graph [
   node [
     id 588
     template "oreas:std:rect simple"
-    label "Gustav Adolf Harnack / Germany / 1092"
+    label "Gustav Adolf Harnack / Germany / 1092 / 1873"
     graphics [
       x 27562.50000
       y 41978.68056
@@ -10017,7 +10017,7 @@ graph [
   node [
     id 589
     template "oreas:std:rect simple"
-    label "Heinrich Rudolph Hertz / Germany / 164"
+    label "Heinrich Rudolph Hertz / Germany / 164 / 1880"
     graphics [
       x 73075.00000
       y 41978.68056
@@ -10034,7 +10034,7 @@ graph [
   node [
     id 590
     template "oreas:std:rect simple"
-    label "Heinrich Samter / Germany / 0"
+    label "Heinrich Samter / Germany / 0 / 1886"
     graphics [
       x 49150.00000
       y 42301.68056
@@ -10051,7 +10051,7 @@ graph [
   node [
     id 591
     template "oreas:std:rect simple"
-    label "William Fogg Osgood / Germany / 4"
+    label "William Fogg Osgood / Germany / 4 / 1890"
     graphics [
       x 24500.00000
       y 42301.68056
@@ -10068,7 +10068,7 @@ graph [
   node [
     id 592
     template "oreas:std:rect simple"
-    label "Michael Idvorsky Pupin / Germany / 0"
+    label "Michael Idvorsky Pupin / Germany / 0 / 1889"
     graphics [
       x 69800.00000
       y 42301.68056
@@ -10085,7 +10085,7 @@ graph [
   node [
     id 593
     template "oreas:std:rect simple"
-    label "Arthur Wehnelt / Germany / 89"
+    label "Arthur Wehnelt / Germany / 89 / 1898"
     graphics [
       x 41375.00000
       y 42354.68056
@@ -10102,7 +10102,7 @@ graph [
   node [
     id 594
     template "oreas:std:rect simple"
-    label "Mathias (Matyas) Lerch / Germany / 1725"
+    label "Mathias (Matyas) Lerch / Germany / 1725 / 1885"
     graphics [
       x 54325.00000
       y 42677.68056
@@ -10119,7 +10119,7 @@ graph [
   node [
     id 595
     template "oreas:std:rect simple"
-    label "James McKeen Cattell / Germany / 162"
+    label "James McKeen Cattell / Germany / 162 / 1886"
     graphics [
       x 64675.00000
       y 42677.68056
@@ -10136,7 +10136,7 @@ graph [
   node [
     id 596
     template "oreas:std:rect simple"
-    label "Johann Christoph Wichmannshausen / Germany / 101112"
+    label "Johann Christoph Wichmannshausen / Germany / 101112 / 1685"
     graphics [
       x 49150.00000
       y 42677.68056
@@ -10153,7 +10153,7 @@ graph [
   node [
     id 597
     template "oreas:std:rect simple"
-    label "Hermann Menzel / Germany / 0"
+    label "Hermann Menzel / Germany / 0 / 1891"
     graphics [
       x 73000.00000
       y 42677.68056
@@ -10170,7 +10170,7 @@ graph [
   node [
     id 598
     template "oreas:std:rect simple"
-    label "Jacob de Gelder / Netherlands / 806"
+    label "Jacob de Gelder / Netherlands / 806 / 1806"
     graphics [
       x 2050.000000
       y 42677.68056
@@ -10187,7 +10187,7 @@ graph [
   node [
     id 599
     template "oreas:std:rect simple"
-    label "George William Myers / Germany / 201"
+    label "George William Myers / Germany / 201 / 1896"
     graphics [
       x 38500.00000
       y 42677.68056
@@ -10204,7 +10204,7 @@ graph [
   node [
     id 600
     template "oreas:std:rect simple"
-    label "Karl August Fürchtegott Knabe / Germany / 0"
+    label "Karl August Fürchtegott Knabe / Germany / 0 / 1885"
     graphics [
       x 55750.00000
       y 43000.68056
@@ -10221,7 +10221,7 @@ graph [
   node [
     id 601
     template "oreas:std:rect simple"
-    label "Maximilian Wolf / Germany / 14"
+    label "Maximilian Wolf / Germany / 14 / 1888"
     graphics [
       x 56725.00000
       y 43000.68056
@@ -10238,7 +10238,7 @@ graph [
   node [
     id 602
     template "oreas:std:rect simple"
-    label "Karl Heun / Germany / 0"
+    label "Karl Heun / Germany / 0 / 1881"
     graphics [
       x 7600.000000
       y 43000.68056
@@ -10255,7 +10255,7 @@ graph [
   node [
     id 603
     template "oreas:std:rect simple"
-    label "Philipp Eduard Anton Lenard / Germany / 2"
+    label "Philipp Eduard Anton Lenard / Germany / 2 / 1886"
     graphics [
       x 34825.00000
       y 43323.68056
@@ -10272,7 +10272,7 @@ graph [
   node [
     id 604
     template "oreas:std:rect simple"
-    label "Hermann Theodor Simon / Germany / 4"
+    label "Hermann Theodor Simon / Germany / 4 / 1897"
     graphics [
       x 49525.00000
       y 43323.68056
@@ -10289,7 +10289,7 @@ graph [
   node [
     id 605
     template "oreas:std:rect simple"
-    label "Albert Görland / Germany / 0"
+    label "Albert Görland / Germany / 0 / 1897"
     graphics [
       x 72800.00000
       y 43323.68056
@@ -10306,7 +10306,7 @@ graph [
   node [
     id 606
     template "oreas:std:rect simple"
-    label "Gideon Janus Verdam / Netherlands / 804"
+    label "Gideon Janus Verdam / Netherlands / 804 / 1825"
     graphics [
       x 1750.000000
       y 43323.68056
@@ -10323,7 +10323,7 @@ graph [
   node [
     id 607
     template "oreas:std:rect simple"
-    label "Pieter Johannes Uylenbroek / Netherlands / 3611"
+    label "Pieter Johannes Uylenbroek / Netherlands / 3611 / 1819"
     graphics [
       x 2500.000000
       y 43323.68056
@@ -10340,7 +10340,7 @@ graph [
   node [
     id 608
     template "oreas:std:rect simple"
-    label "Rudolf Karl Ferdinand Böger / Germany / 0"
+    label "Rudolf Karl Ferdinand Böger / Germany / 0 / 1886"
     graphics [
       x 17850.00000
       y 43323.68056
@@ -10357,7 +10357,7 @@ graph [
   node [
     id 609
     template "oreas:std:rect simple"
-    label "Abraham Klein (Calovius) / Germany / 104117"
+    label "Abraham Klein (Calovius) / Germany / 104117 / 1629"
     graphics [
       x 37250.00000
       y 43646.68056
@@ -10374,7 +10374,7 @@ graph [
   node [
     id 610
     template "oreas:std:rect simple"
-    label "Willem Abraham Wythoff / Netherlands / 0"
+    label "Willem Abraham Wythoff / Netherlands / 0 / 1898"
     graphics [
       x 4125.000000
       y 43646.68056
@@ -10391,7 +10391,7 @@ graph [
   node [
     id 611
     template "oreas:std:rect simple"
-    label "Nicolaas Quint / Netherlands / 0"
+    label "Nicolaas Quint / Netherlands / 0 / 1888"
     graphics [
       x 4250.000000
       y 43646.68056
@@ -10408,7 +10408,7 @@ graph [
   node [
     id 612
     template "oreas:std:rect simple"
-    label "Barend Turksma / Netherlands / 0"
+    label "Barend Turksma / Netherlands / 0 / 1894"
     graphics [
       x 4375.000000
       y 43646.68056
@@ -10425,7 +10425,7 @@ graph [
   node [
     id 613
     template "oreas:std:rect simple"
-    label "Gyula (Julius) König / Germany / 0"
+    label "Gyula (Julius) König / Germany / 0 / 1870"
     graphics [
       x 56800.00000
       y 43646.68056
@@ -10442,7 +10442,7 @@ graph [
   node [
     id 614
     template "oreas:std:rect simple"
-    label "Rikitaro Fudzisawa / Germany / 71"
+    label "Rikitaro Fudzisawa / Germany / 71 / 1886"
     graphics [
       x 67225.00000
       y 43699.68056
@@ -10459,7 +10459,7 @@ graph [
   node [
     id 615
     template "oreas:std:rect simple"
-    label "A. Boulanger / France / 0"
+    label "A. Boulanger / France / 0 / 1897"
     graphics [
       x 62575.00000
       y 44022.68056
@@ -10476,7 +10476,7 @@ graph [
   node [
     id 616
     template "oreas:std:rect simple"
-    label "Paul Painlevé / France / 2"
+    label "Paul Painlevé / France / 2 / 1887"
     graphics [
       x 62450.00000
       y 44022.68056
@@ -10493,7 +10493,7 @@ graph [
   node [
     id 617
     template "oreas:std:rect simple"
-    label "Oswald Hermes / Germany / 0"
+    label "Oswald Hermes / Germany / 0 / 1849"
     graphics [
       x 55425.00000
       y 44022.68056
@@ -10510,7 +10510,7 @@ graph [
   node [
     id 618
     template "oreas:std:rect simple"
-    label "Otto Fulst / Germany / 0"
+    label "Otto Fulst / Germany / 0 / 1890"
     graphics [
       x 71000.00000
       y 44022.68056
@@ -10527,7 +10527,7 @@ graph [
   node [
     id 619
     template "oreas:std:rect simple"
-    label "Oscar Johann Wilhelm Röthig / Germany / 0"
+    label "Oscar Johann Wilhelm Röthig / Germany / 0 / 1857"
     graphics [
       x 58250.00000
       y 44022.68056
@@ -10544,7 +10544,7 @@ graph [
   node [
     id 620
     template "oreas:std:rect simple"
-    label "Xavier Stouff / France / 0"
+    label "Xavier Stouff / France / 0 / 1888"
     graphics [
       x 71050.00000
       y 44104.01389
@@ -10561,7 +10561,7 @@ graph [
   node [
     id 621
     template "oreas:std:rect simple"
-    label "Paul Appell / France / 1"
+    label "Paul Appell / France / 1 / 1863"
     graphics [
       x 71175.00000
       y 44104.01389
@@ -10578,7 +10578,7 @@ graph [
   node [
     id 622
     template "oreas:std:rect simple"
-    label "Elias Rudolph Camerarius, Sr. / Germany / 102064"
+    label "Elias Rudolph Camerarius, Sr. / Germany / 102064 / 1663"
     graphics [
       x 43208.33333
       y 44104.01389
@@ -10595,7 +10595,7 @@ graph [
   node [
     id 623
     template "oreas:std:rect simple"
-    label "Elias Rudolph Camerarius, Jr. / Germany / 9396"
+    label "Elias Rudolph Camerarius, Jr. / Germany / 9396 / 1691"
     graphics [
       x 43175.00000
       y 44174.23611
@@ -10612,7 +10612,7 @@ graph [
   node [
     id 624
     template "oreas:std:rect simple"
-    label "Burchard David Mauchart / Germany / 9395"
+    label "Burchard David Mauchart / Germany / 9395 / 1722"
     graphics [
       x 43012.50000
       y 44174.23611
@@ -10629,7 +10629,7 @@ graph [
   node [
     id 625
     template "oreas:std:rect simple"
-    label "Phillip Friedrich Gmelin / Germany / 9394"
+    label "Phillip Friedrich Gmelin / Germany / 9394 / 1742"
     graphics [
       x 42900.00000
       y 44497.23611
@@ -10646,7 +10646,7 @@ graph [
   node [
     id 626
     template "oreas:std:rect simple"
-    label "Johann Friedrich Gmelin / Germany / 9392"
+    label "Johann Friedrich Gmelin / Germany / 9392 / 1768"
     graphics [
       x 43200.00000
       y 44497.23611
@@ -10663,7 +10663,7 @@ graph [
   node [
     id 627
     template "oreas:std:rect simple"
-    label "Georg Friedrich Hildebrandt / Germany / 7232"
+    label "Georg Friedrich Hildebrandt / Germany / 7232 / 1783"
     graphics [
       x 43025.00000
       y 44497.23611
@@ -10680,7 +10680,7 @@ graph [
   node [
     id 628
     template "oreas:std:rect simple"
-    label "Friedrich Wilhelm Georg Kohlrausch / Germany / 109"
+    label "Friedrich Wilhelm Georg Kohlrausch / Germany / 109 / 1863"
     graphics [
       x 32625.00000
       y 44497.23611
@@ -10697,7 +10697,7 @@ graph [
   node [
     id 629
     template "oreas:std:rect simple"
-    label "Christian Michelmann / Germany / 0"
+    label "Christian Michelmann / Germany / 0 / 1668"
     graphics [
       x 45925.00000
       y 44497.23611
@@ -10714,7 +10714,7 @@ graph [
   node [
     id 630
     template "oreas:std:rect simple"
-    label "Charles Leonard Bouton / Germany / 1"
+    label "Charles Leonard Bouton / Germany / 1 / 1898"
     graphics [
       x 11075.00000
       y 44820.23611
@@ -10731,7 +10731,7 @@ graph [
   node [
     id 631
     template "oreas:std:rect simple"
-    label "Benjamin Peirce / UnitedStates / 4183"
+    label "Benjamin Peirce / UnitedStates / 4183 / 1829"
     graphics [
       x 79175.00000
       y 44820.23611
@@ -10748,7 +10748,7 @@ graph [
   node [
     id 632
     template "oreas:std:rect simple"
-    label "Elie Cartan / France / 659"
+    label "Elie Cartan / France / 659 / 1894"
     graphics [
       x 38325.00000
       y 44820.23611
@@ -10765,7 +10765,7 @@ graph [
   node [
     id 633
     template "oreas:std:rect simple"
-    label "Edmund Husserl / Germany / 5"
+    label "Edmund Husserl / Germany / 5 / 1884"
     graphics [
       x 55575.00000
       y 45093.23611
@@ -10782,7 +10782,7 @@ graph [
   node [
     id 634
     template "oreas:std:rect simple"
-    label "Friedrich Hasenöhrl / Austria / 1088"
+    label "Friedrich Hasenöhrl / Austria / 1088 / 1896"
     graphics [
       x 54325.00000
       y 45093.23611
@@ -10799,7 +10799,7 @@ graph [
   node [
     id 635
     template "oreas:std:rect simple"
-    label "Edward Leamington Nichols / Germany / 1701"
+    label "Edward Leamington Nichols / Germany / 1701 / 1879"
     graphics [
       x 76550.00000
       y 45146.23611
@@ -10816,7 +10816,7 @@ graph [
   node [
     id 636
     template "oreas:std:rect simple"
-    label "Ernest Fox Nichols / UnitedStates / 1698"
+    label "Ernest Fox Nichols / UnitedStates / 1698 / 1897"
     graphics [
       x 76700.00000
       y 45146.23611
@@ -10833,7 +10833,7 @@ graph [
   node [
     id 637
     template "oreas:std:rect simple"
-    label "Arthur Gordon Webster / Germany / 759"
+    label "Arthur Gordon Webster / Germany / 759 / 1890"
     graphics [
       x 69875.00000
       y 45146.23611
@@ -10850,7 +10850,7 @@ graph [
   node [
     id 638
     template "oreas:std:rect simple"
-    label "Eduard Ritter Von Weber / Germany / 0"
+    label "Eduard Ritter Von Weber / Germany / 0 / 1893"
     graphics [
       x 44450.00000
       y 45146.23611
@@ -10867,7 +10867,7 @@ graph [
   node [
     id 639
     template "oreas:std:rect simple"
-    label "Albert Potter Wills / UnitedStates / 757"
+    label "Albert Potter Wills / UnitedStates / 757 / 1897"
     graphics [
       x 69750.00000
       y 45146.23611
@@ -10884,7 +10884,7 @@ graph [
   node [
     id 640
     template "oreas:std:rect simple"
-    label "Walther Franz Anton von Dyck / Germany / 34"
+    label "Walther Franz Anton von Dyck / Germany / 34 / 1879"
     graphics [
       x 3825.000000
       y 45202.56944
@@ -10901,7 +10901,7 @@ graph [
   node [
     id 641
     template "oreas:std:rect simple"
-    label "George Schneider / Germany / 0"
+    label "George Schneider / Germany / 0 / 1675"
     graphics [
       x 10925.00000
       y 45202.56944
@@ -10918,7 +10918,7 @@ graph [
   node [
     id 642
     template "oreas:std:rect simple"
-    label "Hermann Lorberg / Germany / 0"
+    label "Hermann Lorberg / Germany / 0 / 1857"
     graphics [
       x 33450.00000
       y 45202.56944
@@ -10935,7 +10935,7 @@ graph [
   node [
     id 643
     template "oreas:std:rect simple"
-    label "Karl Hierholzer / Germany / 0"
+    label "Karl Hierholzer / Germany / 0 / 1865"
     graphics [
       x 33575.00000
       y 45202.56944
@@ -10952,7 +10952,7 @@ graph [
   node [
     id 644
     template "oreas:std:rect simple"
-    label "Eugen Hesslöhl / Germany / 0"
+    label "Eugen Hesslöhl / Germany / 0 / 1865"
     graphics [
       x 33425.00000
       y 45255.56944
@@ -10969,7 +10969,7 @@ graph [
   node [
     id 645
     template "oreas:std:rect simple"
-    label "Thomas E. Hart / Germany / 0"
+    label "Thomas E. Hart / Germany / 0 / 1866"
     graphics [
       x 32475.00000
       y 45255.56944
@@ -10986,7 +10986,7 @@ graph [
   node [
     id 646
     template "oreas:std:rect simple"
-    label "Karl Haase / Germany / 0"
+    label "Karl Haase / Germany / 0 / 1867"
     graphics [
       x 32350.00000
       y 45255.56944
@@ -11003,7 +11003,7 @@ graph [
   node [
     id 647
     template "oreas:std:rect simple"
-    label "Joachim Méckes / Germany / 0"
+    label "Joachim Méckes / Germany / 0 / 1868"
     graphics [
       x 32600.00000
       y 45255.56944
@@ -11020,7 +11020,7 @@ graph [
   node [
     id 648
     template "oreas:std:rect simple"
-    label "Wilhelm Stahl / Germany / 0"
+    label "Wilhelm Stahl / Germany / 0 / 1870"
     graphics [
       x 58600.00000
       y 45255.56944
@@ -11037,7 +11037,7 @@ graph [
   node [
     id 649
     template "oreas:std:rect simple"
-    label "Louis Löwenheim / Germany / 0"
+    label "Louis Löwenheim / Germany / 0 / 1871"
     graphics [
       x 59750.00000
       y 45255.56944
@@ -11054,7 +11054,7 @@ graph [
   node [
     id 650
     template "oreas:std:rect simple"
-    label "Georg Schröder / Germany / 0"
+    label "Georg Schröder / Germany / 0 / 1871"
     graphics [
       x 59025.00000
       y 45308.56944
@@ -11071,7 +11071,7 @@ graph [
   node [
     id 651
     template "oreas:std:rect simple"
-    label "Wilhelm Bock / Germany / 0"
+    label "Wilhelm Bock / Germany / 0 / 1872"
     graphics [
       x 58525.00000
       y 45308.56944
@@ -11088,7 +11088,7 @@ graph [
   node [
     id 652
     template "oreas:std:rect simple"
-    label "Moritz Réthy / Germany / 1189"
+    label "Moritz Réthy / Germany / 1189 / 1874"
     graphics [
       x 60425.00000
       y 45308.56944
@@ -11105,7 +11105,7 @@ graph [
   node [
     id 653
     template "oreas:std:rect simple"
-    label "Otto Rausenberger / Germany / 0"
+    label "Otto Rausenberger / Germany / 0 / 1875"
     graphics [
       x 59350.00000
       y 45308.56944
@@ -11122,7 +11122,7 @@ graph [
   node [
     id 654
     template "oreas:std:rect simple"
-    label "Alfred Köpcke / Germany / 0"
+    label "Alfred Köpcke / Germany / 0 / 1875"
     graphics [
       x 59425.00000
       y 45361.56944
@@ -11139,7 +11139,7 @@ graph [
   node [
     id 655
     template "oreas:std:rect simple"
-    label "Carl L. Schadwill / Germany / 0"
+    label "Carl L. Schadwill / Germany / 0 / 1876"
     graphics [
       x 75250.00000
       y 45361.56944
@@ -11156,7 +11156,7 @@ graph [
   node [
     id 656
     template "oreas:std:rect simple"
-    label "Julius Frey / Germany / 0"
+    label "Julius Frey / Germany / 0 / 1877"
     graphics [
       x 75800.00000
       y 45361.56944
@@ -11173,7 +11173,7 @@ graph [
   node [
     id 657
     template "oreas:std:rect simple"
-    label "Hermann Schapira / Germany / 0"
+    label "Hermann Schapira / Germany / 0 / 1880"
     graphics [
       x 75150.00000
       y 45414.56944
@@ -11190,7 +11190,7 @@ graph [
   node [
     id 658
     template "oreas:std:rect simple"
-    label "Otto Lühn / Germany / 0"
+    label "Otto Lühn / Germany / 0 / 1881"
     graphics [
       x 75625.00000
       y 45414.56944
@@ -11207,7 +11207,7 @@ graph [
   node [
     id 659
     template "oreas:std:rect simple"
-    label "Adolph Migotti / Germany / 0"
+    label "Adolph Migotti / Germany / 0 / 1881"
     graphics [
       x 75500.00000
       y 45414.56944
@@ -11224,7 +11224,7 @@ graph [
   node [
     id 660
     template "oreas:std:rect simple"
-    label "Norbert Hertz / Germany / 0"
+    label "Norbert Hertz / Germany / 0 / 1882"
     graphics [
       x 75850.00000
       y 45414.56944
@@ -11241,7 +11241,7 @@ graph [
   node [
     id 661
     template "oreas:std:rect simple"
-    label "Moritz Weiß / Germany / 0"
+    label "Moritz Weiß / Germany / 0 / 1883"
     graphics [
       x 75775.00000
       y 45467.56944
@@ -11258,7 +11258,7 @@ graph [
   node [
     id 662
     template "oreas:std:rect simple"
-    label "Carlo Veneziani / Germany / 0"
+    label "Carlo Veneziani / Germany / 0 / 1883"
     graphics [
       x 75075.00000
       y 45467.56944
@@ -11275,7 +11275,7 @@ graph [
   node [
     id 663
     template "oreas:std:rect simple"
-    label "Sigmund Rosen / Germany / 0"
+    label "Sigmund Rosen / Germany / 0 / 1884"
     graphics [
       x 75350.00000
       y 45467.56944
@@ -11292,7 +11292,7 @@ graph [
   node [
     id 664
     template "oreas:std:rect simple"
-    label "Max Mandel / Germany / 0"
+    label "Max Mandel / Germany / 0 / 1885"
     graphics [
       x 60150.00000
       y 45520.56944
@@ -11309,7 +11309,7 @@ graph [
   node [
     id 665
     template "oreas:std:rect simple"
-    label "Bernhard Meth / Germany / 0"
+    label "Bernhard Meth / Germany / 0 / 1885"
     graphics [
       x 59975.00000
       y 45573.56944
@@ -11326,7 +11326,7 @@ graph [
   node [
     id 666
     template "oreas:std:rect simple"
-    label "Heinrich Doerge / Germany / 0"
+    label "Heinrich Doerge / Germany / 0 / 1886"
     graphics [
       x 58825.00000
       y 45573.56944
@@ -11343,7 +11343,7 @@ graph [
   node [
     id 667
     template "oreas:std:rect simple"
-    label "Esim Ratner / Germany / 0"
+    label "Esim Ratner / Germany / 0 / 1886"
     graphics [
       x 60125.00000
       y 45573.56944
@@ -11360,7 +11360,7 @@ graph [
   node [
     id 668
     template "oreas:std:rect simple"
-    label "Richard Borck / Germany / 0"
+    label "Richard Borck / Germany / 0 / 1886"
     graphics [
       x 60050.00000
       y 45626.56944
@@ -11377,7 +11377,7 @@ graph [
   node [
     id 669
     template "oreas:std:rect simple"
-    label "Friedrich Zimmer / Germany / 0"
+    label "Friedrich Zimmer / Germany / 0 / 1887"
     graphics [
       x 59650.00000
       y 45626.56944
@@ -11394,7 +11394,7 @@ graph [
   node [
     id 670
     template "oreas:std:rect simple"
-    label "Otto Steinert / Germany / 0"
+    label "Otto Steinert / Germany / 0 / 1889"
     graphics [
       x 60275.00000
       y 45626.56944
@@ -11411,7 +11411,7 @@ graph [
   node [
     id 671
     template "oreas:std:rect simple"
-    label "Marcus Lewin / Germany / 0"
+    label "Marcus Lewin / Germany / 0 / 1898"
     graphics [
       x 59125.00000
       y 45679.56944
@@ -11428,7 +11428,7 @@ graph [
   node [
     id 672
     template "oreas:std:rect simple"
-    label "Friedrich Roesch / Germany / 0"
+    label "Friedrich Roesch / Germany / 0 / 1899"
     graphics [
       x 59575.00000
       y 45679.56944
@@ -11445,7 +11445,7 @@ graph [
   node [
     id 673
     template "oreas:std:rect simple"
-    label "Louis Saalschütz / Germany / 0"
+    label "Louis Saalschütz / Germany / 0 / 1861"
     graphics [
       x 13650.00000
       y 46002.56944
@@ -11462,7 +11462,7 @@ graph [
   node [
     id 674
     template "oreas:std:rect simple"
-    label "Johann Christian Polykarp Erxleben / Germany / 6433"
+    label "Johann Christian Polykarp Erxleben / Germany / 6433 / 1767"
     graphics [
       x 59800.00000
       y 46002.56944
@@ -11479,7 +11479,7 @@ graph [
   node [
     id 675
     template "oreas:std:rect simple"
-    label "George Sylvester Morris / Germany / 1950"
+    label "George Sylvester Morris / Germany / 1950 / 1868"
     graphics [
       x 69600.00000
       y 46002.56944
@@ -11496,7 +11496,7 @@ graph [
   node [
     id 676
     template "oreas:std:rect simple"
-    label "Karl Schmidt / Germany / 1854"
+    label "Karl Schmidt / Germany / 1854 / 1898"
     graphics [
       x 72500.00000
       y 46002.56944
@@ -11513,7 +11513,7 @@ graph [
   node [
     id 677
     template "oreas:std:rect simple"
-    label "Paul Gerhard Natorp / Germany / 1856"
+    label "Paul Gerhard Natorp / Germany / 1856 / 1879"
     graphics [
       x 72650.00000
       y 46002.56944
@@ -11530,7 +11530,7 @@ graph [
   node [
     id 678
     template "oreas:std:rect simple"
-    label "Édouard Goursat / France / 1607"
+    label "Édouard Goursat / France / 1607 / 1881"
     graphics [
       x 55150.00000
       y 46002.56944
@@ -11547,7 +11547,7 @@ graph [
   node [
     id 679
     template "oreas:std:rect simple"
-    label "Franz Josef Ritter von Gerstner / CzechRepublic / 9869"
+    label "Franz Josef Ritter von Gerstner / CzechRepublic / 9869 / 1777"
     graphics [
       x 67925.00000
       y 46200.56944
@@ -11564,7 +11564,7 @@ graph [
   node [
     id 680
     template "oreas:std:rect simple"
-    label "Bernard(us) Placidus Johann Nepomuk Bolzano / CzechRepublic / 9868"
+    label "Bernard(us) Placidus Johann Nepomuk Bolzano / CzechRepublic / 9868 / 1805"
     graphics [
       x 68050.00000
       y 46200.56944
@@ -11581,7 +11581,7 @@ graph [
   node [
     id 681
     template "oreas:std:rect simple"
-    label "Franz Moth / CzechRepublic / 8414"
+    label "Franz Moth / CzechRepublic / 8414 / 1822"
     graphics [
       x 67850.00000
       y 46290.23611
@@ -11598,7 +11598,7 @@ graph [
   node [
     id 682
     template "oreas:std:rect simple"
-    label "Józef Maximilian Petzval / Austria / 8029"
+    label "Józef Maximilian Petzval / Austria / 8029 / 1836"
     graphics [
       x 68175.00000
       y 46290.23611
@@ -11615,7 +11615,7 @@ graph [
   node [
     id 683
     template "oreas:std:rect simple"
-    label "Jacob Hermann / Switzerland / 0"
+    label "Jacob Hermann / Switzerland / 0 / 1696"
     graphics [
       x 9000.000000
       y 46290.23611
@@ -11632,7 +11632,7 @@ graph [
   node [
     id 684
     template "oreas:std:rect simple"
-    label "Heike Kamerlingh Onnes / Netherlands / 524"
+    label "Heike Kamerlingh Onnes / Netherlands / 524 / 1879"
     graphics [
       x 9575.000000
       y 46290.23611
@@ -11649,7 +11649,7 @@ graph [
   node [
     id 685
     template "oreas:std:rect simple"
-    label "Pierre Janet / UnitedStates / 395"
+    label "Pierre Janet / UnitedStates / 395 / 1844"
     graphics [
       x 76725.00000
       y 46613.23611
@@ -11666,7 +11666,7 @@ graph [
   node [
     id 686
     template "oreas:std:rect simple"
-    label "Wilhelm Bretschneider / Germany / 0"
+    label "Wilhelm Bretschneider / Germany / 0 / 1875"
     graphics [
       x 3800.000000
       y 46613.23611
@@ -11683,7 +11683,7 @@ graph [
   node [
     id 687
     template "oreas:std:rect simple"
-    label "Eugène-Charles Catalan / France / 6930"
+    label "Eugène-Charles Catalan / France / 6930 / 1841"
     graphics [
       x 65725.00000
       y 46613.23611
@@ -11700,7 +11700,7 @@ graph [
   node [
     id 688
     template "oreas:std:rect simple"
-    label "François Folie / Belgium / 182"
+    label "François Folie / Belgium / 182 / 1861"
     graphics [
       x 64975.00000
       y 46613.23611
@@ -11717,7 +11717,7 @@ graph [
   node [
     id 689
     template "oreas:std:rect simple"
-    label "Marcel Dehalu / Belgium / 179"
+    label "Marcel Dehalu / Belgium / 179 / 1897"
     graphics [
       x 64675.00000
       y 46613.23611
@@ -11734,7 +11734,7 @@ graph [
   node [
     id 690
     template "oreas:std:rect simple"
-    label "Constantin Le Paige / Belgium / 1"
+    label "Constantin Le Paige / Belgium / 1 / 1875"
     graphics [
       x 65600.00000
       y 46613.23611
@@ -11751,7 +11751,7 @@ graph [
   node [
     id 691
     template "oreas:std:rect simple"
-    label "François Deruyts / Belgium / 0"
+    label "François Deruyts / Belgium / 0 / 1887"
     graphics [
       x 65650.00000
       y 46740.40278
@@ -11768,7 +11768,7 @@ graph [
   node [
     id 692
     template "oreas:std:rect simple"
-    label "Richard Van Rees / Netherlands / 941"
+    label "Richard Van Rees / Netherlands / 941 / 1819"
     graphics [
       x 15900.00000
       y 46740.40278
@@ -11785,7 +11785,7 @@ graph [
   node [
     id 693
     template "oreas:std:rect simple"
-    label "Nicolas-Edouard Mailly / Belgium / 0"
+    label "Nicolas-Edouard Mailly / Belgium / 0 / 1831"
     graphics [
       x 16900.00000
       y 46740.40278
@@ -11802,7 +11802,7 @@ graph [
   node [
     id 694
     template "oreas:std:rect simple"
-    label "Léon Charve / France / 0"
+    label "Léon Charve / France / 0 / 1880"
     graphics [
       x 73475.00000
       y 46740.40278
@@ -11819,7 +11819,7 @@ graph [
   node [
     id 695
     template "oreas:std:rect simple"
-    label "Farkas Bolyai / Germany / 1"
+    label "Farkas Bolyai / Germany / 1 / 1796"
     graphics [
       x 59150.00000
       y 47063.40278
@@ -11836,7 +11836,7 @@ graph [
   node [
     id 696
     template "oreas:std:rect simple"
-    label "János Bolyai / Austria / 0"
+    label "János Bolyai / Austria / 0 / 1822"
     graphics [
       x 59025.00000
       y 47063.40278
@@ -11853,7 +11853,7 @@ graph [
   node [
     id 697
     template "oreas:std:rect simple"
-    label "Gustav Mohrmann / Germany / 0"
+    label "Gustav Mohrmann / Germany / 0 / 1889"
     graphics [
       x 56500.00000
       y 47063.40278
@@ -11870,7 +11870,7 @@ graph [
   node [
     id 698
     template "oreas:std:rect simple"
-    label "P. R. Belleval / France / 59"
+    label "P. R. Belleval / France / 59 / 1587"
     graphics [
       x 11250.00000
       y 47063.40278
@@ -11887,7 +11887,7 @@ graph [
   node [
     id 699
     template "oreas:std:rect simple"
-    label "Joseph Barth / Austria / 8879"
+    label "Joseph Barth / Austria / 8879 / 1772"
     graphics [
       x 38625.00000
       y 47063.40278
@@ -11904,7 +11904,7 @@ graph [
   node [
     id 700
     template "oreas:std:rect simple"
-    label "Georg Joseph Beer / Austria / 8878"
+    label "Georg Joseph Beer / Austria / 8878 / 1786"
     graphics [
       x 38687.50000
       y 47116.40278
@@ -11921,7 +11921,7 @@ graph [
   node [
     id 701
     template "oreas:std:rect simple"
-    label "Johan Peter Frank / Germany / 6781"
+    label "Johan Peter Frank / Germany / 6781 / 1766"
     graphics [
       x 44287.50000
       y 47116.40278
@@ -11938,7 +11938,7 @@ graph [
   node [
     id 702
     template "oreas:std:rect simple"
-    label "Anton von Störck / Austria / 8880"
+    label "Anton von Störck / Austria / 8880 / 1757"
     graphics [
       x 38562.50000
       y 47116.40278
@@ -11955,7 +11955,7 @@ graph [
   node [
     id 703
     template "oreas:std:rect simple"
-    label "Gerard van Swieten / Netherlands / 8888"
+    label "Gerard van Swieten / Netherlands / 8888 / 1725"
     graphics [
       x 38500.00000
       y 47169.40278
@@ -11972,7 +11972,7 @@ graph [
   node [
     id 704
     template "oreas:std:rect simple"
-    label "Georg Matthäus Gattenhof / Germany / 6782"
+    label "Georg Matthäus Gattenhof / Germany / 6782 / 1748"
     graphics [
       x 44250.00000
       y 47169.40278
@@ -11989,7 +11989,7 @@ graph [
   node [
     id 705
     template "oreas:std:rect simple"
-    label "Herman Boerhaave / Netherlands / 9429"
+    label "Herman Boerhaave / Netherlands / 9429 / 1692"
     graphics [
       x 18725.00000
       y 47169.40278
@@ -12006,7 +12006,7 @@ graph [
   node [
     id 706
     template "oreas:std:rect simple"
-    label "Albrecht von Haller / Netherlands / 1"
+    label "Albrecht von Haller / Netherlands / 1 / 1727"
     graphics [
       x 77100.00000
       y 47169.40278
@@ -12023,7 +12023,7 @@ graph [
   node [
     id 707
     template "oreas:std:rect simple"
-    label "Burchard de Volder / Netherlands / 14120"
+    label "Burchard de Volder / Netherlands / 14120 / 1662"
     graphics [
       x 28975.00000
       y 47169.40278
@@ -12040,7 +12040,7 @@ graph [
   node [
     id 708
     template "oreas:std:rect simple"
-    label "Johann Georg Duvernoy / Switzerland / 2"
+    label "Johann Georg Duvernoy / Switzerland / 2 / 1710"
     graphics [
       x 77600.00000
       y 47169.40278
@@ -12057,7 +12057,7 @@ graph [
   node [
     id 709
     template "oreas:std:rect simple"
-    label "Franciscus de le Boë Sylvius / Netherlands / 104710"
+    label "Franciscus de le Boë Sylvius / Netherlands / 104710 / 1634"
     graphics [
       x 29875.00000
       y 47492.40278
@@ -12074,7 +12074,7 @@ graph [
   node [
     id 710
     template "oreas:std:rect simple"
-    label "Joseph Pitton de Tournefort / France / 4"
+    label "Joseph Pitton de Tournefort / France / 4 / 1698"
     graphics [
       x 77625.00000
       y 47492.40278
@@ -12091,7 +12091,7 @@ graph [
   node [
     id 711
     template "oreas:std:rect simple"
-    label "Philipp Franz von Walther / Germany / 6780"
+    label "Philipp Franz von Walther / Germany / 6780 / 1803"
     graphics [
       x 48950.00000
       y 47492.40278
@@ -12108,7 +12108,7 @@ graph [
   node [
     id 712
     template "oreas:std:rect simple"
-    label "Johann Salomo Christoph Schweigger / Germany / 7231"
+    label "Johann Salomo Christoph Schweigger / Germany / 7231 / 1800"
     graphics [
       x 44300.00000
       y 47492.40278
@@ -12125,7 +12125,7 @@ graph [
   node [
     id 713
     template "oreas:std:rect simple"
-    label "Richard Winzer / Germany / 0"
+    label "Richard Winzer / Germany / 0 / 1886"
     graphics [
       x 56700.00000
       y 47492.40278
@@ -12142,7 +12142,7 @@ graph [
   node [
     id 714
     template "oreas:std:rect simple"
-    label "Wilhelm Weiss / Germany / 0"
+    label "Wilhelm Weiss / Germany / 0 / 1890"
     graphics [
       x 24575.00000
       y 47815.40278
@@ -12159,7 +12159,7 @@ graph [
   node [
     id 715
     template "oreas:std:rect simple"
-    label "Theodor Wienke / Germany / 0"
+    label "Theodor Wienke / Germany / 0 / 1872"
     graphics [
       x 75425.00000
       y 47815.40278
@@ -12176,7 +12176,7 @@ graph [
   node [
     id 716
     template "oreas:std:rect simple"
-    label "Eduard Wrobel / Germany / 0"
+    label "Eduard Wrobel / Germany / 0 / 1871"
     graphics [
       x 75700.00000
       y 47815.40278
@@ -12193,7 +12193,7 @@ graph [
   node [
     id 717
     template "oreas:std:rect simple"
-    label "Johann Eduard Erdmann / Germany / 1109"
+    label "Johann Eduard Erdmann / Germany / 1109 / 1830"
     graphics [
       x 72737.50000
       y 47815.40278
@@ -12210,7 +12210,7 @@ graph [
   node [
     id 718
     template "oreas:std:rect simple"
-    label "Kuno Ernst Berthold Fischer / Germany / 1108"
+    label "Kuno Ernst Berthold Fischer / Germany / 1108 / 1847"
     graphics [
       x 73975.00000
       y 47815.40278
@@ -12227,7 +12227,7 @@ graph [
   node [
     id 719
     template "oreas:std:rect simple"
-    label "August Friedrich Krause / Germany / 0"
+    label "August Friedrich Krause / Germany / 0 / 1897"
     graphics [
       x 75875.00000
       y 47815.40278
@@ -12244,7 +12244,7 @@ graph [
   node [
     id 720
     template "oreas:std:rect simple"
-    label "L. Bourguet / France / 0"
+    label "L. Bourguet / France / 0 / 1880"
     graphics [
       x 73500.00000
       y 47815.40278
@@ -12261,7 +12261,7 @@ graph [
   node [
     id 721
     template "oreas:std:rect simple"
-    label "August Tafelmacher / Germany / 0"
+    label "August Tafelmacher / Germany / 0 / 1889"
     graphics [
       x 7675.000000
       y 47815.40278
@@ -12278,7 +12278,7 @@ graph [
   node [
     id 722
     template "oreas:std:rect simple"
-    label "Gottfried Heinsius / Germany / 2"
+    label "Gottfried Heinsius / Germany / 2 / 1732"
     graphics [
       x 51641.66667
       y 48055.06944
@@ -12295,7 +12295,7 @@ graph [
   node [
     id 723
     template "oreas:std:rect simple"
-    label "Nikolaus (I) Bernoulli / Switzerland / 0"
+    label "Nikolaus (I) Bernoulli / Switzerland / 0 / 1709"
     graphics [
       x 8975.000000
       y 48055.06944
@@ -12312,7 +12312,7 @@ graph [
   node [
     id 724
     template "oreas:std:rect simple"
-    label "Heinrich Christoph Ebell / Germany / 0"
+    label "Heinrich Christoph Ebell / Germany / 0 / 1674"
     graphics [
       x 11225.00000
       y 48055.06944
@@ -12329,7 +12329,7 @@ graph [
   node [
     id 725
     template "oreas:std:rect simple"
-    label "Karl Asmund Rudolphi / Germany / 6431"
+    label "Karl Asmund Rudolphi / Germany / 6431 / 1795"
     graphics [
       x 65775.00000
       y 48055.06944
@@ -12346,7 +12346,7 @@ graph [
   node [
     id 726
     template "oreas:std:rect simple"
-    label "Louis Jacques Thenard / France / 13016"
+    label "Louis Jacques Thenard / France / 13016 / 1811"
     graphics [
       x 56275.00000
       y 48055.06944
@@ -12363,7 +12363,7 @@ graph [
   node [
     id 727
     template "oreas:std:rect simple"
-    label "Dmitrii Nikolaevich Zeiyliger / Russia / 122"
+    label "Dmitrii Nikolaevich Zeiyliger / Russia / 122 / 1894"
     graphics [
       x 45575.00000
       y 48055.06944
@@ -12380,7 +12380,7 @@ graph [
   node [
     id 728
     template "oreas:std:rect simple"
-    label "William McKenzie / Austria / 2128"
+    label "William McKenzie / Austria / 2128 / 1818"
     graphics [
       x 38687.50000
       y 48378.06944
@@ -12397,7 +12397,7 @@ graph [
   node [
     id 729
     template "oreas:std:rect simple"
-    label "René-Louis Baire / France / 1638"
+    label "René-Louis Baire / France / 1638 / 1899"
     graphics [
       x 62375.00000
       y 48378.06944
@@ -12414,7 +12414,7 @@ graph [
   node [
     id 730
     template "oreas:std:rect simple"
-    label "Jules Joseph Drach / France / 0"
+    label "Jules Joseph Drach / France / 0 / 1898"
     graphics [
       x 71250.00000
       y 48378.06944
@@ -12431,7 +12431,7 @@ graph [
   node [
     id 731
     template "oreas:std:rect simple"
-    label "Adolf Slaby / Germany / 0"
+    label "Adolf Slaby / Germany / 0 / 1874"
     graphics [
       x 45075.00000
       y 48378.06944
@@ -12448,7 +12448,7 @@ graph [
   node [
     id 732
     template "oreas:std:rect simple"
-    label "Hendrik Antoon Lorentz / Netherlands / 911"
+    label "Hendrik Antoon Lorentz / Netherlands / 911 / 1875"
     graphics [
       x 550.0000000
       y 48378.06944
@@ -12465,7 +12465,7 @@ graph [
   node [
     id 733
     template "oreas:std:rect simple"
-    label "Christian Ehrenfried von Weigel / Germany / 6432"
+    label "Christian Ehrenfried von Weigel / Germany / 6432 / 1771"
     graphics [
       x 64075.00000
       y 48378.06944
@@ -12482,7 +12482,7 @@ graph [
   node [
     id 734
     template "oreas:std:rect simple"
-    label "Ernst Heinrich Weber / Germany / 377"
+    label "Ernst Heinrich Weber / Germany / 377 / 1815"
     graphics [
       x 58175.00000
       y 48378.06944
@@ -12499,7 +12499,7 @@ graph [
   node [
     id 735
     template "oreas:std:rect simple"
-    label "Hermann Cohen / Germany / 1857"
+    label "Hermann Cohen / Germany / 1857 / 1865"
     graphics [
       x 72675.00000
       y 48701.06944
@@ -12516,7 +12516,7 @@ graph [
   node [
     id 736
     template "oreas:std:rect simple"
-    label "Immanuel Kant / Germany / 5134"
+    label "Immanuel Kant / Germany / 5134 / 1770"
     graphics [
       x 67350.00000
       y 48701.06944
@@ -12533,7 +12533,7 @@ graph [
   node [
     id 737
     template "oreas:std:rect simple"
-    label "Martin Knutzen / Germany / 5135"
+    label "Martin Knutzen / Germany / 5135 / 1732"
     graphics [
       x 33400.00000
       y 48701.06944
@@ -12550,7 +12550,7 @@ graph [
   node [
     id 738
     template "oreas:std:rect simple"
-    label "Boris Yakovlevich Bukreev / Ukraine / 0"
+    label "Boris Yakovlevich Bukreev / Ukraine / 0 / 1889"
     graphics [
       x 75900.00000
       y 48701.06944
@@ -12567,7 +12567,7 @@ graph [
   node [
     id 739
     template "oreas:std:rect simple"
-    label "Friedrich Wilhem Joseph von Schelling / Germany / 1111"
+    label "Friedrich Wilhem Joseph von Schelling / Germany / 1111 / 1795"
     graphics [
       x 69875.00000
       y 48701.06944
@@ -12584,7 +12584,7 @@ graph [
   node [
     id 740
     template "oreas:std:rect simple"
-    label "Johann Gottlieb Fichte / Germany / 1112"
+    label "Johann Gottlieb Fichte / Germany / 1112 / 1792"
     graphics [
       x 68150.00000
       y 48701.06944
@@ -12601,7 +12601,7 @@ graph [
   node [
     id 741
     template "oreas:std:rect simple"
-    label "Georg Wilhelm Friedrich Hegel / Germany / 1110"
+    label "Georg Wilhelm Friedrich Hegel / Germany / 1110 / 1801"
     graphics [
       x 72800.00000
       y 48701.06944
@@ -12618,7 +12618,7 @@ graph [
   node [
     id 742
     template "oreas:std:rect simple"
-    label "Marcus Herz / Germany / 0"
+    label "Marcus Herz / Germany / 0 / 1772"
     graphics [
       x 68000.00000
       y 48701.06944
@@ -12635,7 +12635,7 @@ graph [
   node [
     id 743
     template "oreas:std:rect simple"
-    label "Philipp Otto Gercken / Germany / 0"
+    label "Philipp Otto Gercken / Germany / 0 / 1667"
     graphics [
       x 10900.00000
       y 49024.06944
@@ -12652,7 +12652,7 @@ graph [
   node [
     id 744
     template "oreas:std:rect simple"
-    label "Edward August Otto Was / Netherlands / 0"
+    label "Edward August Otto Was / Netherlands / 0 / 1881"
     graphics [
       x 275.0000000
       y 49024.06944
@@ -12669,7 +12669,7 @@ graph [
   node [
     id 745
     template "oreas:std:rect simple"
-    label "Abraham Cornelis van Rijn van Alkemade / Netherlands / 0"
+    label "Abraham Cornelis van Rijn van Alkemade / Netherlands / 0 / 1882"
     graphics [
       x 150.0000000
       y 49024.06944
@@ -12686,7 +12686,7 @@ graph [
   node [
     id 746
     template "oreas:std:rect simple"
-    label "M. J. H. Houba / Netherlands / 0"
+    label "M. J. H. Houba / Netherlands / 0 / 1883"
     graphics [
       x 675.0000000
       y 49077.06944
@@ -12703,7 +12703,7 @@ graph [
   node [
     id 747
     template "oreas:std:rect simple"
-    label "Willem van Loghem / Netherlands / 0"
+    label "Willem van Loghem / Netherlands / 0 / 1883"
     graphics [
       x 425.0000000
       y 49077.06944
@@ -12720,7 +12720,7 @@ graph [
   node [
     id 748
     template "oreas:std:rect simple"
-    label "Pieter Coenraad Frederik Frowein / Netherlands / 0"
+    label "Pieter Coenraad Frederik Frowein / Netherlands / 0 / 1887"
     graphics [
       x 925.0000000
       y 49077.06944
@@ -12737,7 +12737,7 @@ graph [
   node [
     id 749
     template "oreas:std:rect simple"
-    label "J. E. Couvée / Netherlands / 0"
+    label "J. E. Couvée / Netherlands / 0 / 1887"
     graphics [
       x 800.0000000
       y 49077.06944
@@ -12754,7 +12754,7 @@ graph [
   node [
     id 750
     template "oreas:std:rect simple"
-    label "H. van der Kamp / Netherlands / 0"
+    label "H. van der Kamp / Netherlands / 0 / 1897"
     graphics [
       x 550.0000000
       y 49077.06944
@@ -12771,7 +12771,7 @@ graph [
   node [
     id 751
     template "oreas:std:rect simple"
-    label "Evert Jan Evers / Netherlands / 0"
+    label "Evert Jan Evers / Netherlands / 0 / 1897"
     graphics [
       x 350.0000000
       y 49130.06944
@@ -12788,7 +12788,7 @@ graph [
   node [
     id 752
     template "oreas:std:rect simple"
-    label "H. C. Los / Netherlands / 0"
+    label "H. C. Los / Netherlands / 0 / 1897"
     graphics [
       x 75.00000000
       y 49130.06944
@@ -12805,7 +12805,7 @@ graph [
   node [
     id 753
     template "oreas:std:rect simple"
-    label "Pierre-Simon Laplace / France / 98920"
+    label "Pierre-Simon Laplace / France / 98920 / 1775"
     graphics [
       x 50750.00000
       y 49130.06944
@@ -12822,7 +12822,7 @@ graph [
   node [
     id 754
     template "oreas:std:rect simple"
-    label "Daniel Bernoulli / Switzerland / 0"
+    label "Daniel Bernoulli / Switzerland / 0 / 1721"
     graphics [
       x 8825.000000
       y 49130.06944
@@ -12839,7 +12839,7 @@ graph [
   node [
     id 755
     template "oreas:std:rect simple"
-    label "Jan Hendrik van Swinden / Netherlands / 5119"
+    label "Jan Hendrik van Swinden / Netherlands / 5119 / 1766"
     graphics [
       x 3225.000000
       y 49453.06944
@@ -12856,7 +12856,7 @@ graph [
   node [
     id 756
     template "oreas:std:rect simple"
-    label "Samuel König / Switzerland / 1198"
+    label "Samuel König / Switzerland / 1198 / 1735"
     graphics [
       x 18900.00000
       y 49453.06944
@@ -12873,7 +12873,7 @@ graph [
   node [
     id 757
     template "oreas:std:rect simple"
-    label "Antonius Brugmans / Netherlands / 1196"
+    label "Antonius Brugmans / Netherlands / 1196 / 1749"
     graphics [
       x 18900.00000
       y 49634.40278
@@ -12890,7 +12890,7 @@ graph [
   node [
     id 758
     template "oreas:std:rect simple"
-    label "Johannes Theodorus Rossijn / Netherlands / 978"
+    label "Johannes Theodorus Rossijn / Netherlands / 978 / 1762"
     graphics [
       x 10475.00000
       y 49634.40278
@@ -12907,7 +12907,7 @@ graph [
   node [
     id 759
     template "oreas:std:rect simple"
-    label "Pieter Zeeman / Netherlands / 70"
+    label "Pieter Zeeman / Netherlands / 70 / 1893"
     graphics [
       x 9650.000000
       y 49634.40278
@@ -12924,7 +12924,7 @@ graph [
   node [
     id 760
     template "oreas:std:rect simple"
-    label "Gerard Moll / Netherlands / 971"
+    label "Gerard Moll / Netherlands / 971 / 1812"
     graphics [
       x 10000.00000
       y 49957.40278
@@ -12941,7 +12941,7 @@ graph [
   node [
     id 761
     template "oreas:std:rect simple"
-    label "Willem Henri Julius / Netherlands / 91"
+    label "Willem Henri Julius / Netherlands / 91 / 1888"
     graphics [
       x 15400.00000
       y 49957.40278
@@ -12958,7 +12958,7 @@ graph [
   node [
     id 762
     template "oreas:std:rect simple"
-    label "Christophorus Henricus Didericus Buys Ballot / Netherlands / 101"
+    label "Christophorus Henricus Didericus Buys Ballot / Netherlands / 101 / 1844"
     graphics [
       x 15600.00000
       y 49957.40278
@@ -12975,7 +12975,7 @@ graph [
   node [
     id 763
     template "oreas:std:rect simple"
-    label "Johannes Petrus Kuenen / Netherlands / 1"
+    label "Johannes Petrus Kuenen / Netherlands / 1 / 1892"
     graphics [
       x 10700.00000
       y 50113.73611
@@ -12992,7 +12992,7 @@ graph [
   node [
     id 764
     template "oreas:std:rect simple"
-    label "Obe Postma / Netherlands / 0"
+    label "Obe Postma / Netherlands / 0 / 1895"
     graphics [
       x 3975.000000
       y 50113.73611
@@ -13009,7 +13009,7 @@ graph [
   node [
     id 765
     template "oreas:std:rect simple"
-    label "Cornelius Hubertus Carolus Grinwis / Netherlands / 296"
+    label "Cornelius Hubertus Carolus Grinwis / Netherlands / 296 / 1858"
     graphics [
       x 24225.00000
       y 50436.73611
@@ -13026,7 +13026,7 @@ graph [
   node [
     id 766
     template "oreas:std:rect simple"
-    label "Jacobus Cornelius Kapteyn / Netherlands / 225"
+    label "Jacobus Cornelius Kapteyn / Netherlands / 225 / 1875"
     graphics [
       x 24875.00000
       y 50436.73611
@@ -13043,7 +13043,7 @@ graph [
   node [
     id 767
     template "oreas:std:rect simple"
-    label "Rudolf Adriaan Mees / Netherlands / 529"
+    label "Rudolf Adriaan Mees / Netherlands / 529 / 1867"
     graphics [
       x 12962.50000
       y 50436.73611
@@ -13060,7 +13060,7 @@ graph [
   node [
     id 768
     template "oreas:std:rect simple"
-    label "Albert Antonie Nijland / Netherlands / 32"
+    label "Albert Antonie Nijland / Netherlands / 32 / 1896"
     graphics [
       x 28775.00000
       y 50436.73611
@@ -13077,7 +13077,7 @@ graph [
   node [
     id 769
     template "oreas:std:rect simple"
-    label "Frederik Kaiser / Netherlands / 54"
+    label "Frederik Kaiser / Netherlands / 54 / 1835"
     graphics [
       x 8550.000000
       y 50436.73611
@@ -13094,7 +13094,7 @@ graph [
   node [
     id 770
     template "oreas:std:rect simple"
-    label "Hendricus Gerardus van de Sande Bakhuijzen / Netherlands / 9"
+    label "Hendricus Gerardus van de Sande Bakhuijzen / Netherlands / 9 / 1863"
     graphics [
       x 8825.000000
       y 50759.73611
@@ -13111,7 +13111,7 @@ graph [
   node [
     id 771
     template "oreas:std:rect simple"
-    label "Jean Abraham Chrétien Oudemans / Netherlands / 36"
+    label "Jean Abraham Chrétien Oudemans / Netherlands / 36 / 1852"
     graphics [
       x 16425.00000
       y 50759.73611
@@ -13128,7 +13128,7 @@ graph [
   node [
     id 772
     template "oreas:std:rect simple"
-    label "Pieter Jan Kaiser / Netherlands / 0"
+    label "Pieter Jan Kaiser / Netherlands / 0 / 1862"
     graphics [
       x 8700.000000
       y 50759.73611
@@ -13145,7 +13145,7 @@ graph [
   node [
     id 773
     template "oreas:std:rect simple"
-    label "Ewoud van Everdingen / Netherlands / 4"
+    label "Ewoud van Everdingen / Netherlands / 4 / 1897"
     graphics [
       x 10550.00000
       y 50812.73611
@@ -13162,7 +13162,7 @@ graph [
   node [
     id 774
     template "oreas:std:rect simple"
-    label "Adriaan Kempe / Netherlands / 0"
+    label "Adriaan Kempe / Netherlands / 0 / 1878"
     graphics [
       x 2125.000000
       y 50885.73611
@@ -13179,7 +13179,7 @@ graph [
   node [
     id 775
     template "oreas:std:rect simple"
-    label "Pieter van Geer / Netherlands / 4"
+    label "Pieter van Geer / Netherlands / 4 / 1862"
     graphics [
       x 1975.000000
       y 50885.73611
@@ -13196,7 +13196,7 @@ graph [
   node [
     id 776
     template "oreas:std:rect simple"
-    label "Bernard Mandeville / Netherlands / 0"
+    label "Bernard Mandeville / Netherlands / 0 / 1689"
     graphics [
       x 28800.00000
       y 50885.73611
@@ -13213,7 +13213,7 @@ graph [
   node [
     id 777
     template "oreas:std:rect simple"
-    label "Jan Cornelis Bolt / Netherlands / 0"
+    label "Jan Cornelis Bolt / Netherlands / 0 / 1897"
     graphics [
       x 16425.00000
       y 50885.73611
@@ -13230,7 +13230,7 @@ graph [
   node [
     id 778
     template "oreas:std:rect simple"
-    label "Gerrit Jan Marie Coolhaas / Netherlands / 0"
+    label "Gerrit Jan Marie Coolhaas / Netherlands / 0 / 1884"
     graphics [
       x 16350.00000
       y 50942.06944
@@ -13247,7 +13247,7 @@ graph [
   node [
     id 779
     template "oreas:std:rect simple"
-    label "Jacob Robbers / Netherlands / 0"
+    label "Jacob Robbers / Netherlands / 0 / 1880"
     graphics [
       x 16475.00000
       y 50942.06944
@@ -13264,7 +13264,7 @@ graph [
   node [
     id 780
     template "oreas:std:rect simple"
-    label "Willem Jacob 's Gravesande / Netherlands / 55"
+    label "Willem Jacob 's Gravesande / Netherlands / 55 / 1704"
     graphics [
       x 74025.00000
       y 50942.06944
@@ -13281,7 +13281,7 @@ graph [
   node [
     id 781
     template "oreas:std:rect simple"
-    label "Pierre Varignon / France / 5184"
+    label "Pierre Varignon / France / 5184 / 1687"
     graphics [
       x 11075.00000
       y 51265.06944
@@ -13298,7 +13298,7 @@ graph [
   node [
     id 782
     template "oreas:std:rect simple"
-    label "Joseph Serrurier / Netherlands / 5141"
+    label "Joseph Serrurier / Netherlands / 5141 / 1690"
     graphics [
       x 51175.00000
       y 51265.06944
@@ -13315,7 +13315,7 @@ graph [
   node [
     id 783
     template "oreas:std:rect simple"
-    label "Pieter van Musschenbroek / Netherlands / 260"
+    label "Pieter van Musschenbroek / Netherlands / 260 / 1715"
     graphics [
       x 20550.00000
       y 51265.06944
@@ -13332,7 +13332,7 @@ graph [
   node [
     id 784
     template "oreas:std:rect simple"
-    label "Gysbert Hendrik Casembroot / Netherlands / 0"
+    label "Gysbert Hendrik Casembroot / Netherlands / 0 / 1696"
     graphics [
       x 28825.00000
       y 51479.73611
@@ -13349,7 +13349,7 @@ graph [
   node [
     id 785
     template "oreas:std:rect simple"
-    label "Jean-Dominique (Giovanni Domenico) Cassini / France / 5184"
+    label "Jean-Dominique (Giovanni Domenico) Cassini / France / 5184 / 1666"
     graphics [
       x 9500.000000
       y 51552.73611
@@ -13366,7 +13366,7 @@ graph [
   node [
     id 786
     template "oreas:std:rect simple"
-    label "Jacques Cassini / France / 5183"
+    label "Jacques Cassini / France / 5183 / 1691"
     graphics [
       x 10900.00000
       y 51552.73611
@@ -13383,7 +13383,7 @@ graph [
   node [
     id 787
     template "oreas:std:rect simple"
-    label "Govert du Bois / Netherlands / 0"
+    label "Govert du Bois / Netherlands / 0 / 1725"
     graphics [
       x 74025.00000
       y 51875.73611
@@ -13400,7 +13400,7 @@ graph [
   node [
     id 788
     template "oreas:std:rect simple"
-    label "Johannes Oosterdijk Schacht / Netherlands / 0"
+    label "Johannes Oosterdijk Schacht / Netherlands / 0 / 1726"
     graphics [
       x 74000.00000
       y 51928.73611
@@ -13417,7 +13417,7 @@ graph [
   node [
     id 789
     template "oreas:std:rect simple"
-    label "Cornelius Boeye / Netherlands / 0"
+    label "Cornelius Boeye / Netherlands / 0 / 1710"
     graphics [
       x 51050.00000
       y 51928.73611
@@ -13434,7 +13434,7 @@ graph [
   node [
     id 790
     template "oreas:std:rect simple"
-    label "Cornelius Muyser / Netherlands / 0"
+    label "Cornelius Muyser / Netherlands / 0 / 1714"
     graphics [
       x 51175.00000
       y 51928.73611
@@ -13451,7 +13451,7 @@ graph [
   node [
     id 791
     template "oreas:std:rect simple"
-    label "Jacob Odé / Netherlands / 5129"
+    label "Jacob Odé / Netherlands / 5129 / 1724"
     graphics [
       x 50925.00000
       y 51928.73611
@@ -13468,7 +13468,7 @@ graph [
   node [
     id 792
     template "oreas:std:rect simple"
-    label "Johannes Oostendorp / Netherlands / 0"
+    label "Johannes Oostendorp / Netherlands / 0 / 1716"
     graphics [
       x 51350.00000
       y 52035.06944
@@ -13485,7 +13485,7 @@ graph [
   node [
     id 793
     template "oreas:std:rect simple"
-    label "Jonas Tseh Szent Peteri / Netherlands / 0"
+    label "Jonas Tseh Szent Peteri / Netherlands / 0 / 1739"
     graphics [
       x 51375.00000
       y 52091.40278
@@ -13502,7 +13502,7 @@ graph [
   node [
     id 794
     template "oreas:std:rect simple"
-    label "Wilhelmus Wilhelmius / Netherlands / 0"
+    label "Wilhelmus Wilhelmius / Netherlands / 0 / 1739"
     graphics [
       x 51250.00000
       y 52091.40278
@@ -13519,7 +13519,7 @@ graph [
   node [
     id 795
     template "oreas:std:rect simple"
-    label "Alvaro Telles Dacosta / Netherlands / 0"
+    label "Alvaro Telles Dacosta / Netherlands / 0 / 1734"
     graphics [
       x 20625.00000
       y 52091.40278
@@ -13536,7 +13536,7 @@ graph [
   node [
     id 796
     template "oreas:std:rect simple"
-    label "Petrus van Aken / Netherlands / 0"
+    label "Petrus van Aken / Netherlands / 0 / 1736"
     graphics [
       x 20750.00000
       y 52091.40278
@@ -13553,7 +13553,7 @@ graph [
   node [
     id 797
     template "oreas:std:rect simple"
-    label "Giovanni (Johann) Francesco Melchiore Salvemini de Castillon / Italy / 1"
+    label "Giovanni (Johann) Francesco Melchiore Salvemini de Castillon / Italy / 1 / 1729"
     graphics [
       x 11800.00000
       y 52091.40278
@@ -13570,7 +13570,7 @@ graph [
   node [
     id 798
     template "oreas:std:rect simple"
-    label "Joseph Nicolas Delisle (de L'Isle ) / France / 5182"
+    label "Joseph Nicolas Delisle (de L'Isle ) / France / 5182 / 1714"
     graphics [
       x 10900.00000
       y 52414.40278
@@ -13587,7 +13587,7 @@ graph [
   node [
     id 799
     template "oreas:std:rect simple"
-    label "Frederik Ruysch / Netherlands / 55"
+    label "Frederik Ruysch / Netherlands / 55 / 1664"
     graphics [
       x 20370.83333
       y 52414.40278
@@ -13604,7 +13604,7 @@ graph [
   node [
     id 800
     template "oreas:std:rect simple"
-    label "Johann Friedrich Hennert / Germany / 5178"
+    label "Johann Friedrich Hennert / Germany / 5178 / 1766"
     graphics [
       x 4775.000000
       y 52414.40278
@@ -13621,7 +13621,7 @@ graph [
   node [
     id 801
     template "oreas:std:rect simple"
-    label "Frederick Dekkers / Netherlands / 0"
+    label "Frederick Dekkers / Netherlands / 0 / 1667"
     graphics [
       x 29975.00000
       y 52414.40278
@@ -13638,7 +13638,7 @@ graph [
   node [
     id 802
     template "oreas:std:rect simple"
-    label "Hieronymus David Gaubius / Netherlands / 473"
+    label "Hieronymus David Gaubius / Netherlands / 473 / 1725"
     graphics [
       x 19775.00000
       y 52737.40278
@@ -13655,7 +13655,7 @@ graph [
   node [
     id 803
     template "oreas:std:rect simple"
-    label "Valentijn Jan Blondeel / Netherlands / 0"
+    label "Valentijn Jan Blondeel / Netherlands / 0 / 1743"
     graphics [
       x 50925.00000
       y 52737.40278
@@ -13672,7 +13672,7 @@ graph [
   node [
     id 804
     template "oreas:std:rect simple"
-    label "Johannes Lulofs / Netherlands / 5121"
+    label "Johannes Lulofs / Netherlands / 5121 / 1733"
     graphics [
       x 23625.00000
       y 52737.40278
@@ -13689,7 +13689,7 @@ graph [
   node [
     id 805
     template "oreas:std:rect simple"
-    label "Isaäcus ter Bruggen / Netherlands / 0"
+    label "Isaäcus ter Bruggen / Netherlands / 0 / 1743"
     graphics [
       x 50800.00000
       y 52737.40278
@@ -13706,7 +13706,7 @@ graph [
   node [
     id 806
     template "oreas:std:rect simple"
-    label "Daniel van Goens / Netherlands / 0"
+    label "Daniel van Goens / Netherlands / 0 / 1738"
     graphics [
       x 51050.00000
       y 52737.40278
@@ -13723,7 +13723,7 @@ graph [
   node [
     id 807
     template "oreas:std:rect simple"
-    label "Johannes van Herwerden / Netherlands / 0"
+    label "Johannes van Herwerden / Netherlands / 0 / 1736"
     graphics [
       x 51325.00000
       y 52737.40278
@@ -13740,7 +13740,7 @@ graph [
   node [
     id 808
     template "oreas:std:rect simple"
-    label "Petrus van Meerwyk / Netherlands / 0"
+    label "Petrus van Meerwyk / Netherlands / 0 / 1750"
     graphics [
       x 51200.00000
       y 52737.40278
@@ -13757,7 +13757,7 @@ graph [
   node [
     id 809
     template "oreas:std:rect simple"
-    label "Abdias Velingius / Netherlands / 0"
+    label "Abdias Velingius / Netherlands / 0 / 1742"
     graphics [
       x 51125.00000
       y 52877.06944
@@ -13774,7 +13774,7 @@ graph [
   node [
     id 810
     template "oreas:std:rect simple"
-    label "Jan Egeling / Netherlands / 0"
+    label "Jan Egeling / Netherlands / 0 / 1759"
     graphics [
       x 11825.00000
       y 52877.06944
@@ -13791,7 +13791,7 @@ graph [
   node [
     id 811
     template "oreas:std:rect simple"
-    label "Charles Drelincourt / France / 55"
+    label "Charles Drelincourt / France / 55 / 1655"
     graphics [
       x 15700.00000
       y 52877.06944
@@ -13808,7 +13808,7 @@ graph [
   node [
     id 812
     template "oreas:std:rect simple"
-    label "Pierre Charles Le Monnier / France / 975"
+    label "Pierre Charles Le Monnier / France / 975 / 1727"
     graphics [
       x 9700.000000
       y 52877.06944
@@ -13825,7 +13825,7 @@ graph [
   node [
     id 813
     template "oreas:std:rect simple"
-    label "Joseph Jérôme LeFrançais de LaLande / France / 974"
+    label "Joseph Jérôme LeFrançais de LaLande / France / 974 / 1752"
     graphics [
       x 10900.00000
       y 52877.06944
@@ -13842,7 +13842,7 @@ graph [
   node [
     id 814
     template "oreas:std:rect simple"
-    label "Johannes Jacobus Rau / Netherlands / 54"
+    label "Johannes Jacobus Rau / Netherlands / 54 / 1694"
     graphics [
       x 20225.00000
       y 52877.06944
@@ -13859,7 +13859,7 @@ graph [
   node [
     id 815
     template "oreas:std:rect simple"
-    label "Hermann Biegmann / Germany / 0"
+    label "Hermann Biegmann / Germany / 0 / 1721"
     graphics [
       x 20825.00000
       y 53200.06944
@@ -13876,7 +13876,7 @@ graph [
   node [
     id 816
     template "oreas:std:rect simple"
-    label "Andreas von Ettingshausen / Austria / 6838"
+    label "Andreas von Ettingshausen / Austria / 6838 / 1817"
     graphics [
       x 53125.00000
       y 53273.06944
@@ -13893,7 +13893,7 @@ graph [
   node [
     id 817
     template "oreas:std:rect simple"
-    label "Ernst Mach / Austria / 1665"
+    label "Ernst Mach / Austria / 1665 / 1860"
     graphics [
       x 64200.00000
       y 53273.06944
@@ -13910,7 +13910,7 @@ graph [
   node [
     id 818
     template "oreas:std:rect simple"
-    label "Heinrich Gomperz / Austria / 74"
+    label "Heinrich Gomperz / Austria / 74 / 1896"
     graphics [
       x 64075.00000
       y 53273.06944
@@ -13927,7 +13927,7 @@ graph [
   node [
     id 819
     template "oreas:std:rect simple"
-    label "Sébastien Vaillant / France / 0"
+    label "Sébastien Vaillant / France / 0 / 1702"
     graphics [
       x 77600.00000
       y 53273.06944
@@ -13944,7 +13944,7 @@ graph [
   node [
     id 820
     template "oreas:std:rect simple"
-    label "Hermannus Angelkot / Netherlands / 0"
+    label "Hermannus Angelkot / Netherlands / 0 / 1783"
     graphics [
       x 4875.000000
       y 53273.06944
@@ -13961,7 +13961,7 @@ graph [
   node [
     id 821
     template "oreas:std:rect simple"
-    label "Abrahamus Barnaart / Netherlands / 0"
+    label "Abrahamus Barnaart / Netherlands / 0 / 1772"
     graphics [
       x 4900.000000
       y 53596.06944
@@ -13978,7 +13978,7 @@ graph [
   node [
     id 822
     template "oreas:std:rect simple"
-    label "Nicolaus Calkoen / Netherlands / 0"
+    label "Nicolaus Calkoen / Netherlands / 0 / 1772"
     graphics [
       x 4775.000000
       y 53596.06944
@@ -13995,7 +13995,7 @@ graph [
   node [
     id 823
     template "oreas:std:rect simple"
-    label "Christiaan Hendrik Damen / Netherlands / 858"
+    label "Christiaan Hendrik Damen / Netherlands / 858 / 1783"
     graphics [
       x 5050.000000
       y 53596.06944
@@ -14012,7 +14012,7 @@ graph [
   node [
     id 824
     template "oreas:std:rect simple"
-    label "Stephanus Göde / Netherlands / 0"
+    label "Stephanus Göde / Netherlands / 0 / 1781"
     graphics [
       x 4600.000000
       y 53596.06944
@@ -14029,7 +14029,7 @@ graph [
   node [
     id 825
     template "oreas:std:rect simple"
-    label "Cornelius Oskamp / Netherlands / 0"
+    label "Cornelius Oskamp / Netherlands / 0 / 1799"
     graphics [
       x 4650.000000
       y 53844.06944
@@ -14046,7 +14046,7 @@ graph [
   node [
     id 826
     template "oreas:std:rect simple"
-    label "Josephus Pap de Fagaras / Netherlands / 0"
+    label "Josephus Pap de Fagaras / Netherlands / 0 / 1774"
     graphics [
       x 4900.000000
       y 53844.06944
@@ -14063,7 +14063,7 @@ graph [
   node [
     id 827
     template "oreas:std:rect simple"
-    label "Pieter Philip Juriaan Quint Ondaatje / Netherlands / 0"
+    label "Pieter Philip Juriaan Quint Ondaatje / Netherlands / 0 / 1782"
     graphics [
       x 4525.000000
       y 53844.06944
@@ -14080,7 +14080,7 @@ graph [
   node [
     id 828
     template "oreas:std:rect simple"
-    label "Hendrik Nicolaas Tonis / Netherlands / 0"
+    label "Hendrik Nicolaas Tonis / Netherlands / 0 / 1777"
     graphics [
       x 4775.000000
       y 53844.06944
@@ -14097,7 +14097,7 @@ graph [
   node [
     id 829
     template "oreas:std:rect simple"
-    label "Jean-Baptiste Joseph Delambre / France / 972"
+    label "Jean-Baptiste Joseph Delambre / France / 972 / 1783"
     graphics [
       x 10300.00000
       y 53844.06944
@@ -14114,7 +14114,7 @@ graph [
   node [
     id 830
     template "oreas:std:rect simple"
-    label "Bernhard Siegfried Albinus / Netherlands / 53"
+    label "Bernhard Siegfried Albinus / Netherlands / 53 / 1719"
     graphics [
       x 20225.00000
       y 53844.06944
@@ -14131,7 +14131,7 @@ graph [
   node [
     id 831
     template "oreas:std:rect simple"
-    label "Pieter (Petrus) Camper / Netherlands / 244"
+    label "Pieter (Petrus) Camper / Netherlands / 244 / 1746"
     graphics [
       x 20900.00000
       y 54167.06944
@@ -14148,7 +14148,7 @@ graph [
   node [
     id 832
     template "oreas:std:rect simple"
-    label "Jan Frederik van Beeck Calkoen / Netherlands / 2"
+    label "Jan Frederik van Beeck Calkoen / Netherlands / 2 / 1797"
     graphics [
       x 9225.000000
       y 54167.06944
@@ -14165,7 +14165,7 @@ graph [
   node [
     id 833
     template "oreas:std:rect simple"
-    label "Frederik Bernard Albinus / Netherlands / 49"
+    label "Frederik Bernard Albinus / Netherlands / 49 / 1740"
     graphics [
       x 43525.00000
       y 54167.06944
@@ -14182,7 +14182,7 @@ graph [
   node [
     id 834
     template "oreas:std:rect simple"
-    label "Mattheus Christianus Mensing / Netherlands / 0"
+    label "Mattheus Christianus Mensing / Netherlands / 0 / 1837"
     graphics [
       x 10000.00000
       y 54220.06944
@@ -14199,7 +14199,7 @@ graph [
   node [
     id 835
     template "oreas:std:rect simple"
-    label "Aegidius de Wit / Netherlands / 0"
+    label "Aegidius de Wit / Netherlands / 0 / 1823"
     graphics [
       x 9850.000000
       y 54220.06944
@@ -14216,7 +14216,7 @@ graph [
   node [
     id 836
     template "oreas:std:rect simple"
-    label "Gerardus Simons / Netherlands / 0"
+    label "Gerardus Simons / Netherlands / 0 / 1828"
     graphics [
       x 10150.00000
       y 54220.06944
@@ -14233,7 +14233,7 @@ graph [
   node [
     id 837
     template "oreas:std:rect simple"
-    label "Alexander Karel Willem Suerman / Netherlands / 0"
+    label "Alexander Karel Willem Suerman / Netherlands / 0 / 1835"
     graphics [
       x 10325.00000
       y 54273.06944
@@ -14250,7 +14250,7 @@ graph [
   node [
     id 838
     template "oreas:std:rect simple"
-    label "Willem Simon Swart / Netherlands / 0"
+    label "Willem Simon Swart / Netherlands / 0 / 1831"
     graphics [
       x 9925.000000
       y 54273.06944
@@ -14267,7 +14267,7 @@ graph [
   node [
     id 839
     template "oreas:std:rect simple"
-    label "Agnites Vrolik / Netherlands / 0"
+    label "Agnites Vrolik / Netherlands / 0 / 1836"
     graphics [
       x 10075.00000
       y 54273.06944
@@ -14284,7 +14284,7 @@ graph [
   node [
     id 840
     template "oreas:std:rect simple"
-    label "Willem Wenckebach / Netherlands / 0"
+    label "Willem Wenckebach / Netherlands / 0 / 1830"
     graphics [
       x 9775.000000
       y 54326.06944
@@ -14301,7 +14301,7 @@ graph [
   node [
     id 841
     template "oreas:std:rect simple"
-    label "Petrus van Galen / Netherlands / 0"
+    label "Petrus van Galen / Netherlands / 0 / 1830"
     graphics [
       x 10225.00000
       y 54326.06944
@@ -14318,7 +14318,7 @@ graph [
   node [
     id 842
     template "oreas:std:rect simple"
-    label "Cornelis Alewĳn / Netherlands / 0"
+    label "Cornelis Alewĳn / Netherlands / 0 / 1810"
     graphics [
       x 9225.000000
       y 54326.06944
@@ -14335,7 +14335,7 @@ graph [
   node [
     id 843
     template "oreas:std:rect simple"
-    label "Janus Christianus Schröder / Netherlands / 0"
+    label "Janus Christianus Schröder / Netherlands / 0 / 1809"
     graphics [
       x 9250.000000
       y 54649.06944
@@ -14352,7 +14352,7 @@ graph [
   node [
     id 844
     template "oreas:std:rect simple"
-    label "Johannes Geistman / Germany / 0"
+    label "Johannes Geistman / Germany / 0 / 1721"
     graphics [
       x 20670.83333
       y 54649.06944
@@ -14369,7 +14369,7 @@ graph [
   node [
     id 845
     template "oreas:std:rect simple"
-    label "Theodorus Fayus / Netherlands / 0"
+    label "Theodorus Fayus / Netherlands / 0 / 1724"
     graphics [
       x 20545.83333
       y 54649.06944
@@ -14386,7 +14386,7 @@ graph [
   node [
     id 846
     template "oreas:std:rect simple"
-    label "Johan Frederik Lodewijk Schröder / Netherlands / 1"
+    label "Johan Frederik Lodewijk Schröder / Netherlands / 1 / 1803"
     graphics [
       x 8825.000000
       y 54649.06944
@@ -14403,7 +14403,7 @@ graph [
   node [
     id 847
     template "oreas:std:rect simple"
-    label "Henricus Casimirus Hoorn / Netherlands / 0"
+    label "Henricus Casimirus Hoorn / Netherlands / 0 / 1705"
     graphics [
       x 8900.000000
       y 54702.06944
@@ -14420,7 +14420,7 @@ graph [
   node [
     id 848
     template "oreas:std:rect simple"
-    label "Henricus Hillers / Netherlands / 0"
+    label "Henricus Hillers / Netherlands / 0 / 1754"
     graphics [
       x 74625.00000
       y 54702.06944
@@ -14437,7 +14437,7 @@ graph [
   node [
     id 849
     template "oreas:std:rect simple"
-    label "Hermannus Knock / Netherlands / 0"
+    label "Hermannus Knock / Netherlands / 0 / 1754"
     graphics [
       x 74575.00000
       y 54755.06944
@@ -14454,7 +14454,7 @@ graph [
   node [
     id 850
     template "oreas:std:rect simple"
-    label "Johann Adrian Schlegtendal / Germany / 0"
+    label "Johann Adrian Schlegtendal / Germany / 0 / 1728"
     graphics [
       x 74700.00000
       y 54755.06944
@@ -14471,7 +14471,7 @@ graph [
   node [
     id 851
     template "oreas:std:rect simple"
-    label "Reinout Carel van Tuyll van Serooskerken / Netherlands / 0"
+    label "Reinout Carel van Tuyll van Serooskerken / Netherlands / 0 / 1823"
     graphics [
       x 8825.000000
       y 54755.06944
@@ -14488,7 +14488,7 @@ graph [
   node [
     id 852
     template "oreas:std:rect simple"
-    label "Pieter Adriaan Bergsma / Netherlands / 0"
+    label "Pieter Adriaan Bergsma / Netherlands / 0 / 1854"
     graphics [
       x 16325.00000
       y 54755.06944
@@ -14505,7 +14505,7 @@ graph [
   node [
     id 853
     template "oreas:std:rect simple"
-    label "Adolf Lodewijk Boeck / Netherlands / 0"
+    label "Adolf Lodewijk Boeck / Netherlands / 0 / 1865"
     graphics [
       x 16650.00000
       y 54808.06944
@@ -14522,7 +14522,7 @@ graph [
   node [
     id 854
     template "oreas:std:rect simple"
-    label "Gerardus Greven / Netherlands / 0"
+    label "Gerardus Greven / Netherlands / 0 / 1853"
     graphics [
       x 15125.00000
       y 54808.06944
@@ -14539,7 +14539,7 @@ graph [
   node [
     id 855
     template "oreas:std:rect simple"
-    label "Florentius Goswin Groneman / Netherlands / 0"
+    label "Florentius Goswin Groneman / Netherlands / 0 / 1863"
     graphics [
       x 16025.00000
       y 54861.06944
@@ -14556,7 +14556,7 @@ graph [
   node [
     id 856
     template "oreas:std:rect simple"
-    label "Gabriel Ludovicus Houël / Netherlands / 0"
+    label "Gabriel Ludovicus Houël / Netherlands / 0 / 1839"
     graphics [
       x 16175.00000
       y 54861.06944
@@ -14573,7 +14573,7 @@ graph [
   node [
     id 857
     template "oreas:std:rect simple"
-    label "Frederik Wilhelm Christiaan Krecke / Netherlands / 0"
+    label "Frederik Wilhelm Christiaan Krecke / Netherlands / 0 / 1842"
     graphics [
       x 15325.00000
       y 54861.06944
@@ -14590,7 +14590,7 @@ graph [
   node [
     id 858
     template "oreas:std:rect simple"
-    label "Frederik Wilhelm Krecke / Netherlands / 0"
+    label "Frederik Wilhelm Krecke / Netherlands / 0 / 1867"
     graphics [
       x 15900.00000
       y 54861.06944
@@ -14607,7 +14607,7 @@ graph [
   node [
     id 859
     template "oreas:std:rect simple"
-    label "Joannes Theodorus Munnich / Netherlands / 0"
+    label "Joannes Theodorus Munnich / Netherlands / 0 / 1839"
     graphics [
       x 16750.00000
       y 54861.06944
@@ -14624,7 +14624,7 @@ graph [
   node [
     id 860
     template "oreas:std:rect simple"
-    label "Adolf Stephanus Rueb / Netherlands / 0"
+    label "Adolf Stephanus Rueb / Netherlands / 0 / 1834"
     graphics [
       x 16625.00000
       y 54861.06944
@@ -14641,7 +14641,7 @@ graph [
   node [
     id 861
     template "oreas:std:rect simple"
-    label "Hendrik Willem Schroeder van der Kolk / Netherlands / 0"
+    label "Hendrik Willem Schroeder van der Kolk / Netherlands / 0 / 1860"
     graphics [
       x 16550.00000
       y 54914.06944
@@ -14658,7 +14658,7 @@ graph [
   node [
     id 862
     template "oreas:std:rect simple"
-    label "Willem Smaasen / Netherlands / 0"
+    label "Willem Smaasen / Netherlands / 0 / 1846"
     graphics [
       x 15000.00000
       y 54914.06944
@@ -14675,7 +14675,7 @@ graph [
   node [
     id 863
     template "oreas:std:rect simple"
-    label "Janus Henricus Steinigeweg / Netherlands / 0"
+    label "Janus Henricus Steinigeweg / Netherlands / 0 / 1847"
     graphics [
       x 16250.00000
       y 54914.06944
@@ -14692,7 +14692,7 @@ graph [
   node [
     id 864
     template "oreas:std:rect simple"
-    label "Johan Gerard Hendrik Swellengrebel / Netherlands / 0"
+    label "Johan Gerard Hendrik Swellengrebel / Netherlands / 0 / 1847"
     graphics [
       x 15300.00000
       y 54914.06944
@@ -14709,7 +14709,7 @@ graph [
   node [
     id 865
     template "oreas:std:rect simple"
-    label "Johannes Tip / Netherlands / 0"
+    label "Johannes Tip / Netherlands / 0 / 1854"
     graphics [
       x 16100.00000
       y 54914.06944
@@ -14726,7 +14726,7 @@ graph [
   node [
     id 866
     template "oreas:std:rect simple"
-    label "Cebes Herman Jan van Berchuijs / Netherlands / 0"
+    label "Cebes Herman Jan van Berchuijs / Netherlands / 0 / 1839"
     graphics [
       x 15125.00000
       y 54914.06944
@@ -14743,7 +14743,7 @@ graph [
   node [
     id 867
     template "oreas:std:rect simple"
-    label "Thade van Doesburgh / Netherlands / 0"
+    label "Thade van Doesburgh / Netherlands / 0 / 1855"
     graphics [
       x 15225.00000
       y 54970.40278
@@ -14760,7 +14760,7 @@ graph [
   node [
     id 868
     template "oreas:std:rect simple"
-    label "Samuel Reinier Johan van Schevichaven / Netherlands / 0"
+    label "Samuel Reinier Johan van Schevichaven / Netherlands / 0 / 1866"
     graphics [
       x 14925.00000
       y 54970.40278
@@ -14777,7 +14777,7 @@ graph [
   node [
     id 869
     template "oreas:std:rect simple"
-    label "Pieter Otto Coenraad Vorsselman de Heer / Netherlands / 0"
+    label "Pieter Otto Coenraad Vorsselman de Heer / Netherlands / 0 / 1833"
     graphics [
       x 15100.00000
       y 54970.40278
@@ -14794,7 +14794,7 @@ graph [
   node [
     id 870
     template "oreas:std:rect simple"
-    label "Johannes Bosscha, Jr. / Netherlands / 0"
+    label "Johannes Bosscha, Jr. / Netherlands / 0 / 1854"
     graphics [
       x 1075.000000
       y 55023.40278
@@ -14811,7 +14811,7 @@ graph [
   node [
     id 871
     template "oreas:std:rect simple"
-    label "Willem Adriaan Enschedé / Netherlands / 4"
+    label "Willem Adriaan Enschedé / Netherlands / 4 / 1834"
     graphics [
       x 2150.000000
       y 55023.40278
@@ -14828,7 +14828,7 @@ graph [
   node [
     id 872
     template "oreas:std:rect simple"
-    label "Simon Speijert van der Eyk / Netherlands / 809"
+    label "Simon Speijert van der Eyk / Netherlands / 809 / 1795"
     graphics [
       x 1825.000000
       y 55076.40278
@@ -14845,7 +14845,7 @@ graph [
   node [
     id 873
     template "oreas:std:rect simple"
-    label "Cornelius Ekama / Netherlands / 2"
+    label "Cornelius Ekama / Netherlands / 2 / 1794"
     graphics [
       x 3500.000000
       y 55076.40278
@@ -14862,7 +14862,7 @@ graph [
   node [
     id 874
     template "oreas:std:rect simple"
-    label "Jan Willem Ermerins / Netherlands / 1"
+    label "Jan Willem Ermerins / Netherlands / 1 / 1824"
     graphics [
       x 3375.000000
       y 55076.40278
@@ -14879,7 +14879,7 @@ graph [
   node [
     id 875
     template "oreas:std:rect simple"
-    label "Antonius Jacobus van Deinse / Netherlands / 0"
+    label "Antonius Jacobus van Deinse / Netherlands / 0 / 1849"
     graphics [
       x 8550.000000
       y 55076.40278
@@ -14896,7 +14896,7 @@ graph [
   node [
     id 876
     template "oreas:std:rect simple"
-    label "Wilhelmus Alexander le Jeune / Netherlands / 0"
+    label "Wilhelmus Alexander le Jeune / Netherlands / 0 / 1845"
     graphics [
       x 8425.000000
       y 55076.40278
@@ -14913,7 +14913,7 @@ graph [
   node [
     id 877
     template "oreas:std:rect simple"
-    label "Jacob Jan Ermerins / Netherlands / 0"
+    label "Jacob Jan Ermerins / Netherlands / 0 / 1827"
     graphics [
       x 2500.000000
       y 55357.73611
@@ -14930,7 +14930,7 @@ graph [
   node [
     id 878
     template "oreas:std:rect simple"
-    label "Johannes Coenraad Marx / Netherlands / 0"
+    label "Johannes Coenraad Marx / Netherlands / 0 / 1896"
     graphics [
       x 32475.00000
       y 55357.73611
@@ -14947,7 +14947,7 @@ graph [
   node [
     id 879
     template "oreas:std:rect simple"
-    label "Hendrik Onnen / Netherlands / 0"
+    label "Hendrik Onnen / Netherlands / 0 / 1896"
     graphics [
       x 32350.00000
       y 55357.73611
@@ -14964,7 +14964,7 @@ graph [
   node [
     id 880
     template "oreas:std:rect simple"
-    label "Johannes Hendrikus Peek / Netherlands / 0"
+    label "Johannes Hendrikus Peek / Netherlands / 0 / 1898"
     graphics [
       x 32225.00000
       y 55357.73611
@@ -14981,7 +14981,7 @@ graph [
   node [
     id 881
     template "oreas:std:rect simple"
-    label "Ehrenfried Walter von Tschirnhaus / Netherlands / 9991"
+    label "Ehrenfried Walter von Tschirnhaus / Netherlands / 9991 / 1669"
     graphics [
       x 32575.00000
       y 55614.06944
@@ -14998,7 +14998,7 @@ graph [
   node [
     id 882
     template "oreas:std:rect simple"
-    label "Antonius Chaudoir / Netherlands / 3"
+    label "Antonius Chaudoir / Netherlands / 3 / 1773"
     graphics [
       x 3375.000000
       y 55614.06944
@@ -15015,7 +15015,7 @@ graph [
   node [
     id 883
     template "oreas:std:rect simple"
-    label "Otto Johannes Adriaan de Haart / Netherlands / 0"
+    label "Otto Johannes Adriaan de Haart / Netherlands / 0 / 1868"
     graphics [
       x 15975.00000
       y 55687.06944
@@ -15032,7 +15032,7 @@ graph [
   node [
     id 884
     template "oreas:std:rect simple"
-    label "Eiso Henricus Groenman / Netherlands / 0"
+    label "Eiso Henricus Groenman / Netherlands / 0 / 1877"
     graphics [
       x 15850.00000
       y 55687.06944
@@ -15049,7 +15049,7 @@ graph [
   node [
     id 885
     template "oreas:std:rect simple"
-    label "Dirk Adriaan Kerkhoff / Netherlands / 0"
+    label "Dirk Adriaan Kerkhoff / Netherlands / 0 / 1873"
     graphics [
       x 15375.00000
       y 55760.06944
@@ -15066,7 +15066,7 @@ graph [
   node [
     id 886
     template "oreas:std:rect simple"
-    label "Hendrik Onnen / Netherlands / 0"
+    label "Hendrik Onnen / Netherlands / 0 / 1867"
     graphics [
       x 15675.00000
       y 55760.06944
@@ -15083,7 +15083,7 @@ graph [
   node [
     id 887
     template "oreas:std:rect simple"
-    label "Adrianus Jacobus Sandberg / Netherlands / 0"
+    label "Adrianus Jacobus Sandberg / Netherlands / 0 / 1871"
     graphics [
       x 15250.00000
       y 55760.06944
@@ -15100,7 +15100,7 @@ graph [
   node [
     id 888
     template "oreas:std:rect simple"
-    label "Karel Diederik Schönfeld / Netherlands / 0"
+    label "Karel Diederik Schönfeld / Netherlands / 0 / 1866"
     graphics [
       x 15525.00000
       y 55760.06944
@@ -15117,7 +15117,7 @@ graph [
   node [
     id 889
     template "oreas:std:rect simple"
-    label "Cornelis Bellaar Spruyt / Netherlands / 0"
+    label "Cornelis Bellaar Spruyt / Netherlands / 0 / 1867"
     graphics [
       x 15450.00000
       y 55813.06944
@@ -15134,7 +15134,7 @@ graph [
   node [
     id 890
     template "oreas:std:rect simple"
-    label "Abraham Johan Verweij / Netherlands / 0"
+    label "Abraham Johan Verweij / Netherlands / 0 / 1874"
     graphics [
       x 15825.00000
       y 55813.06944
@@ -15151,7 +15151,7 @@ graph [
   node [
     id 891
     template "oreas:std:rect simple"
-    label "Willem Cornelis Loran van Schaik / Netherlands / 0"
+    label "Willem Cornelis Loran van Schaik / Netherlands / 0 / 1882"
     graphics [
       x 15600.00000
       y 55813.06944
@@ -15168,7 +15168,7 @@ graph [
   node [
     id 892
     template "oreas:std:rect simple"
-    label "Antoine Galenus Jean Norbert Frantzen / Netherlands / 0"
+    label "Antoine Galenus Jean Norbert Frantzen / Netherlands / 0 / 1877"
     graphics [
       x 23475.00000
       y 55813.06944
@@ -15185,7 +15185,7 @@ graph [
   node [
     id 893
     template "oreas:std:rect simple"
-    label "Albertus Harms / Netherlands / 0"
+    label "Albertus Harms / Netherlands / 0 / 1870"
     graphics [
       x 24550.00000
       y 55813.06944
@@ -15202,7 +15202,7 @@ graph [
   node [
     id 894
     template "oreas:std:rect simple"
-    label "Petrus Marinus Heringa / Netherlands / 0"
+    label "Petrus Marinus Heringa / Netherlands / 0 / 1876"
     graphics [
       x 24125.00000
       y 55866.06944
@@ -15219,7 +15219,7 @@ graph [
   node [
     id 895
     template "oreas:std:rect simple"
-    label "Gerrit Jan Hofs / Netherlands / 0"
+    label "Gerrit Jan Hofs / Netherlands / 0 / 1869"
     graphics [
       x 24525.00000
       y 55866.06944
@@ -15236,7 +15236,7 @@ graph [
   node [
     id 896
     template "oreas:std:rect simple"
-    label "Victor August Julius / Netherlands / 3"
+    label "Victor August Julius / Netherlands / 3 / 1873"
     graphics [
       x 24100.00000
       y 55922.40278
@@ -15253,7 +15253,7 @@ graph [
   node [
     id 897
     template "oreas:std:rect simple"
-    label "Gerhardus Joannes Legebeke / Netherlands / 0"
+    label "Gerhardus Joannes Legebeke / Netherlands / 0 / 1879"
     graphics [
       x 24225.00000
       y 55922.40278
@@ -15270,7 +15270,7 @@ graph [
   node [
     id 898
     template "oreas:std:rect simple"
-    label "Jan Arend Nijland / Netherlands / 0"
+    label "Jan Arend Nijland / Netherlands / 0 / 1870"
     graphics [
       x 24350.00000
       y 55922.40278
@@ -15287,7 +15287,7 @@ graph [
   node [
     id 899
     template "oreas:std:rect simple"
-    label "Hendrik Jan Rink / Netherlands / 0"
+    label "Hendrik Jan Rink / Netherlands / 0 / 1871"
     graphics [
       x 23850.00000
       y 55922.40278
@@ -15304,7 +15304,7 @@ graph [
   node [
     id 900
     template "oreas:std:rect simple"
-    label "Carel Albert Scheltema / Netherlands / 0"
+    label "Carel Albert Scheltema / Netherlands / 0 / 1875"
     graphics [
       x 24575.00000
       y 55922.40278
@@ -15321,7 +15321,7 @@ graph [
   node [
     id 901
     template "oreas:std:rect simple"
-    label "Johannes Paulus van der Stok / Netherlands / 0"
+    label "Johannes Paulus van der Stok / Netherlands / 0 / 1874"
     graphics [
       x 23700.00000
       y 55922.40278
@@ -15338,7 +15338,7 @@ graph [
   node [
     id 902
     template "oreas:std:rect simple"
-    label "Elie van Rijckevorsel / Netherlands / 0"
+    label "Elie van Rijckevorsel / Netherlands / 0 / 1872"
     graphics [
       x 23975.00000
       y 55922.40278
@@ -15355,7 +15355,7 @@ graph [
   node [
     id 903
     template "oreas:std:rect simple"
-    label "Pieter Thomas Grinwis / Netherlands / 0"
+    label "Pieter Thomas Grinwis / Netherlands / 0 / 1890"
     graphics [
       x 23525.00000
       y 55922.40278
@@ -15372,7 +15372,7 @@ graph [
   node [
     id 904
     template "oreas:std:rect simple"
-    label "Lambertus van Elfrinkhof / Netherlands / 0"
+    label "Lambertus van Elfrinkhof / Netherlands / 0 / 1888"
     graphics [
       x 24325.00000
       y 55982.90278
@@ -15389,7 +15389,7 @@ graph [
   node [
     id 905
     template "oreas:std:rect simple"
-    label "Pieter van Mourik / Netherlands / 0"
+    label "Pieter van Mourik / Netherlands / 0 / 1896"
     graphics [
       x 23775.00000
       y 55982.90278
@@ -15406,7 +15406,7 @@ graph [
   node [
     id 906
     template "oreas:std:rect simple"
-    label "Johannes Jacobus van Rijn / Netherlands / 0"
+    label "Johannes Jacobus van Rijn / Netherlands / 0 / 1890"
     graphics [
       x 24450.00000
       y 55982.90278
@@ -15423,7 +15423,7 @@ graph [
   node [
     id 907
     template "oreas:std:rect simple"
-    label "Jacob Walraven / Netherlands / 0"
+    label "Jacob Walraven / Netherlands / 0 / 1780"
     graphics [
       x 10475.00000
       y 55982.90278
@@ -15440,7 +15440,7 @@ graph [
   node [
     id 908
     template "oreas:std:rect simple"
-    label "Jacob Hendrik Meerburg / Netherlands / 0"
+    label "Jacob Hendrik Meerburg / Netherlands / 0 / 1894"
     graphics [
       x 23987.50000
       y 55982.90278
@@ -15457,7 +15457,7 @@ graph [
   node [
     id 909
     template "oreas:std:rect simple"
-    label "Nicolaas Gerhardus van Huffel / Netherlands / 0"
+    label "Nicolaas Gerhardus van Huffel / Netherlands / 0 / 1898"
     graphics [
       x 24112.50000
       y 55982.90278
@@ -15474,7 +15474,7 @@ graph [
   node [
     id 910
     template "oreas:std:rect simple"
-    label "Franz-Serafin Exner / Austria / 1178"
+    label "Franz-Serafin Exner / Austria / 1178 / 1871"
     graphics [
       x 54325.00000
       y 55982.90278
@@ -15491,7 +15491,7 @@ graph [
   node [
     id 911
     template "oreas:std:rect simple"
-    label "Louis Bleekrode / Netherlands / 0"
+    label "Louis Bleekrode / Netherlands / 0 / 1867"
     graphics [
       x 1000.000000
       y 55982.90278
@@ -15508,7 +15508,7 @@ graph [
   node [
     id 912
     template "oreas:std:rect simple"
-    label "Remmelt Sissingh / Netherlands / 2"
+    label "Remmelt Sissingh / Netherlands / 2 / 1885"
     graphics [
       x 10625.00000
       y 55982.90278
@@ -15525,7 +15525,7 @@ graph [
   node [
     id 913
     template "oreas:std:rect simple"
-    label "Herman Haga / Netherlands / 10"
+    label "Herman Haga / Netherlands / 10 / 1876"
     graphics [
       x 1325.000000
       y 56305.90278
@@ -15542,7 +15542,7 @@ graph [
   node [
     id 914
     template "oreas:std:rect simple"
-    label "Dirk Bos / Netherlands / 0"
+    label "Dirk Bos / Netherlands / 0 / 1888"
     graphics [
       x 1450.000000
       y 56305.90278
@@ -15559,7 +15559,7 @@ graph [
   node [
     id 915
     template "oreas:std:rect simple"
-    label "Cornelis Harm Wind / Netherlands / 0"
+    label "Cornelis Harm Wind / Netherlands / 0 / 1894"
     graphics [
       x 1575.000000
       y 56305.90278
@@ -15576,7 +15576,7 @@ graph [
   node [
     id 916
     template "oreas:std:rect simple"
-    label "Francesco Rossetti / Austria / 385"
+    label "Francesco Rossetti / Austria / 385 / 1857"
     graphics [
       x 64900.00000
       y 56305.90278
@@ -15593,7 +15593,7 @@ graph [
   node [
     id 917
     template "oreas:std:rect simple"
-    label "Hendrik Arent Hamaker / Netherlands / 3669"
+    label "Hendrik Arent Hamaker / Netherlands / 3669 / 1815"
     graphics [
       x 2655.000000
       y 56305.90278
@@ -15610,7 +15610,7 @@ graph [
   node [
     id 918
     template "oreas:std:rect simple"
-    label "Volkert Simon Maarten van der Willigen / Netherlands / 0"
+    label "Volkert Simon Maarten van der Willigen / Netherlands / 0 / 1847"
     graphics [
       x 8625.000000
       y 56397.23611
@@ -15627,7 +15627,7 @@ graph [
   node [
     id 919
     template "oreas:std:rect simple"
-    label "Johannes Andreas Pfister / Netherlands / 0"
+    label "Johannes Andreas Pfister / Netherlands / 0 / 1725"
     graphics [
       x 20520.83333
       y 56397.23611
@@ -15644,7 +15644,7 @@ graph [
   node [
     id 920
     template "oreas:std:rect simple"
-    label "Daniel Berckringer / Netherlands / 14130"
+    label "Daniel Berckringer / Netherlands / 14130 / 1640"
     graphics [
       x 24462.50000
       y 56397.23611
@@ -15661,7 +15661,7 @@ graph [
   node [
     id 921
     template "oreas:std:rect simple"
-    label "Johannes de Bruyn / Netherlands / 14127"
+    label "Johannes de Bruyn / Netherlands / 14127 / 1644"
     graphics [
       x 29200.00000
       y 56397.23611
@@ -15678,7 +15678,7 @@ graph [
   node [
     id 922
     template "oreas:std:rect simple"
-    label "Gilbert Jacchaeus / UnitedKingdom / 110058"
+    label "Gilbert Jacchaeus / UnitedKingdom / 110058 / 1602"
     graphics [
       x 27025.00000
       y 56397.23611
@@ -15695,7 +15695,7 @@ graph [
   node [
     id 923
     template "oreas:std:rect simple"
-    label "Franck Pieterszoon Burgersdijk / Netherlands / 28877"
+    label "Franck Pieterszoon Burgersdijk / Netherlands / 28877 / 1614"
     graphics [
       x 19325.00000
       y 56397.23611
@@ -15712,7 +15712,7 @@ graph [
   node [
     id 924
     template "oreas:std:rect simple"
-    label "Henricus (Hendrik de Roy) Regius / Netherlands / 15541"
+    label "Henricus (Hendrik de Roy) Regius / Netherlands / 15541 / 1620"
     graphics [
       x 22250.00000
       y 56397.23611
@@ -15729,7 +15729,7 @@ graph [
   node [
     id 925
     template "oreas:std:rect simple"
-    label "Adriaan van Royen / Netherlands / 599"
+    label "Adriaan van Royen / Netherlands / 599 / 1728"
     graphics [
       x 20975.00000
       y 56397.23611
@@ -15746,7 +15746,7 @@ graph [
   node [
     id 926
     template "oreas:std:rect simple"
-    label "Andrew Plummer / Netherlands / 496"
+    label "Andrew Plummer / Netherlands / 496 / 1722"
     graphics [
       x 19525.00000
       y 56397.23611
@@ -15763,7 +15763,7 @@ graph [
   node [
     id 927
     template "oreas:std:rect simple"
-    label "Adriaan Heereboord / Netherlands / 15485"
+    label "Adriaan Heereboord / Netherlands / 15485 / 1631"
     graphics [
       x 19400.00000
       y 56720.23611
@@ -15780,7 +15780,7 @@ graph [
   node [
     id 928
     template "oreas:std:rect simple"
-    label "Johannes de Raey / Netherlands / 15482"
+    label "Johannes de Raey / Netherlands / 15482 / 1641"
     graphics [
       x 19225.00000
       y 56720.23611
@@ -15797,7 +15797,7 @@ graph [
   node [
     id 929
     template "oreas:std:rect simple"
-    label "Wolferd Senguerdius / Netherlands / 9430"
+    label "Wolferd Senguerdius / Netherlands / 9430 / 1666"
     graphics [
       x 19700.00000
       y 56720.23611
@@ -15814,7 +15814,7 @@ graph [
   node [
     id 930
     template "oreas:std:rect simple"
-    label "Matthias Nethenus / Netherlands / 0"
+    label "Matthias Nethenus / Netherlands / 0 / 1644"
     graphics [
       x 24462.50000
       y 56720.23611
@@ -15831,7 +15831,7 @@ graph [
   node [
     id 931
     template "oreas:std:rect simple"
-    label "Edward Barry / Netherlands / 0"
+    label "Edward Barry / Netherlands / 0 / 1719"
     graphics [
       x 18300.00000
       y 56720.23611
@@ -15848,7 +15848,7 @@ graph [
   node [
     id 932
     template "oreas:std:rect simple"
-    label "William Brownrigg / Netherlands / 0"
+    label "William Brownrigg / Netherlands / 0 / 1737"
     graphics [
       x 18600.00000
       y 56720.23611
@@ -15865,7 +15865,7 @@ graph [
   node [
     id 933
     template "oreas:std:rect simple"
-    label "William Cadogan / Netherlands / 0"
+    label "William Cadogan / Netherlands / 0 / 1737"
     graphics [
       x 18425.00000
       y 56720.23611
@@ -15882,7 +15882,7 @@ graph [
   node [
     id 934
     template "oreas:std:rect simple"
-    label "Nathaniel Cotton / Netherlands / 0"
+    label "Nathaniel Cotton / Netherlands / 0 / 1730"
     graphics [
       x 18400.00000
       y 57043.23611
@@ -15899,7 +15899,7 @@ graph [
   node [
     id 935
     template "oreas:std:rect simple"
-    label "John Pringle / Netherlands / 0"
+    label "John Pringle / Netherlands / 0 / 1730"
     graphics [
       x 18525.00000
       y 57043.23611
@@ -15916,7 +15916,7 @@ graph [
   node [
     id 936
     template "oreas:std:rect simple"
-    label "Johann von Flammerdinge / Netherlands / 0"
+    label "Johann von Flammerdinge / Netherlands / 0 / 1667"
     graphics [
       x 24462.50000
       y 57043.23611
@@ -15933,7 +15933,7 @@ graph [
   node [
     id 937
     template "oreas:std:rect simple"
-    label "Fredericus Gulielmus Westhovius / Netherlands / 0"
+    label "Fredericus Gulielmus Westhovius / Netherlands / 0 / 1698"
     graphics [
       x 28975.00000
       y 57043.23611
@@ -15950,7 +15950,7 @@ graph [
   node [
     id 938
     template "oreas:std:rect simple"
-    label "Johannes Balthasar Helvetius / Netherlands / 0"
+    label "Johannes Balthasar Helvetius / Netherlands / 0 / 1677"
     graphics [
       x 29100.00000
       y 57043.23611
@@ -15967,7 +15967,7 @@ graph [
   node [
     id 939
     template "oreas:std:rect simple"
-    label "Jacobus Pennockius / Netherlands / 0"
+    label "Jacobus Pennockius / Netherlands / 0 / 1647"
     graphics [
       x 19400.00000
       y 57096.23611
@@ -15984,7 +15984,7 @@ graph [
   node [
     id 940
     template "oreas:std:rect simple"
-    label "Abraham Stamperius / Netherlands / 0"
+    label "Abraham Stamperius / Netherlands / 0 / 1605"
     graphics [
       x 27100.00000
       y 57096.23611
@@ -16001,7 +16001,7 @@ graph [
   node [
     id 941
     template "oreas:std:rect simple"
-    label "Joannes van der Wall / Netherlands / 0"
+    label "Joannes van der Wall / Netherlands / 0 / 1756"
     graphics [
       x 23550.00000
       y 57096.23611
@@ -16018,7 +16018,7 @@ graph [
   node [
     id 942
     template "oreas:std:rect simple"
-    label "Antonius Thysius / Switzerland / 9441"
+    label "Antonius Thysius / Switzerland / 9441 / 1584"
     graphics [
       x 20050.00000
       y 57419.23611
@@ -16035,7 +16035,7 @@ graph [
   node [
     id 943
     template "oreas:std:rect simple"
-    label "Johannes van Horne / Netherlands / 57"
+    label "Johannes van Horne / Netherlands / 57 / 1643"
     graphics [
       x 21050.00000
       y 57419.23611
@@ -16052,7 +16052,7 @@ graph [
   node [
     id 944
     template "oreas:std:rect simple"
-    label "Reinier de Graaf / Netherlands / 0"
+    label "Reinier de Graaf / Netherlands / 0 / 1664"
     graphics [
       x 30050.00000
       y 57419.23611
@@ -16069,7 +16069,7 @@ graph [
   node [
     id 945
     template "oreas:std:rect simple"
-    label "Arnold Senguerdius / Netherlands / 9440"
+    label "Arnold Senguerdius / Netherlands / 9440 / 1630"
     graphics [
       x 19550.00000
       y 57419.23611
@@ -16086,7 +16086,7 @@ graph [
   node [
     id 946
     template "oreas:std:rect simple"
-    label "Florentius Schuyl / Netherlands / 0"
+    label "Florentius Schuyl / Netherlands / 0 / 1652"
     graphics [
       x 29750.00000
       y 57419.23611
@@ -16103,7 +16103,7 @@ graph [
   node [
     id 947
     template "oreas:std:rect simple"
-    label "Johannes Swammerdam / Netherlands / 0"
+    label "Johannes Swammerdam / Netherlands / 0 / 1667"
     graphics [
       x 25575.00000
       y 57742.23611
@@ -16120,7 +16120,7 @@ graph [
   node [
     id 948
     template "oreas:std:rect simple"
-    label "Johannes Adamus Zinckius / Netherlands / 0"
+    label "Johannes Adamus Zinckius / Netherlands / 0 / 1743"
     graphics [
       x 50775.00000
       y 57742.23611
@@ -16137,7 +16137,7 @@ graph [
   node [
     id 949
     template "oreas:std:rect simple"
-    label "Willem Arntzenius / Netherlands / 0"
+    label "Willem Arntzenius / Netherlands / 0 / 1728"
     graphics [
       x 37400.00000
       y 57742.23611
@@ -16154,7 +16154,7 @@ graph [
   node [
     id 950
     template "oreas:std:rect simple"
-    label "Jules Émile Verschaffelt / Netherlands / 0"
+    label "Jules Émile Verschaffelt / Netherlands / 0 / 1899"
     graphics [
       x 10400.00000
       y 57742.23611
@@ -16171,7 +16171,7 @@ graph [
   node [
     id 951
     template "oreas:std:rect simple"
-    label "Martin Hoek / Netherlands / 2"
+    label "Martin Hoek / Netherlands / 2 / 1857"
     graphics [
       x 8475.000000
       y 57742.23611
@@ -16188,7 +16188,7 @@ graph [
   node [
     id 952
     template "oreas:std:rect simple"
-    label "Pieter Nanning Cramer / Netherlands / 0"
+    label "Pieter Nanning Cramer / Netherlands / 0 / 1875"
     graphics [
       x 8750.000000
       y 57742.23611
@@ -16205,7 +16205,7 @@ graph [
   node [
     id 953
     template "oreas:std:rect simple"
-    label "Frederik Hendrik Julius / Netherlands / 0"
+    label "Frederik Hendrik Julius / Netherlands / 0 / 1867"
     graphics [
       x 8350.000000
       y 57742.23611
@@ -16222,7 +16222,7 @@ graph [
   node [
     id 954
     template "oreas:std:rect simple"
-    label "Jacob Elias Stark / Netherlands / 0"
+    label "Jacob Elias Stark / Netherlands / 0 / 1870"
     graphics [
       x 8875.000000
       y 57742.23611
@@ -16239,7 +16239,7 @@ graph [
   node [
     id 955
     template "oreas:std:rect simple"
-    label "Lambertus van Velthuysen / Netherlands / 0"
+    label "Lambertus van Velthuysen / Netherlands / 0 / 1644"
     graphics [
       x 24537.50000
       y 57831.90278
@@ -16256,7 +16256,7 @@ graph [
   node [
     id 956
     template "oreas:std:rect simple"
-    label "Petrus Fucschius / Netherlands / 0"
+    label "Petrus Fucschius / Netherlands / 0 / 1660"
     graphics [
       x 29225.00000
       y 57831.90278
@@ -16273,7 +16273,7 @@ graph [
   node [
     id 957
     template "oreas:std:rect simple"
-    label "Daniel Arens / Netherlands / 0"
+    label "Daniel Arens / Netherlands / 0 / 1671"
     graphics [
       x 29100.00000
       y 57831.90278
@@ -16290,7 +16290,7 @@ graph [
   node [
     id 958
     template "oreas:std:rect simple"
-    label "Sibertus Coeman / Netherlands / 0"
+    label "Sibertus Coeman / Netherlands / 0 / 1660"
     graphics [
       x 29350.00000
       y 57831.90278
@@ -16307,7 +16307,7 @@ graph [
   node [
     id 959
     template "oreas:std:rect simple"
-    label "Hubertus Leydekker / Netherlands / 0"
+    label "Hubertus Leydekker / Netherlands / 0 / 1661"
     graphics [
       x 29475.00000
       y 57831.90278
@@ -16324,7 +16324,7 @@ graph [
   node [
     id 960
     template "oreas:std:rect simple"
-    label "Petrus Tielenius / Netherlands / 0"
+    label "Petrus Tielenius / Netherlands / 0 / 1658"
     graphics [
       x 28975.00000
       y 57831.90278
@@ -16341,7 +16341,7 @@ graph [
   node [
     id 961
     template "oreas:std:rect simple"
-    label "Jacobus Witte / Netherlands / 0"
+    label "Jacobus Witte / Netherlands / 0 / 1660"
     graphics [
       x 29600.00000
       y 57831.90278
@@ -16358,7 +16358,7 @@ graph [
   node [
     id 962
     template "oreas:std:rect simple"
-    label "W. B. Jelgersma / Netherlands / 0"
+    label "W. B. Jelgersma / Netherlands / 0 / 1776"
     graphics [
       x 3225.000000
       y 57831.90278
@@ -16375,7 +16375,7 @@ graph [
   node [
     id 963
     template "oreas:std:rect simple"
-    label "Johannes Wiger / Netherlands / 0"
+    label "Johannes Wiger / Netherlands / 0 / 1771"
     graphics [
       x 3575.000000
       y 57884.90278
@@ -16392,7 +16392,7 @@ graph [
   node [
     id 964
     template "oreas:std:rect simple"
-    label "Johannes de Gorter / Netherlands / 4"
+    label "Johannes de Gorter / Netherlands / 4 / 1712"
     graphics [
       x 21125.00000
       y 57937.90278
@@ -16409,7 +16409,7 @@ graph [
   node [
     id 965
     template "oreas:std:rect simple"
-    label "Arthur W. Wright / UnitedStates / 0"
+    label "Arthur W. Wright / UnitedStates / 0 / 1861"
     graphics [
       x 48525.00000
       y 57937.90278
@@ -16426,7 +16426,7 @@ graph [
   node [
     id 966
     template "oreas:std:rect simple"
-    label "Carl von Linné Linnaeus / Netherlands / 3"
+    label "Carl von Linné Linnaeus / Netherlands / 3 / 1735"
     graphics [
       x 78925.00000
       y 57937.90278
@@ -16443,7 +16443,7 @@ graph [
   node [
     id 967
     template "oreas:std:rect simple"
-    label "Gemma (Jemme Reinerszoon) Frisius / Belgium / 118728"
+    label "Gemma (Jemme Reinerszoon) Frisius / Belgium / 118728 / 1529"
     graphics [
       x 56000.00000
       y 57937.90278
@@ -16460,7 +16460,7 @@ graph [
   node [
     id 968
     template "oreas:std:rect simple"
-    label "Johannes Winter von Andernach / France / 142440"
+    label "Johannes Winter von Andernach / France / 142440 / 1530"
     graphics [
       x 21825.00000
       y 57937.90278
@@ -16477,7 +16477,7 @@ graph [
   node [
     id 969
     template "oreas:std:rect simple"
-    label "Gerardus (Gerard de Kremer) Mercator / Belgium / 2"
+    label "Gerardus (Gerard de Kremer) Mercator / Belgium / 2 / 1532"
     graphics [
       x 56000.00000
       y 58260.90278
@@ -16494,7 +16494,7 @@ graph [
   node [
     id 970
     template "oreas:std:rect simple"
-    label "Andreas (Andries van Wesel) Vesalius / Belgium / 118721"
+    label "Andreas (Andries van Wesel) Vesalius / Belgium / 118721 / 1537"
     graphics [
       x 40050.00000
       y 58260.90278
@@ -16511,7 +16511,7 @@ graph [
   node [
     id 971
     template "oreas:std:rect simple"
-    label "John Dee / UnitedKingdom / 1"
+    label "John Dee / UnitedKingdom / 1 / 1546"
     graphics [
       x 55875.00000
       y 58260.90278
@@ -16528,7 +16528,7 @@ graph [
   node [
     id 972
     template "oreas:std:rect simple"
-    label "Thomas Digges / UnitedKingdom / 0"
+    label "Thomas Digges / UnitedKingdom / 0 / 1573"
     graphics [
       x 55750.00000
       y 58260.90278
@@ -16545,7 +16545,7 @@ graph [
   node [
     id 973
     template "oreas:std:rect simple"
-    label "Justus (Joost Lips) Lipsius / Germany / 9994"
+    label "Justus (Joost Lips) Lipsius / Germany / 9994 / 1570"
     graphics [
       x 32975.00000
       y 58260.90278
@@ -16562,7 +16562,7 @@ graph [
   node [
     id 974
     template "oreas:std:rect simple"
-    label "Erycius (Henrick van den Putte) Puteanus / Germany / 9993"
+    label "Erycius (Henrick van den Putte) Puteanus / Germany / 9993 / 1595"
     graphics [
       x 32825.00000
       y 58260.90278
@@ -16579,7 +16579,7 @@ graph [
   node [
     id 975
     template "oreas:std:rect simple"
-    label "Arnold Geulincx / Belgium / 9992"
+    label "Arnold Geulincx / Belgium / 9992 / 1646"
     graphics [
       x 32575.00000
       y 58260.90278
@@ -16596,7 +16596,7 @@ graph [
   node [
     id 976
     template "oreas:std:rect simple"
-    label "Alexander Comrie / Netherlands / 0"
+    label "Alexander Comrie / Netherlands / 0 / 1734"
     graphics [
       x 74050.00000
       y 58260.90278
@@ -16613,7 +16613,7 @@ graph [
   node [
     id 977
     template "oreas:std:rect simple"
-    label "William   Cullen / UnitedKingdom / 495"
+    label "William   Cullen / UnitedKingdom / 495 / 1736"
     graphics [
       x 19625.00000
       y 58260.90278
@@ -16630,7 +16630,7 @@ graph [
   node [
     id 978
     template "oreas:std:rect simple"
-    label "Adam Beringer / Germany / 6784"
+    label "Adam Beringer / Germany / 6784 / 1701"
     graphics [
       x 44100.00000
       y 58400.56944
@@ -16647,7 +16647,7 @@ graph [
   node [
     id 979
     template "oreas:std:rect simple"
-    label "Georg Ludwig Hueber / Germany / 6783"
+    label "Georg Ludwig Hueber / Germany / 6783 / 1726"
     graphics [
       x 44250.00000
       y 58400.56944
@@ -16664,7 +16664,7 @@ graph [
   node [
     id 980
     template "oreas:std:rect simple"
-    label "Thomas Dale / Netherlands / 0"
+    label "Thomas Dale / Netherlands / 0 / 1723"
     graphics [
       x 18125.00000
       y 58400.56944
@@ -16681,7 +16681,7 @@ graph [
   node [
     id 981
     template "oreas:std:rect simple"
-    label "Walter   Kummer / Switzerland / 2"
+    label "Walter   Kummer / Switzerland / 2 / 1898"
     graphics [
       x 43450.00000
       y 58400.56944
@@ -16698,7 +16698,7 @@ graph [
   node [
     id 982
     template "oreas:std:rect simple"
-    label "Wolter Forsten Verschuir / Netherlands / 223"
+    label "Wolter Forsten Verschuir / Netherlands / 223 / 1766"
     graphics [
       x 19550.00000
       y 58400.56944
@@ -16715,7 +16715,7 @@ graph [
   node [
     id 983
     template "oreas:std:rect simple"
-    label "Joseph Black / UnitedKingdom / 270"
+    label "Joseph Black / UnitedKingdom / 270 / 1754"
     graphics [
       x 19975.00000
       y 58400.56944
@@ -16732,7 +16732,7 @@ graph [
   node [
     id 984
     template "oreas:std:rect simple"
-    label "Benjamin Rush / UnitedKingdom / 268"
+    label "Benjamin Rush / UnitedKingdom / 268 / 1768"
     graphics [
       x 19850.00000
       y 58400.56944
@@ -16749,7 +16749,7 @@ graph [
   node [
     id 985
     template "oreas:std:rect simple"
-    label "Sebald Justinus Brugmans / Netherlands / 222"
+    label "Sebald Justinus Brugmans / Netherlands / 222 / 1781"
     graphics [
       x 18900.00000
       y 58400.56944
@@ -16766,7 +16766,7 @@ graph [
   node [
     id 986
     template "oreas:std:rect simple"
-    label "Thomas Charles Hope / UnitedKingdom / 267"
+    label "Thomas Charles Hope / UnitedKingdom / 267 / 1787"
     graphics [
       x 22875.00000
       y 58400.56944
@@ -16783,7 +16783,7 @@ graph [
   node [
     id 987
     template "oreas:std:rect simple"
-    label "Gerard Vrolik / Netherlands / 220"
+    label "Gerard Vrolik / Netherlands / 220 / 1796"
     graphics [
       x 18825.00000
       y 58723.56944
@@ -16800,7 +16800,7 @@ graph [
   node [
     id 988
     template "oreas:std:rect simple"
-    label "James Woodhouse / UnitedStates / 267"
+    label "James Woodhouse / UnitedStates / 267 / 1792"
     graphics [
       x 19900.00000
       y 58723.56944
@@ -16817,7 +16817,7 @@ graph [
   node [
     id 989
     template "oreas:std:rect simple"
-    label "Wouter   van Doeveren / Netherlands / 422"
+    label "Wouter   van Doeveren / Netherlands / 422 / 1753"
     graphics [
       x 19775.00000
       y 58723.56944
@@ -16834,7 +16834,7 @@ graph [
   node [
     id 990
     template "oreas:std:rect simple"
-    label "Frederik Winter / Netherlands / 0"
+    label "Frederik Winter / Netherlands / 0 / 1736"
     graphics [
       x 18100.00000
       y 58723.56944
@@ -16851,7 +16851,7 @@ graph [
   node [
     id 991
     template "oreas:std:rect simple"
-    label "John Bates Clark / Germany / 913"
+    label "John Bates Clark / Germany / 913 / 1877"
     graphics [
       x 78675.00000
       y 58723.56944
@@ -16868,7 +16868,7 @@ graph [
   node [
     id 992
     template "oreas:std:rect simple"
-    label "Simon Newcomb / UnitedStates / 834"
+    label "Simon Newcomb / UnitedStates / 834 / 1858"
     graphics [
       x 79100.00000
       y 58723.56944
@@ -16885,7 +16885,7 @@ graph [
   node [
     id 993
     template "oreas:std:rect simple"
-    label "Henry Ludwell Moore / UnitedStates / 833"
+    label "Henry Ludwell Moore / UnitedStates / 833 / 1892"
     graphics [
       x 78825.00000
       y 58723.56944
@@ -16902,7 +16902,7 @@ graph [
   node [
     id 994
     template "oreas:std:rect simple"
-    label "Matthias van Geuns / Netherlands / 2"
+    label "Matthias van Geuns / Netherlands / 2 / 1760"
     graphics [
       x 20200.00000
       y 58723.56944
@@ -16919,7 +16919,7 @@ graph [
   node [
     id 995
     template "oreas:std:rect simple"
-    label "Caspar Georg Carl Reinwardt / Netherlands / 219"
+    label "Caspar Georg Carl Reinwardt / Netherlands / 219 / 1801"
     graphics [
       x 18825.00000
       y 59046.56944
@@ -16936,7 +16936,7 @@ graph [
   node [
     id 996
     template "oreas:std:rect simple"
-    label "Johann David Hahn / Netherlands / 6"
+    label "Johann David Hahn / Netherlands / 6 / 1751"
     graphics [
       x 20445.83333
       y 59046.56944
@@ -16953,7 +16953,7 @@ graph [
   node [
     id 997
     template "oreas:std:rect simple"
-    label "Anthony Hendrik van der Boon Mesch / Netherlands / 218"
+    label "Anthony Hendrik van der Boon Mesch / Netherlands / 218 / 1826"
     graphics [
       x 3825.000000
       y 59046.56944
@@ -16970,7 +16970,7 @@ graph [
   node [
     id 998
     template "oreas:std:rect simple"
-    label "Benjamin Silliman / UnitedStates / 266"
+    label "Benjamin Silliman / UnitedStates / 266 / 1796"
     graphics [
       x 21625.00000
       y 59046.56944
@@ -16987,7 +16987,7 @@ graph [
   node [
     id 999
     template "oreas:std:rect simple"
-    label "Ernest Vessiot / France / 173"
+    label "Ernest Vessiot / France / 173 / 1892"
     graphics [
       x 62650.00000
       y 59046.56944
@@ -17004,7 +17004,7 @@ graph [
   node [
     id 1000
     template "oreas:std:rect simple"
-    label "Antoine Paul Nicolas Franchimont / Netherlands / 129"
+    label "Antoine Paul Nicolas Franchimont / Netherlands / 129 / 1871"
     graphics [
       x 850.0000000
       y 59046.56944
@@ -17021,7 +17021,7 @@ graph [
   node [
     id 1001
     template "oreas:std:rect simple"
-    label "Alexander Monro / Netherlands / 0"
+    label "Alexander Monro / Netherlands / 0 / 1718"
     graphics [
       x 18075.00000
       y 59046.56944
@@ -17038,7 +17038,7 @@ graph [
   node [
     id 1002
     template "oreas:std:rect simple"
-    label "John Innes / Netherlands / 0"
+    label "John Innes / Netherlands / 0 / 1722"
     graphics [
       x 18625.00000
       y 59369.56944
@@ -17055,7 +17055,7 @@ graph [
   node [
     id 1003
     template "oreas:std:rect simple"
-    label "Andrew St Clair (Sinclair) / Netherlands / 0"
+    label "Andrew St Clair (Sinclair) / Netherlands / 0 / 1720"
     graphics [
       x 18650.00000
       y 59422.56944
@@ -17072,7 +17072,7 @@ graph [
   node [
     id 1004
     template "oreas:std:rect simple"
-    label "John Rutherford / Netherlands / 1"
+    label "John Rutherford / Netherlands / 1 / 1719"
     graphics [
       x 19225.00000
       y 59422.56944
@@ -17089,7 +17089,7 @@ graph [
   node [
     id 1005
     template "oreas:std:rect simple"
-    label "Thomas Young / UnitedKingdom / 0"
+    label "Thomas Young / UnitedKingdom / 0 / 1761"
     graphics [
       x 19400.00000
       y 59422.56944
@@ -17106,7 +17106,7 @@ graph [
   node [
     id 1006
     template "oreas:std:rect simple"
-    label "Jacobus Pierson Tholen / Netherlands / 0"
+    label "Jacobus Pierson Tholen / Netherlands / 0 / 1784"
     graphics [
       x 3200.000000
       y 59422.56944
@@ -17123,7 +17123,7 @@ graph [
   node [
     id 1007
     template "oreas:std:rect simple"
-    label "Nicolaas Cornelis de Fremery / Netherlands / 47"
+    label "Nicolaas Cornelis de Fremery / Netherlands / 47 / 1792"
     graphics [
       x 5050.000000
       y 59422.56944
@@ -17140,7 +17140,7 @@ graph [
   node [
     id 1008
     template "oreas:std:rect simple"
-    label "Alexius Meinong / Austria / 10"
+    label "Alexius Meinong / Austria / 10 / 1874"
     graphics [
       x 74350.00000
       y 59422.56944
@@ -17157,7 +17157,7 @@ graph [
   node [
     id 1009
     template "oreas:std:rect simple"
-    label "Martinus van Marum / Netherlands / 48"
+    label "Martinus van Marum / Netherlands / 48 / 1773"
     graphics [
       x 20900.00000
       y 59422.56944
@@ -17174,7 +17174,7 @@ graph [
   node [
     id 1010
     template "oreas:std:rect simple"
-    label "Johann Christoph Bohl / Netherlands / 0"
+    label "Johann Christoph Bohl / Netherlands / 0 / 1726"
     graphics [
       x 18300.00000
       y 59422.56944
@@ -17191,7 +17191,7 @@ graph [
   node [
     id 1011
     template "oreas:std:rect simple"
-    label "Matthias Ernst Boretius / Netherlands / 0"
+    label "Matthias Ernst Boretius / Netherlands / 0 / 1720"
     graphics [
       x 18175.00000
       y 59422.56944
@@ -17208,7 +17208,7 @@ graph [
   node [
     id 1012
     template "oreas:std:rect simple"
-    label "Henry Pemberton / Netherlands / 1"
+    label "Henry Pemberton / Netherlands / 1 / 1719"
     graphics [
       x 18050.00000
       y 59422.56944
@@ -17225,7 +17225,7 @@ graph [
   node [
     id 1013
     template "oreas:std:rect simple"
-    label "Gerrit Jan Mulder / Netherlands / 46"
+    label "Gerrit Jan Mulder / Netherlands / 46 / 1825"
     graphics [
       x 4925.000000
       y 59487.23611
@@ -17242,7 +17242,7 @@ graph [
   node [
     id 1014
     template "oreas:std:rect simple"
-    label "Johann Gottfried Zinn / Germany / 0"
+    label "Johann Gottfried Zinn / Germany / 0 / 1749"
     graphics [
       x 77100.00000
       y 59487.23611
@@ -17259,7 +17259,7 @@ graph [
   node [
     id 1015
     template "oreas:std:rect simple"
-    label "Daniel de la Motte / Netherlands / 0"
+    label "Daniel de la Motte / Netherlands / 0 / 1720"
     graphics [
       x 74075.00000
       y 59487.23611
@@ -17276,7 +17276,7 @@ graph [
   node [
     id 1016
     template "oreas:std:rect simple"
-    label "Pybo Steenstra / Netherlands / 0"
+    label "Pybo Steenstra / Netherlands / 0 / 1763"
     graphics [
       x 18975.00000
       y 59487.23611
@@ -17293,7 +17293,7 @@ graph [
   node [
     id 1017
     template "oreas:std:rect simple"
-    label "Didericus de Smeth / Netherlands / 0"
+    label "Didericus de Smeth / Netherlands / 0 / 1772"
     graphics [
       x 20375.00000
       y 59556.06944
@@ -17310,7 +17310,7 @@ graph [
   node [
     id 1018
     template "oreas:std:rect simple"
-    label "Michael Paxi de Szathmár / Netherlands / 0"
+    label "Michael Paxi de Szathmár / Netherlands / 0 / 1771"
     graphics [
       x 20500.00000
       y 59556.06944
@@ -17327,7 +17327,7 @@ graph [
   node [
     id 1019
     template "oreas:std:rect simple"
-    label "Jacobus Fenwick van der Gon / Netherlands / 0"
+    label "Jacobus Fenwick van der Gon / Netherlands / 0 / 1769"
     graphics [
       x 20625.00000
       y 59556.06944
@@ -17344,7 +17344,7 @@ graph [
   node [
     id 1020
     template "oreas:std:rect simple"
-    label "Gerardus Johannes Nahuys / Netherlands / 0"
+    label "Gerardus Johannes Nahuys / Netherlands / 0 / 1761"
     graphics [
       x 20250.00000
       y 59556.06944
@@ -17361,7 +17361,7 @@ graph [
   node [
     id 1021
     template "oreas:std:rect simple"
-    label "Daniel Wilhelmus Nebel / Netherlands / 0"
+    label "Daniel Wilhelmus Nebel / Netherlands / 0 / 1756"
     graphics [
       x 20750.00000
       y 59556.06944
@@ -17378,7 +17378,7 @@ graph [
   node [
     id 1022
     template "oreas:std:rect simple"
-    label "Gadso Coopmans / Netherlands / 0"
+    label "Gadso Coopmans / Netherlands / 0 / 1770"
     graphics [
       x 3000.000000
       y 59556.06944
@@ -17395,7 +17395,7 @@ graph [
   node [
     id 1023
     template "oreas:std:rect simple"
-    label "Ferdinand Christoph Oetinger / Germany / 9393"
+    label "Ferdinand Christoph Oetinger / Germany / 9393 / 1739"
     graphics [
       x 43275.00000
       y 59879.06944
@@ -17412,7 +17412,7 @@ graph [
   node [
     id 1024
     template "oreas:std:rect simple"
-    label "Robert Wilhelm Eberhard Bunsen / Germany / 76"
+    label "Robert Wilhelm Eberhard Bunsen / Germany / 76 / 1830"
     graphics [
       x 35225.00000
       y 59879.06944
@@ -17429,7 +17429,7 @@ graph [
   node [
     id 1025
     template "oreas:std:rect simple"
-    label "Michael Alberti / Germany / 9394"
+    label "Michael Alberti / Germany / 9394 / 1703"
     graphics [
       x 45000.00000
       y 59879.06944
@@ -17446,7 +17446,7 @@ graph [
   node [
     id 1026
     template "oreas:std:rect simple"
-    label "Viktor von Lang / Germany / 1183"
+    label "Viktor von Lang / Germany / 1183 / 1858"
     graphics [
       x 53375.00000
       y 59879.06944
@@ -17463,7 +17463,7 @@ graph [
   node [
     id 1027
     template "oreas:std:rect simple"
-    label "August Adolph Eduard Eberhard Kundt / Germany / 1768"
+    label "August Adolph Eduard Eberhard Kundt / Germany / 1768 / 1864"
     graphics [
       x 49300.00000
       y 59879.06944
@@ -17480,7 +17480,7 @@ graph [
   node [
     id 1028
     template "oreas:std:rect simple"
-    label "Georg Balthasar Metzger / Switzerland / 102065"
+    label "Georg Balthasar Metzger / Switzerland / 102065 / 1648"
     graphics [
       x 43000.00000
       y 59879.06944
@@ -17497,7 +17497,7 @@ graph [
   node [
     id 1029
     template "oreas:std:rect simple"
-    label "Georg Ernst Stahl / Germany / 9395"
+    label "Georg Ernst Stahl / Germany / 9395 / 1684"
     graphics [
       x 45725.00000
       y 59879.06944
@@ -17514,7 +17514,7 @@ graph [
   node [
     id 1030
     template "oreas:std:rect simple"
-    label "Heinrich Gustav Magnus / Germany / 2107"
+    label "Heinrich Gustav Magnus / Germany / 2107 / 1827"
     graphics [
       x 50100.00000
       y 59879.06944
@@ -17531,7 +17531,7 @@ graph [
   node [
     id 1031
     template "oreas:std:rect simple"
-    label "Friedrich Stromeyer / Germany / 2521"
+    label "Friedrich Stromeyer / Germany / 2521 / 1800"
     graphics [
       x 43125.00000
       y 59879.06944
@@ -17548,7 +17548,7 @@ graph [
   node [
     id 1032
     template "oreas:std:rect simple"
-    label "Eilhard Mitscherlich / Germany / 2108"
+    label "Eilhard Mitscherlich / Germany / 2108 / 1814"
     graphics [
       x 46400.00000
       y 59879.06944
@@ -17565,7 +17565,7 @@ graph [
   node [
     id 1033
     template "oreas:std:rect simple"
-    label "Rudolf Wilhelm Krause / Netherlands / 92134"
+    label "Rudolf Wilhelm Krause / Netherlands / 92134 / 1669"
     graphics [
       x 39600.00000
       y 60202.06944
@@ -17582,7 +17582,7 @@ graph [
   node [
     id 1034
     template "oreas:std:rect simple"
-    label "Hendrik Carel van der Boon Mesch / Netherlands / 0"
+    label "Hendrik Carel van der Boon Mesch / Netherlands / 0 / 1820"
     graphics [
       x 18850.00000
       y 60202.06944
@@ -17599,7 +17599,7 @@ graph [
   node [
     id 1035
     template "oreas:std:rect simple"
-    label "Julien Offray de La Mettrie / Netherlands / 0"
+    label "Julien Offray de La Mettrie / Netherlands / 0 / 1728"
     graphics [
       x 18975.00000
       y 60202.06944
@@ -17616,7 +17616,7 @@ graph [
   node [
     id 1036
     template "oreas:std:rect simple"
-    label "Johann Amman / Netherlands / 0"
+    label "Johann Amman / Netherlands / 0 / 1729"
     graphics [
       x 19225.00000
       y 60202.06944
@@ -17633,7 +17633,7 @@ graph [
   node [
     id 1037
     template "oreas:std:rect simple"
-    label "Johannes Fredericus Gronovius / Netherlands / 0"
+    label "Johannes Fredericus Gronovius / Netherlands / 0 / 1715"
     graphics [
       x 18600.00000
       y 60202.06944
@@ -17650,7 +17650,7 @@ graph [
   node [
     id 1038
     template "oreas:std:rect simple"
-    label "Augustus Johannes Hugo / Netherlands / 0"
+    label "Augustus Johannes Hugo / Netherlands / 0 / 1711"
     graphics [
       x 18725.00000
       y 60202.06944
@@ -17667,7 +17667,7 @@ graph [
   node [
     id 1039
     template "oreas:std:rect simple"
-    label "Johann Thomas Sömmerring / Netherlands / 0"
+    label "Johann Thomas Sömmerring / Netherlands / 0 / 1725"
     graphics [
       x 19100.00000
       y 60202.06944
@@ -17684,7 +17684,7 @@ graph [
   node [
     id 1040
     template "oreas:std:rect simple"
-    label "Eduard Mulder / Netherlands / 42"
+    label "Eduard Mulder / Netherlands / 42 / 1853"
     graphics [
       x 4737.500000
       y 60202.06944
@@ -17701,7 +17701,7 @@ graph [
   node [
     id 1041
     template "oreas:std:rect simple"
-    label "Esaias Rouxel / Netherlands / 0"
+    label "Esaias Rouxel / Netherlands / 0 / 1696"
     graphics [
       x 28900.00000
       y 60202.06944
@@ -17718,7 +17718,7 @@ graph [
   node [
     id 1042
     template "oreas:std:rect simple"
-    label "Daniel Brand / Netherlands / 0"
+    label "Daniel Brand / Netherlands / 0 / 1774"
     graphics [
       x 3100.000000
       y 60525.06944
@@ -17735,7 +17735,7 @@ graph [
   node [
     id 1043
     template "oreas:std:rect simple"
-    label "Henricus de Wal / Netherlands / 0"
+    label "Henricus de Wal / Netherlands / 0 / 1775"
     graphics [
       x 2850.000000
       y 60525.06944
@@ -17752,7 +17752,7 @@ graph [
   node [
     id 1044
     template "oreas:std:rect simple"
-    label "Bernhardus Christoph Meese / Netherlands / 0"
+    label "Bernhardus Christoph Meese / Netherlands / 0 / 1775"
     graphics [
       x 2975.000000
       y 60525.06944
@@ -17769,7 +17769,7 @@ graph [
   node [
     id 1045
     template "oreas:std:rect simple"
-    label "Adolphus Ypey / Netherlands / 0"
+    label "Adolphus Ypey / Netherlands / 0 / 1767"
     graphics [
       x 3225.000000
       y 60525.06944
@@ -17786,7 +17786,7 @@ graph [
   node [
     id 1046
     template "oreas:std:rect simple"
-    label "Floris Jacobus Voltelen / Netherlands / 0"
+    label "Floris Jacobus Voltelen / Netherlands / 0 / 1775"
     graphics [
       x 20225.00000
       y 60525.06944
@@ -17803,7 +17803,7 @@ graph [
   node [
     id 1047
     template "oreas:std:rect simple"
-    label "K. Ferdinand (Karl) Braun / Germany / 261"
+    label "K. Ferdinand (Karl) Braun / Germany / 261 / 1872"
     graphics [
       x 34875.00000
       y 60525.06944
@@ -17820,7 +17820,7 @@ graph [
   node [
     id 1048
     template "oreas:std:rect simple"
-    label "Georg Hermann Quincke / Germany / 265"
+    label "Georg Hermann Quincke / Germany / 265 / 1858"
     graphics [
       x 35000.00000
       y 60525.06944
@@ -17837,7 +17837,7 @@ graph [
   node [
     id 1049
     template "oreas:std:rect simple"
-    label "Abraham Gottlob Werner / Germany / 2649"
+    label "Abraham Gottlob Werner / Germany / 2649 / 1774"
     graphics [
       x 13500.00000
       y 60848.06944
@@ -17854,7 +17854,7 @@ graph [
   node [
     id 1050
     template "oreas:std:rect simple"
-    label "René Just Haüy / Germany / 2232"
+    label "René Just Haüy / Germany / 2232 / 1776"
     graphics [
       x 13625.00000
       y 60848.06944
@@ -17871,7 +17871,7 @@ graph [
   node [
     id 1051
     template "oreas:std:rect simple"
-    label "Bernardus Franciscus Suerman / Netherlands / 1"
+    label "Bernardus Franciscus Suerman / Netherlands / 1 / 1809"
     graphics [
       x 14100.00000
       y 60848.06944
@@ -17888,7 +17888,7 @@ graph [
   node [
     id 1052
     template "oreas:std:rect simple"
-    label "Nikolaus Joseph von Jacquin / Netherlands / 353"
+    label "Nikolaus Joseph von Jacquin / Netherlands / 353 / 1750"
     graphics [
       x 32050.00000
       y 60848.06944
@@ -17905,7 +17905,7 @@ graph [
   node [
     id 1053
     template "oreas:std:rect simple"
-    label "Johann Carl Gehler / Germany / 2650"
+    label "Johann Carl Gehler / Germany / 2650 / 1758"
     graphics [
       x 14775.00000
       y 60848.06944
@@ -17922,7 +17922,7 @@ graph [
   node [
     id 1054
     template "oreas:std:rect simple"
-    label "Johann Joseph Loschmidt / Austria / 7"
+    label "Johann Joseph Loschmidt / Austria / 7 / 1866"
     graphics [
       x 52575.00000
       y 60848.06944
@@ -17939,7 +17939,7 @@ graph [
   node [
     id 1055
     template "oreas:std:rect simple"
-    label "Maryan von Smoluchowski / Austria / 0"
+    label "Maryan von Smoluchowski / Austria / 0 / 1895"
     graphics [
       x 52450.00000
       y 60848.06944
@@ -17956,7 +17956,7 @@ graph [
   node [
     id 1056
     template "oreas:std:rect simple"
-    label "Emil Gabriel Warburg / Germany / 290"
+    label "Emil Gabriel Warburg / Germany / 290 / 1867"
     graphics [
       x 49375.00000
       y 60848.06944
@@ -17973,7 +17973,7 @@ graph [
   node [
     id 1057
     template "oreas:std:rect simple"
-    label "Jacobus Henricus van 't Hoff / Netherlands / 41"
+    label "Jacobus Henricus van 't Hoff / Netherlands / 41 / 1874"
     graphics [
       x 2300.000000
       y 60848.06944
@@ -17990,7 +17990,7 @@ graph [
   node [
     id 1058
     template "oreas:std:rect simple"
-    label "Christian Gottlieb Ludwig / Germany / 2651"
+    label "Christian Gottlieb Ludwig / Germany / 2651 / 1737"
     graphics [
       x 18125.00000
       y 60848.06944
@@ -18007,7 +18007,7 @@ graph [
   node [
     id 1059
     template "oreas:std:rect simple"
-    label "Rudolf Julius Emanuel Clausius / Germany / 60"
+    label "Rudolf Julius Emanuel Clausius / Germany / 60 / 1848"
     graphics [
       x 44275.00000
       y 61171.06944
@@ -18024,7 +18024,7 @@ graph [
   node [
     id 1060
     template "oreas:std:rect simple"
-    label "Christoph Friedrich Haase / Germany / 2652"
+    label "Christoph Friedrich Haase / Germany / 2652 / 1712"
     graphics [
       x 18250.00000
       y 61171.06944
@@ -18041,7 +18041,7 @@ graph [
   node [
     id 1061
     template "oreas:std:rect simple"
-    label "Augustin Friedrich Walther / Germany / 2653"
+    label "Augustin Friedrich Walther / Germany / 2653 / 1712"
     graphics [
       x 18125.00000
       y 61171.06944
@@ -18058,7 +18058,7 @@ graph [
   node [
     id 1062
     template "oreas:std:rect simple"
-    label "Adriaan van den Spieghel / Belgium / 118558"
+    label "Adriaan van den Spieghel / Belgium / 118558 / 1603"
     graphics [
       x 24075.00000
       y 61171.06944
@@ -18075,7 +18075,7 @@ graph [
   node [
     id 1063
     template "oreas:std:rect simple"
-    label "Adolph Vorstius / Netherlands / 104711"
+    label "Adolph Vorstius / Netherlands / 104711 / 1621"
     graphics [
       x 26950.00000
       y 61171.06944
@@ -18092,7 +18092,7 @@ graph [
   node [
     id 1064
     template "oreas:std:rect simple"
-    label "Petrus (Pierre de La Ramée) Ramus / France / 118735"
+    label "Petrus (Pierre de La Ramée) Ramus / France / 118735 / 1536"
     graphics [
       x 23825.00000
       y 61171.06944
@@ -18109,7 +18109,7 @@ graph [
   node [
     id 1065
     template "oreas:std:rect simple"
-    label "Johannes Nicolaus Stupanus / Switzerland / 102067"
+    label "Johannes Nicolaus Stupanus / Switzerland / 102067 / 1569"
     graphics [
       x 36700.00000
       y 61171.06944
@@ -18126,7 +18126,7 @@ graph [
   node [
     id 1066
     template "oreas:std:rect simple"
-    label "Johann Gottfried von Berger / Germany / 2654"
+    label "Johann Gottfried von Berger / Germany / 2654 / 1682"
     graphics [
       x 23400.00000
       y 61171.06944
@@ -18143,7 +18143,7 @@ graph [
   node [
     id 1067
     template "oreas:std:rect simple"
-    label "Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius / Italy / 118718"
+    label "Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius / Italy / 118718 / 1559"
     graphics [
       x 25975.00000
       y 61171.06944
@@ -18160,7 +18160,7 @@ graph [
   node [
     id 1068
     template "oreas:std:rect simple"
-    label "Johannes (Johan van Heurne) Heurnius / Italy / 18791"
+    label "Johannes (Johan van Heurne) Heurnius / Italy / 18791 / 1569"
     graphics [
       x 23700.00000
       y 61171.06944
@@ -18177,7 +18177,7 @@ graph [
   node [
     id 1069
     template "oreas:std:rect simple"
-    label "Emmanuel Stupanus / Switzerland / 134660"
+    label "Emmanuel Stupanus / Switzerland / 134660 / 1613"
     graphics [
       x 29793.75000
       y 61171.06944
@@ -18194,7 +18194,7 @@ graph [
   node [
     id 1070
     template "oreas:std:rect simple"
-    label "Gabriele Falloppio / Italy / 118719"
+    label "Gabriele Falloppio / Italy / 118719 / 1547"
     graphics [
       x 26525.00000
       y 61171.06944
@@ -18211,7 +18211,7 @@ graph [
   node [
     id 1071
     template "oreas:std:rect simple"
-    label "Augustin Heinrich Fasch / Germany / 2660"
+    label "Augustin Heinrich Fasch / Germany / 2660 / 1663"
     graphics [
       x 23550.00000
       y 61494.06944
@@ -18228,7 +18228,7 @@ graph [
   node [
     id 1072
     template "oreas:std:rect simple"
-    label "Theodor Zwinger / Italy / 118718"
+    label "Theodor Zwinger / Italy / 118718 / 1556"
     graphics [
       x 30525.00000
       y 61494.06944
@@ -18245,7 +18245,7 @@ graph [
   node [
     id 1073
     template "oreas:std:rect simple"
-    label "Werner Rolfinck / Germany / 102801"
+    label "Werner Rolfinck / Germany / 102801 / 1625"
     graphics [
       x 30175.00000
       y 61494.06944
@@ -18262,7 +18262,7 @@ graph [
   node [
     id 1074
     template "oreas:std:rect simple"
-    label "Immanuel Tremellius / UnitedKingdom / 134805"
+    label "Immanuel Tremellius / UnitedKingdom / 134805 / 1549"
     graphics [
       x 35325.00000
       y 61494.06944
@@ -18279,7 +18279,7 @@ graph [
   node [
     id 1075
     template "oreas:std:rect simple"
-    label "Valentine Naibod / Germany / 134805"
+    label "Valentine Naibod / Germany / 134805 / 1547"
     graphics [
       x 35700.00000
       y 61494.06944
@@ -18296,7 +18296,7 @@ graph [
   node [
     id 1076
     template "oreas:std:rect simple"
-    label "Otho (Otto van Heurne) Heurnius / Netherlands / 15543"
+    label "Otho (Otto van Heurne) Heurnius / Netherlands / 15543 / 1599"
     graphics [
       x 23116.66667
       y 61494.06944
@@ -18313,7 +18313,7 @@ graph [
   node [
     id 1077
     template "oreas:std:rect simple"
-    label "Rudolph (Snel van Royen) Snellius / Germany / 134804"
+    label "Rudolph (Snel van Royen) Snellius / Germany / 134804 / 1572"
     graphics [
       x 35450.00000
       y 61494.06944
@@ -18330,7 +18330,7 @@ graph [
   node [
     id 1078
     template "oreas:std:rect simple"
-    label "Robert Sibbald / Netherlands / 0"
+    label "Robert Sibbald / Netherlands / 0 / 1661"
     graphics [
       x 29900.00000
       y 61494.06944
@@ -18347,7 +18347,7 @@ graph [
   node [
     id 1079
     template "oreas:std:rect simple"
-    label "Ludolph van Ceulen / Netherlands / 109562"
+    label "Ludolph van Ceulen / Netherlands / 109562 / 1582"
     graphics [
       x 36625.00000
       y 61494.06944
@@ -18364,7 +18364,7 @@ graph [
   node [
     id 1080
     template "oreas:std:rect simple"
-    label "Petrus (Pierre du Moulin) Molinaeus / Netherlands / 15544"
+    label "Petrus (Pierre du Moulin) Molinaeus / Netherlands / 15544 / 1574"
     graphics [
       x 23400.00000
       y 61494.06944
@@ -18381,7 +18381,7 @@ graph [
   node [
     id 1081
     template "oreas:std:rect simple"
-    label "William Harvey / Italy / 0"
+    label "William Harvey / Italy / 0 / 1602"
     graphics [
       x 25900.00000
       y 61494.06944
@@ -18398,7 +18398,7 @@ graph [
   node [
     id 1082
     template "oreas:std:rect simple"
-    label "Isaac Beeckman / Netherlands / 2"
+    label "Isaac Beeckman / Netherlands / 2 / 1618"
     graphics [
       x 36500.00000
       y 61494.06944
@@ -18415,7 +18415,7 @@ graph [
   node [
     id 1083
     template "oreas:std:rect simple"
-    label "Willebrord (Snel van Royen) Snellius / Netherlands / 109560"
+    label "Willebrord (Snel van Royen) Snellius / Netherlands / 109560 / 1607"
     graphics [
       x 36150.00000
       y 61494.06944
@@ -18432,7 +18432,7 @@ graph [
   node [
     id 1084
     template "oreas:std:rect simple"
-    label "Matteo Realdo (Renaldus Columbus) Colombo / Italy / 118720"
+    label "Matteo Realdo (Renaldus Columbus) Colombo / Italy / 118720 / 1544"
     graphics [
       x 35575.00000
       y 61494.06944
@@ -18449,7 +18449,7 @@ graph [
   node [
     id 1085
     template "oreas:std:rect simple"
-    label "René (Renatus Cartesius) Descartes / France / 0"
+    label "René (Renatus Cartesius) Descartes / France / 0 / 1616"
     graphics [
       x 36300.00000
       y 61494.06944
@@ -18466,7 +18466,7 @@ graph [
   node [
     id 1086
     template "oreas:std:rect simple"
-    label "Thomas Jan Stieltjes / France / 0"
+    label "Thomas Jan Stieltjes / France / 0 / 1886"
     graphics [
       x 65200.00000
       y 61494.06944
@@ -18483,7 +18483,7 @@ graph [
   node [
     id 1087
     template "oreas:std:rect simple"
-    label "Henricus Brucaeus / France / 3678"
+    label "Henricus Brucaeus / France / 3678 / 1554"
     graphics [
       x 23825.00000
       y 61494.06944
@@ -18500,7 +18500,7 @@ graph [
   node [
     id 1088
     template "oreas:std:rect simple"
-    label "Thomas Erpenius / Netherlands / 109560"
+    label "Thomas Erpenius / Netherlands / 109560 / 1608"
     graphics [
       x 31325.00000
       y 61817.06944
@@ -18517,7 +18517,7 @@ graph [
   node [
     id 1089
     template "oreas:std:rect simple"
-    label "Tycho (Tyge Ottesen) Brahe / Denmark / 3"
+    label "Tycho (Tyge Ottesen) Brahe / Denmark / 3 / 1562"
     graphics [
       x 27500.00000
       y 61817.06944
@@ -18534,7 +18534,7 @@ graph [
   node [
     id 1090
     template "oreas:std:rect simple"
-    label "Pieter (Petrus Pavius) Pauw / Netherlands / 3677"
+    label "Pieter (Petrus Pavius) Pauw / Netherlands / 3677 / 1585"
     graphics [
       x 23825.00000
       y 61817.06944
@@ -18551,7 +18551,7 @@ graph [
   node [
     id 1091
     template "oreas:std:rect simple"
-    label "Adriaan Adriaansz Metius / Netherlands / 0"
+    label "Adriaan Adriaansz Metius / Netherlands / 0 / 1594"
     graphics [
       x 35425.00000
       y 61817.06944
@@ -18568,7 +18568,7 @@ graph [
   node [
     id 1092
     template "oreas:std:rect simple"
-    label "Jacobus Golius / Netherlands / 109559"
+    label "Jacobus Golius / Netherlands / 109559 / 1612"
     graphics [
       x 36150.00000
       y 61817.06944
@@ -18585,7 +18585,7 @@ graph [
   node [
     id 1093
     template "oreas:std:rect simple"
-    label "Jan Jansz Stampioen, Jr. / France / 109468"
+    label "Jan Jansz Stampioen, Jr. / France / 109468 / 1626"
     graphics [
       x 34000.00000
       y 62140.06944
@@ -18602,7 +18602,7 @@ graph [
   node [
     id 1094
     template "oreas:std:rect simple"
-    label "Joseph Sweetman Ames / UnitedStates / 111"
+    label "Joseph Sweetman Ames / UnitedStates / 111 / 1890"
     graphics [
       x 68575.00000
       y 62140.06944
@@ -18619,7 +18619,7 @@ graph [
   node [
     id 1095
     template "oreas:std:rect simple"
-    label "Jacobus (Jacques Dubois) Sylvius / France / 142442"
+    label "Jacobus (Jacques Dubois) Sylvius / France / 142442 / 1530"
     graphics [
       x 21750.00000
       y 62140.06944
@@ -18636,7 +18636,7 @@ graph [
   node [
     id 1096
     template "oreas:std:rect simple"
-    label "Carolus (Charles Estienne) Stephanus / France / 0"
+    label "Carolus (Charles Estienne) Stephanus / France / 0 / 1542"
     graphics [
       x 21900.00000
       y 62140.06944
@@ -18653,7 +18653,7 @@ graph [
   node [
     id 1097
     template "oreas:std:rect simple"
-    label "Marin Mersenne / Netherlands / 121157"
+    label "Marin Mersenne / Netherlands / 121157 / 1610"
     graphics [
       x 36075.00000
       y 62140.06944
@@ -18670,7 +18670,7 @@ graph [
   node [
     id 1098
     template "oreas:std:rect simple"
-    label "Frans van Schooten, Jr. / Netherlands / 109473"
+    label "Frans van Schooten, Jr. / Netherlands / 109473 / 1635"
     graphics [
       x 35925.00000
       y 62140.06944
@@ -18687,7 +18687,7 @@ graph [
   node [
     id 1099
     template "oreas:std:rect simple"
-    label "Georg Wolffgang Wedel / Germany / 91116"
+    label "Georg Wolffgang Wedel / Germany / 91116 / 1667"
     graphics [
       x 31258.33333
       y 62140.06944
@@ -18704,7 +18704,7 @@ graph [
   node [
     id 1100
     template "oreas:std:rect simple"
-    label "Johan de Witt / Netherlands / 0"
+    label "Johan de Witt / Netherlands / 0 / 1645"
     graphics [
       x 36775.00000
       y 62140.06944
@@ -18721,7 +18721,7 @@ graph [
   node [
     id 1101
     template "oreas:std:rect simple"
-    label "Christiaan Huygens / Netherlands / 109467"
+    label "Christiaan Huygens / Netherlands / 109467 / 1651"
     graphics [
       x 34000.00000
       y 62463.06944
@@ -18738,7 +18738,7 @@ graph [
   node [
     id 1102
     template "oreas:std:rect simple"
-    label "Henry Augustus Rowland / UnitedStates / 164"
+    label "Henry Augustus Rowland / UnitedStates / 164 / 1870"
     graphics [
       x 68575.00000
       y 62463.06944
@@ -18755,7 +18755,7 @@ graph [
   node [
     id 1103
     template "oreas:std:rect simple"
-    label "Johann Friedrich Gottlieb Goldhagen / Germany / 1"
+    label "Johann Friedrich Gottlieb Goldhagen / Germany / 1 / 1747"
     graphics [
       x 68000.00000
       y 62463.06944
@@ -18772,7 +18772,7 @@ graph [
   node [
     id 1104
     template "oreas:std:rect simple"
-    label "Johannes Hudde / Netherlands / 0"
+    label "Johannes Hudde / Netherlands / 0 / 1654"
     graphics [
       x 36050.00000
       y 62463.06944
@@ -18789,7 +18789,7 @@ graph [
   node [
     id 1105
     template "oreas:std:rect simple"
-    label "Hendrik van Heuraet / Netherlands / 0"
+    label "Hendrik van Heuraet / Netherlands / 0 / 1658"
     graphics [
       x 35925.00000
       y 62463.06944
@@ -18806,7 +18806,7 @@ graph [
   node [
     id 1106
     template "oreas:std:rect simple"
-    label "Nicolas (Nicolaes Cleynaerts) Clénard / Belgium / 118748"
+    label "Nicolas (Nicolaes Cleynaerts) Clénard / Belgium / 118748 / 1515"
     graphics [
       x 32025.00000
       y 62463.06944
@@ -18823,7 +18823,7 @@ graph [
   node [
     id 1107
     template "oreas:std:rect simple"
-    label "Johannes (Johann Sturm) Sturmius / Belgium / 118747"
+    label "Johannes (Johann Sturm) Sturmius / Belgium / 118747 / 1527"
     graphics [
       x 22475.00000
       y 62463.06944
@@ -18840,7 +18840,7 @@ graph [
   node [
     id 1108
     template "oreas:std:rect simple"
-    label "Jacobus (Jacques Masson) Latomus / France / 118749"
+    label "Jacobus (Jacques Masson) Latomus / France / 118749 / 1502"
     graphics [
       x 31900.00000
       y 62463.06944
@@ -18857,7 +18857,7 @@ graph [
   node [
     id 1109
     template "oreas:std:rect simple"
-    label "Jan (Johannes Campensis) van Campen / Belgium / 118749"
+    label "Jan (Johannes Campensis) van Campen / Belgium / 118749 / 1519"
     graphics [
       x 33250.00000
       y 62463.06944
@@ -18874,7 +18874,7 @@ graph [
   node [
     id 1110
     template "oreas:std:rect simple"
-    label "Friedrich Hoffmann / Germany / 4"
+    label "Friedrich Hoffmann / Germany / 4 / 1681"
     graphics [
       x 37225.00000
       y 62786.06944
@@ -18891,7 +18891,7 @@ graph [
   node [
     id 1111
     template "oreas:std:rect simple"
-    label "Jacob ben Jehiel Loans / France / 142428"
+    label "Jacob ben Jehiel Loans / France / 142428 / 1454"
     graphics [
       x 25725.00000
       y 62786.06944
@@ -18908,7 +18908,7 @@ graph [
   node [
     id 1112
     template "oreas:std:rect simple"
-    label "Johann (Johannes Kapnion) Reuchlin / Switzerland / 142427"
+    label "Johann (Johannes Kapnion) Reuchlin / Switzerland / 142427 / 1479"
     graphics [
       x 25350.00000
       y 62786.06944
@@ -18925,7 +18925,7 @@ graph [
   node [
     id 1113
     template "oreas:std:rect simple"
-    label "Matthaeus Adrianus / Belgium / 118750"
+    label "Matthaeus Adrianus / Belgium / 118750 / 1494"
     graphics [
       x 33250.00000
       y 62786.06944
@@ -18942,7 +18942,7 @@ graph [
   node [
     id 1114
     template "oreas:std:rect simple"
-    label "Johann Adolph Wedel / Germany / 91113"
+    label "Johann Adolph Wedel / Germany / 91113 / 1694"
     graphics [
       x 31325.00000
       y 62786.06944
@@ -18959,7 +18959,7 @@ graph [
   node [
     id 1115
     template "oreas:std:rect simple"
-    label "Georg Erhard Hamberger / Germany / 91112"
+    label "Georg Erhard Hamberger / Germany / 91112 / 1719"
     graphics [
       x 76925.00000
       y 62786.06944
@@ -18976,7 +18976,7 @@ graph [
   node [
     id 1116
     template "oreas:std:rect simple"
-    label "Jan Standonck / France / 142538"
+    label "Jan Standonck / France / 142538 / 1472"
     graphics [
       x 31900.00000
       y 62786.06944
@@ -18993,7 +18993,7 @@ graph [
   node [
     id 1117
     template "oreas:std:rect simple"
-    label "Petrus (Pieter de Corte) Curtius / Belgium / 118729"
+    label "Petrus (Pieter de Corte) Curtius / Belgium / 118729 / 1513"
     graphics [
       x 55987.50000
       y 62786.06944
@@ -19010,7 +19010,7 @@ graph [
   node [
     id 1118
     template "oreas:std:rect simple"
-    label "Maarten (Martinus Dorpius) van Dorp / Belgium / 118730"
+    label "Maarten (Martinus Dorpius) van Dorp / Belgium / 118730 / 1504"
     graphics [
       x 55900.00000
       y 63109.06944
@@ -19027,7 +19027,7 @@ graph [
   node [
     id 1119
     template "oreas:std:rect simple"
-    label "Leo Outers / Belgium / 118731"
+    label "Leo Outers / Belgium / 118731 / 1479"
     graphics [
       x 56025.00000
       y 63109.06944
@@ -19044,7 +19044,7 @@ graph [
   node [
     id 1120
     template "oreas:std:rect simple"
-    label "Alexander Hegius / Italy / 142506"
+    label "Alexander Hegius / Italy / 142506 / 1474"
     graphics [
       x 42775.00000
       y 63109.06944
@@ -19061,7 +19061,7 @@ graph [
   node [
     id 1121
     template "oreas:std:rect simple"
-    label "Desiderius Erasmus / France / 142505"
+    label "Desiderius Erasmus / France / 142505 / 1497"
     graphics [
       x 31725.00000
       y 63109.06944
@@ -19078,7 +19078,7 @@ graph [
   node [
     id 1122
     template "oreas:std:rect simple"
-    label "John Mair / France / 0"
+    label "John Mair / France / 0 / 1496"
     graphics [
       x 32025.00000
       y 63109.06944
@@ -19095,7 +19095,7 @@ graph [
   node [
     id 1123
     template "oreas:std:rect simple"
-    label "Simon Paul Hilscher / Germany / 90974"
+    label "Simon Paul Hilscher / Germany / 90974 / 1704"
     graphics [
       x 55600.00000
       y 63109.06944
@@ -19112,7 +19112,7 @@ graph [
   node [
     id 1124
     template "oreas:std:rect simple"
-    label "Samuel Gottlieb Gmelin / Germany / 0"
+    label "Samuel Gottlieb Gmelin / Germany / 0 / 1763"
     graphics [
       x 42900.00000
       y 63109.06944
@@ -19129,7 +19129,7 @@ graph [
   node [
     id 1125
     template "oreas:std:rect simple"
-    label "Anton Friedrich Justus Thibaut / Germany / 576"
+    label "Anton Friedrich Justus Thibaut / Germany / 576 / 1796"
     graphics [
       x 67350.00000
       y 63109.06944
@@ -19146,7 +19146,7 @@ graph [
   node [
     id 1126
     template "oreas:std:rect simple"
-    label "Friedrich Dolezalek / Germany / 0"
+    label "Friedrich Dolezalek / Germany / 0 / 1898"
     graphics [
       x 25075.00000
       y 63109.06944
@@ -19163,7 +19163,7 @@ graph [
   node [
     id 1127
     template "oreas:std:rect simple"
-    label "Michael (Miquel Servet) Servetus / France / 0"
+    label "Michael (Miquel Servet) Servetus / France / 0 / 1540"
     graphics [
       x 21825.00000
       y 63432.06944
@@ -19180,7 +19180,7 @@ graph [
   node [
     id 1128
     template "oreas:std:rect simple"
-    label "Georg von Peuerbach / Austria / 140064"
+    label "Georg von Peuerbach / Austria / 140064 / 1440"
     graphics [
       x 21550.00000
       y 63432.06944
@@ -19197,7 +19197,7 @@ graph [
   node [
     id 1129
     template "oreas:std:rect simple"
-    label "Johannes Müller Regiomontanus / Germany / 140063"
+    label "Johannes Müller Regiomontanus / Germany / 140063 / 1457"
     graphics [
       x 26075.00000
       y 63432.06944
@@ -19214,7 +19214,7 @@ graph [
   node [
     id 1130
     template "oreas:std:rect simple"
-    label "Daniel Sennert / Germany / 102802"
+    label "Daniel Sennert / Germany / 102802 / 1594"
     graphics [
       x 30025.00000
       y 63432.06944
@@ -19231,7 +19231,7 @@ graph [
   node [
     id 1131
     template "oreas:std:rect simple"
-    label "Domenico Maria Novara da Ferrara / Italy / 140062"
+    label "Domenico Maria Novara da Ferrara / Italy / 140062 / 1483"
     graphics [
       x 26200.00000
       y 63432.06944
@@ -19248,7 +19248,7 @@ graph [
   node [
     id 1132
     template "oreas:std:rect simple"
-    label "Leonhard (Leonard Vitreatoris z Dobczyc) von Dobschütz / Poland / 140062"
+    label "Leonhard (Leonard Vitreatoris z Dobczyc) von Dobschütz / Poland / 140062 / 1474"
     graphics [
       x 27225.00000
       y 63432.06944
@@ -19265,7 +19265,7 @@ graph [
   node [
     id 1133
     template "oreas:std:rect simple"
-    label "Johann August Ernesti / Germany / 4416"
+    label "Johann August Ernesti / Germany / 4416 / 1730"
     graphics [
       x 40050.00000
       y 63432.06944
@@ -19282,7 +19282,7 @@ graph [
   node [
     id 1134
     template "oreas:std:rect simple"
-    label "Johann August Bach / Germany / 4373"
+    label "Johann August Bach / Germany / 4373 / 1744"
     graphics [
       x 40200.00000
       y 63432.06944
@@ -19299,7 +19299,7 @@ graph [
   node [
     id 1135
     template "oreas:std:rect simple"
-    label "Christian Gottlob Heyne / Germany / 4372"
+    label "Christian Gottlob Heyne / Germany / 4372 / 1752"
     graphics [
       x 40400.00000
       y 63432.06944
@@ -19316,7 +19316,7 @@ graph [
   node [
     id 1136
     template "oreas:std:rect simple"
-    label "Nicolaus (Mikołaj Kopernik) Copernicus / Poland / 140061"
+    label "Nicolaus (Mikołaj Kopernik) Copernicus / Poland / 140061 / 1499"
     graphics [
       x 27100.00000
       y 63432.06944
@@ -19333,7 +19333,7 @@ graph [
   node [
     id 1137
     template "oreas:std:rect simple"
-    label "Karl Friedrich von Kielmeyer / Germany / 1"
+    label "Karl Friedrich von Kielmeyer / Germany / 1 / 1786"
     graphics [
       x 43250.00000
       y 63432.06944
@@ -19350,7 +19350,7 @@ graph [
   node [
     id 1138
     template "oreas:std:rect simple"
-    label "Johannes Walaeus / Netherlands / 0"
+    label "Johannes Walaeus / Netherlands / 0 / 1631"
     graphics [
       x 23116.66667
       y 63755.06944
@@ -19367,7 +19367,7 @@ graph [
   node [
     id 1139
     template "oreas:std:rect simple"
-    label "Emil Stenberg / Finland / 0"
+    label "Emil Stenberg / Finland / 0 / 1885"
     graphics [
       x 68350.00000
       y 63755.06944
@@ -19384,7 +19384,7 @@ graph [
   node [
     id 1140
     template "oreas:std:rect simple"
-    label "Leopold Gmelin / Germany / 351"
+    label "Leopold Gmelin / Germany / 351 / 1812"
     graphics [
       x 43100.00000
       y 63755.06944
@@ -19401,7 +19401,7 @@ graph [
   node [
     id 1141
     template "oreas:std:rect simple"
-    label "Ferdinand Gmelin / Germany / 0"
+    label "Ferdinand Gmelin / Germany / 0 / 1802"
     graphics [
       x 43250.00000
       y 63755.06944
@@ -19418,7 +19418,7 @@ graph [
   node [
     id 1142
     template "oreas:std:rect simple"
-    label "Joseph Franz von Jacquin / Austria / 352"
+    label "Joseph Franz von Jacquin / Austria / 352 / 1788"
     graphics [
       x 32575.00000
       y 63755.06944
@@ -19435,7 +19435,7 @@ graph [
   node [
     id 1143
     template "oreas:std:rect simple"
-    label "Harry Fielding Reid / UnitedStates / 0"
+    label "Harry Fielding Reid / UnitedStates / 0 / 1885"
     graphics [
       x 68700.00000
       y 63755.06944
@@ -19452,7 +19452,7 @@ graph [
   node [
     id 1144
     template "oreas:std:rect simple"
-    label "Edward Bennett Rosa / UnitedStates / 0"
+    label "Edward Bennett Rosa / UnitedStates / 0 / 1891"
     graphics [
       x 68575.00000
       y 63755.06944
@@ -19469,7 +19469,7 @@ graph [
   node [
     id 1145
     template "oreas:std:rect simple"
-    label "Jacobus (Jacob Harmensz.) Arminius / Germany / 110059"
+    label "Jacobus (Jacob Harmensz.) Arminius / Germany / 110059 / 1582"
     graphics [
       x 31625.00000
       y 63755.06944
@@ -19486,7 +19486,7 @@ graph [
   node [
     id 1146
     template "oreas:std:rect simple"
-    label "Rutger Rescius / France / 142441"
+    label "Rutger Rescius / France / 142441 / 1513"
     graphics [
       x 21400.00000
       y 63755.06944
@@ -19503,7 +19503,7 @@ graph [
   node [
     id 1147
     template "oreas:std:rect simple"
-    label "Ulrich Zasius / Germany / 142505"
+    label "Ulrich Zasius / Germany / 142505 / 1491"
     graphics [
       x 26950.00000
       y 63755.06944
@@ -19520,7 +19520,7 @@ graph [
   node [
     id 1148
     template "oreas:std:rect simple"
-    label "Jakob Milich / Germany / 142449"
+    label "Jakob Milich / Germany / 142449 / 1522"
     graphics [
       x 31500.00000
       y 63755.06944
@@ -19537,7 +19537,7 @@ graph [
   node [
     id 1149
     template "oreas:std:rect simple"
-    label "Bonifazius Erasmi / Germany / 140062"
+    label "Bonifazius Erasmi / Germany / 140062 / 1490"
     graphics [
       x 26550.00000
       y 63755.06944
@@ -19554,7 +19554,7 @@ graph [
   node [
     id 1150
     template "oreas:std:rect simple"
-    label "Johannes Volmar / Germany / 140061"
+    label "Johannes Volmar / Germany / 140061 / 1515"
     graphics [
       x 26750.00000
       y 63755.06944
@@ -19571,7 +19571,7 @@ graph [
   node [
     id 1151
     template "oreas:std:rect simple"
-    label "Erasmus Reinhold / Germany / 142448"
+    label "Erasmus Reinhold / Germany / 142448 / 1535"
     graphics [
       x 31500.00000
       y 64078.06944
@@ -19588,7 +19588,7 @@ graph [
   node [
     id 1152
     template "oreas:std:rect simple"
-    label "Georg Joachim von Leuchen Rheticus / Germany / 140060"
+    label "Georg Joachim von Leuchen Rheticus / Germany / 140060 / 1535"
     graphics [
       x 26950.00000
       y 64078.06944
@@ -19605,7 +19605,7 @@ graph [
   node [
     id 1153
     template "oreas:std:rect simple"
-    label "Caspar Peucer / Germany / 104148"
+    label "Caspar Peucer / Germany / 104148 / 1545"
     graphics [
       x 27550.00000
       y 64078.06944
@@ -19622,7 +19622,7 @@ graph [
   node [
     id 1154
     template "oreas:std:rect simple"
-    label "Johannes von Gmunden / Austria / 140065"
+    label "Johannes von Gmunden / Austria / 140065 / 1406"
     graphics [
       x 21475.00000
       y 64078.06944
@@ -19639,7 +19639,7 @@ graph [
   node [
     id 1155
     template "oreas:std:rect simple"
-    label "Luca Pacioli / Italy / 140063"
+    label "Luca Pacioli / Italy / 140063 / 1458"
     graphics [
       x 26200.00000
       y 64401.06944
@@ -19656,7 +19656,7 @@ graph [
   node [
     id 1156
     template "oreas:std:rect simple"
-    label "Georg Ludwig König / Germany / 3446"
+    label "Georg Ludwig König / Germany / 3446 / 1790"
     graphics [
       x 52975.00000
       y 64401.06944
@@ -19673,7 +19673,7 @@ graph [
   node [
     id 1157
     template "oreas:std:rect simple"
-    label "Christian Wilhelm Küstner / Germany / 4374"
+    label "Christian Wilhelm Küstner / Germany / 4374 / 1742"
     graphics [
       x 40125.00000
       y 64401.06944
@@ -19690,7 +19690,7 @@ graph [
   node [
     id 1158
     template "oreas:std:rect simple"
-    label "Bartholomäus Schönborn / Germany / 0"
+    label "Bartholomäus Schönborn / Germany / 0 / 1553"
     graphics [
       x 31625.00000
       y 64401.06944
@@ -19707,7 +19707,7 @@ graph [
   node [
     id 1159
     template "oreas:std:rect simple"
-    label "Matthias Stoius / Germany / 0"
+    label "Matthias Stoius / Germany / 0 / 1546"
     graphics [
       x 31750.00000
       y 64401.06944
@@ -19724,7 +19724,7 @@ graph [
   node [
     id 1160
     template "oreas:std:rect simple"
-    label "Philipp Melanchthon / Germany / 142396"
+    label "Philipp Melanchthon / Germany / 142396 / 1513"
     graphics [
       x 25400.00000
       y 64401.06944
@@ -19741,7 +19741,7 @@ graph [
   node [
     id 1161
     template "oreas:std:rect simple"
-    label "Sebastian (Theodoricus) Dietrich / Germany / 104144"
+    label "Sebastian (Theodoricus) Dietrich / Germany / 104144 / 1544"
     graphics [
       x 28800.00000
       y 64401.06944
@@ -19758,7 +19758,7 @@ graph [
   node [
     id 1162
     template "oreas:std:rect simple"
-    label "Johannes (Richter) Praetorius / Germany / 3"
+    label "Johannes (Richter) Praetorius / Germany / 3 / 1562"
     graphics [
       x 27600.00000
       y 64401.06944
@@ -19775,7 +19775,7 @@ graph [
   node [
     id 1163
     template "oreas:std:rect simple"
-    label "Johannes Hommel / Germany / 118722"
+    label "Johannes Hommel / Germany / 118722 / 1543"
     graphics [
       x 31500.00000
       y 64401.06944
@@ -19792,7 +19792,7 @@ graph [
   node [
     id 1164
     template "oreas:std:rect simple"
-    label "Samuel Heyland / France / 4"
+    label "Samuel Heyland / France / 4 / 1554"
     graphics [
       x 22475.00000
       y 64401.06944
@@ -19809,7 +19809,7 @@ graph [
   node [
     id 1165
     template "oreas:std:rect simple"
-    label "Philipp Apian / Germany / 4"
+    label "Philipp Apian / Germany / 4 / 1549"
     graphics [
       x 22725.00000
       y 64401.06944
@@ -19826,7 +19826,7 @@ graph [
   node [
     id 1166
     template "oreas:std:rect simple"
-    label "Karl Eugen Guthe / Germany / 12"
+    label "Karl Eugen Guthe / Germany / 12 / 1892"
     graphics [
       x 77775.00000
       y 64401.06944
@@ -19843,7 +19843,7 @@ graph [
   node [
     id 1167
     template "oreas:std:rect simple"
-    label "Michael Maestlin / Germany / 3"
+    label "Michael Maestlin / Germany / 3 / 1571"
     graphics [
       x 22600.00000
       y 64401.06944
@@ -19860,7 +19860,7 @@ graph [
   node [
     id 1168
     template "oreas:std:rect simple"
-    label "Bartholomäus (Barthel Schulz) Scultetus / Germany / 0"
+    label "Bartholomäus (Barthel Schulz) Scultetus / Germany / 0 / 1567"
     graphics [
       x 31875.00000
       y 64401.06944
@@ -19877,7 +19877,7 @@ graph [
   node [
     id 1169
     template "oreas:std:rect simple"
-    label "Valentin (Valentinus Otho) Otto / Germany / 104138"
+    label "Valentin (Valentinus Otho) Otto / Germany / 104138 / 1570"
     graphics [
       x 26950.00000
       y 64401.06944
@@ -19894,7 +19894,7 @@ graph [
   node [
     id 1170
     template "oreas:std:rect simple"
-    label "Valentin Thau / Germany / 118720"
+    label "Valentin Thau / Germany / 118720 / 1555"
     graphics [
       x 27475.00000
       y 64401.06944
@@ -19911,7 +19911,7 @@ graph [
   node [
     id 1171
     template "oreas:std:rect simple"
-    label "Johannes Kepler / Germany / 1"
+    label "Johannes Kepler / Germany / 1 / 1591"
     graphics [
       x 27100.00000
       y 64401.06944
@@ -19928,7 +19928,7 @@ graph [
   node [
     id 1172
     template "oreas:std:rect simple"
-    label "Johannes Stöffler / Germany / 142399"
+    label "Johannes Stöffler / Germany / 142399 / 1491"
     graphics [
       x 25150.00000
       y 64401.06944
@@ -19945,7 +19945,7 @@ graph [
   node [
     id 1173
     template "oreas:std:rect simple"
-    label "Michael Beuther / Germany / 5"
+    label "Michael Beuther / Germany / 5 / 1542"
     graphics [
       x 29950.00000
       y 64401.06944
@@ -19962,7 +19962,7 @@ graph [
   node [
     id 1174
     template "oreas:std:rect simple"
-    label "Franz August Wolf / Germany / 7232"
+    label "Franz August Wolf / Germany / 7232 / 1775"
     graphics [
       x 44400.00000
       y 64401.06944
@@ -19979,7 +19979,7 @@ graph [
   node [
     id 1175
     template "oreas:std:rect simple"
-    label "Pelope / Italy / 118764"
+    label "Pelope / Italy / 118764 / 1425"
     graphics [
       x 19850.00000
       y 64724.06944
@@ -19996,7 +19996,7 @@ graph [
   node [
     id 1176
     template "oreas:std:rect simple"
-    label "Menelaus Winsemius / Netherlands / 3676"
+    label "Menelaus Winsemius / Netherlands / 3676 / 1613"
     graphics [
       x 23750.00000
       y 64724.06944
@@ -20013,7 +20013,7 @@ graph [
   node [
     id 1177
     template "oreas:std:rect simple"
-    label "Niccolò Leoniceno / Italy / 118763"
+    label "Niccolò Leoniceno / Italy / 118763 / 1450"
     graphics [
       x 19725.00000
       y 64724.06944
@@ -20030,7 +20030,7 @@ graph [
   node [
     id 1178
     template "oreas:std:rect simple"
-    label "Petrus Saxonius / Germany / 0"
+    label "Petrus Saxonius / Germany / 0 / 1614"
     graphics [
       x 27725.00000
       y 64724.06944
@@ -20047,7 +20047,7 @@ graph [
   node [
     id 1179
     template "oreas:std:rect simple"
-    label "Daniel Schwenter / Germany / 0"
+    label "Daniel Schwenter / Germany / 0 / 1610"
     graphics [
       x 27600.00000
       y 64724.06944
@@ -20064,7 +20064,7 @@ graph [
   node [
     id 1180
     template "oreas:std:rect simple"
-    label "Girolamo (Hieronymus Aleander) Aleandro / Italy / 142503"
+    label "Girolamo (Hieronymus Aleander) Aleandro / Italy / 142503 / 1499"
     graphics [
       x 21325.00000
       y 64724.06944
@@ -20081,7 +20081,7 @@ graph [
   node [
     id 1181
     template "oreas:std:rect simple"
-    label "Antonio Musa Brasavola / Italy / 118720"
+    label "Antonio Musa Brasavola / Italy / 118720 / 1520"
     graphics [
       x 26525.00000
       y 64724.06944
@@ -20098,7 +20098,7 @@ graph [
   node [
     id 1182
     template "oreas:std:rect simple"
-    label "Salomon Alberti / Italy / 104140"
+    label "Salomon Alberti / Italy / 104140 / 1569"
     graphics [
       x 26925.00000
       y 64724.06944
@@ -20115,7 +20115,7 @@ graph [
   node [
     id 1183
     template "oreas:std:rect simple"
-    label "Heinrich von Langenstein / France / 140066"
+    label "Heinrich von Langenstein / France / 140066 / 1363"
     graphics [
       x 21475.00000
       y 64724.06944
@@ -20132,7 +20132,7 @@ graph [
   node [
     id 1184
     template "oreas:std:rect simple"
-    label "Andreas Schato / Germany / 104139"
+    label "Andreas Schato / Germany / 104139 / 1562"
     graphics [
       x 28800.00000
       y 64724.06944
@@ -20149,7 +20149,7 @@ graph [
   node [
     id 1185
     template "oreas:std:rect simple"
-    label "Jan Jessenius / Germany / 102803"
+    label "Jan Jessenius / Germany / 102803 / 1588"
     graphics [
       x 27125.00000
       y 64724.06944
@@ -20166,7 +20166,7 @@ graph [
   node [
     id 1186
     template "oreas:std:rect simple"
-    label "Adolf Fick / Germany / 6"
+    label "Adolf Fick / Germany / 6 / 1851"
     graphics [
       x 40450.00000
       y 64724.06944
@@ -20183,7 +20183,7 @@ graph [
   node [
     id 1187
     template "oreas:std:rect simple"
-    label "Johann Jakob Müller / Switzerland / 5"
+    label "Johann Jakob Müller / Switzerland / 5 / 1868"
     graphics [
       x 42475.00000
       y 65047.06944
@@ -20200,7 +20200,7 @@ graph [
   node [
     id 1188
     template "oreas:std:rect simple"
-    label "Sebastian Münster / Germany / 1"
+    label "Sebastian Münster / Germany / 1 / 1518"
     graphics [
       x 25150.00000
       y 65047.06944
@@ -20217,7 +20217,7 @@ graph [
   node [
     id 1189
     template "oreas:std:rect simple"
-    label "Johann Heinrich Müller / Germany / 0"
+    label "Johann Heinrich Müller / Germany / 0 / 1697"
     graphics [
       x 16825.00000
       y 65047.06944
@@ -20234,7 +20234,7 @@ graph [
   node [
     id 1190
     template "oreas:std:rect simple"
-    label "Georg Christoph Eimmart / Germany / 0"
+    label "Georg Christoph Eimmart / Germany / 0 / 1658"
     graphics [
       x 11150.00000
       y 65047.06944
@@ -20251,7 +20251,7 @@ graph [
   node [
     id 1191
     template "oreas:std:rect simple"
-    label "Johann Christoph Klimm / Germany / 0"
+    label "Johann Christoph Klimm / Germany / 0 / 1692"
     graphics [
       x 26350.00000
       y 65047.06944
@@ -20268,7 +20268,7 @@ graph [
   node [
     id 1192
     template "oreas:std:rect simple"
-    label "Christoph Reuchlin / Germany / 166"
+    label "Christoph Reuchlin / Germany / 166 / 1676"
     graphics [
       x 50300.00000
       y 65047.06944
@@ -20285,7 +20285,7 @@ graph [
   node [
     id 1193
     template "oreas:std:rect simple"
-    label "Kilian Rudrauf / Germany / 167"
+    label "Kilian Rudrauf / Germany / 167 / 1657"
     graphics [
       x 49675.00000
       y 65047.06944
@@ -20302,7 +20302,7 @@ graph [
   node [
     id 1194
     template "oreas:std:rect simple"
-    label "Michael Förtsch / Germany / 166"
+    label "Michael Förtsch / Germany / 166 / 1682"
     graphics [
       x 49900.00000
       y 65047.06944
@@ -20319,7 +20319,7 @@ graph [
   node [
     id 1195
     template "oreas:std:rect simple"
-    label "Erasmus Schmidt / Germany / 4"
+    label "Erasmus Schmidt / Germany / 4 / 1592"
     graphics [
       x 23125.00000
       y 65047.06944
@@ -20336,7 +20336,7 @@ graph [
   node [
     id 1196
     template "oreas:std:rect simple"
-    label "Melchior Jöstel / Germany / 104137"
+    label "Melchior Jöstel / Germany / 104137 / 1583"
     graphics [
       x 28425.00000
       y 65047.06944
@@ -20353,7 +20353,7 @@ graph [
   node [
     id 1197
     template "oreas:std:rect simple"
-    label "Ernestus Hettenbach / Germany / 104137"
+    label "Ernestus Hettenbach / Germany / 104137 / 1576"
     graphics [
       x 28300.00000
       y 65047.06944
@@ -20370,7 +20370,7 @@ graph [
   node [
     id 1198
     template "oreas:std:rect simple"
-    label "Christian Eberhard Weismann / Germany / 158"
+    label "Christian Eberhard Weismann / Germany / 158 / 1696"
     graphics [
       x 50025.00000
       y 65047.06944
@@ -20387,7 +20387,7 @@ graph [
   node [
     id 1199
     template "oreas:std:rect simple"
-    label "Ambrosius Rhodius / Germany / 104136"
+    label "Ambrosius Rhodius / Germany / 104136 / 1600"
     graphics [
       x 28175.00000
       y 65047.06944
@@ -20404,7 +20404,7 @@ graph [
   node [
     id 1200
     template "oreas:std:rect simple"
-    label "Johann Friedrich Christ / Germany / 4374"
+    label "Johann Friedrich Christ / Germany / 4374 / 1727"
     graphics [
       x 40200.00000
       y 65047.06944
@@ -20421,7 +20421,7 @@ graph [
   node [
     id 1201
     template "oreas:std:rect simple"
-    label "Johann Franz Buddeus / Germany / 4419"
+    label "Johann Franz Buddeus / Germany / 4419 / 1687"
     graphics [
       x 41375.00000
       y 65370.06944
@@ -20438,7 +20438,7 @@ graph [
   node [
     id 1202
     template "oreas:std:rect simple"
-    label "Johann Matthias Gesner / Germany / 4417"
+    label "Johann Matthias Gesner / Germany / 4417 / 1715"
     graphics [
       x 40075.00000
       y 65370.06944
@@ -20455,7 +20455,7 @@ graph [
   node [
     id 1203
     template "oreas:std:rect simple"
-    label "Abdias Trew / Germany / 1"
+    label "Abdias Trew / Germany / 1 / 1621"
     graphics [
       x 23250.00000
       y 65370.06944
@@ -20472,7 +20472,7 @@ graph [
   node [
     id 1204
     template "oreas:std:rect simple"
-    label "Johann Georg Büsch / Germany / 90969"
+    label "Johann Georg Büsch / Germany / 90969 / 1753"
     graphics [
       x 77112.50000
       y 65370.06944
@@ -20489,7 +20489,7 @@ graph [
   node [
     id 1205
     template "oreas:std:rect simple"
-    label "Karl Gottlieb Knorre / Germany / 4375"
+    label "Karl Gottlieb Knorre / Germany / 4375 / 1721"
     graphics [
       x 40200.00000
       y 65370.06944
@@ -20506,7 +20506,7 @@ graph [
   node [
     id 1206
     template "oreas:std:rect simple"
-    label "Johann Elert Bode / Germany / 90968"
+    label "Johann Elert Bode / Germany / 90968 / 1761"
     graphics [
       x 67575.00000
       y 65370.06944
@@ -20523,7 +20523,7 @@ graph [
   node [
     id 1207
     template "oreas:std:rect simple"
-    label "Christoph Nottnagel / Germany / 104128"
+    label "Christoph Nottnagel / Germany / 104128 / 1630"
     graphics [
       x 27625.00000
       y 65370.06944
@@ -20540,7 +20540,7 @@ graph [
   node [
     id 1208
     template "oreas:std:rect simple"
-    label "Johann Gabriel Doppelmayr / Germany / 0"
+    label "Johann Gabriel Doppelmayr / Germany / 0 / 1699"
     graphics [
       x 17150.00000
       y 65370.06944
@@ -20557,7 +20557,7 @@ graph [
   node [
     id 1209
     template "oreas:std:rect simple"
-    label "Johann Christoph Wagner / Germany / 0"
+    label "Johann Christoph Wagner / Germany / 0 / 1663"
     graphics [
       x 21825.00000
       y 65693.06944
@@ -20574,7 +20574,7 @@ graph [
   node [
     id 1210
     template "oreas:std:rect simple"
-    label "Nicolaus Zapf / Germany / 1"
+    label "Nicolaus Zapf / Germany / 1 / 1625"
     graphics [
       x 22875.00000
       y 65693.06944
@@ -20591,7 +20591,7 @@ graph [
   node [
     id 1211
     template "oreas:std:rect simple"
-    label "Heinrich Friedrich Weber / Germany / 3"
+    label "Heinrich Friedrich Weber / Germany / 3 / 1865"
     graphics [
       x 44250.00000
       y 65693.06944
@@ -20608,7 +20608,7 @@ graph [
   node [
     id 1212
     template "oreas:std:rect simple"
-    label "Moritz Valentin Steinmetz / Germany / 110296"
+    label "Moritz Valentin Steinmetz / Germany / 110296 / 1550"
     graphics [
       x 26875.00000
       y 65693.06944
@@ -20625,7 +20625,7 @@ graph [
   node [
     id 1213
     template "oreas:std:rect simple"
-    label "Johann Caspar Odontius / Germany / 0"
+    label "Johann Caspar Odontius / Germany / 0 / 1603"
     graphics [
       x 27275.00000
       y 65693.06944
@@ -20642,7 +20642,7 @@ graph [
   node [
     id 1214
     template "oreas:std:rect simple"
-    label "Aegidius Strauch / Germany / 0"
+    label "Aegidius Strauch / Germany / 0 / 1633"
     graphics [
       x 22725.00000
       y 65693.06944
@@ -20659,7 +20659,7 @@ graph [
   node [
     id 1215
     template "oreas:std:rect simple"
-    label "Johann Peter von Ludewig / Germany / 4376"
+    label "Johann Peter von Ludewig / Germany / 4376 / 1690"
     graphics [
       x 40200.00000
       y 65693.06944
@@ -20676,7 +20676,7 @@ graph [
   node [
     id 1216
     template "oreas:std:rect simple"
-    label "William Archibald Dunning / UnitedStates / 401"
+    label "William Archibald Dunning / UnitedStates / 401 / 1885"
     graphics [
       x 77300.00000
       y 65693.06944
@@ -20693,7 +20693,7 @@ graph [
   node [
     id 1217
     template "oreas:std:rect simple"
-    label "Jacobus Martini / Germany / 102809"
+    label "Jacobus Martini / Germany / 102809 / 1596"
     graphics [
       x 30025.00000
       y 65693.06944
@@ -20710,7 +20710,7 @@ graph [
   node [
     id 1218
     template "oreas:std:rect simple"
-    label "Nikolaus Selnecker / Germany / 6"
+    label "Nikolaus Selnecker / Germany / 6 / 1557"
     graphics [
       x 23000.00000
       y 65693.06944
@@ -20727,7 +20727,7 @@ graph [
   node [
     id 1219
     template "oreas:std:rect simple"
-    label "Sethus Calvisius / Germany / 5"
+    label "Sethus Calvisius / Germany / 5 / 1582"
     graphics [
       x 23250.00000
       y 65693.06944
@@ -20744,7 +20744,7 @@ graph [
   node [
     id 1220
     template "oreas:std:rect simple"
-    label "Andreas Kunad / Germany / 104117"
+    label "Andreas Kunad / Germany / 104117 / 1629"
     graphics [
       x 37075.00000
       y 65693.06944
@@ -20761,7 +20761,7 @@ graph [
   node [
     id 1221
     template "oreas:std:rect simple"
-    label "Aegidius Strauch / Germany / 104116"
+    label "Aegidius Strauch / Germany / 104116 / 1654"
     graphics [
       x 37250.00000
       y 65693.06944
@@ -20778,7 +20778,7 @@ graph [
   node [
     id 1222
     template "oreas:std:rect simple"
-    label "Petrus Otto / Germany / 5"
+    label "Petrus Otto / Germany / 5 / 1567"
     graphics [
       x 23125.00000
       y 65693.06944
@@ -20795,7 +20795,7 @@ graph [
   node [
     id 1223
     template "oreas:std:rect simple"
-    label "Samuel Stryk / Germany / 4377"
+    label "Samuel Stryk / Germany / 4377 / 1665"
     graphics [
       x 40400.00000
       y 65693.06944
@@ -20812,7 +20812,7 @@ graph [
   node [
     id 1224
     template "oreas:std:rect simple"
-    label "Christian Thomasius / Germany / 8649"
+    label "Christian Thomasius / Germany / 8649 / 1676"
     graphics [
       x 37850.00000
       y 65693.06944
@@ -20829,7 +20829,7 @@ graph [
   node [
     id 1225
     template "oreas:std:rect simple"
-    label "Johann Andreas Quenstedt / Germany / 104116"
+    label "Johann Andreas Quenstedt / Germany / 104116 / 1644"
     graphics [
       x 28250.00000
       y 65693.06944
@@ -20846,7 +20846,7 @@ graph [
   node [
     id 1226
     template "oreas:std:rect simple"
-    label "Michael Walther, Jr. / Germany / 104115"
+    label "Michael Walther, Jr. / Germany / 104115 / 1661"
     graphics [
       x 41375.00000
       y 65693.06944
@@ -20863,7 +20863,7 @@ graph [
   node [
     id 1227
     template "oreas:std:rect simple"
-    label "Rudolf Agricola / Italy / 142508"
+    label "Rudolf Agricola / Italy / 142508 / 1478"
     graphics [
       x 42775.00000
       y 65693.06944
@@ -20880,7 +20880,7 @@ graph [
   node [
     id 1228
     template "oreas:std:rect simple"
-    label "Conrad Celtis / Germany / 0"
+    label "Conrad Celtis / Germany / 0 / 1485"
     graphics [
       x 42800.00000
       y 66016.06944
@@ -20897,7 +20897,7 @@ graph [
   node [
     id 1229
     template "oreas:std:rect simple"
-    label "Johann Pasch / Germany / 101117"
+    label "Johann Pasch / Germany / 101117 / 1683"
     graphics [
       x 41375.00000
       y 66016.06944
@@ -20914,7 +20914,7 @@ graph [
   node [
     id 1230
     template "oreas:std:rect simple"
-    label "Ignaz Lindner / Austria / 6839"
+    label "Ignaz Lindner / Austria / 6839 / 1792"
     graphics [
       x 53125.00000
       y 66016.06944
@@ -20931,7 +20931,7 @@ graph [
   node [
     id 1231
     template "oreas:std:rect simple"
-    label "Georg Calixt / Germany / 104117"
+    label "Georg Calixt / Germany / 104117 / 1607"
     graphics [
       x 28250.00000
       y 66016.06944
@@ -20948,7 +20948,7 @@ graph [
   node [
     id 1232
     template "oreas:std:rect simple"
-    label "Johannes Caselius / Germany / 104118"
+    label "Johannes Caselius / Germany / 104118 / 1560"
     graphics [
       x 25425.00000
       y 66016.06944
@@ -20965,7 +20965,7 @@ graph [
   node [
     id 1233
     template "oreas:std:rect simple"
-    label "Cornelius Martini / Germany / 105808"
+    label "Cornelius Martini / Germany / 105808 / 1592"
     graphics [
       x 30025.00000
       y 66016.06944
@@ -20982,7 +20982,7 @@ graph [
   node [
     id 1234
     template "oreas:std:rect simple"
-    label "Duncan Liddel / Germany / 118714"
+    label "Duncan Liddel / Germany / 118714 / 1582"
     graphics [
       x 27275.00000
       y 66016.06944
@@ -20999,7 +20999,7 @@ graph [
   node [
     id 1235
     template "oreas:std:rect simple"
-    label "Hermann Paasche / Germany / 13"
+    label "Hermann Paasche / Germany / 13 / 1875"
     graphics [
       x 77775.00000
       y 66016.06944
@@ -21016,7 +21016,7 @@ graph [
   node [
     id 1236
     template "oreas:std:rect simple"
-    label "Daniel Lagus / Germany / 0"
+    label "Daniel Lagus / Germany / 0 / 1635"
     graphics [
       x 28125.00000
       y 66016.06944
@@ -21033,7 +21033,7 @@ graph [
   node [
     id 1237
     template "oreas:std:rect simple"
-    label "Johannes Scharff / Germany / 1"
+    label "Johannes Scharff / Germany / 1 / 1622"
     graphics [
       x 29900.00000
       y 66016.06944
@@ -21050,7 +21050,7 @@ graph [
   node [
     id 1238
     template "oreas:std:rect simple"
-    label "John Craig / Switzerland / 118715"
+    label "John Craig / Switzerland / 118715 / 1580"
     graphics [
       x 30450.00000
       y 66016.06944
@@ -21067,7 +21067,7 @@ graph [
   node [
     id 1239
     template "oreas:std:rect simple"
-    label "Paul Wittich / Germany / 118715"
+    label "Paul Wittich / Germany / 118715 / 1566"
     graphics [
       x 27150.00000
       y 66016.06944
@@ -21084,7 +21084,7 @@ graph [
   node [
     id 1240
     template "oreas:std:rect simple"
-    label "Lothar Zumbach von Koesfeld / Germany / 1"
+    label "Lothar Zumbach von Koesfeld / Germany / 1 / 1685"
     graphics [
       x 17700.00000
       y 66016.06944
@@ -21101,7 +21101,7 @@ graph [
   node [
     id 1241
     template "oreas:std:rect simple"
-    label "Paul Hermann / Germany / 5144"
+    label "Paul Hermann / Germany / 5144 / 1663"
     graphics [
       x 50625.00000
       y 66016.06944
@@ -21118,7 +21118,7 @@ graph [
   node [
     id 1242
     template "oreas:std:rect simple"
-    label "Rudolph Christian Wagner / Germany / 1"
+    label "Rudolph Christian Wagner / Germany / 1 / 1699"
     graphics [
       x 31125.00000
       y 66016.06944
@@ -21135,7 +21135,7 @@ graph [
   node [
     id 1243
     template "oreas:std:rect simple"
-    label "Balthasar Widmarcter / Germany / 1"
+    label "Balthasar Widmarcter / Germany / 1 / 1640"
     graphics [
       x 30175.00000
       y 66016.06944
@@ -21152,7 +21152,7 @@ graph [
   node [
     id 1244
     template "oreas:std:rect simple"
-    label "Johann Georg Macasius / Germany / 0"
+    label "Johann Georg Macasius / Germany / 0 / 1638"
     graphics [
       x 30300.00000
       y 66016.06944
@@ -21169,7 +21169,7 @@ graph [
   node [
     id 1245
     template "oreas:std:rect simple"
-    label "Franz Ludwig Fick / Germany / 7"
+    label "Franz Ludwig Fick / Germany / 7 / 1835"
     graphics [
       x 40450.00000
       y 66016.06944
@@ -21186,7 +21186,7 @@ graph [
   node [
     id 1246
     template "oreas:std:rect simple"
-    label "Johannes Ernst Conrad / Germany / 31"
+    label "Johannes Ernst Conrad / Germany / 31 / 1864"
     graphics [
       x 77925.00000
       y 66339.06944
@@ -21203,7 +21203,7 @@ graph [
   node [
     id 1247
     template "oreas:std:rect simple"
-    label "Johannes Musaeus / Germany / 1"
+    label "Johannes Musaeus / Germany / 1 / 1634"
     graphics [
       x 30300.00000
       y 66339.06944
@@ -21220,7 +21220,7 @@ graph [
   node [
     id 1248
     template "oreas:std:rect simple"
-    label "Rudolf Jakob Camerarius / Germany / 101117"
+    label "Rudolf Jakob Camerarius / Germany / 101117 / 1684"
     graphics [
       x 43350.00000
       y 66339.06944
@@ -21237,7 +21237,7 @@ graph [
   node [
     id 1249
     template "oreas:std:rect simple"
-    label "Johann Andreas Planer / Germany / 101116"
+    label "Johann Andreas Planer / Germany / 101116 / 1698"
     graphics [
       x 48650.00000
       y 66339.06944
@@ -21254,7 +21254,7 @@ graph [
   node [
     id 1250
     template "oreas:std:rect simple"
-    label "François Dubois / France / 142443"
+    label "François Dubois / France / 142443 / 1505"
     graphics [
       x 21750.00000
       y 66339.06944
@@ -21271,7 +21271,7 @@ graph [
   node [
     id 1251
     template "oreas:std:rect simple"
-    label "Georg Großhain / Germany / 2"
+    label "Georg Großhain / Germany / 2 / 1629"
     graphics [
       x 30100.00000
       y 66339.06944
@@ -21288,7 +21288,7 @@ graph [
   node [
     id 1252
     template "oreas:std:rect simple"
-    label "Paul Röber / Germany / 3"
+    label "Paul Röber / Germany / 3 / 1615"
     graphics [
       x 28425.00000
       y 66339.06944
@@ -21305,7 +21305,7 @@ graph [
   node [
     id 1253
     template "oreas:std:rect simple"
-    label "Johannes Fridericus Weidlerus / Germany / 3"
+    label "Johannes Fridericus Weidlerus / Germany / 3 / 1711"
     graphics [
       x 79475.00000
       y 66339.06944
@@ -21322,7 +21322,7 @@ graph [
   node [
     id 1254
     template "oreas:std:rect simple"
-    label "Pierre Curie / France / 183"
+    label "Pierre Curie / France / 183 / 1895"
     graphics [
       x 67775.00000
       y 66339.06944
@@ -21339,7 +21339,7 @@ graph [
   node [
     id 1255
     template "oreas:std:rect simple"
-    label "Jozef Karl Franz Otto Ritter von Geitler-Armingen / Germany / 63"
+    label "Jozef Karl Franz Otto Ritter von Geitler-Armingen / Germany / 63 / 1893"
     graphics [
       x 73075.00000
       y 66339.06944
@@ -21356,7 +21356,7 @@ graph [
   node [
     id 1256
     template "oreas:std:rect simple"
-    label "Karel Petr / CzechRepublic / 681"
+    label "Karel Petr / CzechRepublic / 681 / 1897"
     graphics [
       x 65200.00000
       y 66339.06944
@@ -21373,7 +21373,7 @@ graph [
   node [
     id 1257
     template "oreas:std:rect simple"
-    label "Nikolaus Eglinger / Switzerland / 102954"
+    label "Nikolaus Eglinger / Switzerland / 102954 / 1660"
     graphics [
       x 26950.00000
       y 66339.06944
@@ -21390,7 +21390,7 @@ graph [
   node [
     id 1258
     template "oreas:std:rect simple"
-    label "Ernst Laas / Germany / 1857"
+    label "Ernst Laas / Germany / 1857 / 1859"
     graphics [
       x 70025.00000
       y 66339.06944
@@ -21407,7 +21407,7 @@ graph [
   node [
     id 1259
     template "oreas:std:rect simple"
-    label "Johann Caspar Bauhin / Switzerland / 102955"
+    label "Johann Caspar Bauhin / Switzerland / 102955 / 1649"
     graphics [
       x 29750.00000
       y 66339.06944
@@ -21424,7 +21424,7 @@ graph [
   node [
     id 1260
     template "oreas:std:rect simple"
-    label "Karl Arthur Umlauf / Germany / 0"
+    label "Karl Arthur Umlauf / Germany / 0 / 1891"
     graphics [
       x 17900.00000
       y 66339.06944
@@ -21441,7 +21441,7 @@ graph [
   node [
     id 1261
     template "oreas:std:rect simple"
-    label "Marie Georges Humbert / France / 659"
+    label "Marie Georges Humbert / France / 659 / 1885"
     graphics [
       x 76700.00000
       y 66662.06944
@@ -21458,7 +21458,7 @@ graph [
   node [
     id 1262
     template "oreas:std:rect simple"
-    label "Victor Alexandre Puiseux / France / 662"
+    label "Victor Alexandre Puiseux / France / 662 / 1844"
     graphics [
       x 79075.00000
       y 66662.06944
@@ -21475,7 +21475,7 @@ graph [
   node [
     id 1263
     template "oreas:std:rect simple"
-    label "Joseph Alfred Serret / France / 661"
+    label "Joseph Alfred Serret / France / 661 / 1835"
     graphics [
       x 78775.00000
       y 66662.06944
@@ -21492,7 +21492,7 @@ graph [
   node [
     id 1264
     template "oreas:std:rect simple"
-    label "Noël Béda / France / 0"
+    label "Noël Béda / France / 0 / 1494"
     graphics [
       x 31950.00000
       y 66662.06944
@@ -21509,7 +21509,7 @@ graph [
   node [
     id 1265
     template "oreas:std:rect simple"
-    label "Petrus Ryff / Switzerland / 134661"
+    label "Petrus Ryff / Switzerland / 134661 / 1584"
     graphics [
       x 29762.50000
       y 66662.06944
@@ -21526,7 +21526,7 @@ graph [
   node [
     id 1266
     template "oreas:std:rect simple"
-    label "Joannes Willmet / Netherlands / 3670"
+    label "Joannes Willmet / Netherlands / 3670 / 1771"
     graphics [
       x 2650.000000
       y 66662.06944
@@ -21543,7 +21543,7 @@ graph [
   node [
     id 1267
     template "oreas:std:rect simple"
-    label "Joannes Jacobus Schultens / Netherlands / 3672"
+    label "Joannes Jacobus Schultens / Netherlands / 3672 / 1742"
     graphics [
       x 2525.000000
       y 66662.06944
@@ -21560,7 +21560,7 @@ graph [
   node [
     id 1268
     template "oreas:std:rect simple"
-    label "Albert Schultens / Netherlands / 3673"
+    label "Albert Schultens / Netherlands / 3673 / 1706"
     graphics [
       x 13425.00000
       y 66662.06944
@@ -21577,7 +21577,7 @@ graph [
   node [
     id 1269
     template "oreas:std:rect simple"
-    label "Johannes Braun / Netherlands / 3674"
+    label "Johannes Braun / Netherlands / 3674 / 1653"
     graphics [
       x 23825.00000
       y 66662.06944
@@ -21594,7 +21594,7 @@ graph [
   node [
     id 1270
     template "oreas:std:rect simple"
-    label "Johannes Coccejus / Netherlands / 3675"
+    label "Johannes Coccejus / Netherlands / 3675 / 1629"
     graphics [
       x 28575.00000
       y 66662.06944
@@ -21611,7 +21611,7 @@ graph [
   node [
     id 1271
     template "oreas:std:rect simple"
-    label "Sixtinus Amama / Netherlands / 3676"
+    label "Sixtinus Amama / Netherlands / 3676 / 1614"
     graphics [
       x 33750.00000
       y 66662.06944
@@ -21628,7 +21628,7 @@ graph [
   node [
     id 1272
     template "oreas:std:rect simple"
-    label "Johannes (van den Driesche) Drusius / UnitedKingdom / 3815"
+    label "Johannes (van den Driesche) Drusius / UnitedKingdom / 3815 / 1572"
     graphics [
       x 36225.00000
       y 66662.06944
@@ -21645,7 +21645,7 @@ graph [
   node [
     id 1273
     template "oreas:std:rect simple"
-    label "Victor Dantscher / Austria / 41"
+    label "Victor Dantscher / Austria / 41 / 1865"
     graphics [
       x 68900.00000
       y 66662.06944
@@ -21662,7 +21662,7 @@ graph [
   node [
     id 1274
     template "oreas:std:rect simple"
-    label "Raoul (Rodolphus Cavellerius) le Chevalier / UnitedKingdom / 3816"
+    label "Raoul (Rodolphus Cavellerius) le Chevalier / UnitedKingdom / 3816 / 1547"
     graphics [
       x 36350.00000
       y 66662.06944
@@ -21679,7 +21679,7 @@ graph [
   node [
     id 1275
     template "oreas:std:rect simple"
-    label "François Vatable / France / 3817"
+    label "François Vatable / France / 3817 / 1511"
     graphics [
       x 21400.00000
       y 66662.06944
@@ -21696,7 +21696,7 @@ graph [
   node [
     id 1276
     template "oreas:std:rect simple"
-    label "Paul (Paul Büchlein) Fagius / Germany / 3817"
+    label "Paul (Paul Büchlein) Fagius / Germany / 3817 / 1532"
     graphics [
       x 26725.00000
       y 66662.06944
@@ -21713,7 +21713,7 @@ graph [
   node [
     id 1277
     template "oreas:std:rect simple"
-    label "Johann Vesling / Netherlands / 58"
+    label "Johann Vesling / Netherlands / 58 / 1618"
     graphics [
       x 21050.00000
       y 66662.06944
@@ -21730,7 +21730,7 @@ graph [
   node [
     id 1278
     template "oreas:std:rect simple"
-    label "Jacques (Jacobus Faber) Lefèvre d'Étaples / France / 14362"
+    label "Jacques (Jacobus Faber) Lefèvre d'Étaples / France / 14362 / 1480"
     graphics [
       x 23456.25000
       y 66662.06944
@@ -21747,7 +21747,7 @@ graph [
   node [
     id 1279
     template "oreas:std:rect simple"
-    label "Wolfgang Fabricius Capito / Germany / 103095"
+    label "Wolfgang Fabricius Capito / Germany / 103095 / 1511"
     graphics [
       x 27750.00000
       y 66985.06944
@@ -21764,7 +21764,7 @@ graph [
   node [
     id 1280
     template "oreas:std:rect simple"
-    label "Elijah ben Asher Levita / Germany / 3818"
+    label "Elijah ben Asher Levita / Germany / 3818 / 1507"
     graphics [
       x 26725.00000
       y 66985.06944
@@ -21781,7 +21781,7 @@ graph [
   node [
     id 1281
     template "oreas:std:rect simple"
-    label "Georgius Hermonymus / France / 142493"
+    label "Georgius Hermonymus / France / 142493 / 1458"
     graphics [
       x 23550.00000
       y 66985.06944
@@ -21798,7 +21798,7 @@ graph [
   node [
     id 1282
     template "oreas:std:rect simple"
-    label "Johannes Argyropoulos / Italy / 142538"
+    label "Johannes Argyropoulos / Italy / 142538 / 1444"
     graphics [
       x 24575.00000
       y 66985.06944
@@ -21815,7 +21815,7 @@ graph [
   node [
     id 1283
     template "oreas:std:rect simple"
-    label "Moses Perez / Italy / 142504"
+    label "Moses Perez / Italy / 142504 / 1474"
     graphics [
       x 21275.00000
       y 66985.06944
@@ -21832,7 +21832,7 @@ graph [
   node [
     id 1284
     template "oreas:std:rect simple"
-    label "Scipione Fortiguerra / Italy / 142504"
+    label "Scipione Fortiguerra / Italy / 142504 / 1493"
     graphics [
       x 21400.00000
       y 66985.06944
@@ -21849,7 +21849,7 @@ graph [
   node [
     id 1285
     template "oreas:std:rect simple"
-    label "Guillaume Budé / France / 142442"
+    label "Guillaume Budé / France / 142442 / 1486"
     graphics [
       x 24075.00000
       y 66985.06944
@@ -21866,7 +21866,7 @@ graph [
   node [
     id 1286
     template "oreas:std:rect simple"
-    label "Angelo Poliziano / Italy / 142506"
+    label "Angelo Poliziano / Italy / 142506 / 1477"
     graphics [
       x 23250.00000
       y 66985.06944
@@ -21883,7 +21883,7 @@ graph [
   node [
     id 1287
     template "oreas:std:rect simple"
-    label "Marsilio Ficino / Italy / 142507"
+    label "Marsilio Ficino / Italy / 142507 / 1462"
     graphics [
       x 23425.00000
       y 66985.06944
@@ -21900,7 +21900,7 @@ graph [
   node [
     id 1288
     template "oreas:std:rect simple"
-    label "Cristoforo Landino / Italy / 142507"
+    label "Cristoforo Landino / Italy / 142507 / 1452"
     graphics [
       x 23125.00000
       y 66985.06944
@@ -21917,7 +21917,7 @@ graph [
   node [
     id 1289
     template "oreas:std:rect simple"
-    label "Janus Lascaris / Italy / 142472"
+    label "Janus Lascaris / Italy / 142472 / 1472"
     graphics [
       x 30725.00000
       y 66985.06944
@@ -21934,7 +21934,7 @@ graph [
   node [
     id 1290
     template "oreas:std:rect simple"
-    label "Jacques Toussain / France / 142431"
+    label "Jacques Toussain / France / 142431 / 1521"
     graphics [
       x 23925.00000
       y 66985.06944
@@ -21951,7 +21951,7 @@ graph [
   node [
     id 1291
     template "oreas:std:rect simple"
-    label "Basilios Bessarion / Greece / 142589"
+    label "Basilios Bessarion / Greece / 142589 / 1436"
     graphics [
       x 26075.00000
       y 66985.06944
@@ -21968,7 +21968,7 @@ graph [
   node [
     id 1292
     template "oreas:std:rect simple"
-    label "Georgios Plethon Gemistos / Greece / 142592"
+    label "Georgios Plethon Gemistos / Greece / 142592 / 1380"
     graphics [
       x 30600.00000
       y 66985.06944
@@ -21985,7 +21985,7 @@ graph [
   node [
     id 1293
     template "oreas:std:rect simple"
-    label "Demetrios Chalcocondyles / Greece / 142473"
+    label "Demetrios Chalcocondyles / Greece / 142473 / 1452"
     graphics [
       x 38325.00000
       y 66985.06944
@@ -22002,7 +22002,7 @@ graph [
   node [
     id 1294
     template "oreas:std:rect simple"
-    label "Joseph Justus Scaliger / France / 109561"
+    label "Joseph Justus Scaliger / France / 109561 / 1563"
     graphics [
       x 31000.00000
       y 67308.06944
@@ -22019,7 +22019,7 @@ graph [
   node [
     id 1295
     template "oreas:std:rect simple"
-    label "Theodoros Gazes / Italy / 142559"
+    label "Theodoros Gazes / Italy / 142559 / 1433"
     graphics [
       x 40200.00000
       y 67308.06944
@@ -22036,7 +22036,7 @@ graph [
   node [
     id 1296
     template "oreas:std:rect simple"
-    label "Michelangelo Buonarroti / Italy / 0"
+    label "Michelangelo Buonarroti / Italy / 0 / 1492"
     graphics [
       x 23250.00000
       y 67308.06944
@@ -22053,7 +22053,7 @@ graph [
   node [
     id 1297
     template "oreas:std:rect simple"
-    label "Adrien Turnèbe / France / 115352"
+    label "Adrien Turnèbe / France / 115352 / 1532"
     graphics [
       x 23925.00000
       y 67308.06944
@@ -22070,7 +22070,7 @@ graph [
   node [
     id 1298
     template "oreas:std:rect simple"
-    label "Paolo dal Pozzo Toscanelli / Italy / 1"
+    label "Paolo dal Pozzo Toscanelli / Italy / 1 / 1446"
     graphics [
       x 24725.00000
       y 67308.06944
@@ -22087,7 +22087,7 @@ graph [
   node [
     id 1299
     template "oreas:std:rect simple"
-    label "Leonardo da Vinci / Italy / 0"
+    label "Leonardo da Vinci / Italy / 0 / 1471"
     graphics [
       x 24575.00000
       y 67308.06944
@@ -22104,7 +22104,7 @@ graph [
   node [
     id 1300
     template "oreas:std:rect simple"
-    label "Theodorus (Théodore de Bèze) Beza / France / 14146"
+    label "Theodorus (Théodore de Bèze) Beza / France / 14146 / 1534"
     graphics [
       x 20000.00000
       y 67308.06944
@@ -22121,7 +22121,7 @@ graph [
   node [
     id 1301
     template "oreas:std:rect simple"
-    label "Melchior Wolmar / France / 14155"
+    label "Melchior Wolmar / France / 14155 / 1528"
     graphics [
       x 23550.00000
       y 67308.06944
@@ -22138,7 +22138,7 @@ graph [
   node [
     id 1302
     template "oreas:std:rect simple"
-    label "Everardus Scheidius / Netherlands / 3671"
+    label "Everardus Scheidius / Netherlands / 3671 / 1765"
     graphics [
       x 2625.000000
       y 67308.06944
@@ -22155,7 +22155,7 @@ graph [
   node [
     id 1303
     template "oreas:std:rect simple"
-    label "Nicolaus Wilhelm Schröder / Netherlands / 3672"
+    label "Nicolaus Wilhelm Schröder / Netherlands / 3672 / 1740"
     graphics [
       x 2350.000000
       y 67308.06944
@@ -22172,7 +22172,7 @@ graph [
   node [
     id 1304
     template "oreas:std:rect simple"
-    label "Theodorus Adrianus Clarisse / Netherlands / 0"
+    label "Theodorus Adrianus Clarisse / Netherlands / 0 / 1819"
     graphics [
       x 3000.000000
       y 67308.06944
@@ -22189,7 +22189,7 @@ graph [
   node [
     id 1305
     template "oreas:std:rect simple"
-    label "Taco Roorda / Netherlands / 0"
+    label "Taco Roorda / Netherlands / 0 / 1824"
     graphics [
       x 2875.000000
       y 67308.06944
@@ -22206,7 +22206,7 @@ graph [
   node [
     id 1306
     template "oreas:std:rect simple"
-    label "Henricus Engelinus Weyers / Netherlands / 56"
+    label "Henricus Engelinus Weyers / Netherlands / 56 / 1831"
     graphics [
       x 2750.000000
       y 67308.06944
@@ -22223,7 +22223,7 @@ graph [
   node [
     id 1307
     template "oreas:std:rect simple"
-    label "Theodor Wilhelm Johannes Juynboll / Netherlands / 0"
+    label "Theodor Wilhelm Johannes Juynboll / Netherlands / 0 / 1828"
     graphics [
       x 2500.000000
       y 67308.06944
@@ -22240,7 +22240,7 @@ graph [
   node [
     id 1308
     template "oreas:std:rect simple"
-    label "Johannes Calvin / France / 14153"
+    label "Johannes Calvin / France / 14153 / 1529"
     graphics [
       x 23400.00000
       y 67308.06944
@@ -22257,7 +22257,7 @@ graph [
   node [
     id 1309
     template "oreas:std:rect simple"
-    label "Andrea Alciati / France / 14154"
+    label "Andrea Alciati / France / 14154 / 1504"
     graphics [
       x 23775.00000
       y 67308.06944
@@ -22274,7 +22274,7 @@ graph [
   node [
     id 1310
     template "oreas:std:rect simple"
-    label "Johannes Horthemels / Netherlands / 3"
+    label "Johannes Horthemels / Netherlands / 3 / 1720"
     graphics [
       x 11525.00000
       y 67308.06944
@@ -22291,7 +22291,7 @@ graph [
   node [
     id 1311
     template "oreas:std:rect simple"
-    label "Johannes Luyts / Netherlands / 5"
+    label "Johannes Luyts / Netherlands / 5 / 1677"
     graphics [
       x 11650.00000
       y 67308.06944
@@ -22308,7 +22308,7 @@ graph [
   node [
     id 1312
     template "oreas:std:rect simple"
-    label "Gerard de Vries / Netherlands / 6"
+    label "Gerard de Vries / Netherlands / 6 / 1669"
     graphics [
       x 19750.00000
       y 67308.06944
@@ -22325,7 +22325,7 @@ graph [
   node [
     id 1313
     template "oreas:std:rect simple"
-    label "Dionysius van de Wijnpersse / Netherlands / 0"
+    label "Dionysius van de Wijnpersse / Netherlands / 0 / 1748"
     graphics [
       x 11400.00000
       y 67308.06944
@@ -22342,7 +22342,7 @@ graph [
   node [
     id 1314
     template "oreas:std:rect simple"
-    label "Gisbertus Voetius / Netherlands / 14143"
+    label "Gisbertus Voetius / Netherlands / 14143 / 1611"
     graphics [
       x 21550.00000
       y 67308.06944
@@ -22359,7 +22359,7 @@ graph [
   node [
     id 1315
     template "oreas:std:rect simple"
-    label "Joseph Lovering / UnitedStates / 3351"
+    label "Joseph Lovering / UnitedStates / 3351 / 1833"
     graphics [
       x 79050.00000
       y 67631.06944
@@ -22376,7 +22376,7 @@ graph [
   node [
     id 1316
     template "oreas:std:rect simple"
-    label "Franciscus (François Gomaer) Gomarus / Germany / 14144"
+    label "Franciscus (François Gomaer) Gomarus / Germany / 14144 / 1583"
     graphics [
       x 22100.00000
       y 67631.06944
@@ -22393,7 +22393,7 @@ graph [
   node [
     id 1317
     template "oreas:std:rect simple"
-    label "Pieter Nieuwland / Netherlands / 810"
+    label "Pieter Nieuwland / Netherlands / 810 / 1783"
     graphics [
       x 3675.000000
       y 67631.06944
@@ -22410,7 +22410,7 @@ graph [
   node [
     id 1318
     template "oreas:std:rect simple"
-    label "Daniel Albert Wyttenbach / Germany / 811"
+    label "Daniel Albert Wyttenbach / Germany / 811 / 1765"
     graphics [
       x 40350.00000
       y 67631.06944
@@ -22427,7 +22427,7 @@ graph [
   node [
     id 1319
     template "oreas:std:rect simple"
-    label "August Gottlieb Spangenberg / Germany / 812"
+    label "August Gottlieb Spangenberg / Germany / 812 / 1726"
     graphics [
       x 41375.00000
       y 67631.06944
@@ -22444,7 +22444,7 @@ graph [
   node [
     id 1320
     template "oreas:std:rect simple"
-    label "Josiah Willard Gibbs / UnitedStates / 37"
+    label "Josiah Willard Gibbs / UnitedStates / 37 / 1863"
     graphics [
       x 48800.00000
       y 67631.06944
@@ -22461,7 +22461,7 @@ graph [
   node [
     id 1321
     template "oreas:std:rect simple"
-    label "Pieter van Schooten / Netherlands / 9992"
+    label "Pieter van Schooten / Netherlands / 9992 / 1655"
     graphics [
       x 34250.00000
       y 67631.06944
@@ -22478,7 +22478,7 @@ graph [
   node [
     id 1322
     template "oreas:std:rect simple"
-    label "Edward Bradford Titchener / Germany / 298"
+    label "Edward Bradford Titchener / Germany / 298 / 1892"
     graphics [
       x 50625.00000
       y 67631.06944
@@ -22495,7 +22495,7 @@ graph [
   node [
     id 1323
     template "oreas:std:rect simple"
-    label "Andreas Smits / Germany / 78"
+    label "Andreas Smits / Germany / 78 / 1896"
     graphics [
       x 34500.00000
       y 67631.06944
@@ -22512,7 +22512,7 @@ graph [
   node [
     id 1324
     template "oreas:std:rect simple"
-    label "Jacob Maarten van Bemmelen / Netherlands / 85"
+    label "Jacob Maarten van Bemmelen / Netherlands / 85 / 1854"
     graphics [
       x 3975.000000
       y 67631.06944
@@ -22529,7 +22529,7 @@ graph [
   node [
     id 1325
     template "oreas:std:rect simple"
-    label "Ernest Julius Cohen / Netherlands / 36"
+    label "Ernest Julius Cohen / Netherlands / 36 / 1893"
     graphics [
       x 2425.000000
       y 67631.06944
@@ -22546,7 +22546,7 @@ graph [
   node [
     id 1326
     template "oreas:std:rect simple"
-    label "Hendrik Willem Bakhuis Roozeboom / Netherlands / 84"
+    label "Hendrik Willem Bakhuis Roozeboom / Netherlands / 84 / 1884"
     graphics [
       x 34000.00000
       y 67631.06944
@@ -22563,7 +22563,7 @@ graph [
   node [
     id 1327
     template "oreas:std:rect simple"
-    label "Cornelis Adriaan Lobry van Troostenburg de Bruyn / Netherlands / 14"
+    label "Cornelis Adriaan Lobry van Troostenburg de Bruyn / Netherlands / 14 / 1883"
     graphics [
       x 925.0000000
       y 67631.06944
@@ -22580,7 +22580,7 @@ graph [
   node [
     id 1328
     template "oreas:std:rect simple"
-    label "Willem Reinders / Netherlands / 1"
+    label "Willem Reinders / Netherlands / 1 / 1899"
     graphics [
       x 34375.00000
       y 67631.06944
@@ -22597,7 +22597,7 @@ graph [
   node [
     id 1329
     template "oreas:std:rect simple"
-    label "Franciscus Antonius Hubertus Schreinemakers / Netherlands / 0"
+    label "Franciscus Antonius Hubertus Schreinemakers / Netherlands / 0 / 1898"
     graphics [
       x 34125.00000
       y 67631.06944
@@ -22614,7 +22614,7 @@ graph [
   node [
     id 1330
     template "oreas:std:rect simple"
-    label "Albertus van Bijlert / Netherlands / 0"
+    label "Albertus van Bijlert / Netherlands / 0 / 1891"
     graphics [
       x 2300.000000
       y 67631.06944
@@ -22631,7 +22631,7 @@ graph [
   node [
     id 1331
     template "oreas:std:rect simple"
-    label "Gerrit Hondius Boldingh / Netherlands / 0"
+    label "Gerrit Hondius Boldingh / Netherlands / 0 / 1893"
     graphics [
       x 3162.500000
       y 67631.06944
@@ -22648,7 +22648,7 @@ graph [
   node [
     id 1332
     template "oreas:std:rect simple"
-    label "Arnold Frederik Holleman / Netherlands / 16"
+    label "Arnold Frederik Holleman / Netherlands / 16 / 1887"
     graphics [
       x 725.0000000
       y 67631.06944
@@ -22665,7 +22665,7 @@ graph [
   node [
     id 1333
     template "oreas:std:rect simple"
-    label "Pieter van Romburgh / Netherlands / 84"
+    label "Pieter van Romburgh / Netherlands / 84 / 1881"
     graphics [
       x 850.0000000
       y 67954.06944
@@ -22682,7 +22682,7 @@ graph [
   node [
     id 1334
     template "oreas:std:rect simple"
-    label "Pieter Johannes van Kerckhoff / Netherlands / 0"
+    label "Pieter Johannes van Kerckhoff / Netherlands / 0 / 1843"
     graphics [
       x 4800.000000
       y 67954.06944
@@ -22699,7 +22699,7 @@ graph [
   node [
     id 1335
     template "oreas:std:rect simple"
-    label "Eduard Hendrik von Baumhauer / Netherlands / 0"
+    label "Eduard Hendrik von Baumhauer / Netherlands / 0 / 1843"
     graphics [
       x 5050.000000
       y 67954.06944
@@ -22716,7 +22716,7 @@ graph [
   node [
     id 1336
     template "oreas:std:rect simple"
-    label "Simon Karsten / Netherlands / 1"
+    label "Simon Karsten / Netherlands / 1 / 1818"
     graphics [
       x 4675.000000
       y 67954.06944
@@ -22733,7 +22733,7 @@ graph [
   node [
     id 1337
     template "oreas:std:rect simple"
-    label "Jan Willem Gunning / Netherlands / 0"
+    label "Jan Willem Gunning / Netherlands / 0 / 1853"
     graphics [
       x 4925.000000
       y 67954.06944
@@ -22750,7 +22750,7 @@ graph [
   node [
     id 1338
     template "oreas:std:rect simple"
-    label "Antoine Corneille Oudemans, Jr. / Netherlands / 0"
+    label "Antoine Corneille Oudemans, Jr. / Netherlands / 0 / 1853"
     graphics [
       x 3825.000000
       y 67954.06944
@@ -22767,7 +22767,7 @@ graph [
   node [
     id 1339
     template "oreas:std:rect simple"
-    label "Jacob Böeseken / Switzerland / 13"
+    label "Jacob Böeseken / Switzerland / 13 / 1897"
     graphics [
       x 725.0000000
       y 67954.06944
@@ -22784,7 +22784,7 @@ graph [
   node [
     id 1340
     template "oreas:std:rect simple"
-    label "Theodoros II Palaiologos / Greece / 0"
+    label "Theodoros II Palaiologos / Greece / 0 / 1425"
     graphics [
       x 30600.00000
       y 67954.06944
@@ -22801,7 +22801,7 @@ graph [
   node [
     id 1341
     template "oreas:std:rect simple"
-    label "Hendrik Zwaardemaker / Netherlands / 11"
+    label "Hendrik Zwaardemaker / Netherlands / 11 / 1883"
     graphics [
       x 33100.00000
       y 67954.06944
@@ -22818,7 +22818,7 @@ graph [
   node [
     id 1342
     template "oreas:std:rect simple"
-    label "Thomas Place / Netherlands / 189"
+    label "Thomas Place / Netherlands / 189 / 1867"
     graphics [
       x 32975.00000
       y 67954.06944
@@ -22835,7 +22835,7 @@ graph [
   node [
     id 1343
     template "oreas:std:rect simple"
-    label "Franciscus Cornelis Donders / Netherlands / 191"
+    label "Franciscus Cornelis Donders / Netherlands / 191 / 1840"
     graphics [
       x 31200.00000
       y 67954.06944
@@ -22852,7 +22852,7 @@ graph [
   node [
     id 1344
     template "oreas:std:rect simple"
-    label "Willem Paulinus Jorissen / Netherlands / 0"
+    label "Willem Paulinus Jorissen / Netherlands / 0 / 1896"
     graphics [
       x 34000.00000
       y 67954.06944
@@ -22869,7 +22869,7 @@ graph [
   node [
     id 1345
     template "oreas:std:rect simple"
-    label "Christian Heinrich Bünger / Germany / 8"
+    label "Christian Heinrich Bünger / Germany / 8 / 1809"
     graphics [
       x 40450.00000
       y 67954.06944
@@ -22886,7 +22886,7 @@ graph [
   node [
     id 1346
     template "oreas:std:rect simple"
-    label "Christiaan Eijkman / Netherlands / 0"
+    label "Christiaan Eijkman / Netherlands / 0 / 1883"
     graphics [
       x 32825.00000
       y 67954.06944
@@ -22903,7 +22903,7 @@ graph [
   node [
     id 1347
     template "oreas:std:rect simple"
-    label "Willem Einthoven / Netherlands / 0"
+    label "Willem Einthoven / Netherlands / 0 / 1885"
     graphics [
       x 31325.00000
       y 67954.06944
@@ -22920,7 +22920,7 @@ graph [
   node [
     id 1348
     template "oreas:std:rect simple"
-    label "Jacob Lodewijk Koenraad Schroeder van der Kolk / Netherlands / 192"
+    label "Jacob Lodewijk Koenraad Schroeder van der Kolk / Netherlands / 192 / 1820"
     graphics [
       x 27500.00000
       y 67954.06944
@@ -22937,7 +22937,7 @@ graph [
   node [
     id 1349
     template "oreas:std:rect simple"
-    label "Louis Duncan / UnitedStates / 0"
+    label "Louis Duncan / UnitedStates / 0 / 1885"
     graphics [
       x 68550.00000
       y 67954.06944
@@ -22954,7 +22954,7 @@ graph [
   node [
     id 1350
     template "oreas:std:rect simple"
-    label "Gerbrand Bakker / Netherlands / 193"
+    label "Gerbrand Bakker / Netherlands / 193 / 1794"
     graphics [
       x 23775.00000
       y 67954.06944
@@ -22971,7 +22971,7 @@ graph [
   node [
     id 1351
     template "oreas:std:rect simple"
-    label "Meinard Simon du Pui / Netherlands / 194"
+    label "Meinard Simon du Pui / Netherlands / 194 / 1780"
     graphics [
       x 20825.00000
       y 67954.06944
@@ -22988,7 +22988,7 @@ graph [
   node [
     id 1352
     template "oreas:std:rect simple"
-    label "Demetrios Kydones / Greece / 142616"
+    label "Demetrios Kydones / Greece / 142616 / 1355"
     graphics [
       x 30850.00000
       y 67954.06944
@@ -23005,7 +23005,7 @@ graph [
   node [
     id 1353
     template "oreas:std:rect simple"
-    label "Elissaeus Judaeus / Greece / 142593"
+    label "Elissaeus Judaeus / Greece / 142593 / 1355"
     graphics [
       x 30725.00000
       y 67954.06944
@@ -23022,7 +23022,7 @@ graph [
   node [
     id 1354
     template "oreas:std:rect simple"
-    label "Vittorino da Feltre / Italy / 142563"
+    label "Vittorino da Feltre / Italy / 142563 / 1416"
     graphics [
       x 40200.00000
       y 67954.06944
@@ -23039,7 +23039,7 @@ graph [
   node [
     id 1355
     template "oreas:std:rect simple"
-    label "Lucas Schacht / Netherlands / 0"
+    label "Lucas Schacht / Netherlands / 0 / 1660"
     graphics [
       x 24075.00000
       y 67954.06944
@@ -23056,7 +23056,7 @@ graph [
   node [
     id 1356
     template "oreas:std:rect simple"
-    label "Nicolaas Paradijs / Netherlands / 48"
+    label "Nicolaas Paradijs / Netherlands / 48 / 1763"
     graphics [
       x 24200.00000
       y 67954.06944
@@ -23073,7 +23073,7 @@ graph [
   node [
     id 1357
     template "oreas:std:rect simple"
-    label "Guarino da Verona / Italy / 142564"
+    label "Guarino da Verona / Italy / 142564 / 1408"
     graphics [
       x 41375.00000
       y 67954.06944
@@ -23090,7 +23090,7 @@ graph [
   node [
     id 1358
     template "oreas:std:rect simple"
-    label "Isaak Bacharach / Germany / 0"
+    label "Isaak Bacharach / Germany / 0 / 1881"
     graphics [
       x 23325.00000
       y 68277.06944
@@ -23107,7 +23107,7 @@ graph [
   node [
     id 1359
     template "oreas:std:rect simple"
-    label "Manuel Chrysoloras / Italy / 142565"
+    label "Manuel Chrysoloras / Italy / 142565 / 1383"
     graphics [
       x 41375.00000
       y 68277.06944
@@ -23124,7 +23124,7 @@ graph [
   node [
     id 1360
     template "oreas:std:rect simple"
-    label "Carl Peter Thunberg / Sweden / 0"
+    label "Carl Peter Thunberg / Sweden / 0 / 1767"
     graphics [
       x 78800.00000
       y 68277.06944
@@ -23141,7 +23141,7 @@ graph [
   node [
     id 1361
     template "oreas:std:rect simple"
-    label "Anders Sparrman / Sweden / 0"
+    label "Anders Sparrman / Sweden / 0 / 1768"
     graphics [
       x 79050.00000
       y 68277.06944
@@ -23158,7 +23158,7 @@ graph [
   node [
     id 1362
     template "oreas:std:rect simple"
-    label "Fredrik Hasselquist / Sweden / 0"
+    label "Fredrik Hasselquist / Sweden / 0 / 1747"
     graphics [
       x 78925.00000
       y 68277.06944
@@ -23175,7 +23175,7 @@ graph [
   node [
     id 1363
     template "oreas:std:rect simple"
-    label "Moritz Schröter / Switzerland / 82"
+    label "Moritz Schröter / Switzerland / 82 / 1871"
     graphics [
       x 39075.00000
       y 68277.06944
@@ -23192,7 +23192,7 @@ graph [
   node [
     id 1364
     template "oreas:std:rect simple"
-    label "Carl Paul Gottfried von Linde / Switzerland / 59"
+    label "Carl Paul Gottfried von Linde / Switzerland / 59 / 1864"
     graphics [
       x 40600.00000
       y 68277.06944
@@ -23209,7 +23209,7 @@ graph [
   node [
     id 1365
     template "oreas:std:rect simple"
-    label "Gustav Anton Zeuner / Germany / 366"
+    label "Gustav Anton Zeuner / Germany / 366 / 1853"
     graphics [
       x 39900.00000
       y 68277.06944
@@ -23226,7 +23226,7 @@ graph [
   node [
     id 1366
     template "oreas:std:rect simple"
-    label "Franz Reuleaux / Switzerland / 60"
+    label "Franz Reuleaux / Switzerland / 60 / 1839"
     graphics [
       x 40900.00000
       y 68277.06944
@@ -23243,7 +23243,7 @@ graph [
   node [
     id 1367
     template "oreas:std:rect simple"
-    label "Ferdinand Jakob Redtenbacher / Austria / 62"
+    label "Ferdinand Jakob Redtenbacher / Austria / 62 / 1829"
     graphics [
       x 52850.00000
       y 68277.06944
@@ -23260,7 +23260,7 @@ graph [
   node [
     id 1368
     template "oreas:std:rect simple"
-    label "Johann Arzberger / Austria / 63"
+    label "Johann Arzberger / Austria / 63 / 1804"
     graphics [
       x 52725.00000
       y 68277.06944
@@ -23277,7 +23277,7 @@ graph [
   node [
     id 1369
     template "oreas:std:rect simple"
-    label "Pietro Roccabonella / Italy / 118766"
+    label "Pietro Roccabonella / Italy / 118766 / 1444"
     graphics [
       x 19825.00000
       y 68277.06944
@@ -23294,7 +23294,7 @@ graph [
   node [
     id 1370
     template "oreas:std:rect simple"
-    label "Wilhelm Hektor Richard Albrecht Lexis / Germany / 1348"
+    label "Wilhelm Hektor Richard Albrecht Lexis / Germany / 1348 / 1859"
     graphics [
       x 79275.00000
       y 68277.06944
@@ -23311,7 +23311,7 @@ graph [
   node [
     id 1371
     template "oreas:std:rect simple"
-    label "August Beer / Germany / 1349"
+    label "August Beer / Germany / 1349 / 1848"
     graphics [
       x 77525.00000
       y 68277.06944
@@ -23328,7 +23328,7 @@ graph [
   node [
     id 1372
     template "oreas:std:rect simple"
-    label "Friedrich Wilhelm Ostwald / Estonia / 94"
+    label "Friedrich Wilhelm Ostwald / Estonia / 94 / 1878"
     graphics [
       x 41025.00000
       y 68277.06944
@@ -23345,7 +23345,7 @@ graph [
   node [
     id 1373
     template "oreas:std:rect simple"
-    label "Benjamin Robins / Netherlands / 0"
+    label "Benjamin Robins / Netherlands / 0 / 1727"
     graphics [
       x 18050.00000
       y 68600.06944
@@ -23362,7 +23362,7 @@ graph [
   node [
     id 1374
     template "oreas:std:rect simple"
-    label "Carl Ernst Heinrich Schmidt / Germany / 95"
+    label "Carl Ernst Heinrich Schmidt / Germany / 95 / 1845"
     graphics [
       x 41225.00000
       y 68600.06944
@@ -23379,7 +23379,7 @@ graph [
   node [
     id 1375
     template "oreas:std:rect simple"
-    label "Jakob Thomasius / Germany / 139311"
+    label "Jakob Thomasius / Germany / 139311 / 1643"
     graphics [
       x 38150.00000
       y 68600.06944
@@ -23396,7 +23396,7 @@ graph [
   node [
     id 1376
     template "oreas:std:rect simple"
-    label "Valentin Alberti / Germany / 8650"
+    label "Valentin Alberti / Germany / 8650 / 1651"
     graphics [
       x 37850.00000
       y 68600.06944
@@ -23413,7 +23413,7 @@ graph [
   node [
     id 1377
     template "oreas:std:rect simple"
-    label "Arthur Amos Noyes / Germany / 67"
+    label "Arthur Amos Noyes / Germany / 67 / 1890"
     graphics [
       x 41025.00000
       y 68600.06944
@@ -23430,7 +23430,7 @@ graph [
   node [
     id 1378
     template "oreas:std:rect simple"
-    label "Amos Eaton / UnitedStates / 12"
+    label "Amos Eaton / UnitedStates / 12 / 1799"
     graphics [
       x 21600.00000
       y 68600.06944
@@ -23447,7 +23447,7 @@ graph [
   node [
     id 1379
     template "oreas:std:rect simple"
-    label "Douglass Houghton / UnitedStates / 11"
+    label "Douglass Houghton / UnitedStates / 11 / 1829"
     graphics [
       x 27700.00000
       y 68600.06944
@@ -23464,7 +23464,7 @@ graph [
   node [
     id 1380
     template "oreas:std:rect simple"
-    label "Silas H. Douglas / UnitedStates / 10"
+    label "Silas H. Douglas / UnitedStates / 10 / 1842"
     graphics [
       x 34650.00000
       y 68600.06944
@@ -23481,7 +23481,7 @@ graph [
   node [
     id 1381
     template "oreas:std:rect simple"
-    label "Albert Benjamin Prescott / UnitedStates / 9"
+    label "Albert Benjamin Prescott / UnitedStates / 9 / 1846"
     graphics [
       x 37550.00000
       y 68600.06944
@@ -23498,7 +23498,7 @@ graph [
   node [
     id 1382
     template "oreas:std:rect simple"
-    label "Moses Gomberg / UnitedStates / 8"
+    label "Moses Gomberg / UnitedStates / 8 / 1894"
     graphics [
       x 37975.00000
       y 68600.06944
@@ -23515,7 +23515,7 @@ graph [
   node [
     id 1383
     template "oreas:std:rect simple"
-    label "Reinhart Pieter Anne Dozy / Netherlands / 55"
+    label "Reinhart Pieter Anne Dozy / Netherlands / 55 / 1844"
     graphics [
       x 2750.000000
       y 68600.06944
@@ -23532,7 +23532,7 @@ graph [
   node [
     id 1384
     template "oreas:std:rect simple"
-    label "Ottokar Tumlirz / CzechRepublic / 906"
+    label "Ottokar Tumlirz / CzechRepublic / 906 / 1879"
     graphics [
       x 64175.00000
       y 68600.06944
@@ -23549,7 +23549,7 @@ graph [
   node [
     id 1385
     template "oreas:std:rect simple"
-    label "Justus von Liebig / Germany / 167"
+    label "Justus von Liebig / Germany / 167 / 1823"
     graphics [
       x 57750.00000
       y 68600.06944
@@ -23566,7 +23566,7 @@ graph [
   node [
     id 1386
     template "oreas:std:rect simple"
-    label "Michael Jan de Goeje / Netherlands / 54"
+    label "Michael Jan de Goeje / Netherlands / 54 / 1860"
     graphics [
       x 3166.666667
       y 68600.06944
@@ -23583,7 +23583,7 @@ graph [
   node [
     id 1387
     template "oreas:std:rect simple"
-    label "Christiaan Snouck Hurgronje / Netherlands / 53"
+    label "Christiaan Snouck Hurgronje / Netherlands / 53 / 1880"
     graphics [
       x 3375.000000
       y 68600.06944
@@ -23600,7 +23600,7 @@ graph [
   node [
     id 1388
     template "oreas:std:rect simple"
-    label "Karl Wilhelm Gottlob Kastner / Germany / 168"
+    label "Karl Wilhelm Gottlob Kastner / Germany / 168 / 1805"
     graphics [
       x 58025.00000
       y 68923.06944
@@ -23617,7 +23617,7 @@ graph [
   node [
     id 1389
     template "oreas:std:rect simple"
-    label "Johann Friedrich August Gottling / Germany / 169"
+    label "Johann Friedrich August Gottling / Germany / 169 / 1789"
     graphics [
       x 64525.00000
       y 68923.06944
@@ -23634,7 +23634,7 @@ graph [
   node [
     id 1390
     template "oreas:std:rect simple"
-    label "Johann Christian Wiegleb / Germany / 170"
+    label "Johann Christian Wiegleb / Germany / 170 / 1765"
     graphics [
       x 67575.00000
       y 68923.06944
@@ -23651,7 +23651,7 @@ graph [
   node [
     id 1391
     template "oreas:std:rect simple"
-    label "Christoph A. Mangold / Germany / 172"
+    label "Christoph A. Mangold / Germany / 172 / 1751"
     graphics [
       x 76900.00000
       y 68923.06944
@@ -23668,7 +23668,7 @@ graph [
   node [
     id 1392
     template "oreas:std:rect simple"
-    label "Ernst Gottfried Baldinger / Germany / 171"
+    label "Ernst Gottfried Baldinger / Germany / 171 / 1760"
     graphics [
       x 73075.00000
       y 68923.06944
@@ -23685,7 +23685,7 @@ graph [
   node [
     id 1393
     template "oreas:std:rect simple"
-    label "Karl Brandan Mollweide / Germany / 1485"
+    label "Karl Brandan Mollweide / Germany / 1485 / 1796"
     graphics [
       x 51566.66667
       y 68923.06944
@@ -23702,7 +23702,7 @@ graph [
   node [
     id 1394
     template "oreas:std:rect simple"
-    label "Thomas von Kempen à Kempis / Italy / 142507"
+    label "Thomas von Kempen à Kempis / Italy / 142507 / 1449"
     graphics [
       x 42875.00000
       y 68923.06944
@@ -23719,7 +23719,7 @@ graph [
   node [
     id 1395
     template "oreas:std:rect simple"
-    label "Henry Andrews Bumstead / UnitedStates / 33"
+    label "Henry Andrews Bumstead / UnitedStates / 33 / 1897"
     graphics [
       x 56025.00000
       y 68923.06944
@@ -23736,7 +23736,7 @@ graph [
   node [
     id 1396
     template "oreas:std:rect simple"
-    label "Conrad Mensinga / Netherlands / 0"
+    label "Conrad Mensinga / Netherlands / 0 / 1877"
     graphics [
       x 12837.50000
       y 68923.06944
@@ -23753,7 +23753,7 @@ graph [
   node [
     id 1397
     template "oreas:std:rect simple"
-    label "Jan Sixtus Gerhardus Gleuns / Netherlands / 0"
+    label "Jan Sixtus Gerhardus Gleuns / Netherlands / 0 / 1878"
     graphics [
       x 13087.50000
       y 68923.06944
@@ -23770,7 +23770,7 @@ graph [
   node [
     id 1398
     template "oreas:std:rect simple"
-    label "Jan Kors / Netherlands / 0"
+    label "Jan Kors / Netherlands / 0 / 1879"
     graphics [
       x 13212.50000
       y 68923.06944
@@ -23787,7 +23787,7 @@ graph [
   node [
     id 1399
     template "oreas:std:rect simple"
-    label "Lambertus Steenhuis / Netherlands / 0"
+    label "Lambertus Steenhuis / Netherlands / 0 / 1879"
     graphics [
       x 12962.50000
       y 68923.06944
@@ -23804,7 +23804,7 @@ graph [
   node [
     id 1400
     template "oreas:std:rect simple"
-    label "Thomas Cranmer / UnitedKingdom / 134806"
+    label "Thomas Cranmer / UnitedKingdom / 134806 / 1524"
     graphics [
       x 35325.00000
       y 68923.06944
@@ -23821,7 +23821,7 @@ graph [
   node [
     id 1401
     template "oreas:std:rect simple"
-    label "Arthur Lee Foley / UnitedStates / 1"
+    label "Arthur Lee Foley / UnitedStates / 1 / 1897"
     graphics [
       x 76550.00000
       y 68923.06944
@@ -23838,7 +23838,7 @@ graph [
   node [
     id 1402
     template "oreas:std:rect simple"
-    label "Robert Zimmermann / Austria / 1473"
+    label "Robert Zimmermann / Austria / 1473 / 1846"
     graphics [
       x 72950.00000
       y 68923.06944
@@ -23855,7 +23855,7 @@ graph [
   node [
     id 1403
     template "oreas:std:rect simple"
-    label "Friedrich Wöhler / Germany / 350"
+    label "Friedrich Wöhler / Germany / 350 / 1823"
     graphics [
       x 42525.00000
       y 68923.06944
@@ -23872,7 +23872,7 @@ graph [
   node [
     id 1404
     template "oreas:std:rect simple"
-    label "Rudolph Wagner / Germany / 454"
+    label "Rudolph Wagner / Germany / 454 / 1826"
     graphics [
       x 41225.00000
       y 68923.06944
@@ -23889,7 +23889,7 @@ graph [
   node [
     id 1405
     template "oreas:std:rect simple"
-    label "Julius Vogel / Germany / 96"
+    label "Julius Vogel / Germany / 96 / 1836"
     graphics [
       x 41100.00000
       y 68923.06944
@@ -23906,7 +23906,7 @@ graph [
   node [
     id 1406
     template "oreas:std:rect simple"
-    label "Georg Elias Müller / Germany / 44"
+    label "Georg Elias Müller / Germany / 44 / 1873"
     graphics [
       x 58375.00000
       y 68923.06944
@@ -23923,7 +23923,7 @@ graph [
   node [
     id 1407
     template "oreas:std:rect simple"
-    label "Hermann Aron / Germany / 0"
+    label "Hermann Aron / Germany / 0 / 1873"
     graphics [
       x 42400.00000
       y 68923.06944
@@ -23940,7 +23940,7 @@ graph [
   node [
     id 1408
     template "oreas:std:rect simple"
-    label "A.W. Hermann Kolbe / Germany / 41"
+    label "A.W. Hermann Kolbe / Germany / 41 / 1843"
     graphics [
       x 35750.00000
       y 68923.06944
@@ -23957,7 +23957,7 @@ graph [
   node [
     id 1409
     template "oreas:std:rect simple"
-    label "Henry Edward Armstrong / Germany / 40"
+    label "Henry Edward Armstrong / Germany / 40 / 1870"
     graphics [
       x 39800.00000
       y 68923.06944
@@ -23974,7 +23974,7 @@ graph [
   node [
     id 1410
     template "oreas:std:rect simple"
-    label "Thomas Martin Lowry / UnitedKingdom / 39"
+    label "Thomas Martin Lowry / UnitedKingdom / 39 / 1899"
     graphics [
       x 39925.00000
       y 68923.06944
@@ -23991,7 +23991,7 @@ graph [
   node [
     id 1411
     template "oreas:std:rect simple"
-    label "Edwin Herbert Hall / UnitedStates / 0"
+    label "Edwin Herbert Hall / UnitedStates / 0 / 1880"
     graphics [
       x 68400.00000
       y 69246.06944
@@ -24008,7 +24008,7 @@ graph [
   node [
     id 1412
     template "oreas:std:rect simple"
-    label "August Hagenbach / Germany / 118"
+    label "August Hagenbach / Germany / 118 / 1894"
     graphics [
       x 54575.00000
       y 69246.06944
@@ -24025,7 +24025,7 @@ graph [
   node [
     id 1413
     template "oreas:std:rect simple"
-    label "Seerp Brouwer / Netherlands / 0"
+    label "Seerp Brouwer / Netherlands / 0 / 1817"
     graphics [
       x 1950.000000
       y 69246.06944
@@ -24042,7 +24042,7 @@ graph [
   node [
     id 1414
     template "oreas:std:rect simple"
-    label "Michiel Isaäc Swarts Bevel / Netherlands / 0"
+    label "Michiel Isaäc Swarts Bevel / Netherlands / 0 / 1812"
     graphics [
       x 1825.000000
       y 69246.06944
@@ -24059,7 +24059,7 @@ graph [
   node [
     id 1415
     template "oreas:std:rect simple"
-    label "Nicolas Malebranche / Germany / 102963"
+    label "Nicolas Malebranche / Germany / 102963 / 1672"
     graphics [
       x 18325.00000
       y 69246.06944
@@ -24076,7 +24076,7 @@ graph [
   node [
     id 1416
     template "oreas:std:rect simple"
-    label "Jacob Andreae / Germany / 102961"
+    label "Jacob Andreae / Germany / 102961 / 1553"
     graphics [
       x 27975.00000
       y 69246.06944
@@ -24093,7 +24093,7 @@ graph [
   node [
     id 1417
     template "oreas:std:rect simple"
-    label "Johann Jacob Grynaeus / Switzerland / 102960"
+    label "Johann Jacob Grynaeus / Switzerland / 102960 / 1562"
     graphics [
       x 25750.00000
       y 69246.06944
@@ -24110,7 +24110,7 @@ graph [
   node [
     id 1418
     template "oreas:std:rect simple"
-    label "Sebastian Beck / Switzerland / 102959"
+    label "Sebastian Beck / Switzerland / 102959 / 1610"
     graphics [
       x 22875.00000
       y 69246.06944
@@ -24127,7 +24127,7 @@ graph [
   node [
     id 1419
     template "oreas:std:rect simple"
-    label "Theodor Zwinger, Jr. / Switzerland / 102958"
+    label "Theodor Zwinger, Jr. / Switzerland / 102958 / 1630"
     graphics [
       x 18200.00000
       y 69246.06944
@@ -24144,7 +24144,7 @@ graph [
   node [
     id 1420
     template "oreas:std:rect simple"
-    label "Peter Werenfels / Switzerland / 102957"
+    label "Peter Werenfels / Switzerland / 102957 / 1649"
     graphics [
       x 9050.000000
       y 69246.06944
@@ -24161,7 +24161,7 @@ graph [
   node [
     id 1421
     template "oreas:std:rect simple"
-    label "Jan Tesánek / CzechRepublic / 9870"
+    label "Jan Tesánek / CzechRepublic / 9870 / 1748"
     graphics [
       x 67925.00000
       y 69246.06944
@@ -24178,7 +24178,7 @@ graph [
   node [
     id 1422
     template "oreas:std:rect simple"
-    label "Joseph Stepling / CzechRepublic / 9871"
+    label "Joseph Stepling / CzechRepublic / 9871 / 1743"
     graphics [
       x 66050.00000
       y 69246.06944
@@ -24195,7 +24195,7 @@ graph [
   node [
     id 1423
     template "oreas:std:rect simple"
-    label "Ignatz Mühlwenzel / CzechRepublic / 9872"
+    label "Ignatz Mühlwenzel / CzechRepublic / 9872 / 1718"
     graphics [
       x 65250.00000
       y 69246.06944
@@ -24212,7 +24212,7 @@ graph [
   node [
     id 1424
     template "oreas:std:rect simple"
-    label "Granville Stanley Hall / UnitedStates / 129"
+    label "Granville Stanley Hall / UnitedStates / 129 / 1878"
     graphics [
       x 76750.00000
       y 69246.06944
@@ -24229,7 +24229,7 @@ graph [
   node [
     id 1425
     template "oreas:std:rect simple"
-    label "Friedrich Leibniz / Germany / 139312"
+    label "Friedrich Leibniz / Germany / 139312 / 1618"
     graphics [
       x 38150.00000
       y 69246.06944
@@ -24246,7 +24246,7 @@ graph [
   node [
     id 1426
     template "oreas:std:rect simple"
-    label "Wolfgang Franz / Germany / 4"
+    label "Wolfgang Franz / Germany / 4 / 1590"
     graphics [
       x 28425.00000
       y 69246.06944
@@ -24263,7 +24263,7 @@ graph [
   node [
     id 1427
     template "oreas:std:rect simple"
-    label "Marc de Haas / Netherlands / 1"
+    label "Marc de Haas / Netherlands / 1 / 1894"
     graphics [
       x 9550.000000
       y 69246.06944
@@ -24280,7 +24280,7 @@ graph [
   node [
     id 1428
     template "oreas:std:rect simple"
-    label "Lodewijk H. Siertsema / Netherlands / 1"
+    label "Lodewijk H. Siertsema / Netherlands / 1 / 1890"
     graphics [
       x 1325.000000
       y 69246.06944
@@ -24297,7 +24297,7 @@ graph [
   node [
     id 1429
     template "oreas:std:rect simple"
-    label "Bartholomäus Leonhard Schwendendörffer / Germany / 109467"
+    label "Bartholomäus Leonhard Schwendendörffer / Germany / 109467 / 1645"
     graphics [
       x 32900.00000
       y 69246.06944
@@ -24314,7 +24314,7 @@ graph [
   node [
     id 1430
     template "oreas:std:rect simple"
-    label "Robert Hjalmar Mellin / Finland / 2012"
+    label "Robert Hjalmar Mellin / Finland / 2012 / 1882"
     graphics [
       x 54450.00000
       y 69246.06944
@@ -24331,7 +24331,7 @@ graph [
   node [
     id 1431
     template "oreas:std:rect simple"
-    label "Leendert M. J. Stoel / Netherlands / 0"
+    label "Leendert M. J. Stoel / Netherlands / 0 / 1891"
     graphics [
       x 9425.000000
       y 69246.06944
@@ -24348,7 +24348,7 @@ graph [
   node [
     id 1432
     template "oreas:std:rect simple"
-    label "Eliza C. de Vries / Netherlands / 0"
+    label "Eliza C. de Vries / Netherlands / 0 / 1893"
     graphics [
       x 9675.000000
       y 69246.06944
@@ -24365,7 +24365,7 @@ graph [
   node [
     id 1433
     template "oreas:std:rect simple"
-    label "Adriaan Lebret / Netherlands / 0"
+    label "Adriaan Lebret / Netherlands / 0 / 1895"
     graphics [
       x 9275.000000
       y 69569.06944
@@ -24382,7 +24382,7 @@ graph [
   node [
     id 1434
     template "oreas:std:rect simple"
-    label "Anthony van Eldik / Netherlands / 0"
+    label "Anthony van Eldik / Netherlands / 0 / 1898"
     graphics [
       x 9150.000000
       y 69569.06944
@@ -24399,7 +24399,7 @@ graph [
   node [
     id 1435
     template "oreas:std:rect simple"
-    label "Charles M. A. Hartman / Netherlands / 0"
+    label "Charles M. A. Hartman / Netherlands / 0 / 1899"
     graphics [
       x 9025.000000
       y 69569.06944
@@ -24416,7 +24416,7 @@ graph [
   node [
     id 1436
     template "oreas:std:rect simple"
-    label "Nicolaus Gundling / Germany / 5123"
+    label "Nicolaus Gundling / Germany / 5123 / 1703"
     graphics [
       x 37700.00000
       y 69569.06944
@@ -24433,7 +24433,7 @@ graph [
   node [
     id 1437
     template "oreas:std:rect simple"
-    label "Everhard Otto / Germany / 5122"
+    label "Everhard Otto / Germany / 5122 / 1714"
     graphics [
       x 23600.00000
       y 69569.06944
@@ -24450,7 +24450,7 @@ graph [
   node [
     id 1438
     template "oreas:std:rect simple"
-    label "Christoph Meurer / Germany / 110290"
+    label "Christoph Meurer / Germany / 110290 / 1582"
     graphics [
       x 26800.00000
       y 69569.06944
@@ -24467,7 +24467,7 @@ graph [
   node [
     id 1439
     template "oreas:std:rect simple"
-    label "Philipp Müller / Germany / 110289"
+    label "Philipp Müller / Germany / 110289 / 1604"
     graphics [
       x 13425.00000
       y 69569.06944
@@ -24484,7 +24484,7 @@ graph [
   node [
     id 1440
     template "oreas:std:rect simple"
-    label "François Du Jon, Sr. / Germany / 14147"
+    label "François Du Jon, Sr. / Germany / 14147 / 1562"
     graphics [
       x 22100.00000
       y 69569.06944
@@ -24501,7 +24501,7 @@ graph [
   node [
     id 1441
     template "oreas:std:rect simple"
-    label "Johannes Polyander van Kerckhoven / Switzerland / 14133"
+    label "Johannes Polyander van Kerckhoven / Switzerland / 14133 / 1590"
     graphics [
       x 20000.00000
       y 69569.06944
@@ -24518,7 +24518,7 @@ graph [
   node [
     id 1442
     template "oreas:std:rect simple"
-    label "Henricus Renerius / Netherlands / 14132"
+    label "Henricus Renerius / Netherlands / 14132 / 1617"
     graphics [
       x 19625.00000
       y 69569.06944
@@ -24535,7 +24535,7 @@ graph [
   node [
     id 1443
     template "oreas:std:rect simple"
-    label "Martinus Schoock / Netherlands / 14131"
+    label "Martinus Schoock / Netherlands / 14131 / 1636"
     graphics [
       x 21700.00000
       y 69569.06944
@@ -24552,7 +24552,7 @@ graph [
   node [
     id 1444
     template "oreas:std:rect simple"
-    label "Johannes Hoornbeeck / Netherlands / 5140"
+    label "Johannes Hoornbeeck / Netherlands / 5140 / 1643"
     graphics [
       x 21575.00000
       y 69569.06944
@@ -24569,7 +24569,7 @@ graph [
   node [
     id 1445
     template "oreas:std:rect simple"
-    label "Melchior Leydecker / Netherlands / 5131"
+    label "Melchior Leydecker / Netherlands / 5131 / 1661"
     graphics [
       x 36300.00000
       y 69569.06944
@@ -24586,7 +24586,7 @@ graph [
   node [
     id 1446
     template "oreas:std:rect simple"
-    label "Hieronymus Simons van Alphen / Netherlands / 5130"
+    label "Hieronymus Simons van Alphen / Netherlands / 5130 / 1715"
     graphics [
       x 50625.00000
       y 69569.06944
@@ -24603,7 +24603,7 @@ graph [
   node [
     id 1447
     template "oreas:std:rect simple"
-    label "Andreas Essenius / Netherlands / 7"
+    label "Andreas Essenius / Netherlands / 7 / 1643"
     graphics [
       x 19750.00000
       y 69569.06944
@@ -24620,7 +24620,7 @@ graph [
   node [
     id 1448
     template "oreas:std:rect simple"
-    label "Levie Voorzanger / Netherlands / 0"
+    label "Levie Voorzanger / Netherlands / 0 / 1873"
     graphics [
       x 1200.000000
       y 69569.06944
@@ -24637,7 +24637,7 @@ graph [
   node [
     id 1449
     template "oreas:std:rect simple"
-    label "Pieter Zeeman Gz. / Netherlands / 2"
+    label "Pieter Zeeman Gz. / Netherlands / 2 / 1878"
     graphics [
       x 1975.000000
       y 69569.06944
@@ -24654,7 +24654,7 @@ graph [
   node [
     id 1450
     template "oreas:std:rect simple"
-    label "Jozeph de Jong / Netherlands / 0"
+    label "Jozeph de Jong / Netherlands / 0 / 1871"
     graphics [
       x 950.0000000
       y 69569.06944
@@ -24671,7 +24671,7 @@ graph [
   node [
     id 1451
     template "oreas:std:rect simple"
-    label "Bernard Johan Christiaan Hazelhoff Roelfzema / Netherlands / 0"
+    label "Bernard Johan Christiaan Hazelhoff Roelfzema / Netherlands / 0 / 1870"
     graphics [
       x 1450.000000
       y 69569.06944
@@ -24688,7 +24688,7 @@ graph [
   node [
     id 1452
     template "oreas:std:rect simple"
-    label "Constant Joan Jacobus Ninck Blok / Netherlands / 0"
+    label "Constant Joan Jacobus Ninck Blok / Netherlands / 0 / 1876"
     graphics [
       x 1325.000000
       y 69569.06944
@@ -24705,7 +24705,7 @@ graph [
   node [
     id 1453
     template "oreas:std:rect simple"
-    label "Carel Johan Emerentius Brutel de la Rivière / Netherlands / 0"
+    label "Carel Johan Emerentius Brutel de la Rivière / Netherlands / 0 / 1864"
     graphics [
       x 1850.000000
       y 69569.06944
@@ -24722,7 +24722,7 @@ graph [
   node [
     id 1454
     template "oreas:std:rect simple"
-    label "Bartoldus Meilink / Netherlands / 0"
+    label "Bartoldus Meilink / Netherlands / 0 / 1865"
     graphics [
       x 1725.000000
       y 69569.06944
@@ -24739,7 +24739,7 @@ graph [
   node [
     id 1455
     template "oreas:std:rect simple"
-    label "Willem Jacobus Janssen / Netherlands / 0"
+    label "Willem Jacobus Janssen / Netherlands / 0 / 1877"
     graphics [
       x 0.000000000
       y 69569.06944
@@ -24756,7 +24756,7 @@ graph [
   node [
     id 1456
     template "oreas:std:rect simple"
-    label "Willem van Bemmelen / Netherlands / 0"
+    label "Willem van Bemmelen / Netherlands / 0 / 1893"
     graphics [
       x 9400.000000
       y 69569.06944
@@ -24773,7 +24773,7 @@ graph [
   node [
     id 1457
     template "oreas:std:rect simple"
-    label "Arent Benthem / Netherlands / 0"
+    label "Arent Benthem / Netherlands / 0 / 1873"
     graphics [
       x 1075.000000
       y 69569.06944
@@ -24790,7 +24790,7 @@ graph [
   node [
     id 1458
     template "oreas:std:rect simple"
-    label "John Pitkin Norton / UnitedStates / 252"
+    label "John Pitkin Norton / UnitedStates / 252 / 1845"
     graphics [
       x 21825.00000
       y 69569.06944
@@ -24807,7 +24807,7 @@ graph [
   node [
     id 1459
     template "oreas:std:rect simple"
-    label "Samuel William Johnson / UnitedStates / 251"
+    label "Samuel William Johnson / UnitedStates / 251 / 1857"
     graphics [
       x 21800.00000
       y 69892.06944
@@ -24824,7 +24824,7 @@ graph [
   node [
     id 1460
     template "oreas:std:rect simple"
-    label "Hermann Gottfried Breijer / Netherlands / 0"
+    label "Hermann Gottfried Breijer / Netherlands / 0 / 1893"
     graphics [
       x 4050.000000
       y 69892.06944
@@ -24841,7 +24841,7 @@ graph [
   node [
     id 1461
     template "oreas:std:rect simple"
-    label "Eliza van der Ven / Netherlands / 0"
+    label "Eliza van der Ven / Netherlands / 0 / 1858"
     graphics [
       x 1650.000000
       y 69892.06944
@@ -24858,7 +24858,7 @@ graph [
   node [
     id 1462
     template "oreas:std:rect simple"
-    label "Frederick Albert Saunders / UnitedStates / 0"
+    label "Frederick Albert Saunders / UnitedStates / 0 / 1899"
     graphics [
       x 68475.00000
       y 69892.06944
@@ -24875,7 +24875,7 @@ graph [
   node [
     id 1463
     template "oreas:std:rect simple"
-    label "Rehuel Lobatto / Netherlands / 0"
+    label "Rehuel Lobatto / Netherlands / 0 / 1812"
     graphics [
       x 3300.000000
       y 69892.06944
@@ -24892,7 +24892,7 @@ graph [
   node [
     id 1464
     template "oreas:std:rect simple"
-    label "Nicolaus Henricus van Charante / Netherlands / 0"
+    label "Nicolaus Henricus van Charante / Netherlands / 0 / 1844"
     graphics [
       x 2350.000000
       y 69892.06944
@@ -24909,7 +24909,7 @@ graph [
   node [
     id 1465
     template "oreas:std:rect simple"
-    label "Carel Johannes Matthes / Netherlands / 0"
+    label "Carel Johannes Matthes / Netherlands / 0 / 1837"
     graphics [
       x 1925.000000
       y 69892.06944
@@ -24926,7 +24926,7 @@ graph [
   node [
     id 1466
     template "oreas:std:rect simple"
-    label "James Finlay Weir Johnston / Sweden / 253"
+    label "James Finlay Weir Johnston / Sweden / 253 / 1833"
     graphics [
       x 21925.00000
       y 69892.06944
@@ -24943,7 +24943,7 @@ graph [
   node [
     id 1467
     template "oreas:std:rect simple"
-    label "Rudolph Sicco Tjaden Modderman / Netherlands / 0"
+    label "Rudolph Sicco Tjaden Modderman / Netherlands / 0 / 1857"
     graphics [
       x 3750.000000
       y 69892.06944
@@ -24960,7 +24960,7 @@ graph [
   node [
     id 1468
     template "oreas:std:rect simple"
-    label "Gijsbert van Hennekeler / Netherlands / 0"
+    label "Gijsbert van Hennekeler / Netherlands / 0 / 1855"
     graphics [
       x 2225.000000
       y 69892.06944
@@ -24977,7 +24977,7 @@ graph [
   node [
     id 1469
     template "oreas:std:rect simple"
-    label "Johann Afzelius / Sweden / 357"
+    label "Johann Afzelius / Sweden / 357 / 1776"
     graphics [
       x 42600.00000
       y 69892.06944
@@ -24994,7 +24994,7 @@ graph [
   node [
     id 1470
     template "oreas:std:rect simple"
-    label "Jöns Jacob Berzelius / Sweden / 356"
+    label "Jöns Jacob Berzelius / Sweden / 356 / 1802"
     graphics [
       x 42175.00000
       y 69892.06944
@@ -25011,7 +25011,7 @@ graph [
   node [
     id 1471
     template "oreas:std:rect simple"
-    label "Torbern Olof Bergman / Sweden / 358"
+    label "Torbern Olof Bergman / Sweden / 358 / 1758"
     graphics [
       x 42450.00000
       y 69892.06944
@@ -25028,7 +25028,7 @@ graph [
   node [
     id 1472
     template "oreas:std:rect simple"
-    label "Bengt Ferrner / Sweden / 359"
+    label "Bengt Ferrner / Sweden / 359 / 1751"
     graphics [
       x 41825.00000
       y 69892.06944
@@ -25045,7 +25045,7 @@ graph [
   node [
     id 1473
     template "oreas:std:rect simple"
-    label "Samuel Klingenstierna / Sweden / 3671"
+    label "Samuel Klingenstierna / Sweden / 3671 / 1723"
     graphics [
       x 33325.00000
       y 69892.06944
@@ -25062,7 +25062,7 @@ graph [
   node [
     id 1474
     template "oreas:std:rect simple"
-    label "Mårten Strömer / Sweden / 3670"
+    label "Mårten Strömer / Sweden / 3670 / 1731"
     graphics [
       x 42300.00000
       y 69892.06944
@@ -25079,7 +25079,7 @@ graph [
   node [
     id 1475
     template "oreas:std:rect simple"
-    label "Anders Gabriel Duhre / Sweden / 3672"
+    label "Anders Gabriel Duhre / Sweden / 3672 / 1711"
     graphics [
       x 28400.00000
       y 69892.06944
@@ -25096,7 +25096,7 @@ graph [
   node [
     id 1476
     template "oreas:std:rect simple"
-    label "Petrus (the Elder) Elvius / Sweden / 3673"
+    label "Petrus (the Elder) Elvius / Sweden / 3673 / 1688"
     graphics [
       x 27500.00000
       y 69892.06944
@@ -25113,7 +25113,7 @@ graph [
   node [
     id 1477
     template "oreas:std:rect simple"
-    label "Petrus Hoffvenius / Netherlands / 3674"
+    label "Petrus Hoffvenius / Netherlands / 3674 / 1660"
     graphics [
       x 25725.00000
       y 69892.06944
@@ -25130,7 +25130,7 @@ graph [
   node [
     id 1478
     template "oreas:std:rect simple"
-    label "Johannes Antonides van der Linden / Netherlands / 3675"
+    label "Johannes Antonides van der Linden / Netherlands / 3675 / 1630"
     graphics [
       x 23775.00000
       y 69892.06944
@@ -25147,7 +25147,7 @@ graph [
   node [
     id 1479
     template "oreas:std:rect simple"
-    label "Wilhelm Friedrich Kühne / Germany / 251"
+    label "Wilhelm Friedrich Kühne / Germany / 251 / 1856"
     graphics [
       x 41950.00000
       y 69892.06944
@@ -25164,7 +25164,7 @@ graph [
   node [
     id 1480
     template "oreas:std:rect simple"
-    label "Pieter Schuringa / Netherlands / 0"
+    label "Pieter Schuringa / Netherlands / 0 / 1872"
     graphics [
       x 2050.000000
       y 69892.06944
@@ -25181,7 +25181,7 @@ graph [
   node [
     id 1481
     template "oreas:std:rect simple"
-    label "Willem Gleuns, Jr. / Netherlands / 0"
+    label "Willem Gleuns, Jr. / Netherlands / 0 / 1837"
     graphics [
       x 3450.000000
       y 69892.06944
@@ -25198,7 +25198,7 @@ graph [
   node [
     id 1482
     template "oreas:std:rect simple"
-    label "Johannes Cornelius Santvoort / Netherlands / 0"
+    label "Johannes Cornelius Santvoort / Netherlands / 0 / 1718"
     graphics [
       x 11650.00000
       y 69892.06944
@@ -25215,7 +25215,7 @@ graph [
   node [
     id 1483
     template "oreas:std:rect simple"
-    label "Johann Lukas Schönlein / Germany / 455"
+    label "Johann Lukas Schönlein / Germany / 455 / 1816"
     graphics [
       x 42900.00000
       y 69892.06944
@@ -25232,7 +25232,7 @@ graph [
   node [
     id 1484
     template "oreas:std:rect simple"
-    label "Ignaz Döllinger / Italy / 456"
+    label "Ignaz Döllinger / Italy / 456 / 1794"
     graphics [
       x 42775.00000
       y 70215.06944
@@ -25249,7 +25249,7 @@ graph [
   node [
     id 1485
     template "oreas:std:rect simple"
-    label "Antonio Scarpa / Italy / 457"
+    label "Antonio Scarpa / Italy / 457 / 1770"
     graphics [
       x 42300.00000
       y 70215.06944
@@ -25266,7 +25266,7 @@ graph [
   node [
     id 1486
     template "oreas:std:rect simple"
-    label "Giovan Battista Morgagni / Italy / 458"
+    label "Giovan Battista Morgagni / Italy / 458 / 1745"
     graphics [
       x 42100.00000
       y 70215.06944
@@ -25283,7 +25283,7 @@ graph [
   node [
     id 1487
     template "oreas:std:rect simple"
-    label "Daniel Jan Steyn Parvé / Netherlands / 0"
+    label "Daniel Jan Steyn Parvé / Netherlands / 0 / 1847"
     graphics [
       x 2025.000000
       y 70215.06944
@@ -25300,7 +25300,7 @@ graph [
   node [
     id 1488
     template "oreas:std:rect simple"
-    label "Arnold Willem Alings / Netherlands / 0"
+    label "Arnold Willem Alings / Netherlands / 0 / 1849"
     graphics [
       x 2150.000000
       y 70215.06944
@@ -25317,7 +25317,7 @@ graph [
   node [
     id 1489
     template "oreas:std:rect simple"
-    label "Gottlieb Jacob Planck / Germany / 135"
+    label "Gottlieb Jacob Planck / Germany / 135 / 1773"
     graphics [
       x 57825.00000
       y 70215.06944
@@ -25334,7 +25334,7 @@ graph [
   node [
     id 1490
     template "oreas:std:rect simple"
-    label "Constantijn l’Empereur van Oppyck / Netherlands / 148"
+    label "Constantijn l’Empereur van Oppyck / Netherlands / 148 / 1617"
     graphics [
       x 36275.00000
       y 70215.06944
@@ -25351,7 +25351,7 @@ graph [
   node [
     id 1491
     template "oreas:std:rect simple"
-    label "Hiob Ludolf / Netherlands / 147"
+    label "Hiob Ludolf / Netherlands / 147 / 1646"
     graphics [
       x 36150.00000
       y 70215.06944
@@ -25368,7 +25368,7 @@ graph [
   node [
     id 1492
     template "oreas:std:rect simple"
-    label "Johann Heinrich Michaelis / Germany / 146"
+    label "Johann Heinrich Michaelis / Germany / 146 / 1697"
     graphics [
       x 40625.00000
       y 70215.06944
@@ -25385,7 +25385,7 @@ graph [
   node [
     id 1493
     template "oreas:std:rect simple"
-    label "Christoph Matthäus Pfaff / Germany / 142"
+    label "Christoph Matthäus Pfaff / Germany / 142 / 1704"
     graphics [
       x 50300.00000
       y 70215.06944
@@ -25402,7 +25402,7 @@ graph [
   node [
     id 1494
     template "oreas:std:rect simple"
-    label "Georg Bernhard Bilfinger / Germany / 141"
+    label "Georg Bernhard Bilfinger / Germany / 141 / 1717"
     graphics [
       x 57450.00000
       y 70215.06944
@@ -25419,7 +25419,7 @@ graph [
   node [
     id 1495
     template "oreas:std:rect simple"
-    label "Christian Hagmaier / Germany / 137"
+    label "Christian Hagmaier / Germany / 137 / 1700"
     graphics [
       x 56175.00000
       y 70215.06944
@@ -25436,7 +25436,7 @@ graph [
   node [
     id 1496
     template "oreas:std:rect simple"
-    label "Jeremias Friedrich Reuß / Germany / 136"
+    label "Jeremias Friedrich Reuß / Germany / 136 / 1725"
     graphics [
       x 56550.00000
       y 70215.06944
@@ -25453,7 +25453,7 @@ graph [
   node [
     id 1497
     template "oreas:std:rect simple"
-    label "Johann David Michaelis / Germany / 136"
+    label "Johann David Michaelis / Germany / 136 / 1739"
     graphics [
       x 40900.00000
       y 70215.06944
@@ -25470,7 +25470,7 @@ graph [
   node [
     id 1498
     template "oreas:std:rect simple"
-    label "Johann Gottfried Eichhorn / Germany / 135"
+    label "Johann Gottfried Eichhorn / Germany / 135 / 1774"
     graphics [
       x 40750.00000
       y 70215.06944
@@ -25487,7 +25487,7 @@ graph [
   node [
     id 1499
     template "oreas:std:rect simple"
-    label "Heinrich Ludwig Planck / Germany / 134"
+    label "Heinrich Ludwig Planck / Germany / 134 / 1806"
     graphics [
       x 57050.00000
       y 70215.06944
@@ -25504,7 +25504,7 @@ graph [
   node [
     id 1500
     template "oreas:std:rect simple"
-    label "Heinrich A. (Georg Heinrich August) Ewald / Germany / 133"
+    label "Heinrich A. (Georg Heinrich August) Ewald / Germany / 133 / 1823"
     graphics [
       x 57575.00000
       y 70215.06944
@@ -25521,7 +25521,7 @@ graph [
   node [
     id 1501
     template "oreas:std:rect simple"
-    label "Franz Julius Delitzsch / Germany / 132"
+    label "Franz Julius Delitzsch / Germany / 132 / 1849"
     graphics [
       x 56300.00000
       y 70215.06944
@@ -25538,7 +25538,7 @@ graph [
   node [
     id 1502
     template "oreas:std:rect simple"
-    label "Eberhard Schrader / Germany / 132"
+    label "Eberhard Schrader / Germany / 132 / 1860"
     graphics [
       x 57300.00000
       y 70215.06944
@@ -25555,7 +25555,7 @@ graph [
   node [
     id 1503
     template "oreas:std:rect simple"
-    label "Friedrich Delitzsch / Germany / 131"
+    label "Friedrich Delitzsch / Germany / 131 / 1874"
     graphics [
       x 57175.00000
       y 70215.06944
@@ -25572,7 +25572,7 @@ graph [
   node [
     id 1504
     template "oreas:std:rect simple"
-    label "Hermann Vollrat Hilprecht / Germany / 119"
+    label "Hermann Vollrat Hilprecht / Germany / 119 / 1883"
     graphics [
       x 66200.00000
       y 70215.06944
@@ -25589,7 +25589,7 @@ graph [
   node [
     id 1505
     template "oreas:std:rect simple"
-    label "Heinrich Zimmern / Germany / 10"
+    label "Heinrich Zimmern / Germany / 10 / 1885"
     graphics [
       x 56425.00000
       y 70215.06944
@@ -25606,7 +25606,7 @@ graph [
   node [
     id 1506
     template "oreas:std:rect simple"
-    label "Gheorghe Țițeica / France / 114"
+    label "Gheorghe Țițeica / France / 114 / 1899"
     graphics [
       x 55500.00000
       y 70215.06944
@@ -25623,7 +25623,7 @@ graph [
   node [
     id 1507
     template "oreas:std:rect simple"
-    label "August Hermann Francke / Germany / 147"
+    label "August Hermann Francke / Germany / 147 / 1672"
     graphics [
       x 40625.00000
       y 70538.06944
@@ -25640,7 +25640,7 @@ graph [
   node [
     id 1508
     template "oreas:std:rect simple"
-    label "Christian Benedict Michaelis / Germany / 137"
+    label "Christian Benedict Michaelis / Germany / 137 / 1706"
     graphics [
       x 40900.00000
       y 70538.06944
@@ -25657,7 +25657,7 @@ graph [
   node [
     id 1509
     template "oreas:std:rect simple"
-    label "Giovanni Battista (Giambattista) Beccaria / Italy / 98923"
+    label "Giovanni Battista (Giambattista) Beccaria / Italy / 98923 / 1729"
     graphics [
       x 50275.00000
       y 70538.06944
@@ -25674,7 +25674,7 @@ graph [
   node [
     id 1510
     template "oreas:std:rect simple"
-    label "Johann Möller / Netherlands / 148"
+    label "Johann Möller / Netherlands / 148 / 1621"
     graphics [
       x 36150.00000
       y 70538.06944
@@ -25691,7 +25691,7 @@ graph [
   node [
     id 1511
     template "oreas:std:rect simple"
-    label "Nathaniel Bowditch / UnitedStates / 4184"
+    label "Nathaniel Bowditch / UnitedStates / 4184 / 1804"
     graphics [
       x 79200.00000
       y 70538.06944
@@ -25708,7 +25708,7 @@ graph [
   node [
     id 1512
     template "oreas:std:rect simple"
-    label "Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo / Italy / 118764"
+    label "Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo / Italy / 118764 / 1425"
     graphics [
       x 19550.00000
       y 70538.06944
@@ -25725,7 +25725,7 @@ graph [
   node [
     id 1513
     template "oreas:std:rect simple"
-    label "Karl Kommerell / Germany / 45"
+    label "Karl Kommerell / Germany / 45 / 1897"
     graphics [
       x 53525.00000
       y 70538.06944
@@ -25742,7 +25742,7 @@ graph [
   node [
     id 1514
     template "oreas:std:rect simple"
-    label "Ernst Richard Neumann / Germany / 2"
+    label "Ernst Richard Neumann / Germany / 2 / 1898"
     graphics [
       x 18050.00000
       y 70538.06944
@@ -25759,7 +25759,7 @@ graph [
   node [
     id 1515
     template "oreas:std:rect simple"
-    label "Johann Martin Christian Bartels / Germany / 11967"
+    label "Johann Martin Christian Bartels / Germany / 11967 / 1799"
     graphics [
       x 59300.00000
       y 70538.06944
@@ -25776,7 +25776,7 @@ graph [
   node [
     id 1516
     template "oreas:std:rect simple"
-    label "Karl Georg Christian von Staudt / Germany / 0"
+    label "Karl Georg Christian von Staudt / Germany / 0 / 1822"
     graphics [
       x 77425.00000
       y 70538.06944
@@ -25793,7 +25793,7 @@ graph [
   node [
     id 1517
     template "oreas:std:rect simple"
-    label "Anne du Bourg / France / 9443"
+    label "Anne du Bourg / France / 9443 / 1533"
     graphics [
       x 22725.00000
       y 70538.06944
@@ -25810,7 +25810,7 @@ graph [
   node [
     id 1518
     template "oreas:std:rect simple"
-    label "Lambert Daneau / Switzerland / 9442"
+    label "Lambert Daneau / Switzerland / 9442 / 1558"
     graphics [
       x 22600.00000
       y 70538.06944
@@ -25827,7 +25827,7 @@ graph [
   node [
     id 1519
     template "oreas:std:rect simple"
-    label "Gerard Bellaar Spruijt / Netherlands / 0"
+    label "Gerard Bellaar Spruijt / Netherlands / 0 / 1898"
     graphics [
       x 32875.00000
       y 70538.06944
@@ -25844,7 +25844,7 @@ graph [
   node [
     id 1520
     template "oreas:std:rect simple"
-    label "Jan Kuiper / Netherlands / 0"
+    label "Jan Kuiper / Netherlands / 0 / 1890"
     graphics [
       x 33000.00000
       y 70538.06944
@@ -25861,7 +25861,7 @@ graph [
   node [
     id 1521
     template "oreas:std:rect simple"
-    label "Jan Prince / Netherlands / 0"
+    label "Jan Prince / Netherlands / 0 / 1895"
     graphics [
       x 33125.00000
       y 70538.06944
@@ -25878,7 +25878,7 @@ graph [
   node [
     id 1522
     template "oreas:std:rect simple"
-    label "Balthasar Kaeuffelin / Germany / 102963"
+    label "Balthasar Kaeuffelin / Germany / 102963 / 1526"
     graphics [
       x 28575.00000
       y 70538.06944
@@ -25895,7 +25895,7 @@ graph [
   node [
     id 1523
     template "oreas:std:rect simple"
-    label "Jakob Beuerlin / Germany / 102962"
+    label "Jakob Beuerlin / Germany / 102962 / 1551"
     graphics [
       x 27975.00000
       y 70538.06944
@@ -25912,7 +25912,7 @@ graph [
   node [
     id 1524
     template "oreas:std:rect simple"
-    label "Heinrich Maius / Germany / 5"
+    label "Heinrich Maius / Germany / 5 / 1565"
     graphics [
       x 28425.00000
       y 70538.06944
@@ -25929,7 +25929,7 @@ graph [
   node [
     id 1525
     template "oreas:std:rect simple"
-    label "Marco Musuro / Italy / 118762"
+    label "Marco Musuro / Italy / 118762 / 1486"
     graphics [
       x 30925.00000
       y 70538.06944
@@ -25946,7 +25946,7 @@ graph [
   node [
     id 1526
     template "oreas:std:rect simple"
-    label "Nicoletto Vernia / Italy / 118764"
+    label "Nicoletto Vernia / Italy / 118764 / 1462"
     graphics [
       x 21550.00000
       y 70538.06944
@@ -25963,7 +25963,7 @@ graph [
   node [
     id 1527
     template "oreas:std:rect simple"
-    label "Pietro Pomponazzi / Italy / 118763"
+    label "Pietro Pomponazzi / Italy / 118763 / 1487"
     graphics [
       x 20662.50000
       y 70538.06944
@@ -25980,7 +25980,7 @@ graph [
   node [
     id 1528
     template "oreas:std:rect simple"
-    label "Giovanni Battista della Monte / Belgium / 118761"
+    label "Giovanni Battista della Monte / Belgium / 118761 / 1515"
     graphics [
       x 40275.00000
       y 70538.06944
@@ -25997,7 +25997,7 @@ graph [
   node [
     id 1529
     template "oreas:std:rect simple"
-    label "Vittore Trincavelli / Italy / 118720"
+    label "Vittore Trincavelli / Italy / 118720 / 1524"
     graphics [
       x 30800.00000
       y 70538.06944
@@ -26014,7 +26014,7 @@ graph [
   node [
     id 1530
     template "oreas:std:rect simple"
-    label "Bassiano Landi / Italy / 118719"
+    label "Bassiano Landi / Italy / 118719 / 1542"
     graphics [
       x 31400.00000
       y 70538.06944
@@ -26031,7 +26031,7 @@ graph [
   node [
     id 1531
     template "oreas:std:rect simple"
-    label "Mijalko Ciric / France / 0"
+    label "Mijalko Ciric / France / 0 / 1888"
     graphics [
       x 73550.00000
       y 70538.06944
@@ -26048,7 +26048,7 @@ graph [
   node [
     id 1532
     template "oreas:std:rect simple"
-    label "Friedrich Leopold Goltz / France / 88"
+    label "Friedrich Leopold Goltz / France / 88 / 1858"
     graphics [
       x 69900.00000
       y 70538.06944
@@ -26065,7 +26065,7 @@ graph [
   node [
     id 1533
     template "oreas:std:rect simple"
-    label "Jacques Loeb / France / 87"
+    label "Jacques Loeb / France / 87 / 1884"
     graphics [
       x 70025.00000
       y 70538.06944
@@ -26082,7 +26082,7 @@ graph [
   node [
     id 1534
     template "oreas:std:rect simple"
-    label "Oscar Ferdinand Peschel / Germany / 1"
+    label "Oscar Ferdinand Peschel / Germany / 1 / 1851"
     graphics [
       x 24950.00000
       y 70538.06944
@@ -26099,7 +26099,7 @@ graph [
   node [
     id 1535
     template "oreas:std:rect simple"
-    label "Adolf Georg Karl Wilhelm Ebert / Germany / 1094"
+    label "Adolf Georg Karl Wilhelm Ebert / Germany / 1094 / 1850"
     graphics [
       x 25575.00000
       y 70538.06944
@@ -26116,7 +26116,7 @@ graph [
   node [
     id 1536
     template "oreas:std:rect simple"
-    label "Johann Carl Friedrich Zöllner / Switzerland / 2"
+    label "Johann Carl Friedrich Zöllner / Switzerland / 2 / 1859"
     graphics [
       x 52275.00000
       y 70538.06944
@@ -26133,7 +26133,7 @@ graph [
   node [
     id 1537
     template "oreas:std:rect simple"
-    label "Naumann / Germany / 3"
+    label "Naumann / Germany / 3 / 1852"
     graphics [
       x 41300.00000
       y 70861.06944
@@ -26150,7 +26150,7 @@ graph [
   node [
     id 1538
     template "oreas:std:rect simple"
-    label "Heinrich Leberecht Fleischer / Germany / 124"
+    label "Heinrich Leberecht Fleischer / Germany / 124 / 1856"
     graphics [
       x 72500.00000
       y 70861.06944
@@ -26167,7 +26167,7 @@ graph [
   node [
     id 1539
     template "oreas:std:rect simple"
-    label "Ludolf Christoph Ehrenfried Krehl / Germany / 6"
+    label "Ludolf Christoph Ehrenfried Krehl / Germany / 6 / 1853"
     graphics [
       x 74275.00000
       y 70861.06944
@@ -26184,7 +26184,7 @@ graph [
   node [
     id 1540
     template "oreas:std:rect simple"
-    label "Rudolf Karl Georg Friedrich Leuckart / Germany / 105"
+    label "Rudolf Karl Georg Friedrich Leuckart / Germany / 105 / 1845"
     graphics [
       x 41175.00000
       y 70861.06944
@@ -26201,7 +26201,7 @@ graph [
   node [
     id 1541
     template "oreas:std:rect simple"
-    label "Willibald Seifert / Germany / 0"
+    label "Willibald Seifert / Germany / 0 / 1875"
     graphics [
       x 75975.00000
       y 70861.06944
@@ -26218,7 +26218,7 @@ graph [
   node [
     id 1542
     template "oreas:std:rect simple"
-    label "Karl Heinrich Schellbach / Germany / 1"
+    label "Karl Heinrich Schellbach / Germany / 1 / 1834"
     graphics [
       x 49950.00000
       y 70861.06944
@@ -26235,7 +26235,7 @@ graph [
   node [
     id 1543
     template "oreas:std:rect simple"
-    label "Gottfried Eduard Fischer / Germany / 0"
+    label "Gottfried Eduard Fischer / Germany / 0 / 1859"
     graphics [
       x 49825.00000
       y 70861.06944
@@ -26252,7 +26252,7 @@ graph [
   node [
     id 1544
     template "oreas:std:rect simple"
-    label "Elias Eduard Müller / Germany / 0"
+    label "Elias Eduard Müller / Germany / 0 / 1836"
     graphics [
       x 52650.00000
       y 70861.06944
@@ -26269,7 +26269,7 @@ graph [
   node [
     id 1545
     template "oreas:std:rect simple"
-    label "Gustav Michaelis / Germany / 0"
+    label "Gustav Michaelis / Germany / 0 / 1837"
     graphics [
       x 51450.00000
       y 70861.06944
@@ -26286,7 +26286,7 @@ graph [
   node [
     id 1546
     template "oreas:std:rect simple"
-    label "Rudolf O. Meibauer / Germany / 0"
+    label "Rudolf O. Meibauer / Germany / 0 / 1861"
     graphics [
       x 56550.00000
       y 70861.06944
@@ -26303,7 +26303,7 @@ graph [
   node [
     id 1547
     template "oreas:std:rect simple"
-    label "Georg August Freund / Germany / 0"
+    label "Georg August Freund / Germany / 0 / 1862"
     graphics [
       x 50000.00000
       y 71184.06944
@@ -26320,7 +26320,7 @@ graph [
   node [
     id 1548
     template "oreas:std:rect simple"
-    label "Otto Handel / Germany / 0"
+    label "Otto Handel / Germany / 0 / 1877"
     graphics [
       x 73700.00000
       y 71184.06944
@@ -26337,7 +26337,7 @@ graph [
   node [
     id 1549
     template "oreas:std:rect simple"
-    label "August Ephraim Kramer / Germany / 0"
+    label "August Ephraim Kramer / Germany / 0 / 1839"
     graphics [
       x 57675.00000
       y 71184.06944
@@ -26354,7 +26354,7 @@ graph [
   node [
     id 1550
     template "oreas:std:rect simple"
-    label "Viktor Meyer / Germany / 0"
+    label "Viktor Meyer / Germany / 0 / 1867"
     graphics [
       x 34650.00000
       y 71184.06944
@@ -26371,7 +26371,7 @@ graph [
   node [
     id 1551
     template "oreas:std:rect simple"
-    label "Heinrich Rose / Germany / 70"
+    label "Heinrich Rose / Germany / 70 / 1821"
     graphics [
       x 42225.00000
       y 71184.06944
@@ -26388,7 +26388,7 @@ graph [
   node [
     id 1552
     template "oreas:std:rect simple"
-    label "Ferdinand Oscar Werner / Germany / 0"
+    label "Ferdinand Oscar Werner / Germany / 0 / 1854"
     graphics [
       x 42425.00000
       y 71184.06944
@@ -26405,7 +26405,7 @@ graph [
   node [
     id 1553
     template "oreas:std:rect simple"
-    label "Johannes Weickert / Germany / 0"
+    label "Johannes Weickert / Germany / 0 / 1879"
     graphics [
       x 32087.50000
       y 71184.06944
@@ -26422,7 +26422,7 @@ graph [
   node [
     id 1554
     template "oreas:std:rect simple"
-    label "Ernst Emil Becker / Germany / 1"
+    label "Ernst Emil Becker / Germany / 1 / 1869"
     graphics [
       x 79700.00000
       y 71184.06944
@@ -26439,7 +26439,7 @@ graph [
   node [
     id 1555
     template "oreas:std:rect simple"
-    label "Carl Friedrich Christian Mohs / Germany / 416"
+    label "Carl Friedrich Christian Mohs / Germany / 416 / 1801"
     graphics [
       x 13500.00000
       y 71184.06944
@@ -26456,7 +26456,7 @@ graph [
   node [
     id 1556
     template "oreas:std:rect simple"
-    label "Josef Redtenbacher / Austria / 415"
+    label "Josef Redtenbacher / Austria / 415 / 1834"
     graphics [
       x 16312.50000
       y 71184.06944
@@ -26473,7 +26473,7 @@ graph [
   node [
     id 1557
     template "oreas:std:rect simple"
-    label "Károly Than / Austria / 414"
+    label "Károly Than / Austria / 414 / 1858"
     graphics [
       x 17850.00000
       y 71184.06944
@@ -26490,7 +26490,7 @@ graph [
   node [
     id 1558
     template "oreas:std:rect simple"
-    label "Simon Courtaud / France / 56"
+    label "Simon Courtaud / France / 56 / 1612"
     graphics [
       x 13925.00000
       y 71184.06944
@@ -26507,7 +26507,7 @@ graph [
   node [
     id 1559
     template "oreas:std:rect simple"
-    label "Guillaume Rondelet / France / 134663"
+    label "Guillaume Rondelet / France / 134663 / 1532"
     graphics [
       x 28575.00000
       y 71184.06944
@@ -26524,7 +26524,7 @@ graph [
   node [
     id 1560
     template "oreas:std:rect simple"
-    label "Gustav Heinrich Wiedemann / Germany / 125"
+    label "Gustav Heinrich Wiedemann / Germany / 125 / 1847"
     graphics [
       x 52975.00000
       y 71184.06944
@@ -26541,7 +26541,7 @@ graph [
   node [
     id 1561
     template "oreas:std:rect simple"
-    label "Nicolas Louis Vauquelin / Germany / 15469"
+    label "Nicolas Louis Vauquelin / Germany / 15469 / 1775"
     graphics [
       x 43175.00000
       y 71184.06944
@@ -26558,7 +26558,7 @@ graph [
   node [
     id 1562
     template "oreas:std:rect simple"
-    label "Hermann Knoblauch / Germany / 0"
+    label "Hermann Knoblauch / Germany / 0 / 1847"
     graphics [
       x 50125.00000
       y 71184.06944
@@ -26575,7 +26575,7 @@ graph [
   node [
     id 1563
     template "oreas:std:rect simple"
-    label "Friedrich August Kekule / Germany / 29"
+    label "Friedrich August Kekule / Germany / 29 / 1852"
     graphics [
       x 57050.00000
       y 71184.06944
@@ -26592,7 +26592,7 @@ graph [
   node [
     id 1564
     template "oreas:std:rect simple"
-    label "Johann Friedrich Wilhelm Adolf von Baeyer / Germany / 23"
+    label "Johann Friedrich Wilhelm Adolf von Baeyer / Germany / 23 / 1858"
     graphics [
       x 35350.00000
       y 71184.06944
@@ -26609,7 +26609,7 @@ graph [
   node [
     id 1565
     template "oreas:std:rect simple"
-    label "Georg Ludwig Carius / Germany / 0"
+    label "Georg Ludwig Carius / Germany / 0 / 1853"
     graphics [
       x 39375.00000
       y 71184.06944
@@ -26626,7 +26626,7 @@ graph [
   node [
     id 1566
     template "oreas:std:rect simple"
-    label "Adolf Lieben / Germany / 0"
+    label "Adolf Lieben / Germany / 0 / 1856"
     graphics [
       x 34775.00000
       y 71184.06944
@@ -26643,7 +26643,7 @@ graph [
   node [
     id 1567
     template "oreas:std:rect simple"
-    label "Carl Theodore Liebermann / Germany / 0"
+    label "Carl Theodore Liebermann / Germany / 0 / 1865"
     graphics [
       x 34900.00000
       y 71184.06944
@@ -26660,7 +26660,7 @@ graph [
   node [
     id 1568
     template "oreas:std:rect simple"
-    label "Thomas Edward Thorpe / Germany / 0"
+    label "Thomas Edward Thorpe / Germany / 0 / 1869"
     graphics [
       x 35025.00000
       y 71184.06944
@@ -26677,7 +26677,7 @@ graph [
   node [
     id 1569
     template "oreas:std:rect simple"
-    label "Edward Frankland / Germany / 0"
+    label "Edward Frankland / Germany / 0 / 1849"
     graphics [
       x 35150.00000
       y 71184.06944
@@ -26694,7 +26694,7 @@ graph [
   node [
     id 1570
     template "oreas:std:rect simple"
-    label "Hermann Emil Fischer / France / 0"
+    label "Hermann Emil Fischer / France / 0 / 1874"
     graphics [
       x 35475.00000
       y 71507.06944
@@ -26711,7 +26711,7 @@ graph [
   node [
     id 1571
     template "oreas:std:rect simple"
-    label "Francis Robert Japp / Germany / 0"
+    label "Francis Robert Japp / Germany / 0 / 1875"
     graphics [
       x 35225.00000
       y 71507.06944
@@ -26728,7 +26728,7 @@ graph [
   node [
     id 1572
     template "oreas:std:rect simple"
-    label "John Ulric Nef / Germany / 0"
+    label "John Ulric Nef / Germany / 0 / 1887"
     graphics [
       x 35350.00000
       y 71507.06944
@@ -26745,7 +26745,7 @@ graph [
   node [
     id 1573
     template "oreas:std:rect simple"
-    label "Richard Gustav Heger / Germany / 0"
+    label "Richard Gustav Heger / Germany / 0 / 1868"
     graphics [
       x 28425.00000
       y 71507.06944
@@ -26762,7 +26762,7 @@ graph [
   node [
     id 1574
     template "oreas:std:rect simple"
-    label "Heinrich Will / Germany / 30"
+    label "Heinrich Will / Germany / 30 / 1827"
     graphics [
       x 57050.00000
       y 71507.06944
@@ -26779,7 +26779,7 @@ graph [
   node [
     id 1575
     template "oreas:std:rect simple"
-    label "Richard Carl Johann Philipp Noe Anschutz / Germany / 4"
+    label "Richard Carl Johann Philipp Noe Anschutz / Germany / 4 / 1874"
     graphics [
       x 57175.00000
       y 71507.06944
@@ -26796,7 +26796,7 @@ graph [
   node [
     id 1576
     template "oreas:std:rect simple"
-    label "Guy-Crescent Fragon / France / 5"
+    label "Guy-Crescent Fragon / France / 5 / 1673"
     graphics [
       x 77625.00000
       y 71507.06944
@@ -26813,7 +26813,7 @@ graph [
   node [
     id 1577
     template "oreas:std:rect simple"
-    label "Jacob Friedrich Müller / Germany / 0"
+    label "Jacob Friedrich Müller / Germany / 0 / 1722"
     graphics [
       x 57675.00000
       y 71507.06944
@@ -26830,7 +26830,7 @@ graph [
   node [
     id 1578
     template "oreas:std:rect simple"
-    label "Oetinger Wilhelm Ludwig / Germany / 0"
+    label "Oetinger Wilhelm Ludwig / Germany / 0 / 1725"
     graphics [
       x 57550.00000
       y 71507.06944
@@ -26847,7 +26847,7 @@ graph [
   node [
     id 1579
     template "oreas:std:rect simple"
-    label "Jeremias David Reuß / Germany / 0"
+    label "Jeremias David Reuß / Germany / 0 / 1731"
     graphics [
       x 57425.00000
       y 71507.06944
@@ -26864,7 +26864,7 @@ graph [
   node [
     id 1580
     template "oreas:std:rect simple"
-    label "Ernst Friedrich Beerlin / Germany / 0"
+    label "Ernst Friedrich Beerlin / Germany / 0 / 1722"
     graphics [
       x 57300.00000
       y 71507.06944
@@ -26881,7 +26881,7 @@ graph [
   node [
     id 1581
     template "oreas:std:rect simple"
-    label "Lucjan Emil Böttcher / Germany / 0"
+    label "Lucjan Emil Böttcher / Germany / 0 / 1898"
     graphics [
       x 11400.00000
       y 71507.06944
@@ -26898,7 +26898,7 @@ graph [
   node [
     id 1582
     template "oreas:std:rect simple"
-    label "Moritz Abraham Stern / Germany / 0"
+    label "Moritz Abraham Stern / Germany / 0 / 1829"
     graphics [
       x 64975.00000
       y 71507.06944
@@ -26915,7 +26915,7 @@ graph [
   node [
     id 1583
     template "oreas:std:rect simple"
-    label "Matvey Mikhailovich Troitsky / Russia / 12"
+    label "Matvey Mikhailovich Troitsky / Russia / 12 / 1867"
     graphics [
       x 74012.50000
       y 71507.06944
@@ -26932,7 +26932,7 @@ graph [
   node [
     id 1584
     template "oreas:std:rect simple"
-    label "Lev Mikhailovich Lopatin / Russia / 11"
+    label "Lev Mikhailovich Lopatin / Russia / 11 / 1891"
     graphics [
       x 73825.00000
       y 71507.06944
@@ -26949,7 +26949,7 @@ graph [
   node [
     id 1585
     template "oreas:std:rect simple"
-    label "Friedrich Wilhelm August Argelander / Germany / 36"
+    label "Friedrich Wilhelm August Argelander / Germany / 36 / 1822"
     graphics [
       x 77825.00000
       y 71507.06944
@@ -26966,7 +26966,7 @@ graph [
   node [
     id 1586
     template "oreas:std:rect simple"
-    label "Moritz Ludwig Georg Wichmann / Germany / 0"
+    label "Moritz Ludwig Georg Wichmann / Germany / 0 / 1843"
     graphics [
       x 77275.00000
       y 71507.06944
@@ -26983,7 +26983,7 @@ graph [
   node [
     id 1587
     template "oreas:std:rect simple"
-    label "Wilhelm Schickard / Germany / 0"
+    label "Wilhelm Schickard / Germany / 0 / 1611"
     graphics [
       x 22525.00000
       y 71507.06944
@@ -27000,7 +27000,7 @@ graph [
   node [
     id 1588
     template "oreas:std:rect simple"
-    label "Johann Bernhard Wiedeburg / Germany / 0"
+    label "Johann Bernhard Wiedeburg / Germany / 0 / 1709"
     graphics [
       x 31150.00000
       y 71507.06944
@@ -27017,7 +27017,7 @@ graph [
   node [
     id 1589
     template "oreas:std:rect simple"
-    label "Benjamin Collins Brodie II / Germany / 23"
+    label "Benjamin Collins Brodie II / Germany / 23 / 1850"
     graphics [
       x 57850.00000
       y 71507.06944
@@ -27034,7 +27034,7 @@ graph [
   node [
     id 1590
     template "oreas:std:rect simple"
-    label "Augustus George Vernon Harcourt / UnitedKingdom / 22"
+    label "Augustus George Vernon Harcourt / UnitedKingdom / 22 / 1858"
     graphics [
       x 58225.00000
       y 71507.06944
@@ -27051,7 +27051,7 @@ graph [
   node [
     id 1591
     template "oreas:std:rect simple"
-    label "John Conroy / UnitedKingdom / 21"
+    label "John Conroy / UnitedKingdom / 21 / 1868"
     graphics [
       x 58225.00000
       y 71830.06944
@@ -27068,7 +27068,7 @@ graph [
   node [
     id 1592
     template "oreas:std:rect simple"
-    label "Georg Ferdinand Helm / Germany / 0"
+    label "Georg Ferdinand Helm / Germany / 0 / 1881"
     graphics [
       x 11250.00000
       y 71830.06944
@@ -27085,7 +27085,7 @@ graph [
   node [
     id 1593
     template "oreas:std:rect simple"
-    label "Carl Theodor Albrecht / Germany / 0"
+    label "Carl Theodor Albrecht / Germany / 0 / 1869"
     graphics [
       x 45962.50000
       y 71830.06944
@@ -27102,7 +27102,7 @@ graph [
   node [
     id 1594
     template "oreas:std:rect simple"
-    label "Hugo Riemann / Germany / 0"
+    label "Hugo Riemann / Germany / 0 / 1873"
     graphics [
       x 38412.50000
       y 71830.06944
@@ -27119,7 +27119,7 @@ graph [
   node [
     id 1595
     template "oreas:std:rect simple"
-    label "Christian Hermann Weiße / Germany / 376"
+    label "Christian Hermann Weiße / Germany / 376 / 1825"
     graphics [
       x 58100.00000
       y 71830.06944
@@ -27136,7 +27136,7 @@ graph [
   node [
     id 1596
     template "oreas:std:rect simple"
-    label "Wilhelm Michel / Germany / 0"
+    label "Wilhelm Michel / Germany / 0 / 1861"
     graphics [
       x 39300.00000
       y 71830.06944
@@ -27153,7 +27153,7 @@ graph [
   node [
     id 1597
     template "oreas:std:rect simple"
-    label "Carl Johan Malmsten / Sweden / 2125"
+    label "Carl Johan Malmsten / Sweden / 2125 / 1839"
     graphics [
       x 64825.00000
       y 71830.06944
@@ -27170,7 +27170,7 @@ graph [
   node [
     id 1598
     template "oreas:std:rect simple"
-    label "Otto von Littrow / Germany / 0"
+    label "Otto von Littrow / Germany / 0 / 1842"
     graphics [
       x 42425.00000
       y 71830.06944
@@ -27187,7 +27187,7 @@ graph [
   node [
     id 1599
     template "oreas:std:rect simple"
-    label "Carl Gustav Lobeck / Germany / 0"
+    label "Carl Gustav Lobeck / Germany / 0 / 1857"
     graphics [
       x 39125.00000
       y 71830.06944
@@ -27204,7 +27204,7 @@ graph [
   node [
     id 1600
     template "oreas:std:rect simple"
-    label "Gustav Theodor Fechner / Germany / 376"
+    label "Gustav Theodor Fechner / Germany / 376 / 1815"
     graphics [
       x 56975.00000
       y 71830.06944
@@ -27221,7 +27221,7 @@ graph [
   node [
     id 1601
     template "oreas:std:rect simple"
-    label "Kohn / Germany / 0"
+    label "Kohn / Germany / 0 / 1841"
     graphics [
       x 39000.00000
       y 71830.06944
@@ -27238,7 +27238,7 @@ graph [
   node [
     id 1602
     template "oreas:std:rect simple"
-    label "Gustav Hartenstein / Germany / 3"
+    label "Gustav Hartenstein / Germany / 3 / 1831"
     graphics [
       x 33750.00000
       y 71830.06944
@@ -27255,7 +27255,7 @@ graph [
   node [
     id 1603
     template "oreas:std:rect simple"
-    label "Carl Ferdinand Rudolph Wogram / Germany / 0"
+    label "Carl Ferdinand Rudolph Wogram / Germany / 0 / 1839"
     graphics [
       x 33625.00000
       y 71830.06944
@@ -27272,7 +27272,7 @@ graph [
   node [
     id 1604
     template "oreas:std:rect simple"
-    label "Rudolf Sonndorfer / Germany / 0"
+    label "Rudolf Sonndorfer / Germany / 0 / 1863"
     graphics [
       x 41950.00000
       y 71830.06944
@@ -27289,7 +27289,7 @@ graph [
   node [
     id 1605
     template "oreas:std:rect simple"
-    label "Emil Gustav Kahl / Germany / 0"
+    label "Emil Gustav Kahl / Germany / 0 / 1860"
     graphics [
       x 39425.00000
       y 71830.06944
@@ -27306,7 +27306,7 @@ graph [
   node [
     id 1606
     template "oreas:std:rect simple"
-    label "Georg Friedrich Roch / Germany / 0"
+    label "Georg Friedrich Roch / Germany / 0 / 1842"
     graphics [
       x 36925.00000
       y 71830.06944
@@ -27323,7 +27323,7 @@ graph [
   node [
     id 1607
     template "oreas:std:rect simple"
-    label "Christian Schad / Germany / 0"
+    label "Christian Schad / Germany / 0 / 1846"
     graphics [
       x 33500.00000
       y 71830.06944
@@ -27340,7 +27340,7 @@ graph [
   node [
     id 1608
     template "oreas:std:rect simple"
-    label "August Edmund Segnitz / Germany / 0"
+    label "August Edmund Segnitz / Germany / 0 / 1846"
     graphics [
       x 50625.00000
       y 71830.06944
@@ -27357,7 +27357,7 @@ graph [
   node [
     id 1609
     template "oreas:std:rect simple"
-    label "Leo Ludwig Ferdinand Krokisius / Germany / 0"
+    label "Leo Ludwig Ferdinand Krokisius / Germany / 0 / 1846"
     graphics [
       x 50450.00000
       y 71830.06944
@@ -27374,7 +27374,7 @@ graph [
   node [
     id 1610
     template "oreas:std:rect simple"
-    label "Christoph Friedrich von Pfleiderer / Germany / 2"
+    label "Christoph Friedrich von Pfleiderer / Germany / 2 / 1757"
     graphics [
       x 72475.00000
       y 71830.06944
@@ -27391,7 +27391,7 @@ graph [
   node [
     id 1611
     template "oreas:std:rect simple"
-    label "William Graham Sumner / UnitedStates / 4"
+    label "William Graham Sumner / UnitedStates / 4 / 1863"
     graphics [
       x 54575.00000
       y 71830.06944
@@ -27408,7 +27408,7 @@ graph [
   node [
     id 1612
     template "oreas:std:rect simple"
-    label "Irving Fisher / UnitedStates / 0"
+    label "Irving Fisher / UnitedStates / 0 / 1891"
     graphics [
       x 48875.00000
       y 71830.06944
@@ -27425,7 +27425,7 @@ graph [
   node [
     id 1613
     template "oreas:std:rect simple"
-    label "Johannes Wislicenus / Switzerland / 68"
+    label "Johannes Wislicenus / Switzerland / 68 / 1860"
     graphics [
       x 41450.00000
       y 71830.06944
@@ -27442,7 +27442,7 @@ graph [
   node [
     id 1614
     template "oreas:std:rect simple"
-    label "Curt Reinhardt / Germany / 0"
+    label "Curt Reinhardt / Germany / 0 / 1882"
     graphics [
       x 22725.00000
       y 71830.06944
@@ -27459,7 +27459,7 @@ graph [
   node [
     id 1615
     template "oreas:std:rect simple"
-    label "Joseph Epstein / Germany / 0"
+    label "Joseph Epstein / Germany / 0 / 1887"
     graphics [
       x 57675.00000
       y 72153.06944
@@ -27476,7 +27476,7 @@ graph [
   node [
     id 1616
     template "oreas:std:rect simple"
-    label "Charles Elwood Mendenhall / UnitedStates / 12"
+    label "Charles Elwood Mendenhall / UnitedStates / 12 / 1898"
     graphics [
       x 68775.00000
       y 72153.06944
@@ -27493,7 +27493,7 @@ graph [
   node [
     id 1617
     template "oreas:std:rect simple"
-    label "Johann Gustav Jahn / Germany / 0"
+    label "Johann Gustav Jahn / Germany / 0 / 1888"
     graphics [
       x 46150.00000
       y 72153.06944
@@ -27510,7 +27510,7 @@ graph [
   node [
     id 1618
     template "oreas:std:rect simple"
-    label "Hugo Karl Ludwig von Hasenkamp / Germany / 0"
+    label "Hugo Karl Ludwig von Hasenkamp / Germany / 0 / 1890"
     graphics [
       x 45550.00000
       y 72153.06944
@@ -27527,7 +27527,7 @@ graph [
   node [
     id 1619
     template "oreas:std:rect simple"
-    label "Ernst Leyst / Germany / 0"
+    label "Ernst Leyst / Germany / 0 / 1889"
     graphics [
       x 53275.00000
       y 72153.06944
@@ -27544,7 +27544,7 @@ graph [
   node [
     id 1620
     template "oreas:std:rect simple"
-    label "Wilhelm Krimphoff / Germany / 0"
+    label "Wilhelm Krimphoff / Germany / 0 / 1890"
     graphics [
       x 65350.00000
       y 72153.06944
@@ -27561,7 +27561,7 @@ graph [
   node [
     id 1621
     template "oreas:std:rect simple"
-    label "Richard Starke / Germany / 0"
+    label "Richard Starke / Germany / 0 / 1898"
     graphics [
       x 73825.00000
       y 72153.06944
@@ -27578,7 +27578,7 @@ graph [
   node [
     id 1622
     template "oreas:std:rect simple"
-    label "Nicolaus Wolfgang Fischer / Germany / 1"
+    label "Nicolaus Wolfgang Fischer / Germany / 1 / 1820"
     graphics [
       x 55675.00000
       y 72153.06944
@@ -27595,7 +27595,7 @@ graph [
   node [
     id 1623
     template "oreas:std:rect simple"
-    label "Johann Heinrich Müller / Germany / 0"
+    label "Johann Heinrich Müller / Germany / 0 / 1833"
     graphics [
       x 58000.00000
       y 72153.06944
@@ -27612,7 +27612,7 @@ graph [
   node [
     id 1624
     template "oreas:std:rect simple"
-    label "Wilhelm Traugott Krug / Germany / 1486"
+    label "Wilhelm Traugott Krug / Germany / 1486 / 1794"
     graphics [
       x 30100.00000
       y 72153.06944
@@ -27629,7 +27629,7 @@ graph [
   node [
     id 1625
     template "oreas:std:rect simple"
-    label "Wilhelm Ernst Gottfried Wachsmuth / Germany / 4"
+    label "Wilhelm Ernst Gottfried Wachsmuth / Germany / 4 / 1806"
     graphics [
       x 33650.00000
       y 72153.06944
@@ -27646,7 +27646,7 @@ graph [
   node [
     id 1626
     template "oreas:std:rect simple"
-    label "Gottfried Johann Jakob Hermann / Germany / 39"
+    label "Gottfried Johann Jakob Hermann / Germany / 39 / 1790"
     graphics [
       x 33775.00000
       y 72153.06944
@@ -27663,7 +27663,7 @@ graph [
   node [
     id 1627
     template "oreas:std:rect simple"
-    label "Zwetan Radoslawow / Germany / 0"
+    label "Zwetan Radoslawow / Germany / 0 / 1899"
     graphics [
       x 58225.00000
       y 72153.06944
@@ -27680,7 +27680,7 @@ graph [
   node [
     id 1628
     template "oreas:std:rect simple"
-    label "Erich Mosch / Germany / 0"
+    label "Erich Mosch / Germany / 0 / 1899"
     graphics [
       x 58375.00000
       y 72153.06944
@@ -27697,7 +27697,7 @@ graph [
   node [
     id 1629
     template "oreas:std:rect simple"
-    label "Wilhelm Köhler / Germany / 0"
+    label "Wilhelm Köhler / Germany / 0 / 1887"
     graphics [
       x 65075.00000
       y 72153.06944
@@ -27714,7 +27714,7 @@ graph [
   node [
     id 1630
     template "oreas:std:rect simple"
-    label "Christoph Jacob Glaser / Germany / 15476"
+    label "Christoph Jacob Glaser / Germany / 15476 / 1688"
     graphics [
       x 14850.00000
       y 72153.06944
@@ -27731,7 +27731,7 @@ graph [
   node [
     id 1631
     template "oreas:std:rect simple"
-    label "Joseph Lepaute-Dagelet / France / 0"
+    label "Joseph Lepaute-Dagelet / France / 0 / 1768"
     graphics [
       x 10900.00000
       y 72153.06944
@@ -27748,7 +27748,7 @@ graph [
   node [
     id 1632
     template "oreas:std:rect simple"
-    label "Fritz Hofmann / Germany / 0"
+    label "Fritz Hofmann / Germany / 0 / 1887"
     graphics [
       x 23937.50000
       y 72153.06944
@@ -27765,7 +27765,7 @@ graph [
   node [
     id 1633
     template "oreas:std:rect simple"
-    label "Hermann Richard Zeitschel / Germany / 0"
+    label "Hermann Richard Zeitschel / Germany / 0 / 1889"
     graphics [
       x 67575.00000
       y 72153.06944
@@ -27782,7 +27782,7 @@ graph [
   node [
     id 1634
     template "oreas:std:rect simple"
-    label "Georg Woldemar Höckner / Germany / 0"
+    label "Georg Woldemar Höckner / Germany / 0 / 1891"
     graphics [
       x 50475.00000
       y 72153.06944
@@ -27799,7 +27799,7 @@ graph [
   node [
     id 1635
     template "oreas:std:rect simple"
-    label "Friedrich August Korschel / Germany / 0"
+    label "Friedrich August Korschel / Germany / 0 / 1845"
     graphics [
       x 67450.00000
       y 72153.06944
@@ -27816,7 +27816,7 @@ graph [
   node [
     id 1636
     template "oreas:std:rect simple"
-    label "Peter Friedrich Arndt / Germany / 0"
+    label "Peter Friedrich Arndt / Germany / 0 / 1845"
     graphics [
       x 67700.00000
       y 72153.06944
@@ -27833,7 +27833,7 @@ graph [
   node [
     id 1637
     template "oreas:std:rect simple"
-    label "Paul Meutzner / Germany / 0"
+    label "Paul Meutzner / Germany / 0 / 1875"
     graphics [
       x 24225.00000
       y 72153.06944
@@ -27850,7 +27850,7 @@ graph [
   node [
     id 1638
     template "oreas:std:rect simple"
-    label "Heinrich John Rickert / Germany / 3"
+    label "Heinrich John Rickert / Germany / 3 / 1888"
     graphics [
       x 60350.00000
       y 72153.06944
@@ -27867,7 +27867,7 @@ graph [
   node [
     id 1639
     template "oreas:std:rect simple"
-    label "August Kunzek / Austria / 386"
+    label "August Kunzek / Austria / 386 / 1832"
     graphics [
       x 64900.00000
       y 72153.06944
@@ -27884,7 +27884,7 @@ graph [
   node [
     id 1640
     template "oreas:std:rect simple"
-    label "Eberhard Johannes Böttcher / Germany / 0"
+    label "Eberhard Johannes Böttcher / Germany / 0 / 1875"
     graphics [
       x 22875.00000
       y 72153.06944
@@ -27901,7 +27901,7 @@ graph [
   node [
     id 1641
     template "oreas:std:rect simple"
-    label "Karl Wilhelm Borchardt / Germany / 0"
+    label "Karl Wilhelm Borchardt / Germany / 0 / 1843"
     graphics [
       x 47300.00000
       y 72476.06944
@@ -27918,7 +27918,7 @@ graph [
   node [
     id 1642
     template "oreas:std:rect simple"
-    label "Wilhelm Karl Friedrich Johannes Valentiner / Germany / 0"
+    label "Wilhelm Karl Friedrich Johannes Valentiner / Germany / 0 / 1869"
     graphics [
       x 79725.00000
       y 72476.06944
@@ -27935,7 +27935,7 @@ graph [
   node [
     id 1643
     template "oreas:std:rect simple"
-    label "Bruno Hildebrand / Germany / 2237"
+    label "Bruno Hildebrand / Germany / 2237 / 1830"
     graphics [
       x 77850.00000
       y 72476.06944
@@ -27952,7 +27952,7 @@ graph [
   node [
     id 1644
     template "oreas:std:rect simple"
-    label "Arwed Georg Fuhrmann / Germany / 0"
+    label "Arwed Georg Fuhrmann / Germany / 0 / 1866"
     graphics [
       x 35387.50000
       y 72476.06944
@@ -27969,7 +27969,7 @@ graph [
   node [
     id 1645
     template "oreas:std:rect simple"
-    label "Hermann Schnitzler / Germany / 0"
+    label "Hermann Schnitzler / Germany / 0 / 1865"
     graphics [
       x 31250.00000
       y 72476.06944
@@ -27986,7 +27986,7 @@ graph [
   node [
     id 1646
     template "oreas:std:rect simple"
-    label "Franz Ferdinand Lorenz / Germany / 0"
+    label "Franz Ferdinand Lorenz / Germany / 0 / 1865"
     graphics [
       x 36500.00000
       y 72476.06944
@@ -28003,7 +28003,7 @@ graph [
   node [
     id 1647
     template "oreas:std:rect simple"
-    label "Hermann C. Fr. Pöhlitz / Germany / 0"
+    label "Hermann C. Fr. Pöhlitz / Germany / 0 / 1866"
     graphics [
       x 32750.00000
       y 72476.06944
@@ -28020,7 +28020,7 @@ graph [
   node [
     id 1648
     template "oreas:std:rect simple"
-    label "Carl Theodor Meyer / Germany / 0"
+    label "Carl Theodor Meyer / Germany / 0 / 1856"
     graphics [
       x 38525.00000
       y 72476.06944
@@ -28037,7 +28037,7 @@ graph [
   node [
     id 1649
     template "oreas:std:rect simple"
-    label "Johann Friedrich Rhetius / Germany / 8650"
+    label "Johann Friedrich Rhetius / Germany / 8650 / 1652"
     graphics [
       x 37775.00000
       y 72476.06944
@@ -28054,7 +28054,7 @@ graph [
   node [
     id 1650
     template "oreas:std:rect simple"
-    label "Friedrich Wolfgang Reiz / Germany / 40"
+    label "Friedrich Wolfgang Reiz / Germany / 40 / 1766"
     graphics [
       x 36887.50000
       y 72476.06944
@@ -28071,7 +28071,7 @@ graph [
   node [
     id 1651
     template "oreas:std:rect simple"
-    label "Gabriel Lippmann / France / 185"
+    label "Gabriel Lippmann / France / 185 / 1875"
     graphics [
       x 67775.00000
       y 72476.06944
@@ -28088,7 +28088,7 @@ graph [
   node [
     id 1652
     template "oreas:std:rect simple"
-    label "Alfredo Pochettino / Italy / 19"
+    label "Alfredo Pochettino / Italy / 19 / 1898"
     graphics [
       x 53125.00000
       y 72476.06944
@@ -28105,7 +28105,7 @@ graph [
   node [
     id 1653
     template "oreas:std:rect simple"
-    label "Stefan Meyer / Austria / 11"
+    label "Stefan Meyer / Austria / 11 / 1896"
     graphics [
       x 54525.00000
       y 72476.06944
@@ -28122,7 +28122,7 @@ graph [
   node [
     id 1654
     template "oreas:std:rect simple"
-    label "Ernst Lecher / Austria / 11"
+    label "Ernst Lecher / Austria / 11 / 1879"
     graphics [
       x 53475.00000
       y 72476.06944
@@ -28139,7 +28139,7 @@ graph [
   node [
     id 1655
     template "oreas:std:rect simple"
-    label "Leopold Pfaundler (Pfaundler von Hadermur) / Austria / 15"
+    label "Leopold Pfaundler (Pfaundler von Hadermur) / Austria / 15 / 1861"
     graphics [
       x 57025.00000
       y 72476.06944
@@ -28156,7 +28156,7 @@ graph [
   node [
     id 1656
     template "oreas:std:rect simple"
-    label "Egon von Schweidler / Austria / 22"
+    label "Egon von Schweidler / Austria / 22 / 1895"
     graphics [
       x 54400.00000
       y 72476.06944
@@ -28173,7 +28173,7 @@ graph [
   node [
     id 1657
     template "oreas:std:rect simple"
-    label "August Wolf / Germany / 0"
+    label "August Wolf / Germany / 0 / 1650"
     graphics [
       x 10825.00000
       y 72476.06944
@@ -28190,7 +28190,7 @@ graph [
   node [
     id 1658
     template "oreas:std:rect simple"
-    label "Paul Reinel / Germany / 0"
+    label "Paul Reinel / Germany / 0 / 1655"
     graphics [
       x 11325.00000
       y 72476.06944
@@ -28207,7 +28207,7 @@ graph [
   node [
     id 1659
     template "oreas:std:rect simple"
-    label "Simon Grynaeus / Germany / 102962"
+    label "Simon Grynaeus / Germany / 102962 / 1517"
     graphics [
       x 25350.00000
       y 72476.06944
@@ -28224,7 +28224,7 @@ graph [
   node [
     id 1660
     template "oreas:std:rect simple"
-    label "Johann Jakob von Brunn / Switzerland / 102066"
+    label "Johann Jakob von Brunn / Switzerland / 102066 / 1615"
     graphics [
       x 40675.00000
       y 72476.06944
@@ -28241,7 +28241,7 @@ graph [
   node [
     id 1661
     template "oreas:std:rect simple"
-    label "Gottfried Möbius / Germany / 102066"
+    label "Gottfried Möbius / Germany / 102066 / 1640"
     graphics [
       x 37012.50000
       y 72476.06944
@@ -28258,7 +28258,7 @@ graph [
   node [
     id 1662
     template "oreas:std:rect simple"
-    label "Felix Plater / France / 134662"
+    label "Felix Plater / France / 134662 / 1557"
     graphics [
       x 29137.50000
       y 72476.06944
@@ -28275,7 +28275,7 @@ graph [
   node [
     id 1663
     template "oreas:std:rect simple"
-    label "Simon Sulzer / Switzerland / 102961"
+    label "Simon Sulzer / Switzerland / 102961 / 1532"
     graphics [
       x 27000.00000
       y 72476.06944
@@ -28292,7 +28292,7 @@ graph [
   node [
     id 1664
     template "oreas:std:rect simple"
-    label "Arthur Tresse / France / 0"
+    label "Arthur Tresse / France / 0 / 1893"
     graphics [
       x 8000.000000
       y 72476.06944
@@ -28309,7 +28309,7 @@ graph [
   node [
     id 1665
     template "oreas:std:rect simple"
-    label "Frederick Mallet / Sweden / 3309"
+    label "Frederick Mallet / Sweden / 3309 / 1752"
     graphics [
       x 52875.00000
       y 72476.06944
@@ -28326,7 +28326,7 @@ graph [
   node [
     id 1666
     template "oreas:std:rect simple"
-    label "Victor Schlegel / Germany / 0"
+    label "Victor Schlegel / Germany / 0 / 1881"
     graphics [
       x 11200.00000
       y 72476.06944
@@ -28343,7 +28343,7 @@ graph [
   node [
     id 1667
     template "oreas:std:rect simple"
-    label "Karl Friedrich Benz / Germany / 0"
+    label "Karl Friedrich Benz / Germany / 0 / 1864"
     graphics [
       x 52725.00000
       y 72476.06944
@@ -28360,7 +28360,7 @@ graph [
   node [
     id 1668
     template "oreas:std:rect simple"
-    label "Rudolf Christian Karl Diesel / Germany / 0"
+    label "Rudolf Christian Karl Diesel / Germany / 0 / 1880"
     graphics [
       x 40550.00000
       y 72476.06944
@@ -28377,7 +28377,7 @@ graph [
   node [
     id 1669
     template "oreas:std:rect simple"
-    label "Pietro Blaserna / Austria / 20"
+    label "Pietro Blaserna / Austria / 20 / 1856"
     graphics [
       x 53000.00000
       y 72476.06944
@@ -28394,7 +28394,7 @@ graph [
   node [
     id 1670
     template "oreas:std:rect simple"
-    label "Johann Hoffmann / Germany / 110297"
+    label "Johann Hoffmann / Germany / 110297 / 1525"
     graphics [
       x 26875.00000
       y 72476.06944
@@ -28411,7 +28411,7 @@ graph [
   node [
     id 1671
     template "oreas:std:rect simple"
-    label "Pyotr Lebedev / Russia / 5"
+    label "Pyotr Lebedev / Russia / 5 / 1891"
     graphics [
       x 49325.00000
       y 72476.06944
@@ -28428,7 +28428,7 @@ graph [
   node [
     id 1672
     template "oreas:std:rect simple"
-    label "Johann Kies / Germany / 156"
+    label "Johann Kies / Germany / 156 / 1748"
     graphics [
       x 72150.00000
       y 72476.06944
@@ -28445,7 +28445,7 @@ graph [
   node [
     id 1673
     template "oreas:std:rect simple"
-    label "Heinrich Wilhelm Heintz / Germany / 69"
+    label "Heinrich Wilhelm Heintz / Germany / 69 / 1844"
     graphics [
       x 41950.00000
       y 72476.06944
@@ -28462,7 +28462,7 @@ graph [
   node [
     id 1674
     template "oreas:std:rect simple"
-    label "Georg Andreas Carl Städeler / Germany / 69"
+    label "Georg Andreas Carl Städeler / Germany / 69 / 1846"
     graphics [
       x 42525.00000
       y 72476.06944
@@ -28479,7 +28479,7 @@ graph [
   node [
     id 1675
     template "oreas:std:rect simple"
-    label "Abraham Heinecke / Germany / 2"
+    label "Abraham Heinecke / Germany / 2 / 1600"
     graphics [
       x 22950.00000
       y 72476.06944
@@ -28496,7 +28496,7 @@ graph [
   node [
     id 1676
     template "oreas:std:rect simple"
-    label "Johann Wilhelm Hittorf / Germany / 0"
+    label "Johann Wilhelm Hittorf / Germany / 0 / 1846"
     graphics [
       x 80000.00000
       y 72799.06944
@@ -28513,7 +28513,7 @@ graph [
   node [
     id 1677
     template "oreas:std:rect simple"
-    label "Roland (Loránd) von Eötvös / Germany / 0"
+    label "Roland (Loránd) von Eötvös / Germany / 0 / 1870"
     graphics [
       x 42025.00000
       y 72799.06944
@@ -28530,7 +28530,7 @@ graph [
   node [
     id 1678
     template "oreas:std:rect simple"
-    label "Friedrich Tietjen / Germany / 4"
+    label "Friedrich Tietjen / Germany / 4 / 1856"
     graphics [
       x 79875.00000
       y 72799.06944
@@ -28547,7 +28547,7 @@ graph [
   node [
     id 1679
     template "oreas:std:rect simple"
-    label "Adalbert Krueger / Germany / 0"
+    label "Adalbert Krueger / Germany / 0 / 1854"
     graphics [
       x 77825.00000
       y 72799.06944
@@ -28564,7 +28564,7 @@ graph [
   node [
     id 1680
     template "oreas:std:rect simple"
-    label "Wilhelm Alexander Luther / Germany / 0"
+    label "Wilhelm Alexander Luther / Germany / 0 / 1883"
     graphics [
       x 37650.00000
       y 72799.06944
@@ -28581,7 +28581,7 @@ graph [
   node [
     id 1681
     template "oreas:std:rect simple"
-    label "Anton Bernhard Lauterbach / Germany / 91113"
+    label "Anton Bernhard Lauterbach / Germany / 91113 / 1694"
     graphics [
       x 76975.00000
       y 72799.06944
@@ -28598,7 +28598,7 @@ graph [
   node [
     id 1682
     template "oreas:std:rect simple"
-    label "František Josef Studnička / Austria / 682"
+    label "František Josef Studnička / Austria / 682 / 1861"
     graphics [
       x 65175.00000
       y 72799.06944
@@ -28615,7 +28615,7 @@ graph [
   node [
     id 1683
     template "oreas:std:rect simple"
-    label "František Koláček / CzechRepublic / 682"
+    label "František Koláček / CzechRepublic / 682 / 1877"
     graphics [
       x 64350.00000
       y 72799.06944
@@ -28632,7 +28632,7 @@ graph [
   node [
     id 1684
     template "oreas:std:rect simple"
-    label "Franjo Markovic / Austria / 6"
+    label "Franjo Markovic / Austria / 6 / 1871"
     graphics [
       x 72950.00000
       y 72799.06944
@@ -28649,7 +28649,7 @@ graph [
   node [
     id 1685
     template "oreas:std:rect simple"
-    label "Josias Christoph Neander / Germany / 8651"
+    label "Josias Christoph Neander / Germany / 8651 / 1627"
     graphics [
       x 37775.00000
       y 72799.06944
@@ -28666,7 +28666,7 @@ graph [
   node [
     id 1686
     template "oreas:std:rect simple"
-    label "Christian Ernst von Windheim / Germany / 3"
+    label "Christian Ernst von Windheim / Germany / 3 / 1745"
     graphics [
       x 77125.00000
       y 72799.06944
@@ -28683,7 +28683,7 @@ graph [
   node [
     id 1687
     template "oreas:std:rect simple"
-    label "Karl Knies / Germany / 2204"
+    label "Karl Knies / Germany / 2204 / 1846"
     graphics [
       x 78275.00000
       y 72799.06944
@@ -28700,7 +28700,7 @@ graph [
   node [
     id 1688
     template "oreas:std:rect simple"
-    label "Spiru Haretu Haret / France / 0"
+    label "Spiru Haretu Haret / France / 0 / 1878"
     graphics [
       x 79125.00000
       y 72799.06944
@@ -28717,7 +28717,7 @@ graph [
   node [
     id 1689
     template "oreas:std:rect simple"
-    label "Karl Liebmann Daum / Germany / 0"
+    label "Karl Liebmann Daum / Germany / 0 / 1714"
     graphics [
       x 79475.00000
       y 72799.06944
@@ -28734,7 +28734,7 @@ graph [
   node [
     id 1690
     template "oreas:std:rect simple"
-    label "Johann Ludwig Boye / Germany / 4"
+    label "Johann Ludwig Boye / Germany / 4 / 1686"
     graphics [
       x 79600.00000
       y 72799.06944
@@ -28751,7 +28751,7 @@ graph [
   node [
     id 1691
     template "oreas:std:rect simple"
-    label "Fritz Hommel / Germany / 2"
+    label "Fritz Hommel / Germany / 2 / 1877"
     graphics [
       x 73075.00000
       y 72799.06944
@@ -28768,7 +28768,7 @@ graph [
   node [
     id 1692
     template "oreas:std:rect simple"
-    label "Georg Albrecht Hamberger / Germany / 4"
+    label "Georg Albrecht Hamberger / Germany / 4 / 1686"
     graphics [
       x 79725.00000
       y 72799.06944
@@ -28785,7 +28785,7 @@ graph [
   node [
     id 1693
     template "oreas:std:rect simple"
-    label "Nicole Oresme / France / 140067"
+    label "Nicole Oresme / France / 140067 / 1338"
     graphics [
       x 21475.00000
       y 72799.06944
@@ -28802,7 +28802,7 @@ graph [
   node [
     id 1694
     template "oreas:std:rect simple"
-    label "Franz von Paula Gruithuisen / Germany / 0"
+    label "Franz von Paula Gruithuisen / Germany / 0 / 1807"
     graphics [
       x 48950.00000
       y 72799.06944
@@ -28819,7 +28819,7 @@ graph [
   node [
     id 1695
     template "oreas:std:rect simple"
-    label "Johann Nikolaus Müller / Germany / 0"
+    label "Johann Nikolaus Müller / Germany / 0 / 1784"
     graphics [
       x 57262.50000
       y 72799.06944
@@ -28836,7 +28836,7 @@ graph [
   node [
     id 1696
     template "oreas:std:rect simple"
-    label "Johann Christian Rosenmüller / Germany / 378"
+    label "Johann Christian Rosenmüller / Germany / 378 / 1797"
     graphics [
       x 58250.00000
       y 73122.06944
@@ -28853,7 +28853,7 @@ graph [
   node [
     id 1697
     template "oreas:std:rect simple"
-    label "Désiré André / France / 0"
+    label "Désiré André / France / 0 / 1877"
     graphics [
       x 73775.00000
       y 73122.06944
@@ -28870,7 +28870,7 @@ graph [
   node [
     id 1698
     template "oreas:std:rect simple"
-    label "Joseph Louis François Bertrand / France / 1"
+    label "Joseph Louis François Bertrand / France / 1 / 1852"
     graphics [
       x 73975.00000
       y 73122.06944
@@ -28887,7 +28887,7 @@ graph [
   node [
     id 1699
     template "oreas:std:rect simple"
-    label "Valerian Nikolaevich Ligin / Ukraine / 123"
+    label "Valerian Nikolaevich Ligin / Ukraine / 123 / 1872"
     graphics [
       x 47687.50000
       y 73122.06944
@@ -28904,7 +28904,7 @@ graph [
   node [
     id 1700
     template "oreas:std:rect simple"
-    label "Wesley Clair Mitchell / UnitedStates / 298"
+    label "Wesley Clair Mitchell / UnitedStates / 298 / 1899"
     graphics [
       x 64350.00000
       y 73122.06944
@@ -28921,7 +28921,7 @@ graph [
   node [
     id 1701
     template "oreas:std:rect simple"
-    label "Albert Clampius / Germany / 105809"
+    label "Albert Clampius / Germany / 105809 / 1567"
     graphics [
       x 30025.00000
       y 73122.06944
@@ -28938,7 +28938,7 @@ graph [
   node [
     id 1702
     template "oreas:std:rect simple"
-    label "Alexander Stoletov / Russia / 6"
+    label "Alexander Stoletov / Russia / 6 / 1866"
     graphics [
       x 49325.00000
       y 73122.06944
@@ -28955,7 +28955,7 @@ graph [
   node [
     id 1703
     template "oreas:std:rect simple"
-    label "August Foeppl / Germany / 0"
+    label "August Foeppl / Germany / 0 / 1878"
     graphics [
       x 52800.00000
       y 73122.06944
@@ -28972,7 +28972,7 @@ graph [
   node [
     id 1704
     template "oreas:std:rect simple"
-    label "Rudolf Ludwig Karl Virchow / Germany / 0"
+    label "Rudolf Ludwig Karl Virchow / Germany / 0 / 1843"
     graphics [
       x 66125.00000
       y 73122.06944
@@ -28989,7 +28989,7 @@ graph [
   node [
     id 1705
     template "oreas:std:rect simple"
-    label "J. Laurence (James) Laughlin / UnitedStates / 617"
+    label "J. Laurence (James) Laughlin / UnitedStates / 617 / 1876"
     graphics [
       x 64600.00000
       y 73122.06944
@@ -29006,7 +29006,7 @@ graph [
   node [
     id 1706
     template "oreas:std:rect simple"
-    label "Johann Gottlob Haase / Germany / 379"
+    label "Johann Gottlob Haase / Germany / 379 / 1772"
     graphics [
       x 58375.00000
       y 73122.06944
@@ -29023,7 +29023,7 @@ graph [
   node [
     id 1707
     template "oreas:std:rect simple"
-    label "John William Burgess / UnitedStates / 465"
+    label "John William Burgess / UnitedStates / 465 / 1860"
     graphics [
       x 77350.00000
       y 73122.06944
@@ -29040,7 +29040,7 @@ graph [
   node [
     id 1708
     template "oreas:std:rect simple"
-    label "Wilhelm Johann Friedrich von Bezold / Germany / 166"
+    label "Wilhelm Johann Friedrich von Bezold / Germany / 166 / 1855"
     graphics [
       x 73150.00000
       y 73122.06944
@@ -29057,7 +29057,7 @@ graph [
   node [
     id 1709
     template "oreas:std:rect simple"
-    label "Johann Christoph Pohl / Germany / 0"
+    label "Johann Christoph Pohl / Germany / 0 / 1734"
     graphics [
       x 18125.00000
       y 73122.06944
@@ -29074,7 +29074,7 @@ graph [
   node [
     id 1710
     template "oreas:std:rect simple"
-    label "Rudolf Paul Pfeiffer / Germany / 0"
+    label "Rudolf Paul Pfeiffer / Germany / 0 / 1712"
     graphics [
       x 79375.00000
       y 73122.06944
@@ -29091,7 +29091,7 @@ graph [
   node [
     id 1711
     template "oreas:std:rect simple"
-    label "Heinrich Johannes Bütemeister / Germany / 0"
+    label "Heinrich Johannes Bütemeister / Germany / 0 / 1719"
     graphics [
       x 79500.00000
       y 73122.06944
@@ -29108,7 +29108,7 @@ graph [
   node [
     id 1712
     template "oreas:std:rect simple"
-    label "Eduard Meyer / Germany / 1"
+    label "Eduard Meyer / Germany / 1 / 1875"
     graphics [
       x 75350.00000
       y 73122.06944
@@ -29125,7 +29125,7 @@ graph [
   node [
     id 1713
     template "oreas:std:rect simple"
-    label "Georg Ebers / Germany / 2"
+    label "Georg Ebers / Germany / 2 / 1850"
     graphics [
       x 77125.00000
       y 73122.06944
@@ -29142,7 +29142,7 @@ graph [
   node [
     id 1714
     template "oreas:std:rect simple"
-    label "Ludwig Wilhelm Gilbert / Germany / 0"
+    label "Ludwig Wilhelm Gilbert / Germany / 0 / 1794"
     graphics [
       x 64475.00000
       y 73122.06944
@@ -29159,7 +29159,7 @@ graph [
   node [
     id 1715
     template "oreas:std:rect simple"
-    label "Henry Parker Willis / UnitedStates / 316"
+    label "Henry Parker Willis / UnitedStates / 316 / 1897"
     graphics [
       x 64725.00000
       y 73122.06944
@@ -29176,7 +29176,7 @@ graph [
   node [
     id 1716
     template "oreas:std:rect simple"
-    label "Henry Brooks Adams / UnitedStates / 618"
+    label "Henry Brooks Adams / UnitedStates / 618 / 1851"
     graphics [
       x 64975.00000
       y 73122.06944
@@ -29193,7 +29193,7 @@ graph [
   node [
     id 1717
     template "oreas:std:rect simple"
-    label "Johann Georg Rosenhain / Germany / 0"
+    label "Johann Georg Rosenhain / Germany / 0 / 1844"
     graphics [
       x 47450.00000
       y 73122.06944
@@ -29210,7 +29210,7 @@ graph [
   node [
     id 1718
     template "oreas:std:rect simple"
-    label "Frank William Taussig / UnitedStates / 624"
+    label "Frank William Taussig / UnitedStates / 624 / 1883"
     graphics [
       x 64850.00000
       y 73122.06944
@@ -29227,7 +29227,7 @@ graph [
   node [
     id 1719
     template "oreas:std:rect simple"
-    label "Richard Theodore Ely / Germany / 1646"
+    label "Richard Theodore Ely / Germany / 1646 / 1879"
     graphics [
       x 78575.00000
       y 73122.06944
@@ -29244,7 +29244,7 @@ graph [
   node [
     id 1720
     template "oreas:std:rect simple"
-    label "Frederick Jackson Turner / UnitedStates / 290"
+    label "Frederick Jackson Turner / UnitedStates / 290 / 1890"
     graphics [
       x 71900.00000
       y 73122.06944
@@ -29261,7 +29261,7 @@ graph [
   node [
     id 1721
     template "oreas:std:rect simple"
-    label "John Rogers Commons / UnitedStates / 758"
+    label "John Rogers Commons / UnitedStates / 758 / 1890"
     graphics [
       x 78300.00000
       y 73122.06944
@@ -29278,7 +29278,7 @@ graph [
   node [
     id 1722
     template "oreas:std:rect simple"
-    label "William Amasa Scott / UnitedStates / 86"
+    label "William Amasa Scott / UnitedStates / 86 / 1892"
     graphics [
       x 78175.00000
       y 73122.06944
@@ -29295,7 +29295,7 @@ graph [
   node [
     id 1723
     template "oreas:std:rect simple"
-    label "Jacob Harry Hollander / UnitedStates / 268"
+    label "Jacob Harry Hollander / UnitedStates / 268 / 1894"
     graphics [
       x 73025.00000
       y 73122.06944
@@ -29312,7 +29312,7 @@ graph [
   node [
     id 1724
     template "oreas:std:rect simple"
-    label "Gerardus Leonardus Blasius / Netherlands / 92135"
+    label "Gerardus Leonardus Blasius / Netherlands / 92135 / 1644"
     graphics [
       x 39600.00000
       y 73122.06944
@@ -29329,7 +29329,7 @@ graph [
   node [
     id 1725
     template "oreas:std:rect simple"
-    label "Siegmund Jakob Baumgarten / Germany / 90974"
+    label "Siegmund Jakob Baumgarten / Germany / 90974 / 1724"
     graphics [
       x 77000.00000
       y 73122.06944
@@ -29346,7 +29346,7 @@ graph [
   node [
     id 1726
     template "oreas:std:rect simple"
-    label "Walter Francis Willcox / UnitedStates / 549"
+    label "Walter Francis Willcox / UnitedStates / 549 / 1891"
     graphics [
       x 78425.00000
       y 73122.06944
@@ -29363,7 +29363,7 @@ graph [
   node [
     id 1727
     template "oreas:std:rect simple"
-    label "Balthasar Henry Meyer / UnitedStates / 3"
+    label "Balthasar Henry Meyer / UnitedStates / 3 / 1897"
     graphics [
       x 71500.00000
       y 73122.06944
@@ -29380,7 +29380,7 @@ graph [
   node [
     id 1728
     template "oreas:std:rect simple"
-    label "Edwin Robert Anderson Seligman / UnitedStates / 61"
+    label "Edwin Robert Anderson Seligman / UnitedStates / 61 / 1883"
     graphics [
       x 78050.00000
       y 73122.06944
@@ -29397,7 +29397,7 @@ graph [
   node [
     id 1729
     template "oreas:std:rect simple"
-    label "Erasmus Kittler / Germany / 6"
+    label "Erasmus Kittler / Germany / 6 / 1881"
     graphics [
       x 32675.00000
       y 73445.06944
@@ -29414,7 +29414,7 @@ graph [
   node [
     id 1730
     template "oreas:std:rect simple"
-    label "Frank Albert Fetter / Germany / 0"
+    label "Frank Albert Fetter / Germany / 0 / 1894"
     graphics [
       x 77800.00000
       y 73445.06944
@@ -29431,7 +29431,7 @@ graph [
   node [
     id 1731
     template "oreas:std:rect simple"
-    label "Jeremiah Whipple Jenks / Germany / 3"
+    label "Jeremiah Whipple Jenks / Germany / 3 / 1884"
     graphics [
       x 79500.00000
       y 73445.06944
@@ -29448,7 +29448,7 @@ graph [
   node [
     id 1732
     template "oreas:std:rect simple"
-    label "Henry Rogers Seager / UnitedStates / 6"
+    label "Henry Rogers Seager / UnitedStates / 6 / 1894"
     graphics [
       x 78700.00000
       y 73445.06944
@@ -29465,7 +29465,7 @@ graph [
   node [
     id 1733
     template "oreas:std:rect simple"
-    label "Simon Nelson Patten / Germany / 7"
+    label "Simon Nelson Patten / Germany / 7 / 1879"
     graphics [
       x 77950.00000
       y 73445.06944
@@ -29482,7 +29482,7 @@ graph [
   node [
     id 1734
     template "oreas:std:rect simple"
-    label "Harry Alvin Millis / UnitedStates / 1"
+    label "Harry Alvin Millis / UnitedStates / 1 / 1899"
     graphics [
       x 78250.00000
       y 73445.06944
@@ -29499,7 +29499,7 @@ graph [
   node [
     id 1735
     template "oreas:std:rect simple"
-    label "Charles Franklin Dunbar / UnitedStates / 926"
+    label "Charles Franklin Dunbar / UnitedStates / 926 / 1858"
     graphics [
       x 64762.50000
       y 73445.06944
@@ -29516,7 +29516,7 @@ graph [
   node [
     id 1736
     template "oreas:std:rect simple"
-    label "Herbert Baxter Adams / Germany / 573"
+    label "Herbert Baxter Adams / Germany / 573 / 1876"
     graphics [
       x 73025.00000
       y 73445.06944
@@ -29533,7 +29533,7 @@ graph [
   node [
     id 1737
     template "oreas:std:rect simple"
-    label "David Kinley / UnitedStates / 0"
+    label "David Kinley / UnitedStates / 0 / 1893"
     graphics [
       x 78850.00000
       y 73445.06944
@@ -29550,7 +29550,7 @@ graph [
   node [
     id 1738
     template "oreas:std:rect simple"
-    label "Edmund Janes James / Germany / 0"
+    label "Edmund Janes James / Germany / 0 / 1877"
     graphics [
       x 77425.00000
       y 73445.06944
@@ -29567,7 +29567,7 @@ graph [
   node [
     id 1739
     template "oreas:std:rect simple"
-    label "Johann Caspar Bluntschli / Germany / 574"
+    label "Johann Caspar Bluntschli / Germany / 574 / 1829"
     graphics [
       x 72025.00000
       y 73445.06944
@@ -29584,7 +29584,7 @@ graph [
   node [
     id 1740
     template "oreas:std:rect simple"
-    label "George Henry Alden / UnitedStates / 0"
+    label "George Henry Alden / UnitedStates / 0 / 1896"
     graphics [
       x 71775.00000
       y 73445.06944
@@ -29601,7 +29601,7 @@ graph [
   node [
     id 1741
     template "oreas:std:rect simple"
-    label "Samuel Edwin Sparling / UnitedStates / 0"
+    label "Samuel Edwin Sparling / UnitedStates / 0 / 1898"
     graphics [
       x 76350.00000
       y 73445.06944
@@ -29618,7 +29618,7 @@ graph [
   node [
     id 1742
     template "oreas:std:rect simple"
-    label "John Bell Sanborn / UnitedStates / 0"
+    label "John Bell Sanborn / UnitedStates / 0 / 1899"
     graphics [
       x 71650.00000
       y 73445.06944
@@ -29635,7 +29635,7 @@ graph [
   node [
     id 1743
     template "oreas:std:rect simple"
-    label "Paul Samuel Reinsch / UnitedStates / 0"
+    label "Paul Samuel Reinsch / UnitedStates / 0 / 1898"
     graphics [
       x 71900.00000
       y 73445.06944
@@ -29652,7 +29652,7 @@ graph [
   node [
     id 1744
     template "oreas:std:rect simple"
-    label "Carl Copping Plehn / Germany / 0"
+    label "Carl Copping Plehn / Germany / 0 / 1891"
     graphics [
       x 79625.00000
       y 73445.06944
@@ -29669,7 +29669,7 @@ graph [
   node [
     id 1745
     template "oreas:std:rect simple"
-    label "Richmond Mayo-Smith / Germany / 550"
+    label "Richmond Mayo-Smith / Germany / 550 / 1878"
     graphics [
       x 78425.00000
       y 73445.06944
@@ -29686,7 +29686,7 @@ graph [
   node [
     id 1746
     template "oreas:std:rect simple"
-    label "Sidney Sherwood / UnitedStates / 269"
+    label "Sidney Sherwood / UnitedStates / 269 / 1891"
     graphics [
       x 79250.00000
       y 73445.06944
@@ -29703,7 +29703,7 @@ graph [
   node [
     id 1747
     template "oreas:std:rect simple"
-    label "Henry Brayton Gardner / UnitedStates / 0"
+    label "Henry Brayton Gardner / UnitedStates / 0 / 1890"
     graphics [
       x 78975.00000
       y 73445.06944
@@ -29720,7 +29720,7 @@ graph [
   node [
     id 1748
     template "oreas:std:rect simple"
-    label "John Henry Gray / Germany / 0"
+    label "John Henry Gray / Germany / 0 / 1892"
     graphics [
       x 77550.00000
       y 73445.06944
@@ -29737,7 +29737,7 @@ graph [
   node [
     id 1749
     template "oreas:std:rect simple"
-    label "Woodrow (Thomas) Wilson / UnitedStates / 0"
+    label "Woodrow (Thomas) Wilson / UnitedStates / 0 / 1886"
     graphics [
       x 78575.00000
       y 73445.06944
@@ -29754,7 +29754,7 @@ graph [
   node [
     id 1750
     template "oreas:std:rect simple"
-    label "Ernest Ludlow Bogart / Germany / 0"
+    label "Ernest Ludlow Bogart / Germany / 0 / 1897"
     graphics [
       x 77675.00000
       y 73445.06944
@@ -29771,7 +29771,7 @@ graph [
   node [
     id 1751
     template "oreas:std:rect simple"
-    label "John Edward George / Germany / 0"
+    label "John Edward George / Germany / 0 / 1899"
     graphics [
       x 79375.00000
       y 73445.06944
@@ -29788,7 +29788,7 @@ graph [
   node [
     id 1752
     template "oreas:std:rect simple"
-    label "Wilhelm von Beetz / Germany / 7"
+    label "Wilhelm von Beetz / Germany / 7 / 1856"
     graphics [
       x 32550.00000
       y 73445.06944
@@ -29805,7 +29805,7 @@ graph [
   node [
     id 1753
     template "oreas:std:rect simple"
-    label "Henry Huntington Swain / UnitedStates / 0"
+    label "Henry Huntington Swain / UnitedStates / 0 / 1897"
     graphics [
       x 78100.00000
       y 73445.06944
@@ -29822,7 +29822,7 @@ graph [
   node [
     id 1754
     template "oreas:std:rect simple"
-    label "Stuart Wood / UnitedStates / 0"
+    label "Stuart Wood / UnitedStates / 0 / 1875"
     graphics [
       x 64612.50000
       y 73445.06944
@@ -29839,7 +29839,7 @@ graph [
   node [
     id 1755
     template "oreas:std:rect simple"
-    label "Thorstein Bunde Veblen / UnitedStates / 2"
+    label "Thorstein Bunde Veblen / UnitedStates / 2 / 1884"
     graphics [
       x 58237.50000
       y 73445.06944
@@ -29856,7 +29856,7 @@ graph [
   node [
     id 1756
     template "oreas:std:rect simple"
-    label "Herbert Joseph Davenport / UnitedStates / 0"
+    label "Herbert Joseph Davenport / UnitedStates / 0 / 1898"
     graphics [
       x 64425.00000
       y 73445.06944
@@ -29873,7 +29873,7 @@ graph [
   node [
     id 1757
     template "oreas:std:rect simple"
-    label "Oliver Mitchell Wentworth Sprague / UnitedStates / 0"
+    label "Oliver Mitchell Wentworth Sprague / UnitedStates / 0 / 1897"
     graphics [
       x 64912.50000
       y 73445.06944
@@ -29890,7 +29890,7 @@ graph [
   node [
     id 1758
     template "oreas:std:rect simple"
-    label "Johann Christian Hasse / Germany / 575"
+    label "Johann Christian Hasse / Germany / 575 / 1811"
     graphics [
       x 69412.50000
       y 73445.06944
@@ -29907,7 +29907,7 @@ graph [
   node [
     id 1759
     template "oreas:std:rect simple"
-    label "Edward Alsworth Ross / UnitedStates / 5"
+    label "Edward Alsworth Ross / UnitedStates / 5 / 1891"
     graphics [
       x 79100.00000
       y 73445.06944
@@ -29924,7 +29924,7 @@ graph [
   node [
     id 1760
     template "oreas:std:rect simple"
-    label "Charles Jesse Bullock / UnitedStates / 7"
+    label "Charles Jesse Bullock / UnitedStates / 7 / 1895"
     graphics [
       x 77475.00000
       y 73768.06944
@@ -29941,7 +29941,7 @@ graph [
   node [
     id 1761
     template "oreas:std:rect simple"
-    label "Heinrich Friedrich Gretschel / Germany / 0"
+    label "Heinrich Friedrich Gretschel / Germany / 0 / 1873"
     graphics [
       x 22025.00000
       y 73768.06944
@@ -29958,7 +29958,7 @@ graph [
   node [
     id 1762
     template "oreas:std:rect simple"
-    label "Thomas Klingenberg Urdahl / UnitedStates / 0"
+    label "Thomas Klingenberg Urdahl / UnitedStates / 0 / 1897"
     graphics [
       x 78475.00000
       y 73768.06944
@@ -29975,7 +29975,7 @@ graph [
   node [
     id 1763
     template "oreas:std:rect simple"
-    label "Johann Christoph Wentzel / Germany / 2"
+    label "Johann Christoph Wentzel / Germany / 2 / 1674"
     graphics [
       x 31075.00000
       y 73768.06944
@@ -29992,7 +29992,7 @@ graph [
   node [
     id 1764
     template "oreas:std:rect simple"
-    label "Gottfried Christoph Beireis / Germany / 9"
+    label "Gottfried Christoph Beireis / Germany / 9 / 1784"
     graphics [
       x 40450.00000
       y 73768.06944
@@ -30009,7 +30009,7 @@ graph [
   node [
     id 1765
     template "oreas:std:rect simple"
-    label "Carl Gustaf Lundquist / Sweden / 21"
+    label "Carl Gustaf Lundquist / Sweden / 21 / 1869"
     graphics [
       x 71675.00000
       y 73768.06944
@@ -30026,7 +30026,7 @@ graph [
   node [
     id 1766
     template "oreas:std:rect simple"
-    label "Anders Jonas Ångström / Sweden / 22"
+    label "Anders Jonas Ångström / Sweden / 22 / 1839"
     graphics [
       x 68766.66667
       y 73768.06944
@@ -30043,7 +30043,7 @@ graph [
   node [
     id 1767
     template "oreas:std:rect simple"
-    label "Henrik Falck / Sweden / 23"
+    label "Henrik Falck / Sweden / 23 / 1815"
     graphics [
       x 62950.00000
       y 73768.06944
@@ -30060,7 +30060,7 @@ graph [
   node [
     id 1768
     template "oreas:std:rect simple"
-    label "Charles Homer Haskins / UnitedStates / 8"
+    label "Charles Homer Haskins / UnitedStates / 8 / 1891"
     graphics [
       x 72900.00000
       y 73768.06944
@@ -30077,7 +30077,7 @@ graph [
   node [
     id 1769
     template "oreas:std:rect simple"
-    label "Michail Josipowitsch von Dolivo-Dobrowolsky / Germany / 0"
+    label "Michail Josipowitsch von Dolivo-Dobrowolsky / Germany / 0 / 1884"
     graphics [
       x 32675.00000
       y 73768.06944
@@ -30094,7 +30094,7 @@ graph [
   node [
     id 1770
     template "oreas:std:rect simple"
-    label "Georg Friedrich Baermann / Germany / 0"
+    label "Georg Friedrich Baermann / Germany / 0 / 1734"
     graphics [
       x 51550.00000
       y 73768.06944
@@ -30111,7 +30111,7 @@ graph [
   node [
     id 1771
     template "oreas:std:rect simple"
-    label "Christian Friedrich Oechlitz / Germany / 0"
+    label "Christian Friedrich Oechlitz / Germany / 0 / 1745"
     graphics [
       x 51800.00000
       y 73768.06944
@@ -30128,7 +30128,7 @@ graph [
   node [
     id 1772
     template "oreas:std:rect simple"
-    label "Charles McLean Andrews / UnitedStates / 8"
+    label "Charles McLean Andrews / UnitedStates / 8 / 1889"
     graphics [
       x 73025.00000
       y 73768.06944
@@ -30145,7 +30145,7 @@ graph [
   node [
     id 1773
     template "oreas:std:rect simple"
-    label "Georg Sebald Paul Wiegner / Germany / 4"
+    label "Georg Sebald Paul Wiegner / Germany / 4 / 1893"
     graphics [
       x 13850.00000
       y 73768.06944
@@ -30162,7 +30162,7 @@ graph [
   node [
     id 1774
     template "oreas:std:rect simple"
-    label "Alfred Wilhelm Volkmann / Germany / 375"
+    label "Alfred Wilhelm Volkmann / Germany / 375 / 1813"
     graphics [
       x 58450.00000
       y 73768.06944
@@ -30179,7 +30179,7 @@ graph [
   node [
     id 1775
     template "oreas:std:rect simple"
-    label "Anton Lampa / Austria / 0"
+    label "Anton Lampa / Austria / 0 / 1893"
     graphics [
       x 53862.50000
       y 73768.06944
@@ -30196,7 +30196,7 @@ graph [
   node [
     id 1776
     template "oreas:std:rect simple"
-    label "Johann Puluj / Germany / 0"
+    label "Johann Puluj / Germany / 0 / 1876"
     graphics [
       x 51675.00000
       y 73768.06944
@@ -30213,7 +30213,7 @@ graph [
   node [
     id 1777
     template "oreas:std:rect simple"
-    label "Friedrich Wilhelm Spehr / Germany / 0"
+    label "Friedrich Wilhelm Spehr / Germany / 0 / 1824"
     graphics [
       x 77200.00000
       y 73768.06944
@@ -30230,7 +30230,7 @@ graph [
   node [
     id 1778
     template "oreas:std:rect simple"
-    label "Hermann Cäsar Hannibal Schubert / Germany / 1"
+    label "Hermann Cäsar Hannibal Schubert / Germany / 1 / 1858"
     graphics [
       x 22150.00000
       y 73768.06944
@@ -30247,7 +30247,7 @@ graph [
   node [
     id 1779
     template "oreas:std:rect simple"
-    label "Bernhard Oscar Herrmann / Germany / 0"
+    label "Bernhard Oscar Herrmann / Germany / 0 / 1883"
     graphics [
       x 7900.000000
       y 73768.06944
@@ -30264,7 +30264,7 @@ graph [
   node [
     id 1780
     template "oreas:std:rect simple"
-    label "Gustav Berger / Germany / 0"
+    label "Gustav Berger / Germany / 0 / 1885"
     graphics [
       x 55375.00000
       y 73768.06944
@@ -30281,7 +30281,7 @@ graph [
   node [
     id 1781
     template "oreas:std:rect simple"
-    label "Rudolf Besser / Germany / 0"
+    label "Rudolf Besser / Germany / 0 / 1885"
     graphics [
       x 13725.00000
       y 73768.06944
@@ -30298,7 +30298,7 @@ graph [
   node [
     id 1782
     template "oreas:std:rect simple"
-    label "Albert Shaw / UnitedStates / 0"
+    label "Albert Shaw / UnitedStates / 0 / 1884"
     graphics [
       x 79175.00000
       y 73768.06944
@@ -30315,7 +30315,7 @@ graph [
   node [
     id 1783
     template "oreas:std:rect simple"
-    label "Herbert Levi Osgood / UnitedStates / 0"
+    label "Herbert Levi Osgood / UnitedStates / 0 / 1889"
     graphics [
       x 77350.00000
       y 73768.06944
@@ -30332,7 +30332,7 @@ graph [
   node [
     id 1784
     template "oreas:std:rect simple"
-    label "Anton Cornely / Germany / 0"
+    label "Anton Cornely / Germany / 0 / 1891"
     graphics [
       x 63425.00000
       y 73768.06944
@@ -30349,7 +30349,7 @@ graph [
   node [
     id 1785
     template "oreas:std:rect simple"
-    label "Karl Quensen / Germany / 0"
+    label "Karl Quensen / Germany / 0 / 1884"
     graphics [
       x 73900.00000
       y 73768.06944
@@ -30366,7 +30366,7 @@ graph [
   node [
     id 1786
     template "oreas:std:rect simple"
-    label "Balthasar Meisner / Germany / 0"
+    label "Balthasar Meisner / Germany / 0 / 1603"
     graphics [
       x 28325.00000
       y 73768.06944
@@ -30383,7 +30383,7 @@ graph [
   node [
     id 1787
     template "oreas:std:rect simple"
-    label "Wolfgang Ludwig Krafft / Germany / 0"
+    label "Wolfgang Ludwig Krafft / Germany / 0 / 1764"
     graphics [
       x 71275.00000
       y 73768.06944
@@ -30400,7 +30400,7 @@ graph [
   node [
     id 1788
     template "oreas:std:rect simple"
-    label "Gottfried Bardil / Germany / 0"
+    label "Gottfried Bardil / Germany / 0 / 1780"
     graphics [
       x 71025.00000
       y 73768.06944
@@ -30417,7 +30417,7 @@ graph [
   node [
     id 1789
     template "oreas:std:rect simple"
-    label "Friedrich Wilhelm Köstlin / Germany / 0"
+    label "Friedrich Wilhelm Köstlin / Germany / 0 / 1779"
     graphics [
       x 72075.00000
       y 73768.06944
@@ -30434,7 +30434,7 @@ graph [
   node [
     id 1790
     template "oreas:std:rect simple"
-    label "Victor Heinrich Riecke / Germany / 0"
+    label "Victor Heinrich Riecke / Germany / 0 / 1778"
     graphics [
       x 71550.00000
       y 73768.06944
@@ -30451,7 +30451,7 @@ graph [
   node [
     id 1791
     template "oreas:std:rect simple"
-    label "Johann Friedrich Flatt / Germany / 0"
+    label "Johann Friedrich Flatt / Germany / 0 / 1777"
     graphics [
       x 72400.00000
       y 73768.06944
@@ -30468,7 +30468,7 @@ graph [
   node [
     id 1792
     template "oreas:std:rect simple"
-    label "Carl Heinrich Köstlin / Germany / 0"
+    label "Carl Heinrich Köstlin / Germany / 0 / 1775"
     graphics [
       x 71800.00000
       y 73768.06944
@@ -30485,7 +30485,7 @@ graph [
   node [
     id 1793
     template "oreas:std:rect simple"
-    label "Christoph F. Hellwag / Germany / 0"
+    label "Christoph F. Hellwag / Germany / 0 / 1774"
     graphics [
       x 71400.00000
       y 73768.06944
@@ -30502,7 +30502,7 @@ graph [
   node [
     id 1794
     template "oreas:std:rect simple"
-    label "Theodor Friedrich Jacob König / Germany / 0"
+    label "Theodor Friedrich Jacob König / Germany / 0 / 1774"
     graphics [
       x 72250.00000
       y 73768.06944
@@ -30519,7 +30519,7 @@ graph [
   node [
     id 1795
     template "oreas:std:rect simple"
-    label "Tobias Benignus Christoph Enslen / Germany / 0"
+    label "Tobias Benignus Christoph Enslen / Germany / 0 / 1774"
     graphics [
       x 71150.00000
       y 73768.06944
@@ -30536,7 +30536,7 @@ graph [
   node [
     id 1796
     template "oreas:std:rect simple"
-    label "August Johann Andreas Wiedersheim / Germany / 0"
+    label "August Johann Andreas Wiedersheim / Germany / 0 / 1773"
     graphics [
       x 72175.00000
       y 74091.06944
@@ -30553,7 +30553,7 @@ graph [
   node [
     id 1797
     template "oreas:std:rect simple"
-    label "August Christian von Reuß / Germany / 0"
+    label "August Christian von Reuß / Germany / 0 / 1773"
     graphics [
       x 72050.00000
       y 74091.06944
@@ -30570,7 +30570,7 @@ graph [
   node [
     id 1798
     template "oreas:std:rect simple"
-    label "Ludwig Timotheus von Spittler / Germany / 0"
+    label "Ludwig Timotheus von Spittler / Germany / 0 / 1772"
     graphics [
       x 72625.00000
       y 74091.06944
@@ -30587,7 +30587,7 @@ graph [
   node [
     id 1799
     template "oreas:std:rect simple"
-    label "Christian Matthias Theodor Breunlin / Germany / 0"
+    label "Christian Matthias Theodor Breunlin / Germany / 0 / 1772"
     graphics [
       x 72750.00000
       y 74091.06944
@@ -30604,7 +30604,7 @@ graph [
   node [
     id 1800
     template "oreas:std:rect simple"
-    label "Philipp F. Jäger / Germany / 0"
+    label "Philipp F. Jäger / Germany / 0 / 1771"
     graphics [
       x 70950.00000
       y 74091.06944
@@ -30621,7 +30621,7 @@ graph [
   node [
     id 1801
     template "oreas:std:rect simple"
-    label "Johannes Heinrich Rümelin / Germany / 0"
+    label "Johannes Heinrich Rümelin / Germany / 0 / 1770"
     graphics [
       x 72500.00000
       y 74091.06944
@@ -30638,7 +30638,7 @@ graph [
   node [
     id 1802
     template "oreas:std:rect simple"
-    label "Johann Heinrich Hochstetter / Germany / 0"
+    label "Johann Heinrich Hochstetter / Germany / 0 / 1770"
     graphics [
       x 72375.00000
       y 74091.06944
@@ -30655,7 +30655,7 @@ graph [
   node [
     id 1803
     template "oreas:std:rect simple"
-    label "Viktor Knorre / Germany / 0"
+    label "Viktor Knorre / Germany / 0 / 1867"
     graphics [
       x 79800.00000
       y 74091.06944
@@ -30672,7 +30672,7 @@ graph [
   node [
     id 1804
     template "oreas:std:rect simple"
-    label "Francis Kennedy / Germany / 0"
+    label "Francis Kennedy / Germany / 0 / 1897"
     graphics [
       x 74425.00000
       y 74091.06944
@@ -30689,7 +30689,7 @@ graph [
   node [
     id 1805
     template "oreas:std:rect simple"
-    label "Franz Volkmar Reinhard / Germany / 1487"
+    label "Franz Volkmar Reinhard / Germany / 1487 / 1769"
     graphics [
       x 30100.00000
       y 74091.06944
@@ -30706,7 +30706,7 @@ graph [
   node [
     id 1806
     template "oreas:std:rect simple"
-    label "Carl Ortlob / Germany / 0"
+    label "Carl Ortlob / Germany / 0 / 1649"
     graphics [
       x 27950.00000
       y 74091.06944
@@ -30723,7 +30723,7 @@ graph [
   node [
     id 1807
     template "oreas:std:rect simple"
-    label "Melchior Teschner / Germany / 0"
+    label "Melchior Teschner / Germany / 0 / 1655"
     graphics [
       x 27075.00000
       y 74091.06944
@@ -30740,7 +30740,7 @@ graph [
   node [
     id 1808
     template "oreas:std:rect simple"
-    label "Andreas Fridericus / Germany / 0"
+    label "Andreas Fridericus / Germany / 0 / 1644"
     graphics [
       x 28200.00000
       y 74091.06944
@@ -30757,7 +30757,7 @@ graph [
   node [
     id 1809
     template "oreas:std:rect simple"
-    label "Anton Burmeister / Germany / 0"
+    label "Anton Burmeister / Germany / 0 / 1650"
     graphics [
       x 27700.00000
       y 74091.06944
@@ -30774,7 +30774,7 @@ graph [
   node [
     id 1810
     template "oreas:std:rect simple"
-    label "Andreas Marquardi / Germany / 0"
+    label "Andreas Marquardi / Germany / 0 / 1660"
     graphics [
       x 27200.00000
       y 74091.06944
@@ -30791,7 +30791,7 @@ graph [
   node [
     id 1811
     template "oreas:std:rect simple"
-    label "Bernhard Mittendorff / Germany / 0"
+    label "Bernhard Mittendorff / Germany / 0 / 1661"
     graphics [
       x 27325.00000
       y 74091.06944
@@ -30808,7 +30808,7 @@ graph [
   node [
     id 1812
     template "oreas:std:rect simple"
-    label "Christoph Daniel Schreiter / Germany / 0"
+    label "Christoph Daniel Schreiter / Germany / 0 / 1651"
     graphics [
       x 28075.00000
       y 74091.06944
@@ -30825,7 +30825,7 @@ graph [
   node [
     id 1813
     template "oreas:std:rect simple"
-    label "Alexander Caspar / Germany / 0"
+    label "Alexander Caspar / Germany / 0 / 1646"
     graphics [
       x 27575.00000
       y 74091.06944
@@ -30842,7 +30842,7 @@ graph [
   node [
     id 1814
     template "oreas:std:rect simple"
-    label "Jacob Reichmann / Germany / 0"
+    label "Jacob Reichmann / Germany / 0 / 1652"
     graphics [
       x 27450.00000
       y 74091.06944
@@ -30859,7 +30859,7 @@ graph [
   node [
     id 1815
     template "oreas:std:rect simple"
-    label "Heinrich Zeidler / Germany / 0"
+    label "Heinrich Zeidler / Germany / 0 / 1655"
     graphics [
       x 27825.00000
       y 74091.06944
@@ -30876,7 +30876,7 @@ graph [
   node [
     id 1816
     template "oreas:std:rect simple"
-    label "Albert Luther Candy / UnitedStates / 0"
+    label "Albert Luther Candy / UnitedStates / 0 / 1896"
     graphics [
       x 80550.00000
       y 74091.06944
@@ -30893,7 +30893,7 @@ graph [
   node [
     id 1817
     template "oreas:std:rect simple"
-    label "Carl Christian Engberg / UnitedStates / 0"
+    label "Carl Christian Engberg / UnitedStates / 0 / 1899"
     graphics [
       x 81050.00000
       y 74091.06944
@@ -30910,7 +30910,7 @@ graph [
   node [
     id 1818
     template "oreas:std:rect simple"
-    label "Ellery William Davis / UnitedStates / 4"
+    label "Ellery William Davis / UnitedStates / 4 / 1884"
     graphics [
       x 80675.00000
       y 74091.06944
@@ -30927,7 +30927,7 @@ graph [
   node [
     id 1819
     template "oreas:std:rect simple"
-    label "George Stetson Ely / UnitedStates / 0"
+    label "George Stetson Ely / UnitedStates / 0 / 1883"
     graphics [
       x 79925.00000
       y 74091.06944
@@ -30944,7 +30944,7 @@ graph [
   node [
     id 1820
     template "oreas:std:rect simple"
-    label "William Pitt Durfee / UnitedStates / 0"
+    label "William Pitt Durfee / UnitedStates / 0 / 1883"
     graphics [
       x 80800.00000
       y 74091.06944
@@ -30961,7 +30961,7 @@ graph [
   node [
     id 1821
     template "oreas:std:rect simple"
-    label "Washington Irving Stringham / UnitedStates / 1"
+    label "Washington Irving Stringham / UnitedStates / 1 / 1880"
     graphics [
       x 80300.00000
       y 74091.06944
@@ -30978,7 +30978,7 @@ graph [
   node [
     id 1822
     template "oreas:std:rect simple"
-    label "George Bruce Halsted / UnitedStates / 0"
+    label "George Bruce Halsted / UnitedStates / 0 / 1879"
     graphics [
       x 80175.00000
       y 74091.06944
@@ -30995,7 +30995,7 @@ graph [
   node [
     id 1823
     template "oreas:std:rect simple"
-    label "Oscar Howard Mitchell / UnitedStates / 0"
+    label "Oscar Howard Mitchell / UnitedStates / 0 / 1882"
     graphics [
       x 80050.00000
       y 74091.06944
@@ -31012,7 +31012,7 @@ graph [
   node [
     id 1824
     template "oreas:std:rect simple"
-    label "James Joseph Sylvester / UnitedStates / 14"
+    label "James Joseph Sylvester / UnitedStates / 14 / 1857"
     graphics [
       x 80425.00000
       y 74091.06944
@@ -31029,7 +31029,7 @@ graph [
   node [
     id 1825
     template "oreas:std:rect simple"
-    label "Fabian Franklin / UnitedStates / 0"
+    label "Fabian Franklin / UnitedStates / 0 / 1880"
     graphics [
       x 80925.00000
       y 74091.06944
@@ -31046,7 +31046,7 @@ graph [
   node [
     id 1826
     template "oreas:std:rect simple"
-    label "Arnold Emch / UnitedStates / 16"
+    label "Arnold Emch / UnitedStates / 16 / 1895"
     graphics [
       x 81175.00000
       y 74091.06944
@@ -31063,7 +31063,7 @@ graph [
   node [
     id 1827
     template "oreas:std:rect simple"
-    label "Henry Byron Newson / UnitedStates / 19"
+    label "Henry Byron Newson / UnitedStates / 19 / 1870"
     graphics [
       x 81300.00000
       y 74091.06944
@@ -31080,7 +31080,7 @@ graph [
   node [
     id 1828
     template "oreas:std:rect simple"
-    label "Ruth Gentry / UnitedStates / 0"
+    label "Ruth Gentry / UnitedStates / 0 / 1896"
     graphics [
       x 83879.16667
       y 74091.06944
@@ -31097,7 +31097,7 @@ graph [
   node [
     id 1829
     template "oreas:std:rect simple"
-    label "Charlotte Angas Scott / UnitedKingdom / 8"
+    label "Charlotte Angas Scott / UnitedKingdom / 8 / 1885"
     graphics [
       x 84004.16667
       y 74091.06944
@@ -31114,7 +31114,7 @@ graph [
   node [
     id 1830
     template "oreas:std:rect simple"
-    label "James Harkness / UnitedStates / 1"
+    label "James Harkness / UnitedStates / 1 / 1874"
     graphics [
       x 84712.50000
       y 74091.06944
@@ -31131,7 +31131,7 @@ graph [
   node [
     id 1831
     template "oreas:std:rect simple"
-    label "Emilie Norton Martin / UnitedStates / 0"
+    label "Emilie Norton Martin / UnitedStates / 0 / 1899"
     graphics [
       x 84512.50000
       y 74091.06944
@@ -31148,7 +31148,7 @@ graph [
   node [
     id 1832
     template "oreas:std:rect simple"
-    label "Arthur Cayley / Netherlands / 7518"
+    label "Arthur Cayley / Netherlands / 7518 / 1864"
     graphics [
       x 83754.16667
       y 74091.06944
@@ -31165,7 +31165,7 @@ graph [
   node [
     id 1833
     template "oreas:std:rect simple"
-    label "Ernest William Brown / UnitedKingdom / 9"
+    label "Ernest William Brown / UnitedKingdom / 9 / 1897"
     graphics [
       x 84237.50000
       y 74091.06944
@@ -31182,7 +31182,7 @@ graph [
   node [
     id 1834
     template "oreas:std:rect simple"
-    label "George Howard Darwin / UnitedKingdom / 7002"
+    label "George Howard Darwin / UnitedKingdom / 7002 / 1871"
     graphics [
       x 84237.50000
       y 74216.84722
@@ -31199,7 +31199,7 @@ graph [
   node [
     id 1835
     template "oreas:std:rect simple"
-    label "Andrew Russell Forsyth / UnitedKingdom / 6992"
+    label "Andrew Russell Forsyth / UnitedKingdom / 6992 / 1881"
     graphics [
       x 83812.50000
       y 74216.84722
@@ -31216,7 +31216,7 @@ graph [
   node [
     id 1836
     template "oreas:std:rect simple"
-    label "Edmund Taylor Whittaker / UnitedKingdom / 6991"
+    label "Edmund Taylor Whittaker / UnitedKingdom / 6991 / 1895"
     graphics [
       x 84387.50000
       y 74216.84722
@@ -31233,7 +31233,7 @@ graph [
   node [
     id 1837
     template "oreas:std:rect simple"
-    label "Sir Francis Galton / UnitedKingdom / 4026"
+    label "Sir Francis Galton / UnitedKingdom / 4026 / 1847"
     graphics [
       x 84512.50000
       y 74216.84722
@@ -31250,7 +31250,7 @@ graph [
   node [
     id 1838
     template "oreas:std:rect simple"
-    label "Karl Pearson / UnitedKingdom / 4025"
+    label "Karl Pearson / UnitedKingdom / 4025 / 1879"
     graphics [
       x 84787.50000
       y 74216.84722
@@ -31267,7 +31267,7 @@ graph [
   node [
     id 1839
     template "oreas:std:rect simple"
-    label "George Chrystal / UnitedKingdom / 545"
+    label "George Chrystal / UnitedKingdom / 545 / 1875"
     graphics [
       x 84912.50000
       y 74216.84722
@@ -31284,7 +31284,7 @@ graph [
   node [
     id 1840
     template "oreas:std:rect simple"
-    label "Isabel Maddison / UnitedStates / 0"
+    label "Isabel Maddison / UnitedStates / 0 / 1896"
     graphics [
       x 83987.50000
       y 74216.84722
@@ -31301,7 +31301,7 @@ graph [
   node [
     id 1841
     template "oreas:std:rect simple"
-    label "William Hopkins / UnitedKingdom / 14749"
+    label "William Hopkins / UnitedKingdom / 14749 / 1830"
     graphics [
       x 83562.50000
       y 74216.84722
@@ -31318,7 +31318,7 @@ graph [
   node [
     id 1842
     template "oreas:std:rect simple"
-    label "Joseph John Thomson / UnitedKingdom / 2509"
+    label "Joseph John Thomson / UnitedKingdom / 2509 / 1883"
     graphics [
       x 82437.50000
       y 74216.84722
@@ -31335,7 +31335,7 @@ graph [
   node [
     id 1843
     template "oreas:std:rect simple"
-    label "Isaac Barrow / UnitedKingdom / 14759"
+    label "Isaac Barrow / UnitedKingdom / 14759 / 1643"
     graphics [
       x 82312.50000
       y 74216.84722
@@ -31352,7 +31352,7 @@ graph [
   node [
     id 1844
     template "oreas:std:rect simple"
-    label "Isaac Newton / UnitedKingdom / 14758"
+    label "Isaac Newton / UnitedKingdom / 14758 / 1668"
     graphics [
       x 82062.50000
       y 74216.84722
@@ -31369,7 +31369,7 @@ graph [
   node [
     id 1845
     template "oreas:std:rect simple"
-    label "Alfred North Whitehead / UnitedKingdom / 1233"
+    label "Alfred North Whitehead / UnitedKingdom / 1233 / 1884"
     graphics [
       x 83312.50000
       y 74216.84722
@@ -31386,7 +31386,7 @@ graph [
   node [
     id 1846
     template "oreas:std:rect simple"
-    label "Edward John Routh / UnitedKingdom / 10272"
+    label "Edward John Routh / UnitedKingdom / 10272 / 1857"
     graphics [
       x 83437.50000
       y 74216.84722
@@ -31403,7 +31403,7 @@ graph [
   node [
     id 1847
     template "oreas:std:rect simple"
-    label "John William Strutt (Lord Rayleigh) / UnitedKingdom / 2511"
+    label "John William Strutt (Lord Rayleigh) / UnitedKingdom / 2511 / 1868"
     graphics [
       x 82812.50000
       y 74216.84722
@@ -31420,7 +31420,7 @@ graph [
   node [
     id 1848
     template "oreas:std:rect simple"
-    label "Thomas Jones / UnitedKingdom / 14751"
+    label "Thomas Jones / UnitedKingdom / 14751 / 1782"
     graphics [
       x 82562.50000
       y 74216.84722
@@ -31437,7 +31437,7 @@ graph [
   node [
     id 1849
     template "oreas:std:rect simple"
-    label "John Dawson / UnitedKingdom / 14751"
+    label "John Dawson / UnitedKingdom / 14751 / 1786"
     graphics [
       x 83062.50000
       y 74216.84722
@@ -31454,7 +31454,7 @@ graph [
   node [
     id 1850
     template "oreas:std:rect simple"
-    label "Adam Sedgwick / UnitedKingdom / 14750"
+    label "Adam Sedgwick / UnitedKingdom / 14750 / 1811"
     graphics [
       x 82937.50000
       y 74216.84722
@@ -31471,7 +31471,7 @@ graph [
   node [
     id 1851
     template "oreas:std:rect simple"
-    label "George Gabriel Stokes / UnitedKingdom / 2513"
+    label "George Gabriel Stokes / UnitedKingdom / 2513 / 1841"
     graphics [
       x 83187.50000
       y 74216.84722
@@ -31488,7 +31488,7 @@ graph [
   node [
     id 1852
     template "oreas:std:rect simple"
-    label "John Cranke / UnitedKingdom / 14752"
+    label "John Cranke / UnitedKingdom / 14752 / 1757"
     graphics [
       x 82687.50000
       y 74216.84722
@@ -31505,7 +31505,7 @@ graph [
   node [
     id 1853
     template "oreas:std:rect simple"
-    label "Roger Cotes / UnitedKingdom / 14756"
+    label "Roger Cotes / UnitedKingdom / 14756 / 1706"
     graphics [
       x 81687.50000
       y 74216.84722
@@ -31522,7 +31522,7 @@ graph [
   node [
     id 1854
     template "oreas:std:rect simple"
-    label "Robert Smith / UnitedKingdom / 14755"
+    label "Robert Smith / UnitedKingdom / 14755 / 1715"
     graphics [
       x 81562.50000
       y 74216.84722
@@ -31539,7 +31539,7 @@ graph [
   node [
     id 1855
     template "oreas:std:rect simple"
-    label "James Clerk Maxwell / UnitedKingdom / 547"
+    label "James Clerk Maxwell / UnitedKingdom / 547 / 1854"
     graphics [
       x 84637.50000
       y 74216.84722
@@ -31556,7 +31556,7 @@ graph [
   node [
     id 1856
     template "oreas:std:rect simple"
-    label "William Whiston / UnitedKingdom / 0"
+    label "William Whiston / UnitedKingdom / 0 / 1695"
     graphics [
       x 81812.50000
       y 74216.84722
@@ -31573,7 +31573,7 @@ graph [
   node [
     id 1857
     template "oreas:std:rect simple"
-    label "Benjamin Pulleyn / UnitedKingdom / 14759"
+    label "Benjamin Pulleyn / UnitedKingdom / 14759 / 1643"
     graphics [
       x 82187.50000
       y 74216.84722
@@ -31590,7 +31590,7 @@ graph [
   node [
     id 1858
     template "oreas:std:rect simple"
-    label "Horace Lamb / UnitedKingdom / 0"
+    label "Horace Lamb / UnitedKingdom / 0 / 1872"
     graphics [
       x 84112.50000
       y 74216.84722
@@ -31607,7 +31607,7 @@ graph [
   node [
     id 1859
     template "oreas:std:rect simple"
-    label "Isaac Todhunter / UnitedKingdom / 10273"
+    label "Isaac Todhunter / UnitedKingdom / 10273 / 1848"
     graphics [
       x 83687.50000
       y 74216.84722
@@ -31624,7 +31624,7 @@ graph [
   node [
     id 1860
     template "oreas:std:rect simple"
-    label "Thomas Postlethwaite / UnitedKingdom / 14752"
+    label "Thomas Postlethwaite / UnitedKingdom / 14752 / 1756"
     graphics [
       x 81937.50000
       y 74216.84722
@@ -31641,7 +31641,7 @@ graph [
   node [
     id 1861
     template "oreas:std:rect simple"
-    label "Stephen Whisson / UnitedKingdom / 14753"
+    label "Stephen Whisson / UnitedKingdom / 14753 / 1742"
     graphics [
       x 81437.50000
       y 74216.84722
@@ -31658,7 +31658,7 @@ graph [
   node [
     id 1862
     template "oreas:std:rect simple"
-    label "Walter Taylor / UnitedKingdom / 14754"
+    label "Walter Taylor / UnitedKingdom / 14754 / 1723"
     graphics [
       x 81312.50000
       y 74216.84722
@@ -31675,7 +31675,7 @@ graph [
   node [
     id 1863
     template "oreas:std:rect simple"
-    label "William Henry Bragg / UnitedKingdom / 36"
+    label "William Henry Bragg / UnitedKingdom / 36 / 1885"
     graphics [
       x 83437.50000
       y 74427.34722
@@ -31692,7 +31692,7 @@ graph [
   node [
     id 1864
     template "oreas:std:rect simple"
-    label "Justus Friedrich Wippermann / Germany / 1"
+    label "Justus Friedrich Wippermann / Germany / 1 / 1674"
     graphics [
       x 85112.50000
       y 74427.34722
@@ -31709,7 +31709,7 @@ graph [
   node [
     id 1865
     template "oreas:std:rect simple"
-    label "Nicolaus Storch / Germany / 0"
+    label "Nicolaus Storch / Germany / 0 / 1688"
     graphics [
       x 85237.50000
       y 74427.34722
@@ -31726,7 +31726,7 @@ graph [
   node [
     id 1866
     template "oreas:std:rect simple"
-    label "Johann Helfrich Chuno / Germany / 2"
+    label "Johann Helfrich Chuno / Germany / 2 / 1649"
     graphics [
       x 84987.50000
       y 74427.34722
@@ -31743,7 +31743,7 @@ graph [
   node [
     id 1867
     template "oreas:std:rect simple"
-    label "Joseph Johann von Littrow / Russia / 11967"
+    label "Joseph Johann von Littrow / Russia / 11967 / 1798"
     graphics [
       x 86362.50000
       y 74427.34722
@@ -31760,7 +31760,7 @@ graph [
   node [
     id 1868
     template "oreas:std:rect simple"
-    label "Nikolai Dmitrievich Brashman / Russia / 11965"
+    label "Nikolai Dmitrievich Brashman / Russia / 11965 / 1834"
     graphics [
       x 86487.50000
       y 74427.34722
@@ -31777,7 +31777,7 @@ graph [
   node [
     id 1869
     template "oreas:std:rect simple"
-    label "Pafnuty Lvovich Chebyshev / Russia / 11963"
+    label "Pafnuty Lvovich Chebyshev / Russia / 11963 / 1849"
     graphics [
       x 85737.50000
       y 74427.34722
@@ -31794,7 +31794,7 @@ graph [
   node [
     id 1870
     template "oreas:std:rect simple"
-    label "Andrei Andreyevich Markov / Russia / 9320"
+    label "Andrei Andreyevich Markov / Russia / 9320 / 1884"
     graphics [
       x 86612.50000
       y 74427.34722
@@ -31811,7 +31811,7 @@ graph [
   node [
     id 1871
     template "oreas:std:rect simple"
-    label "Georgy Fedoseevich Voronoy / Russia / 6162"
+    label "Georgy Fedoseevich Voronoy / Russia / 6162 / 1896"
     graphics [
       x 86862.50000
       y 74427.34722
@@ -31828,7 +31828,7 @@ graph [
   node [
     id 1872
     template "oreas:std:rect simple"
-    label "Aleksandr Mikhailovich Lyapunov / Russia / 1100"
+    label "Aleksandr Mikhailovich Lyapunov / Russia / 1100 / 1885"
     graphics [
       x 85487.50000
       y 74427.34722
@@ -31845,7 +31845,7 @@ graph [
   node [
     id 1873
     template "oreas:std:rect simple"
-    label "Alexander Nikolaevich Korkin / Russia / 3487"
+    label "Alexander Nikolaevich Korkin / Russia / 3487 / 1860"
     graphics [
       x 85862.50000
       y 74427.34722
@@ -31862,7 +31862,7 @@ graph [
   node [
     id 1874
     template "oreas:std:rect simple"
-    label "Dmitry Aleksandrovich Grave / Russia / 2914"
+    label "Dmitry Aleksandrovich Grave / Russia / 2914 / 1896"
     graphics [
       x 85987.50000
       y 74427.34722
@@ -31879,7 +31879,7 @@ graph [
   node [
     id 1875
     template "oreas:std:rect simple"
-    label "Ivan Mikhajlovich Simonov / Russia / 0"
+    label "Ivan Mikhajlovich Simonov / Russia / 0 / 1812"
     graphics [
       x 86237.50000
       y 74427.34722
@@ -31896,7 +31896,7 @@ graph [
   node [
     id 1876
     template "oreas:std:rect simple"
-    label "Konstantin Aleksandrovich Posse / Russia / 517"
+    label "Konstantin Aleksandrovich Posse / Russia / 517 / 1882"
     graphics [
       x 86112.50000
       y 74427.34722
@@ -31913,7 +31913,7 @@ graph [
   node [
     id 1877
     template "oreas:std:rect simple"
-    label "Nikolai Ivanovich Lobachevsky / Russia / 11966"
+    label "Nikolai Ivanovich Lobachevsky / Russia / 11966 / 1809"
     graphics [
       x 86737.50000
       y 74427.34722
@@ -31930,7 +31930,7 @@ graph [
   node [
     id 1878
     template "oreas:std:rect simple"
-    label "Aleksandr Vasil'evich Vasil'ev / Russia / 177"
+    label "Aleksandr Vasil'evich Vasil'ev / Russia / 177 / 1884"
     graphics [
       x 85612.50000
       y 74427.34722
@@ -31947,7 +31947,7 @@ graph [
   node [
     id 1879
     template "oreas:std:rect simple"
-    label "Yegor Ivanovich Zolotarev / Russia / 0"
+    label "Yegor Ivanovich Zolotarev / Russia / 0 / 1867"
     graphics [
       x 85362.50000
       y 74427.34722
@@ -31964,7 +31964,7 @@ graph [
   node [
     id 1880
     template "oreas:std:rect simple"
-    label "Axel Thue / Norway / 362"
+    label "Axel Thue / Norway / 362 / 1889"
     graphics [
       x 87112.50000
       y 74427.34722
@@ -31981,7 +31981,7 @@ graph [
   node [
     id 1881
     template "oreas:std:rect simple"
-    label "Elling Holst / Norway / 363"
+    label "Elling Holst / Norway / 363 / 1864"
     graphics [
       x 86987.50000
       y 74427.34722
@@ -31998,7 +31998,7 @@ graph [
   node [
     id 1882
     template "oreas:std:rect simple"
-    label "Francesco Brioschi / Italy / 1812"
+    label "Francesco Brioschi / Italy / 1812 / 1845"
     graphics [
       x 88937.50000
       y 74427.34722
@@ -32015,7 +32015,7 @@ graph [
   node [
     id 1883
     template "oreas:std:rect simple"
-    label "Antonio Luigi Gaudenzio Giuseppe Cremona / Italy / 1807"
+    label "Antonio Luigi Gaudenzio Giuseppe Cremona / Italy / 1807 / 1853"
     graphics [
       x 88812.50000
       y 74427.34722
@@ -32032,7 +32032,7 @@ graph [
   node [
     id 1884
     template "oreas:std:rect simple"
-    label "Giuseppe Veronese / Italy / 1780"
+    label "Giuseppe Veronese / Italy / 1780 / 1877"
     graphics [
       x 88062.50000
       y 74427.34722
@@ -32049,7 +32049,7 @@ graph [
   node [
     id 1885
     template "oreas:std:rect simple"
-    label "Guido Castelnuovo / Italy / 1779"
+    label "Guido Castelnuovo / Italy / 1779 / 1886"
     graphics [
       x 87937.50000
       y 74427.34722
@@ -32066,7 +32066,7 @@ graph [
   node [
     id 1886
     template "oreas:std:rect simple"
-    label "Cesare Arzelà / Italy / 533"
+    label "Cesare Arzelà / Italy / 533 / 1871"
     graphics [
       x 87362.50000
       y 74427.34722
@@ -32083,7 +32083,7 @@ graph [
   node [
     id 1887
     template "oreas:std:rect simple"
-    label "Pietro Paoli / Italy / 1817"
+    label "Pietro Paoli / Italy / 1817 / 1763"
     graphics [
       x 88312.50000
       y 74427.34722
@@ -32100,7 +32100,7 @@ graph [
   node [
     id 1888
     template "oreas:std:rect simple"
-    label "Sebastiano Canovai / Italy / 1817"
+    label "Sebastiano Canovai / Italy / 1817 / 1763"
     graphics [
       x 88437.50000
       y 74427.34722
@@ -32117,7 +32117,7 @@ graph [
   node [
     id 1889
     template "oreas:std:rect simple"
-    label "Enrico Betti / Italy / 2171"
+    label "Enrico Betti / Italy / 2171 / 1846"
     graphics [
       x 87562.50000
       y 74427.34722
@@ -32134,7 +32134,7 @@ graph [
   node [
     id 1890
     template "oreas:std:rect simple"
-    label "Vito Volterra / Italy / 817"
+    label "Vito Volterra / Italy / 817 / 1882"
     graphics [
       x 87237.50000
       y 74427.34722
@@ -32151,7 +32151,7 @@ graph [
   node [
     id 1891
     template "oreas:std:rect simple"
-    label "Antonio Bordoni / Italy / 1813"
+    label "Antonio Bordoni / Italy / 1813 / 1807"
     graphics [
       x 88687.50000
       y 74427.34722
@@ -32168,7 +32168,7 @@ graph [
   node [
     id 1892
     template "oreas:std:rect simple"
-    label "Eugenio Beltrami / Italy / 2"
+    label "Eugenio Beltrami / Italy / 2 / 1856"
     graphics [
       x 89187.50000
       y 74427.34722
@@ -32185,7 +32185,7 @@ graph [
   node [
     id 1893
     template "oreas:std:rect simple"
-    label "Eugenio Bertini / Italy / 26"
+    label "Eugenio Bertini / Italy / 26 / 1869"
     graphics [
       x 88187.50000
       y 74427.34722
@@ -32202,7 +32202,7 @@ graph [
   node [
     id 1894
     template "oreas:std:rect simple"
-    label "Giovanni Battista Guccia / Italy / 0"
+    label "Giovanni Battista Guccia / Italy / 0 / 1880"
     graphics [
       x 89062.50000
       y 74427.34722
@@ -32219,7 +32219,7 @@ graph [
   node [
     id 1895
     template "oreas:std:rect simple"
-    label "Giuseppe Battaglini / Italy / 237"
+    label "Giuseppe Battaglini / Italy / 237 / 1851"
     graphics [
       x 89504.16667
       y 74427.34722
@@ -32236,7 +32236,7 @@ graph [
   node [
     id 1896
     template "oreas:std:rect simple"
-    label "Ottaviano Fabrizio Mossotti / Italy / 0"
+    label "Ottaviano Fabrizio Mossotti / Italy / 0 / 1811"
     graphics [
       x 88562.50000
       y 74427.34722
@@ -32253,7 +32253,7 @@ graph [
   node [
     id 1897
     template "oreas:std:rect simple"
-    label "Vincenzo Brunacci / Italy / 1816"
+    label "Vincenzo Brunacci / Italy / 1816 / 1788"
     graphics [
       x 88462.50000
       y 74633.68056
@@ -32270,7 +32270,7 @@ graph [
   node [
     id 1898
     template "oreas:std:rect simple"
-    label "Ulisse Dini / Italy / 759"
+    label "Ulisse Dini / Italy / 759 / 1865"
     graphics [
       x 87687.50000
       y 74633.68056
@@ -32287,7 +32287,7 @@ graph [
   node [
     id 1899
     template "oreas:std:rect simple"
-    label "Luigi Bianchi / Italy / 575"
+    label "Luigi Bianchi / Italy / 575 / 1877"
     graphics [
       x 87437.50000
       y 74633.68056
@@ -32304,7 +32304,7 @@ graph [
   node [
     id 1900
     template "oreas:std:rect simple"
-    label "Tullio Levi-Civita / Italy / 185"
+    label "Tullio Levi-Civita / Italy / 185 / 1893"
     graphics [
       x 89254.16667
       y 74633.68056
@@ -32321,7 +32321,7 @@ graph [
   node [
     id 1901
     template "oreas:std:rect simple"
-    label "Gregorio Ricci-Curbastro / Italy / 186"
+    label "Gregorio Ricci-Curbastro / Italy / 186 / 1875"
     graphics [
       x 87812.50000
       y 74633.68056
@@ -32338,7 +32338,7 @@ graph [
   node [
     id 1902
     template "oreas:std:rect simple"
-    label "Federigo Enriques / Italy / 235"
+    label "Federigo Enriques / Italy / 235 / 1891"
     graphics [
       x 87937.50000
       y 74633.68056
@@ -32355,7 +32355,7 @@ graph [
   node [
     id 1903
     template "oreas:std:rect simple"
-    label "Gaetano Scorza / Italy / 21"
+    label "Gaetano Scorza / Italy / 21 / 1899"
     graphics [
       x 88187.50000
       y 74633.68056
@@ -32372,7 +32372,7 @@ graph [
   node [
     id 1904
     template "oreas:std:rect simple"
-    label "Alfredo Capelli / Italy / 0"
+    label "Alfredo Capelli / Italy / 0 / 1877"
     graphics [
       x 89504.16667
       y 74633.68056
@@ -32389,7 +32389,7 @@ graph [
   node [
     id 1905
     template "oreas:std:rect simple"
-    label "Giovanni Frattini / Italy / 0"
+    label "Giovanni Frattini / Italy / 0 / 1875"
     graphics [
       x 89379.16667
       y 74633.68056
@@ -32406,7 +32406,7 @@ graph [
   node [
     id 1906
     template "oreas:std:rect simple"
-    label "Gabrio Piola / Italy / 0"
+    label "Gabrio Piola / Italy / 0 / 1816"
     graphics [
       x 88337.50000
       y 74633.68056
@@ -32423,7 +32423,7 @@ graph [
   node [
     id 1907
     template "oreas:std:rect simple"
-    label "Giuseppe Doveri / Italy / 2172"
+    label "Giuseppe Doveri / Italy / 2172 / 1821"
     graphics [
       x 87562.50000
       y 74633.68056
@@ -32440,7 +32440,7 @@ graph [
   node [
     id 1908
     template "oreas:std:rect simple"
-    label "Ernesto Padova / Italy / 0"
+    label "Ernesto Padova / Italy / 0 / 1866"
     graphics [
       x 89129.16667
       y 74633.68056
@@ -32457,7 +32457,7 @@ graph [
   node [
     id 1909
     template "oreas:std:rect simple"
-    label "Heinrich Franz Bernhard Müller-Breslau / Germany / 478"
+    label "Heinrich Franz Bernhard Müller-Breslau / Germany / 478 / 1873"
     graphics [
       x 89629.16667
       y 74633.68056
@@ -32474,7 +32474,7 @@ graph [
   node [
     id 1910
     template "oreas:std:rect simple"
-    label "August Hertwig / Germany / 1"
+    label "August Hertwig / Germany / 1 / 1898"
     graphics [
       x 89754.16667
       y 74633.68056
@@ -32491,7 +32491,7 @@ graph [
   node [
     id 1911
     template "oreas:std:rect simple"
-    label "Johannes Hjelmslev / Denmark / 1"
+    label "Johannes Hjelmslev / Denmark / 1 / 1897"
     graphics [
       x 90004.16667
       y 74633.68056
@@ -32508,7 +32508,7 @@ graph [
   node [
     id 1912
     template "oreas:std:rect simple"
-    label "Kristian Frederik Vilhelm Kroman / Denmark / 2"
+    label "Kristian Frederik Vilhelm Kroman / Denmark / 2 / 1872"
     graphics [
       x 89879.16667
       y 74633.68056
@@ -32525,7 +32525,7 @@ graph [
   node [
     id 1913
     template "oreas:std:rect simple"
-    label "Joseph V. Collins / UnitedStates / 0"
+    label "Joseph V. Collins / UnitedStates / 0 / 1886"
     graphics [
       x 90254.16667
       y 74633.68056
@@ -32542,7 +32542,7 @@ graph [
   node [
     id 1914
     template "oreas:std:rect simple"
-    label "Samuel J. Kirkwood / UnitedStates / 1"
+    label "Samuel J. Kirkwood / UnitedStates / 1 / 1861"
     graphics [
       x 90129.16667
       y 74633.68056
@@ -32559,7 +32559,7 @@ graph [
   node [
     id 1915
     template "oreas:std:rect simple"
-    label "Heinrich Maier / Germany / 1"
+    label "Heinrich Maier / Germany / 1 / 1892"
     graphics [
       x 90379.16667
       y 74633.68056
@@ -32576,7 +32576,7 @@ graph [
   node [
     id 1916
     template "oreas:std:rect simple"
-    label "Ernst Meumann / Germany / 2"
+    label "Ernst Meumann / Germany / 2 / 1891"
     graphics [
       x 90629.16667
       y 74633.68056
@@ -32593,7 +32593,7 @@ graph [
   node [
     id 1917
     template "oreas:std:rect simple"
-    label "Christoph Eberhard von Sigwart / Germany / 5"
+    label "Christoph Eberhard von Sigwart / Germany / 5 / 1867"
     graphics [
       x 90504.16667
       y 74633.68056
@@ -32610,7 +32610,7 @@ graph [
   node [
     id 1918
     template "oreas:std:rect simple"
-    label "Alois Riehl / Germany / 1207"
+    label "Alois Riehl / Germany / 1207 / 1860"
     graphics [
       x 90879.16667
       y 74633.68056
@@ -32627,7 +32627,7 @@ graph [
   node [
     id 1919
     template "oreas:std:rect simple"
-    label "Paul Hensel / Germany / 108"
+    label "Paul Hensel / Germany / 108 / 1885"
     graphics [
       x 90754.16667
       y 74633.68056
@@ -32644,7 +32644,7 @@ graph [
   node [
     id 1920
     template "oreas:std:rect simple"
-    label "Jan Cornelis Kluyver / Netherlands / 1479"
+    label "Jan Cornelis Kluyver / Netherlands / 1479 / 1871"
     graphics [
       x 91004.16667
       y 74633.68056
@@ -32661,7 +32661,7 @@ graph [
   node [
     id 1921
     template "oreas:std:rect simple"
-    label "Sebastianus Krüger S.J. / Netherlands / 0"
+    label "Sebastianus Krüger S.J. / Netherlands / 0 / 1896"
     graphics [
       x 91129.16667
       y 74633.68056
@@ -32678,7 +32678,7 @@ graph [
   node [
     id 1922
     template "oreas:std:rect simple"
-    label "Isaac Joachim Schwatt / UnitedStates / 1"
+    label "Isaac Joachim Schwatt / UnitedStates / 1 / 1893"
     graphics [
       x 91379.16667
       y 74633.68056
@@ -32695,7 +32695,7 @@ graph [
   node [
     id 1923
     template "oreas:std:rect simple"
-    label "Edwin Schofield Crawley / UnitedStates / 3"
+    label "Edwin Schofield Crawley / UnitedStates / 3 / 1868"
     graphics [
       x 91254.16667
       y 74633.68056
@@ -32712,7 +32712,7 @@ graph [
   node [
     id 1924
     template "oreas:std:rect simple"
-    label "Thomas Craig / UnitedStates / 1"
+    label "Thomas Craig / UnitedStates / 1 / 1872"
     graphics [
       x 91504.16667
       y 74633.68056
@@ -32729,7 +32729,7 @@ graph [
   node [
     id 1925
     template "oreas:std:rect simple"
-    label "Alexander Pell / UnitedStates / 0"
+    label "Alexander Pell / UnitedStates / 0 / 1897"
     graphics [
       x 91504.16667
       y 74896.95833
@@ -32746,7 +32746,7 @@ graph [
   node [
     id 1926
     template "oreas:std:rect simple"
-    label "Leona May Peirce / UnitedStates / 0"
+    label "Leona May Peirce / UnitedStates / 0 / 1899"
     graphics [
       x 91754.16667
       y 74896.95833
@@ -32763,7 +32763,7 @@ graph [
   node [
     id 1927
     template "oreas:std:rect simple"
-    label "Kelly Lynn Brinley / UnitedStates / 1"
+    label "Kelly Lynn Brinley / UnitedStates / 1 / 1874"
     graphics [
       x 91629.16667
       y 74896.95833
@@ -32780,7 +32780,7 @@ graph [
   node [
     id 1928
     template "oreas:std:rect simple"
-    label "Steven Eric Brinley / UnitedStates / 1"
+    label "Steven Eric Brinley / UnitedStates / 1 / 1874"
     graphics [
       x 91879.16667
       y 74896.95833
@@ -32797,7 +32797,7 @@ graph [
   node [
     id 1929
     template "oreas:std:rect simple"
-    label "Ida Martha Metcalf / UnitedStates / 0"
+    label "Ida Martha Metcalf / UnitedStates / 0 / 1893"
     graphics [
       x 92004.16667
       y 74896.95833
@@ -32814,7 +32814,7 @@ graph [
   node [
     id 1930
     template "oreas:std:rect simple"
-    label "Cadwallader Edwards Linthicum / UnitedStates / 0"
+    label "Cadwallader Edwards Linthicum / UnitedStates / 0 / 1888"
     graphics [
       x 92379.16667
       y 74896.95833
@@ -32831,7 +32831,7 @@ graph [
   node [
     id 1931
     template "oreas:std:rect simple"
-    label "Hiram John Messenger, Jr. / UnitedStates / 0"
+    label "Hiram John Messenger, Jr. / UnitedStates / 0 / 1886"
     graphics [
       x 92629.16667
       y 74896.95833
@@ -32848,7 +32848,7 @@ graph [
   node [
     id 1932
     template "oreas:std:rect simple"
-    label "Annie Louise MacKinnon / UnitedStates / 0"
+    label "Annie Louise MacKinnon / UnitedStates / 0 / 1894"
     graphics [
       x 92129.16667
       y 74896.95833
@@ -32865,7 +32865,7 @@ graph [
   node [
     id 1933
     template "oreas:std:rect simple"
-    label "James Edward Oliver / UnitedStates / 5"
+    label "James Edward Oliver / UnitedStates / 5 / 1866"
     graphics [
       x 92254.16667
       y 74896.95833
@@ -32882,7 +32882,7 @@ graph [
   node [
     id 1934
     template "oreas:std:rect simple"
-    label "Agnes Sime Baxter / UnitedStates / 0"
+    label "Agnes Sime Baxter / UnitedStates / 0 / 1895"
     graphics [
       x 92504.16667
       y 74896.95833
@@ -32899,7 +32899,7 @@ graph [
   node [
     id 1935
     template "oreas:std:rect simple"
-    label "Rollin Arthur Harris / UnitedStates / 0"
+    label "Rollin Arthur Harris / UnitedStates / 0 / 1888"
     graphics [
       x 92879.16667
       y 74896.95833
@@ -32916,7 +32916,7 @@ graph [
   node [
     id 1936
     template "oreas:std:rect simple"
-    label "James McMahon / UnitedStates / 5"
+    label "James McMahon / UnitedStates / 5 / 1863"
     graphics [
       x 92754.16667
       y 74896.95833
@@ -32933,7 +32933,7 @@ graph [
   node [
     id 1937
     template "oreas:std:rect simple"
-    label "Johannes Friedrich Seiler / Germany / 0"
+    label "Johannes Friedrich Seiler / Germany / 0 / 1757"
     graphics [
       x 93004.16667
       y 74896.95833
@@ -32950,7 +32950,7 @@ graph [
   node [
     id 1938
     template "oreas:std:rect simple"
-    label "Johannes Ernst Basilius Wideburg / Germany / 2"
+    label "Johannes Ernst Basilius Wideburg / Germany / 2 / 1736"
     graphics [
       x 93129.16667
       y 74896.95833
@@ -32967,7 +32967,7 @@ graph [
   node [
     id 1939
     template "oreas:std:rect simple"
-    label "Johannes Lorenz Böckmann / Germany / 0"
+    label "Johannes Lorenz Böckmann / Germany / 0 / 1764"
     graphics [
       x 93254.16667
       y 74896.95833
@@ -32984,7 +32984,7 @@ graph [
   node [
     id 1940
     template "oreas:std:rect simple"
-    label "August Messer / Germany / 6"
+    label "August Messer / Germany / 6 / 1893"
     graphics [
       x 93504.16667
       y 74896.95833
@@ -33001,7 +33001,7 @@ graph [
   node [
     id 1941
     template "oreas:std:rect simple"
-    label "Hermann Siebeck / Germany / 8"
+    label "Hermann Siebeck / Germany / 8 / 1868"
     graphics [
       x 93379.16667
       y 74896.95833
@@ -33018,7 +33018,7 @@ graph [
   node [
     id 1942
     template "oreas:std:rect simple"
-    label "Enrico D'Ovidio / Italy / 234"
+    label "Enrico D'Ovidio / Italy / 234 / 1857"
     graphics [
       x 94004.16667
       y 74896.95833
@@ -33035,7 +33035,7 @@ graph [
   node [
     id 1943
     template "oreas:std:rect simple"
-    label "Corrado Segre / Italy / 232"
+    label "Corrado Segre / Italy / 232 / 1883"
     graphics [
       x 93879.16667
       y 74896.95833
@@ -33052,7 +33052,7 @@ graph [
   node [
     id 1944
     template "oreas:std:rect simple"
-    label "Giuseppe Peano / Italy / 0"
+    label "Giuseppe Peano / Italy / 0 / 1880"
     graphics [
       x 93754.16667
       y 74896.95833
@@ -33069,7 +33069,7 @@ graph [
   node [
     id 1945
     template "oreas:std:rect simple"
-    label "Beppo Levi / Italy / 19"
+    label "Beppo Levi / Italy / 19 / 1896"
     graphics [
       x 93629.16667
       y 74896.95833
@@ -33086,7 +33086,7 @@ graph [
   node [
     id 1946
     template "oreas:std:rect simple"
-    label "Friedrich Wilhelm Franz Meyer / Germany / 344"
+    label "Friedrich Wilhelm Franz Meyer / Germany / 344 / 1873"
     graphics [
       x 94129.16667
       y 74896.95833
@@ -33103,7 +33103,7 @@ graph [
   node [
     id 1947
     template "oreas:std:rect simple"
-    label "Emil Adalbert Müller / Germany / 22"
+    label "Emil Adalbert Müller / Germany / 22 / 1898"
     graphics [
       x 94254.16667
       y 74896.95833
@@ -33120,7 +33120,7 @@ graph [
   node [
     id 1948
     template "oreas:std:rect simple"
-    label "Jan de Vries / Netherlands / 228"
+    label "Jan de Vries / Netherlands / 228 / 1881"
     graphics [
       x 94504.16667
       y 74896.95833
@@ -33137,7 +33137,7 @@ graph [
   node [
     id 1949
     template "oreas:std:rect simple"
-    label "Adrianus Jacobus van Pesch / Netherlands / 229"
+    label "Adrianus Jacobus van Pesch / Netherlands / 229 / 1856"
     graphics [
       x 94379.16667
       y 74896.95833
@@ -33154,7 +33154,7 @@ graph [
   node [
     id 1950
     template "oreas:std:rect simple"
-    label "Heinrich Wilhelm Dove / Germany / 0"
+    label "Heinrich Wilhelm Dove / Germany / 0 / 1826"
     graphics [
       x 94629.16667
       y 74896.95833
@@ -33171,7 +33171,7 @@ graph [
   node [
     id 1951
     template "oreas:std:rect simple"
-    label "Paul Erman / Germany / 1"
+    label "Paul Erman / Germany / 1 / 1801"
     graphics [
       x 94754.16667
       y 74896.95833
@@ -33188,7 +33188,7 @@ graph [
   node [
     id 1952
     template "oreas:std:rect simple"
-    label "Ludwig Prandtl / Germany / 3722"
+    label "Ludwig Prandtl / Germany / 3722 / 1899"
     graphics [
       x 94879.16667
       y 74896.95833
@@ -33205,7 +33205,7 @@ graph [
   node [
     id 1953
     template "oreas:std:rect simple"
-    label "August Otto Föppl / Germany / 3744"
+    label "August Otto Föppl / Germany / 3744 / 1874"
     graphics [
       x 95004.16667
       y 74896.95833
@@ -33222,7 +33222,7 @@ graph [
   node [
     id 1954
     template "oreas:std:rect simple"
-    label "Leonhard Sohncke / Germany / 1"
+    label "Leonhard Sohncke / Germany / 1 / 1872"
     graphics [
       x 95129.16667
       y 74896.95833
@@ -33239,7 +33239,7 @@ graph [
   node [
     id 1955
     template "oreas:std:rect simple"
-    label "Hermann Ebert / Germany / 1"
+    label "Hermann Ebert / Germany / 1 / 1872"
     graphics [
       x 95379.16667
       y 74896.95833
@@ -33256,7 +33256,7 @@ graph [
   node [
     id 1956
     template "oreas:std:rect simple"
-    label "Karl Tobias Fischer / Germany / 0"
+    label "Karl Tobias Fischer / Germany / 0 / 1897"
     graphics [
       x 95254.16667
       y 74896.95833
@@ -33273,7 +33273,7 @@ graph [
   node [
     id 1957
     template "oreas:std:rect simple"
-    label "Hermann Diels / Germany / 2"
+    label "Hermann Diels / Germany / 2 / 1870"
     graphics [
       x 95629.16667
       y 74896.95833
@@ -33290,7 +33290,7 @@ graph [
   node [
     id 1958
     template "oreas:std:rect simple"
-    label "Hermann Usener / Germany / 3"
+    label "Hermann Usener / Germany / 3 / 1845"
     graphics [
       x 95504.16667
       y 74896.95833
@@ -33307,7 +33307,7 @@ graph [
   node [
     id 1959
     template "oreas:std:rect simple"
-    label "Moritz Benedikt Cantor / Germany / 9"
+    label "Moritz Benedikt Cantor / Germany / 9 / 1851"
     graphics [
       x 96266.66667
       y 75003.29167
@@ -33324,7 +33324,7 @@ graph [
   node [
     id 1960
     template "oreas:std:rect simple"
-    label "Ferdinand Franz Schweins / Germany / 14"
+    label "Ferdinand Franz Schweins / Germany / 14 / 1823"
     graphics [
       x 96016.66667
       y 75003.29167
@@ -33341,7 +33341,7 @@ graph [
   node [
     id 1961
     template "oreas:std:rect simple"
-    label "K. H. Wilhelm Mahlmann / Germany / 0"
+    label "K. H. Wilhelm Mahlmann / Germany / 0 / 1842"
     graphics [
       x 95641.66667
       y 75003.29167
@@ -33358,7 +33358,7 @@ graph [
   node [
     id 1962
     template "oreas:std:rect simple"
-    label "Rudolf Dreser / Germany / 0"
+    label "Rudolf Dreser / Germany / 0 / 1843"
     graphics [
       x 96141.66667
       y 75003.29167
@@ -33375,7 +33375,7 @@ graph [
   node [
     id 1963
     template "oreas:std:rect simple"
-    label "P. Heimling / Germany / 0"
+    label "P. Heimling / Germany / 0 / 1850"
     graphics [
       x 95891.66667
       y 75003.29167
@@ -33392,7 +33392,7 @@ graph [
   node [
     id 1964
     template "oreas:std:rect simple"
-    label "Adam Maximilian Nell / Germany / 0"
+    label "Adam Maximilian Nell / Germany / 0 / 1852"
     graphics [
       x 95766.66667
       y 75003.29167
@@ -33409,7 +33409,7 @@ graph [
   node [
     id 1965
     template "oreas:std:rect simple"
-    label "Georg Heinrich Bortz / Germany / 4"
+    label "Georg Heinrich Bortz / Germany / 4 / 1743"
     graphics [
       x 96641.66667
       y 75003.29167
@@ -33426,7 +33426,7 @@ graph [
   node [
     id 1966
     template "oreas:std:rect simple"
-    label "Johannes Friedrich Plessing / Germany / 5"
+    label "Johannes Friedrich Plessing / Germany / 5 / 1718"
     graphics [
       x 96391.66667
       y 75003.29167
@@ -33443,7 +33443,7 @@ graph [
   node [
     id 1967
     template "oreas:std:rect simple"
-    label "Carl Friedrich Hindenburg / Germany / 3"
+    label "Carl Friedrich Hindenburg / Germany / 3 / 1769"
     graphics [
       x 96766.66667
       y 75003.29167
@@ -33460,7 +33460,7 @@ graph [
   node [
     id 1968
     template "oreas:std:rect simple"
-    label "Heinrich August Rothe / Germany / 1"
+    label "Heinrich August Rothe / Germany / 1 / 1793"
     graphics [
       x 96891.66667
       y 75003.29167
@@ -33477,7 +33477,7 @@ graph [
   node [
     id 1969
     template "oreas:std:rect simple"
-    label "Friedrich Karl Hausmann / Germany / 0"
+    label "Friedrich Karl Hausmann / Germany / 0 / 1787"
     graphics [
       x 96516.66667
       y 75003.29167
@@ -33494,7 +33494,7 @@ graph [
   node [
     id 1970
     template "oreas:std:rect simple"
-    label "Paul Barth / Germany / 5"
+    label "Paul Barth / Germany / 5 / 1881"
     graphics [
       x 97141.66667
       y 75003.29167
@@ -33511,7 +33511,7 @@ graph [
   node [
     id 1971
     template "oreas:std:rect simple"
-    label "Otto Ribbeck / Germany / 6"
+    label "Otto Ribbeck / Germany / 6 / 1856"
     graphics [
       x 97266.66667
       y 75003.29167
@@ -33528,7 +33528,7 @@ graph [
   node [
     id 1972
     template "oreas:std:rect simple"
-    label "Ludwig Christian Conrad Lange / Germany / 6"
+    label "Ludwig Christian Conrad Lange / Germany / 6 / 1856"
     graphics [
       x 97016.66667
       y 75003.29167
@@ -33545,7 +33545,7 @@ graph [
   node [
     id 1973
     template "oreas:std:rect simple"
-    label "Augustin Louis Cauchy / France / 2"
+    label "Augustin Louis Cauchy / France / 2 / 1816"
     graphics [
       x 97516.66667
       y 75003.29167
@@ -33562,7 +33562,7 @@ graph [
   node [
     id 1974
     template "oreas:std:rect simple"
-    label "Francesco Faa' di Bruno / France / 0"
+    label "Francesco Faa' di Bruno / France / 0 / 1856"
     graphics [
       x 97391.66667
       y 75003.29167
@@ -33579,7 +33579,7 @@ graph [
   node [
     id 1975
     template "oreas:std:rect simple"
-    label "Viktor Yakovlevich Bunyakovsky / France / 0"
+    label "Viktor Yakovlevich Bunyakovsky / France / 0 / 1825"
     graphics [
       x 97641.66667
       y 75003.29167
@@ -33596,7 +33596,7 @@ graph [
   node [
     id 1976
     template "oreas:std:rect simple"
-    label "Niels Henrik Abel / Norway / 0"
+    label "Niels Henrik Abel / Norway / 0 / 1822"
     graphics [
       x 97766.66667
       y 75003.29167
@@ -33613,7 +33613,7 @@ graph [
   node [
     id 1977
     template "oreas:std:rect simple"
-    label "Bernt Michael Holmboe / Norway / 1967"
+    label "Bernt Michael Holmboe / Norway / 1967 / 1797"
     graphics [
       x 97891.66667
       y 75003.29167
@@ -33630,7 +33630,7 @@ graph [
   node [
     id 1978
     template "oreas:std:rect simple"
-    label "Lorenz Johann Daniel Suckow / Germany / 2"
+    label "Lorenz Johann Daniel Suckow / Germany / 2 / 1746"
     graphics [
       x 98641.66667
       y 75003.29167
@@ -33647,7 +33647,7 @@ graph [
   node [
     id 1979
     template "oreas:std:rect simple"
-    label "Johann Heinrich Voigt / Germany / 1"
+    label "Johann Heinrich Voigt / Germany / 1 / 1785"
     graphics [
       x 99016.66667
       y 75003.29167
@@ -33664,7 +33664,7 @@ graph [
   node [
     id 1980
     template "oreas:std:rect simple"
-    label "Karl Friedrich Triller / Germany / 2"
+    label "Karl Friedrich Triller / Germany / 2 / 1779"
     graphics [
       x 98766.66667
       y 75003.29167
@@ -33681,7 +33681,7 @@ graph [
   node [
     id 1981
     template "oreas:std:rect simple"
-    label "Georg Friedrich Kraus / Germany / 3"
+    label "Georg Friedrich Kraus / Germany / 3 / 1745"
     graphics [
       x 98266.66667
       y 75003.29167
@@ -33698,7 +33698,7 @@ graph [
   node [
     id 1982
     template "oreas:std:rect simple"
-    label "Andreas Florens Rivinus / Germany / 4"
+    label "Andreas Florens Rivinus / Germany / 4 / 1720"
     graphics [
       x 98016.66667
       y 75003.29167
@@ -33715,7 +33715,7 @@ graph [
   node [
     id 1983
     template "oreas:std:rect simple"
-    label "Johann Friedrich Christian Werneburg / Germany / 0"
+    label "Johann Friedrich Christian Werneburg / Germany / 0 / 1799"
     graphics [
       x 98891.66667
       y 75003.29167
@@ -33732,7 +33732,7 @@ graph [
   node [
     id 1984
     template "oreas:std:rect simple"
-    label "Joachim Georg Darjes / Germany / 3"
+    label "Joachim Georg Darjes / Germany / 3 / 1739"
     graphics [
       x 98516.66667
       y 75003.29167
@@ -33749,7 +33749,7 @@ graph [
   node [
     id 1985
     template "oreas:std:rect simple"
-    label "Simon Gottlieb Gamme / Germany / 0"
+    label "Simon Gottlieb Gamme / Germany / 0 / 1746"
     graphics [
       x 98141.66667
       y 75003.29167
@@ -33766,7 +33766,7 @@ graph [
   node [
     id 1986
     template "oreas:std:rect simple"
-    label "Dieter Hermann Kemmerich / Germany / 4"
+    label "Dieter Hermann Kemmerich / Germany / 4 / 1714"
     graphics [
       x 98391.66667
       y 75003.29167
@@ -33783,7 +33783,7 @@ graph [
   node [
     id 1987
     template "oreas:std:rect simple"
-    label "Hermann Umpfenbach / Germany / 1"
+    label "Hermann Umpfenbach / Germany / 1 / 1828"
     graphics [
       x 99141.66667
       y 75003.29167
@@ -33800,7 +33800,7 @@ graph [
   node [
     id 1988
     template "oreas:std:rect simple"
-    label "Heinrich Dölp / Germany / 0"
+    label "Heinrich Dölp / Germany / 0 / 1853"
     graphics [
       x 99266.66667
       y 75003.29167
@@ -33817,7 +33817,7 @@ graph [
   node [
     id 1989
     template "oreas:std:rect simple"
-    label "Edmund Jacob Külp / Germany / 0"
+    label "Edmund Jacob Külp / Germany / 0 / 1824"
     graphics [
       x 99766.66667
       y 75003.29167
@@ -33834,7 +33834,7 @@ graph [
   node [
     id 1990
     template "oreas:std:rect simple"
-    label "Adolphe Lambert Jacques Quetelet / Belgium / 1"
+    label "Adolphe Lambert Jacques Quetelet / Belgium / 1 / 1819"
     graphics [
       x 99641.66667
       y 75003.29167
@@ -33851,7 +33851,7 @@ graph [
   node [
     id 1991
     template "oreas:std:rect simple"
-    label "Jean-Guillaume Garnier / Belgium / 3"
+    label "Jean-Guillaume Garnier / Belgium / 3 / 1797"
     graphics [
       x 99516.66667
       y 75003.29167
@@ -33868,7 +33868,7 @@ graph [
   node [
     id 1992
     template "oreas:std:rect simple"
-    label "Pierre-François Verhulst / Belgium / 0"
+    label "Pierre-François Verhulst / Belgium / 0 / 1825"
     graphics [
       x 99391.66667
       y 75003.29167
@@ -33885,7 +33885,7 @@ graph [
   node [
     id 1993
     template "oreas:std:rect simple"
-    label "Johannes Adolf Siebenhaar / Germany / 0"
+    label "Johannes Adolf Siebenhaar / Germany / 0 / 1745"
     graphics [
       x 100141.6667
       y 75003.29167
@@ -33902,7 +33902,7 @@ graph [
   node [
     id 1994
     template "oreas:std:rect simple"
-    label "Gottlob Heinrich Richter / Germany / 1"
+    label "Gottlob Heinrich Richter / Germany / 1 / 1724"
     graphics [
       x 100016.6667
       y 75003.29167
@@ -33919,7 +33919,7 @@ graph [
   node [
     id 1995
     template "oreas:std:rect simple"
-    label "Gottlieb Stolle / Germany / 2"
+    label "Gottlieb Stolle / Germany / 2 / 1699"
     graphics [
       x 99891.66667
       y 75003.29167
@@ -33936,7 +33936,7 @@ graph [
   node [
     id 1996
     template "oreas:std:rect simple"
-    label "Franciszek Karliński / Poland / 2"
+    label "Franciszek Karliński / Poland / 2 / 1850"
     graphics [
       x 100279.1667
       y 75109.62500
@@ -33953,7 +33953,7 @@ graph [
   node [
     id 1997
     template "oreas:std:rect simple"
-    label "Julian Zgorzalewicz / Poland / 0"
+    label "Julian Zgorzalewicz / Poland / 0 / 1867"
     graphics [
       x 100154.1667
       y 75109.62500
@@ -33970,7 +33970,7 @@ graph [
   node [
     id 1998
     template "oreas:std:rect simple"
-    label "Władysław Kretkowski / Poland / 0"
+    label "Władysław Kretkowski / Poland / 0 / 1882"
     graphics [
       x 100404.1667
       y 75109.62500
@@ -33987,7 +33987,7 @@ graph [
   node [
     id 1999
     template "oreas:std:rect simple"
-    label "Karl Weule / Germany / 1"
+    label "Karl Weule / Germany / 1 / 1891"
     graphics [
       x 100779.1667
       y 75109.62500
@@ -34004,7 +34004,7 @@ graph [
   node [
     id 2000
     template "oreas:std:rect simple"
-    label "Friedrich Ratzel / Germany / 2"
+    label "Friedrich Ratzel / Germany / 2 / 1868"
     graphics [
       x 100654.1667
       y 75109.62500
@@ -34021,7 +34021,7 @@ graph [
   node [
     id 2001
     template "oreas:std:rect simple"
-    label "Ferdinand Zirkel / Germany / 3"
+    label "Ferdinand Zirkel / Germany / 3 / 1860"
     graphics [
       x 100904.1667
       y 75109.62500
@@ -34038,7 +34038,7 @@ graph [
   node [
     id 2002
     template "oreas:std:rect simple"
-    label "Heinrich Alexander Pagenstecher / Germany / 3"
+    label "Heinrich Alexander Pagenstecher / Germany / 3 / 1843"
     graphics [
       x 100529.1667
       y 75109.62500
@@ -34055,7 +34055,7 @@ graph [
   node [
     id 2003
     template "oreas:std:rect simple"
-    label "Albrecht Penck / Germany / 0"
+    label "Albrecht Penck / Germany / 0 / 1878"
     graphics [
       x 101029.1667
       y 75109.62500
@@ -34072,7 +34072,7 @@ graph [
   node [
     id 2004
     template "oreas:std:rect simple"
-    label "Arthur Joachim von Oettingen / Estonia / 0"
+    label "Arthur Joachim von Oettingen / Estonia / 0 / 1865"
     graphics [
       x 101154.1667
       y 75109.62500
@@ -34089,7 +34089,7 @@ graph [
   node [
     id 2005
     template "oreas:std:rect simple"
-    label "Friedrich Ludwig Kämtz / Estonia / 1"
+    label "Friedrich Ludwig Kämtz / Estonia / 1 / 1840"
     graphics [
       x 101279.1667
       y 75109.62500
@@ -34106,7 +34106,7 @@ graph [
   node [
     id 2006
     template "oreas:std:rect simple"
-    label "Philipp Johann Gustav von Jolly / Germany / 1"
+    label "Philipp Johann Gustav von Jolly / Germany / 1 / 1835"
     graphics [
       x 101404.1667
       y 75109.62500
@@ -34123,7 +34123,7 @@ graph [
   node [
     id 2007
     template "oreas:std:rect simple"
-    label "Philipp Franz Heinrich Carl / Germany / 0"
+    label "Philipp Franz Heinrich Carl / Germany / 0 / 1860"
     graphics [
       x 101529.1667
       y 75109.62500
@@ -34140,7 +34140,7 @@ graph [
   node [
     id 2008
     template "oreas:std:rect simple"
-    label "Johann von Lamont / Germany / 1"
+    label "Johann von Lamont / Germany / 1 / 1835"
     graphics [
       x 101654.1667
       y 75109.62500
@@ -34157,7 +34157,7 @@ graph [
   node [
     id 2009
     template "oreas:std:rect simple"
-    label "Otto Krebs / Switzerland / 0"
+    label "Otto Krebs / Switzerland / 0 / 1897"
     graphics [
       x 101779.1667
       y 75109.62500
@@ -34174,7 +34174,7 @@ graph [
   node [
     id 2010
     template "oreas:std:rect simple"
-    label "Andreas Ludwig Kym / Switzerland / 1"
+    label "Andreas Ludwig Kym / Switzerland / 1 / 1872"
     graphics [
       x 101904.1667
       y 75109.62500
@@ -34191,7 +34191,7 @@ graph [
   node [
     id 2011
     template "oreas:std:rect simple"
-    label "Johannes Joachim Balthasar / Poland / 1"
+    label "Johannes Joachim Balthasar / Poland / 1 / 1682"
     graphics [
       x 102154.1667
       y 75109.62500
@@ -34208,7 +34208,7 @@ graph [
   node [
     id 2012
     template "oreas:std:rect simple"
-    label "Gabriel Groddek / Poland / 0"
+    label "Gabriel Groddek / Poland / 0 / 1707"
     graphics [
       x 102029.1667
       y 75109.62500
@@ -34225,7 +34225,7 @@ graph [
   node [
     id 2013
     template "oreas:std:rect simple"
-    label "Johann Heinrich Graf / Switzerland / 6"
+    label "Johann Heinrich Graf / Switzerland / 6 / 1878"
     graphics [
       x 102529.1667
       y 75109.62500
@@ -34242,7 +34242,7 @@ graph [
   node [
     id 2014
     template "oreas:std:rect simple"
-    label "Christian Moser / Switzerland / 0"
+    label "Christian Moser / Switzerland / 0 / 1886"
     graphics [
       x 102904.1667
       y 75109.62500
@@ -34259,7 +34259,7 @@ graph [
   node [
     id 2015
     template "oreas:std:rect simple"
-    label "Carl Friedrich Geiser / Switzerland / 1"
+    label "Carl Friedrich Geiser / Switzerland / 1 / 1866"
     graphics [
       x 102404.1667
       y 75109.62500
@@ -34276,7 +34276,7 @@ graph [
   node [
     id 2016
     template "oreas:std:rect simple"
-    label "Ludwig Schläfli / Switzerland / 14"
+    label "Ludwig Schläfli / Switzerland / 14 / 1854"
     graphics [
       x 102654.1667
       y 75109.62500
@@ -34293,7 +34293,7 @@ graph [
   node [
     id 2017
     template "oreas:std:rect simple"
-    label "Arnold Meyer-Kaiser / Switzerland / 1"
+    label "Arnold Meyer-Kaiser / Switzerland / 1 / 1871"
     graphics [
       x 102779.1667
       y 75109.62500
@@ -34310,7 +34310,7 @@ graph [
   node [
     id 2018
     template "oreas:std:rect simple"
-    label "Adolf Kiefer / Switzerland / 0"
+    label "Adolf Kiefer / Switzerland / 0 / 1882"
     graphics [
       x 103029.1667
       y 75109.62500
@@ -34327,7 +34327,7 @@ graph [
   node [
     id 2019
     template "oreas:std:rect simple"
-    label "Johann Tschumi / Switzerland / 0"
+    label "Johann Tschumi / Switzerland / 0 / 1892"
     graphics [
       x 103154.1667
       y 75109.62500
@@ -34344,7 +34344,7 @@ graph [
   node [
     id 2020
     template "oreas:std:rect simple"
-    label "Elisabetha von Litwinowa-Iwaschkina / Switzerland / 0"
+    label "Elisabetha von Litwinowa-Iwaschkina / Switzerland / 0 / 1879"
     graphics [
       x 102279.1667
       y 75109.62500
@@ -34361,7 +34361,7 @@ graph [
   node [
     id 2021
     template "oreas:std:rect simple"
-    label "Edward Bennett / UnitedStates / 236"
+    label "Edward Bennett / UnitedStates / 236 / 1897"
     graphics [
       x 103279.1667
       y 75109.62500
@@ -34378,7 +34378,7 @@ graph [
   node [
     id 2022
     template "oreas:std:rect simple"
-    label "Reginald Fessenden / UnitedStates / 237"
+    label "Reginald Fessenden / UnitedStates / 237 / 1872"
     graphics [
       x 103404.1667
       y 75109.62500
@@ -34395,7 +34395,7 @@ graph [
   node [
     id 2023
     template "oreas:std:rect simple"
-    label "Julius Scheiner / Germany / 0"
+    label "Julius Scheiner / Germany / 0 / 1882"
     graphics [
       x 103416.6667
       y 75224.29167
@@ -34412,7 +34412,7 @@ graph [
   node [
     id 2024
     template "oreas:std:rect simple"
-    label "Heinrich Karl Friedrich Kreutz / Germany / 0"
+    label "Heinrich Karl Friedrich Kreutz / Germany / 0 / 1880"
     graphics [
       x 103666.6667
       y 75224.29167
@@ -34429,7 +34429,7 @@ graph [
   node [
     id 2025
     template "oreas:std:rect simple"
-    label "Eduard Schönfeld / Germany / 2"
+    label "Eduard Schönfeld / Germany / 2 / 1856"
     graphics [
       x 103541.6667
       y 75224.29167
@@ -34446,7 +34446,7 @@ graph [
   node [
     id 2026
     template "oreas:std:rect simple"
-    label "Robert Andrews Millikan / UnitedStates / 370"
+    label "Robert Andrews Millikan / UnitedStates / 370 / 1895"
     graphics [
       x 103916.6667
       y 75224.29167
@@ -34463,7 +34463,7 @@ graph [
   node [
     id 2027
     template "oreas:std:rect simple"
-    label "Albert Abraham Michelson / UnitedStates / 377"
+    label "Albert Abraham Michelson / UnitedStates / 377 / 1870"
     graphics [
       x 103791.6667
       y 75224.29167
@@ -34480,7 +34480,7 @@ graph [
   node [
     id 2028
     template "oreas:std:rect simple"
-    label "Ogden Rood / UnitedStates / 371"
+    label "Ogden Rood / UnitedStates / 371 / 1870"
     graphics [
       x 104041.6667
       y 75224.29167
@@ -34497,7 +34497,7 @@ graph [
   node [
     id 2029
     template "oreas:std:rect simple"
-    label "Giovanni Battista Negri / Italy / 1"
+    label "Giovanni Battista Negri / Italy / 1 / 1872"
     graphics [
       x 104291.6667
       y 75224.29167
@@ -34514,7 +34514,7 @@ graph [
   node [
     id 2030
     template "oreas:std:rect simple"
-    label "Giovanni Enrico Eugenio Vacca / Italy / 0"
+    label "Giovanni Enrico Eugenio Vacca / Italy / 0 / 1897"
     graphics [
       x 104166.6667
       y 75224.29167
@@ -34531,7 +34531,7 @@ graph [
   node [
     id 2031
     template "oreas:std:rect simple"
-    label "John Newport Langley / UnitedKingdom / 2124"
+    label "John Newport Langley / UnitedKingdom / 2124 / 1874"
     graphics [
       x 104791.6667
       y 75224.29167
@@ -34548,7 +34548,7 @@ graph [
   node [
     id 2032
     template "oreas:std:rect simple"
-    label "Micheal Foster / UnitedKingdom / 2125"
+    label "Micheal Foster / UnitedKingdom / 2125 / 1859"
     graphics [
       x 104666.6667
       y 75224.29167
@@ -34565,7 +34565,7 @@ graph [
   node [
     id 2033
     template "oreas:std:rect simple"
-    label "Thomas Henry Huxley / UnitedKingdom / 2126"
+    label "Thomas Henry Huxley / UnitedKingdom / 2126 / 1834"
     graphics [
       x 104541.6667
       y 75224.29167
@@ -34582,7 +34582,7 @@ graph [
   node [
     id 2034
     template "oreas:std:rect simple"
-    label "William Sharpey / UnitedKingdom / 2126"
+    label "William Sharpey / UnitedKingdom / 2126 / 1834"
     graphics [
       x 104416.6667
       y 75224.29167
@@ -34599,7 +34599,7 @@ graph [
   node [
     id 2035
     template "oreas:std:rect simple"
-    label "Junius Massau / Belgium / 2"
+    label "Junius Massau / Belgium / 2 / 1867"
     graphics [
       x 105291.6667
       y 75224.29167
@@ -34616,7 +34616,7 @@ graph [
   node [
     id 2036
     template "oreas:std:rect simple"
-    label "Adolphe Mineur / Belgium / 0"
+    label "Adolphe Mineur / Belgium / 0 / 1893"
     graphics [
       x 104916.6667
       y 75224.29167
@@ -34633,7 +34633,7 @@ graph [
   node [
     id 2037
     template "oreas:std:rect simple"
-    label "Mathias Schaar / Belgium / 2"
+    label "Mathias Schaar / Belgium / 2 / 1842"
     graphics [
       x 105416.6667
       y 75224.29167
@@ -34650,7 +34650,7 @@ graph [
   node [
     id 2038
     template "oreas:std:rect simple"
-    label "Félix Dauge / Belgium / 2"
+    label "Félix Dauge / Belgium / 2 / 1842"
     graphics [
       x 105041.6667
       y 75224.29167
@@ -34667,7 +34667,7 @@ graph [
   node [
     id 2039
     template "oreas:std:rect simple"
-    label "Paul Mansion / Belgium / 1"
+    label "Paul Mansion / Belgium / 1 / 1867"
     graphics [
       x 105166.6667
       y 75224.29167
@@ -34684,7 +34684,7 @@ graph [
   node [
     id 2040
     template "oreas:std:rect simple"
-    label "Alphonse Demoulin / Belgium / 0"
+    label "Alphonse Demoulin / Belgium / 0 / 1890"
     graphics [
       x 105541.6667
       y 75224.29167
@@ -34701,7 +34701,7 @@ graph [
   node [
     id 2041
     template "oreas:std:rect simple"
-    label "Charles-Jean de La Vallée Poussin / Belgium / 184"
+    label "Charles-Jean de La Vallée Poussin / Belgium / 184 / 1891"
     graphics [
       x 105791.6667
       y 75224.29167
@@ -34718,7 +34718,7 @@ graph [
   node [
     id 2042
     template "oreas:std:rect simple"
-    label "Louis-Philippe Gilbert / Belgium / 185"
+    label "Louis-Philippe Gilbert / Belgium / 185 / 1866"
     graphics [
       x 105666.6667
       y 75224.29167
@@ -34735,7 +34735,7 @@ graph [
   node [
     id 2043
     template "oreas:std:rect simple"
-    label "Thomas Archer Hirst / Germany / 0"
+    label "Thomas Archer Hirst / Germany / 0 / 1852"
     graphics [
       x 106166.6667
       y 75224.29167
@@ -34752,7 +34752,7 @@ graph [
   node [
     id 2044
     template "oreas:std:rect simple"
-    label "Friedrich Ludwig Stegmann / Germany / 2"
+    label "Friedrich Ludwig Stegmann / Germany / 2 / 1826"
     graphics [
       x 106041.6667
       y 75224.29167
@@ -34769,7 +34769,7 @@ graph [
   node [
     id 2045
     template "oreas:std:rect simple"
-    label "John Tyndall / Germany / 0"
+    label "John Tyndall / Germany / 0 / 1850"
     graphics [
       x 105916.6667
       y 75224.29167
@@ -34786,7 +34786,7 @@ graph [
   node [
     id 2046
     template "oreas:std:rect simple"
-    label "William Arnold Anthony / UnitedStates / 378"
+    label "William Arnold Anthony / UnitedStates / 378 / 1862"
     graphics [
       x 106416.6667
       y 75224.29167
@@ -34803,7 +34803,7 @@ graph [
   node [
     id 2047
     template "oreas:std:rect simple"
-    label "Harris Joseph Ryan / UnitedStates / 377"
+    label "Harris Joseph Ryan / UnitedStates / 377 / 1887"
     graphics [
       x 106291.6667
       y 75224.29167
@@ -34820,7 +34820,7 @@ graph [
   node [
     id 2048
     template "oreas:std:rect simple"
-    label "William Whewell / UnitedKingdom / 1"
+    label "William Whewell / UnitedKingdom / 1 / 1801"
     graphics [
       x 106791.6667
       y 75224.29167
@@ -34837,7 +34837,7 @@ graph [
   node [
     id 2049
     template "oreas:std:rect simple"
-    label "George Peacock / UnitedKingdom / 1"
+    label "George Peacock / UnitedKingdom / 1 / 1816"
     graphics [
       x 106541.6667
       y 75224.29167
@@ -34854,7 +34854,7 @@ graph [
   node [
     id 2050
     template "oreas:std:rect simple"
-    label "Augustus De Morgan / UnitedKingdom / 0"
+    label "Augustus De Morgan / UnitedKingdom / 0 / 1826"
     graphics [
       x 106666.6667
       y 75224.29167
@@ -34871,7 +34871,7 @@ graph [
   node [
     id 2051
     template "oreas:std:rect simple"
-    label "John Hudson / UnitedKingdom / 2"
+    label "John Hudson / UnitedKingdom / 2 / 1791"
     graphics [
       x 106529.1667
       y 75318.12500
@@ -34888,7 +34888,7 @@ graph [
   node [
     id 2052
     template "oreas:std:rect simple"
-    label "Martinus Antonius del Rio / France / 1"
+    label "Martinus Antonius del Rio / France / 1 / 1572"
     graphics [
       x 106804.1667
       y 75318.12500
@@ -34905,7 +34905,7 @@ graph [
   node [
     id 2053
     template "oreas:std:rect simple"
-    label "Johannes (Jan van Ostaeyen) Stadius / France / 2"
+    label "Johannes (Jan van Ostaeyen) Stadius / France / 2 / 1547"
     graphics [
       x 106929.1667
       y 75318.12500
@@ -34922,7 +34922,7 @@ graph [
   node [
     id 2054
     template "oreas:std:rect simple"
-    label "John Keill / UnitedKingdom / 1"
+    label "John Keill / UnitedKingdom / 1 / 1692"
     graphics [
       x 107429.1667
       y 75318.12500
@@ -34939,7 +34939,7 @@ graph [
   node [
     id 2055
     template "oreas:std:rect simple"
-    label "David Gregory / UnitedKingdom / 3"
+    label "David Gregory / UnitedKingdom / 3 / 1665"
     graphics [
       x 107304.1667
       y 75318.12500
@@ -34956,7 +34956,7 @@ graph [
   node [
     id 2056
     template "oreas:std:rect simple"
-    label "Jean Théophile Désaguliers / UnitedKingdom / 0"
+    label "Jean Théophile Désaguliers / UnitedKingdom / 0 / 1712"
     graphics [
       x 107179.1667
       y 75318.12500
@@ -34973,7 +34973,7 @@ graph [
   node [
     id 2057
     template "oreas:std:rect simple"
-    label "John Craig / UnitedKingdom / 0"
+    label "John Craig / UnitedKingdom / 0 / 1687"
     graphics [
       x 107054.1667
       y 75318.12500
@@ -34990,7 +34990,7 @@ graph [
   node [
     id 2058
     template "oreas:std:rect simple"
-    label "Valentin Konstantinovich Ivanov / Russia / 63"
+    label "Valentin Konstantinovich Ivanov / Russia / 63 / 1847"
     graphics [
       x 107679.1667
       y 75318.12500
@@ -35007,7 +35007,7 @@ graph [
   node [
     id 2059
     template "oreas:std:rect simple"
-    label "A. I. Vasilʹev / Russia / 0"
+    label "A. I. Vasilʹev / Russia / 0 / 1872"
     graphics [
       x 107554.1667
       y 75318.12500
@@ -35024,7 +35024,7 @@ graph [
   node [
     id 2060
     template "oreas:std:rect simple"
-    label "Zephyrin Victor Elliot / France / 0"
+    label "Zephyrin Victor Elliot / France / 0 / 1876"
     graphics [
       x 107929.1667
       y 75318.12500
@@ -35041,7 +35041,7 @@ graph [
   node [
     id 2061
     template "oreas:std:rect simple"
-    label "Charles Briot / France / 1"
+    label "Charles Briot / France / 1 / 1851"
     graphics [
       x 107804.1667
       y 75318.12500
@@ -35058,7 +35058,7 @@ graph [
   node [
     id 2062
     template "oreas:std:rect simple"
-    label "Vincenzo Viviani / Italy / 14760"
+    label "Vincenzo Viviani / Italy / 14760 / 1642"
     graphics [
       x 108179.1667
       y 75318.12500
@@ -35075,7 +35075,7 @@ graph [
   node [
     id 2063
     template "oreas:std:rect simple"
-    label "Galileo Galilei / Italy / 15222"
+    label "Galileo Galilei / Italy / 15222 / 1585"
     graphics [
       x 108554.1667
       y 75318.12500
@@ -35092,7 +35092,7 @@ graph [
   node [
     id 2064
     template "oreas:std:rect simple"
-    label "Ostilio Ricci / Italy / 15223"
+    label "Ostilio Ricci / Italy / 15223 / 1560"
     graphics [
       x 108929.1667
       y 75318.12500
@@ -35109,7 +35109,7 @@ graph [
   node [
     id 2065
     template "oreas:std:rect simple"
-    label "Benedetto Castelli / Italy / 15220"
+    label "Benedetto Castelli / Italy / 15220 / 1610"
     graphics [
       x 108304.1667
       y 75318.12500
@@ -35126,7 +35126,7 @@ graph [
   node [
     id 2066
     template "oreas:std:rect simple"
-    label "Mario Guiducci / Italy / 0"
+    label "Mario Guiducci / Italy / 0 / 1619"
     graphics [
       x 108679.1667
       y 75318.12500
@@ -35143,7 +35143,7 @@ graph [
   node [
     id 2067
     template "oreas:std:rect simple"
-    label "Evangelista Torricelli / Italy / 14761"
+    label "Evangelista Torricelli / Italy / 14761 / 1617"
     graphics [
       x 108054.1667
       y 75318.12500
@@ -35160,7 +35160,7 @@ graph [
   node [
     id 2068
     template "oreas:std:rect simple"
-    label "Bonaventura Cavalieri / Italy / 1"
+    label "Bonaventura Cavalieri / Italy / 1 / 1619"
     graphics [
       x 108429.1667
       y 75318.12500
@@ -35177,7 +35177,7 @@ graph [
   node [
     id 2069
     template "oreas:std:rect simple"
-    label "Pietro Mengoli / Italy / 0"
+    label "Pietro Mengoli / Italy / 0 / 1647"
     graphics [
       x 108804.1667
       y 75318.12500
@@ -35194,7 +35194,7 @@ graph [
   node [
     id 2070
     template "oreas:std:rect simple"
-    label "Gustav von Schmoller / Germany / 1961"
+    label "Gustav von Schmoller / Germany / 1961 / 1860"
     graphics [
       x 109554.1667
       y 75318.12500
@@ -35211,7 +35211,7 @@ graph [
   node [
     id 2071
     template "oreas:std:rect simple"
-    label "Adolph Heinrich Gotthelf Wagner / Germany / 1492"
+    label "Adolph Heinrich Gotthelf Wagner / Germany / 1492 / 1857"
     graphics [
       x 110304.1667
       y 75318.12500
@@ -35228,7 +35228,7 @@ graph [
   node [
     id 2072
     template "oreas:std:rect simple"
-    label "Werner Sombart / Germany / 1427"
+    label "Werner Sombart / Germany / 1427 / 1888"
     graphics [
       x 110179.1667
       y 75318.12500
@@ -35245,7 +35245,7 @@ graph [
   node [
     id 2073
     template "oreas:std:rect simple"
-    label "Alfred Weber / Germany / 487"
+    label "Alfred Weber / Germany / 487 / 1897"
     graphics [
       x 109429.1667
       y 75318.12500
@@ -35262,7 +35262,7 @@ graph [
   node [
     id 2074
     template "oreas:std:rect simple"
-    label "Karl Wolfgang Christoph Schütz / Germany / 1962"
+    label "Karl Wolfgang Christoph Schütz / Germany / 1962 / 1835"
     graphics [
       x 109804.1667
       y 75318.12500
@@ -35279,7 +35279,7 @@ graph [
   node [
     id 2075
     template "oreas:std:rect simple"
-    label "Alfred Jakob Doren / Germany / 0"
+    label "Alfred Jakob Doren / Germany / 0 / 1892"
     graphics [
       x 109304.1667
       y 75318.12500
@@ -35296,7 +35296,7 @@ graph [
   node [
     id 2076
     template "oreas:std:rect simple"
-    label "Max Sering / Germany / 1"
+    label "Max Sering / Germany / 1 / 1881"
     graphics [
       x 109679.1667
       y 75318.12500
@@ -35313,7 +35313,7 @@ graph [
   node [
     id 2077
     template "oreas:std:rect simple"
-    label "Georg Hanssen / Germany / 1493"
+    label "Georg Hanssen / Germany / 1493 / 1831"
     graphics [
       x 110054.1667
       y 75318.12500
@@ -35330,7 +35330,7 @@ graph [
   node [
     id 2078
     template "oreas:std:rect simple"
-    label "Henry Walcott Farnam / Germany / 0"
+    label "Henry Walcott Farnam / Germany / 0 / 1878"
     graphics [
       x 109179.1667
       y 75318.12500
@@ -35347,7 +35347,7 @@ graph [
   node [
     id 2079
     template "oreas:std:rect simple"
-    label "Heinrich Dietzel / Germany / 64"
+    label "Heinrich Dietzel / Germany / 64 / 1882"
     graphics [
       x 110429.1667
       y 75318.12500
@@ -35364,7 +35364,7 @@ graph [
   node [
     id 2080
     template "oreas:std:rect simple"
-    label "August Christian Niemann / Germany / 1494"
+    label "August Christian Niemann / Germany / 1494 / 1806"
     graphics [
       x 109929.1667
       y 75318.12500
@@ -35381,7 +35381,7 @@ graph [
   node [
     id 2081
     template "oreas:std:rect simple"
-    label "W. E. B. (William Edward Burghardt) Du Bois / Germany / 0"
+    label "W. E. B. (William Edward Burghardt) Du Bois / Germany / 0 / 1893"
     graphics [
       x 109054.1667
       y 75318.12500
@@ -35398,7 +35398,7 @@ graph [
   node [
     id 2082
     template "oreas:std:rect simple"
-    label "Karl Rathgen / Germany / 3"
+    label "Karl Rathgen / Germany / 3 / 1880"
     graphics [
       x 109554.1667
       y 75445.29167
@@ -35415,7 +35415,7 @@ graph [
   node [
     id 2083
     template "oreas:std:rect simple"
-    label "Louis Marcel Brillouin / France / 462"
+    label "Louis Marcel Brillouin / France / 462 / 1871"
     graphics [
       x 110879.1667
       y 75445.29167
@@ -35432,7 +35432,7 @@ graph [
   node [
     id 2084
     template "oreas:std:rect simple"
-    label "Aimé Auguste Cotton / France / 120"
+    label "Aimé Auguste Cotton / France / 120 / 1896"
     graphics [
       x 110504.1667
       y 75445.29167
@@ -35449,7 +35449,7 @@ graph [
   node [
     id 2085
     template "oreas:std:rect simple"
-    label "Jules Louis Gabriel Violle / France / 341"
+    label "Jules Louis Gabriel Violle / France / 341 / 1865"
     graphics [
       x 110629.1667
       y 75445.29167
@@ -35466,7 +35466,7 @@ graph [
   node [
     id 2086
     template "oreas:std:rect simple"
-    label "Charles Camichel / France / 190"
+    label "Charles Camichel / France / 190 / 1895"
     graphics [
       x 110754.1667
       y 75445.29167
@@ -35483,7 +35483,7 @@ graph [
   node [
     id 2087
     template "oreas:std:rect simple"
-    label "Jules Charles Antonin Macé de Lépinay / France / 0"
+    label "Jules Charles Antonin Macé de Lépinay / France / 0 / 1879"
     graphics [
       x 111004.1667
       y 75445.29167
@@ -35500,7 +35500,7 @@ graph [
   node [
     id 2088
     template "oreas:std:rect simple"
-    label "Eduardo Torroja Caballé / Spain / 1799"
+    label "Eduardo Torroja Caballé / Spain / 1799 / 1863"
     graphics [
       x 111254.1667
       y 75445.29167
@@ -35517,7 +35517,7 @@ graph [
   node [
     id 2089
     template "oreas:std:rect simple"
-    label "Miguel Vegas Puebla-Collado / Spain / 5"
+    label "Miguel Vegas Puebla-Collado / Spain / 5 / 1888"
     graphics [
       x 111379.1667
       y 75445.29167
@@ -35534,7 +35534,7 @@ graph [
   node [
     id 2090
     template "oreas:std:rect simple"
-    label "Cecilio Jiménez Rueda / Spain / 0"
+    label "Cecilio Jiménez Rueda / Spain / 0 / 1888"
     graphics [
       x 111129.1667
       y 75445.29167
@@ -35551,7 +35551,7 @@ graph [
   node [
     id 2091
     template "oreas:std:rect simple"
-    label "Georg Jurij Bartolomej Veha von Vega / Slovenia / 6840"
+    label "Georg Jurij Bartolomej Veha von Vega / Slovenia / 6840 / 1775"
     graphics [
       x 111504.1667
       y 75445.29167
@@ -35568,7 +35568,7 @@ graph [
   node [
     id 2092
     template "oreas:std:rect simple"
-    label "Gabriel Gruber / Austria / 6841"
+    label "Gabriel Gruber / Austria / 6841 / 1767"
     graphics [
       x 111629.1667
       y 75445.29167
@@ -35585,7 +35585,7 @@ graph [
   node [
     id 2093
     template "oreas:std:rect simple"
-    label "Joseph Giuseppe Jakob von Maffei / Austria / 6841"
+    label "Joseph Giuseppe Jakob von Maffei / Austria / 6841 / 1762"
     graphics [
       x 111754.1667
       y 75445.29167
@@ -35602,7 +35602,7 @@ graph [
   node [
     id 2094
     template "oreas:std:rect simple"
-    label "Nikolaus Boda Poda von Neuhaus / Austria / 6843"
+    label "Nikolaus Boda Poda von Neuhaus / Austria / 6843 / 1740"
     graphics [
       x 111879.1667
       y 75445.29167
@@ -35619,7 +35619,7 @@ graph [
   node [
     id 2095
     template "oreas:std:rect simple"
-    label "Wilhelm Meinardus / Germany / 18"
+    label "Wilhelm Meinardus / Germany / 18 / 1894"
     graphics [
       x 112004.1667
       y 75445.29167
@@ -35636,7 +35636,7 @@ graph [
   node [
     id 2096
     template "oreas:std:rect simple"
-    label "Ferdinand von Richthofen / Germany / 20"
+    label "Ferdinand von Richthofen / Germany / 20 / 1869"
     graphics [
       x 112129.1667
       y 75445.29167
@@ -35653,7 +35653,7 @@ graph [
   node [
     id 2097
     template "oreas:std:rect simple"
-    label "Johann Maukisch / Germany / 1"
+    label "Johann Maukisch / Germany / 1 / 1642"
     graphics [
       x 112379.1667
       y 75445.29167
@@ -35670,7 +35670,7 @@ graph [
   node [
     id 2098
     template "oreas:std:rect simple"
-    label "Simon Löffler / Germany / 0"
+    label "Simon Löffler / Germany / 0 / 1645"
     graphics [
       x 112504.1667
       y 75445.29167
@@ -35687,7 +35687,7 @@ graph [
   node [
     id 2099
     template "oreas:std:rect simple"
-    label "Ananias Weber / Germany / 2"
+    label "Ananias Weber / Germany / 2 / 1617"
     graphics [
       x 112254.1667
       y 75445.29167
@@ -35704,7 +35704,7 @@ graph [
   node [
     id 2100
     template "oreas:std:rect simple"
-    label "Enno Dirk Wiersma / Netherlands / 1"
+    label "Enno Dirk Wiersma / Netherlands / 1 / 1886"
     graphics [
       x 112629.1667
       y 75445.29167
@@ -35721,7 +35721,7 @@ graph [
   node [
     id 2101
     template "oreas:std:rect simple"
-    label "Hendrik Albert Kooyker / Netherlands / 2"
+    label "Hendrik Albert Kooyker / Netherlands / 2 / 1861"
     graphics [
       x 112754.1667
       y 75445.29167
@@ -35738,7 +35738,7 @@ graph [
   node [
     id 2102
     template "oreas:std:rect simple"
-    label "Jakob Gadolin / Finland / 1"
+    label "Jakob Gadolin / Finland / 1 / 1735"
     graphics [
       x 112879.1667
       y 75445.29167
@@ -35755,7 +35755,7 @@ graph [
   node [
     id 2103
     template "oreas:std:rect simple"
-    label "Anders Johan Lexell / Finland / 0"
+    label "Anders Johan Lexell / Finland / 0 / 1760"
     graphics [
       x 113004.1667
       y 75445.29167
@@ -35772,7 +35772,7 @@ graph [
   node [
     id 2104
     template "oreas:std:rect simple"
-    label "Russell Henry Chittenden / UnitedStates / 250"
+    label "Russell Henry Chittenden / UnitedStates / 250 / 1868"
     graphics [
       x 113129.1667
       y 75445.29167
@@ -35789,7 +35789,7 @@ graph [
   node [
     id 2105
     template "oreas:std:rect simple"
-    label "Lafayette Benedict Mendel / UnitedStates / 249"
+    label "Lafayette Benedict Mendel / UnitedStates / 249 / 1893"
     graphics [
       x 113254.1667
       y 75445.29167
@@ -35806,7 +35806,7 @@ graph [
   node [
     id 2106
     template "oreas:std:rect simple"
-    label "Antonio Valsalva / Italy / 459"
+    label "Antonio Valsalva / Italy / 459 / 1687"
     graphics [
       x 113629.1667
       y 75445.29167
@@ -35823,7 +35823,7 @@ graph [
   node [
     id 2107
     template "oreas:std:rect simple"
-    label "Marcello Malpighi / Italy / 460"
+    label "Marcello Malpighi / Italy / 460 / 1653"
     graphics [
       x 113504.1667
       y 75445.29167
@@ -35840,7 +35840,7 @@ graph [
   node [
     id 2108
     template "oreas:std:rect simple"
-    label "Giovanni Alfonso Borelli / Italy / 461"
+    label "Giovanni Alfonso Borelli / Italy / 461 / 1628"
     graphics [
       x 113379.1667
       y 75445.29167
@@ -35857,7 +35857,7 @@ graph [
   node [
     id 2109
     template "oreas:std:rect simple"
-    label "Nilos Kabasilas / Greece / 142617"
+    label "Nilos Kabasilas / Greece / 142617 / 1363"
     graphics [
       x 113879.1667
       y 75445.29167
@@ -35874,7 +35874,7 @@ graph [
   node [
     id 2110
     template "oreas:std:rect simple"
-    label "Gregory Palamas / Greece / 142618"
+    label "Gregory Palamas / Greece / 142618 / 1338"
     graphics [
       x 113754.1667
       y 75445.29167
@@ -35891,7 +35891,7 @@ graph [
   node [
     id 2111
     template "oreas:std:rect simple"
-    label "Santiago Ramón y Cajal / Spain / 87"
+    label "Santiago Ramón y Cajal / Spain / 87 / 1877"
     graphics [
       x 114004.1667
       y 75445.29167
@@ -35908,7 +35908,7 @@ graph [
   node [
     id 2112
     template "oreas:std:rect simple"
-    label "Aureliano Maestre de San Juan / Spain / 88"
+    label "Aureliano Maestre de San Juan / Spain / 88 / 1851"
     graphics [
       x 114129.1667
       y 75445.29167
@@ -35925,7 +35925,7 @@ graph [
   node [
     id 2113
     template "oreas:std:rect simple"
-    label "Eloy Carlos Ordóñez / Spain / 89"
+    label "Eloy Carlos Ordóñez / Spain / 89 / 1826"
     graphics [
       x 114254.1667
       y 75445.29167
@@ -35942,7 +35942,7 @@ graph [
   node [
     id 2114
     template "oreas:std:rect simple"
-    label "Charles-Philippe Robin / France / 90"
+    label "Charles-Philippe Robin / France / 90 / 1846"
     graphics [
       x 114379.1667
       y 75445.29167
@@ -35959,7 +35959,7 @@ graph [
   node [
     id 2115
     template "oreas:std:rect simple"
-    label "Hermann Lebert / Switzerland / 91"
+    label "Hermann Lebert / Switzerland / 91 / 1834"
     graphics [
       x 114379.1667
       y 75539.12500
@@ -35976,7 +35976,7 @@ graph [
   node [
     id 2116
     template "oreas:std:rect simple"
-    label "Guillaume Dupuytren / France / 94"
+    label "Guillaume Dupuytren / France / 94 / 1803"
     graphics [
       x 114754.1667
       y 75539.12500
@@ -35993,7 +35993,7 @@ graph [
   node [
     id 2117
     template "oreas:std:rect simple"
-    label "Pierre Charles Alexandre Louis / France / 92"
+    label "Pierre Charles Alexandre Louis / France / 92 / 1813"
     graphics [
       x 114504.1667
       y 75539.12500
@@ -36010,7 +36010,7 @@ graph [
   node [
     id 2118
     template "oreas:std:rect simple"
-    label "Alexis Boulet Boyer / France / 95"
+    label "Alexis Boulet Boyer / France / 95 / 1778"
     graphics [
       x 114629.1667
       y 75539.12500
@@ -36027,7 +36027,7 @@ graph [
   node [
     id 2119
     template "oreas:std:rect simple"
-    label "René Theophile Hyacinthe Laënnec / France / 93"
+    label "René Theophile Hyacinthe Laënnec / France / 93 / 1804"
     graphics [
       x 114879.1667
       y 75539.12500
@@ -36044,7 +36044,7 @@ graph [
   node [
     id 2120
     template "oreas:std:rect simple"
-    label "Antoine Louis / France / 97"
+    label "Antoine Louis / France / 97 / 1749"
     graphics [
       x 115004.1667
       y 75539.12500
@@ -36061,7 +36061,7 @@ graph [
   node [
     id 2121
     template "oreas:std:rect simple"
-    label "François Gigot de La Peyronie / France / 98"
+    label "François Gigot de La Peyronie / France / 98 / 1724"
     graphics [
       x 115129.1667
       y 75539.12500
@@ -36078,7 +36078,7 @@ graph [
   node [
     id 2122
     template "oreas:std:rect simple"
-    label "Casper Hendrik Kuhn / Netherlands / 0"
+    label "Casper Hendrik Kuhn / Netherlands / 0 / 1875"
     graphics [
       x 115379.1667
       y 75539.12500
@@ -36095,7 +36095,7 @@ graph [
   node [
     id 2123
     template "oreas:std:rect simple"
-    label "Theodor Wilhelm Engelmann / Netherlands / 1"
+    label "Theodor Wilhelm Engelmann / Netherlands / 1 / 1850"
     graphics [
       x 115254.1667
       y 75539.12500
@@ -36112,7 +36112,7 @@ graph [
   node [
     id 2124
     template "oreas:std:rect simple"
-    label "Christian Gottlob Biener / Germany / 2"
+    label "Christian Gottlob Biener / Germany / 2 / 1770"
     graphics [
       x 115629.1667
       y 75539.12500
@@ -36129,7 +36129,7 @@ graph [
   node [
     id 2125
     template "oreas:std:rect simple"
-    label "Moritz von Prasse / Germany / 1"
+    label "Moritz von Prasse / Germany / 1 / 1795"
     graphics [
       x 115504.1667
       y 75539.12500
@@ -36146,7 +36146,7 @@ graph [
   node [
     id 2126
     template "oreas:std:rect simple"
-    label "Karl Andreas Bel / Germany / 1"
+    label "Karl Andreas Bel / Germany / 1 / 1753"
     graphics [
       x 115754.1667
       y 75539.12500
@@ -36163,7 +36163,7 @@ graph [
   node [
     id 2127
     template "oreas:std:rect simple"
-    label "Johann Gottlob Böhme / Germany / 1"
+    label "Johann Gottlob Böhme / Germany / 1 / 1753"
     graphics [
       x 115879.1667
       y 75539.12500
@@ -36180,7 +36180,7 @@ graph [
   node [
     id 2128
     template "oreas:std:rect simple"
-    label "Christian Ludovici / Germany / 1"
+    label "Christian Ludovici / Germany / 1 / 1753"
     graphics [
       x 116129.1667
       y 75539.12500
@@ -36197,7 +36197,7 @@ graph [
   node [
     id 2129
     template "oreas:std:rect simple"
-    label "Curt Friedrich von Schönberg / Germany / 0"
+    label "Curt Friedrich von Schönberg / Germany / 0 / 1778"
     graphics [
       x 116004.1667
       y 75539.12500
@@ -36214,7 +36214,7 @@ graph [
   node [
     id 2130
     template "oreas:std:rect simple"
-    label "Erhard Pfautz / Germany / 2"
+    label "Erhard Pfautz / Germany / 2 / 1638"
     graphics [
       x 116504.1667
       y 75539.12500
@@ -36231,7 +36231,7 @@ graph [
   node [
     id 2131
     template "oreas:std:rect simple"
-    label "Christoph Pfautz / Germany / 1"
+    label "Christoph Pfautz / Germany / 1 / 1663"
     graphics [
       x 116379.1667
       y 75539.12500
@@ -36248,7 +36248,7 @@ graph [
   node [
     id 2132
     template "oreas:std:rect simple"
-    label "Tobias Beutel / Germany / 0"
+    label "Tobias Beutel / Germany / 0 / 1684"
     graphics [
       x 116254.1667
       y 75539.12500
@@ -36265,7 +36265,7 @@ graph [
   node [
     id 2133
     template "oreas:std:rect simple"
-    label "Hans Adolf Eduard Driesch / Germany / 3"
+    label "Hans Adolf Eduard Driesch / Germany / 3 / 1889"
     graphics [
       x 116629.1667
       y 75539.12500
@@ -36282,7 +36282,7 @@ graph [
   node [
     id 2134
     template "oreas:std:rect simple"
-    label "Ernst Haeckel / Germany / 4"
+    label "Ernst Haeckel / Germany / 4 / 1864"
     graphics [
       x 116754.1667
       y 75539.12500
@@ -36299,7 +36299,7 @@ graph [
   node [
     id 2135
     template "oreas:std:rect simple"
-    label "Ludwig Joseph Brentano / Germany / 493"
+    label "Ludwig Joseph Brentano / Germany / 493 / 1867"
     graphics [
       x 117004.1667
       y 75539.12500
@@ -36316,7 +36316,7 @@ graph [
   node [
     id 2136
     template "oreas:std:rect simple"
-    label "Heinrich Herkner / Germany / 1"
+    label "Heinrich Herkner / Germany / 1 / 1886"
     graphics [
       x 117129.1667
       y 75539.12500
@@ -36333,7 +36333,7 @@ graph [
   node [
     id 2137
     template "oreas:std:rect simple"
-    label "Johann Alphons Renatus von Helferich / Germany / 494"
+    label "Johann Alphons Renatus von Helferich / Germany / 494 / 1842"
     graphics [
       x 116879.1667
       y 75539.12500
@@ -36350,7 +36350,7 @@ graph [
   node [
     id 2138
     template "oreas:std:rect simple"
-    label "Jean Baptiste Michel Bucquet / France / 15471"
+    label "Jean Baptiste Michel Bucquet / France / 15471 / 1768"
     graphics [
       x 117254.1667
       y 75539.12500
@@ -36367,7 +36367,7 @@ graph [
   node [
     id 2139
     template "oreas:std:rect simple"
-    label "Pierre Joseph Macquer / France / 15472"
+    label "Pierre Joseph Macquer / France / 15472 / 1742"
     graphics [
       x 117379.1667
       y 75539.12500
@@ -36384,7 +36384,7 @@ graph [
   node [
     id 2140
     template "oreas:std:rect simple"
-    label "Gillaume-Francois Rouelle / France / 15473"
+    label "Gillaume-Francois Rouelle / France / 15473 / 1725"
     graphics [
       x 117504.1667
       y 75539.12500
@@ -36401,7 +36401,7 @@ graph [
   node [
     id 2141
     template "oreas:std:rect simple"
-    label "Johann Gottlob Spitzley / France / 15474"
+    label "Johann Gottlob Spitzley / France / 15474 / 1700"
     graphics [
       x 117629.1667
       y 75539.12500
@@ -36418,7 +36418,7 @@ graph [
   node [
     id 2142
     template "oreas:std:rect simple"
-    label "Gottfried Zapf / Germany / 1"
+    label "Gottfried Zapf / Germany / 1 / 1653"
     graphics [
       x 117879.1667
       y 75539.12500
@@ -36435,7 +36435,7 @@ graph [
   node [
     id 2143
     template "oreas:std:rect simple"
-    label "Johann Georg Roscamp / Germany / 0"
+    label "Johann Georg Roscamp / Germany / 0 / 1662"
     graphics [
       x 117754.1667
       y 75539.12500
@@ -36452,7 +36452,7 @@ graph [
   node [
     id 2144
     template "oreas:std:rect simple"
-    label "Serverus Christoph Olpe / Germany / 2"
+    label "Serverus Christoph Olpe / Germany / 2 / 1628"
     graphics [
       x 118004.1667
       y 75539.12500
@@ -36469,7 +36469,7 @@ graph [
   node [
     id 2145
     template "oreas:std:rect simple"
-    label "Caspar Bose / Germany / 1"
+    label "Caspar Bose / Germany / 1 / 1703"
     graphics [
       x 118129.1667
       y 75539.12500
@@ -36486,7 +36486,7 @@ graph [
   node [
     id 2146
     template "oreas:std:rect simple"
-    label "George Matthias Bose / Germany / 0"
+    label "George Matthias Bose / Germany / 0 / 1728"
     graphics [
       x 118254.1667
       y 75539.12500
@@ -36503,7 +36503,7 @@ graph [
   node [
     id 2147
     template "oreas:std:rect simple"
-    label "Heinrich Martin Christian Klausing / Germany / 4"
+    label "Heinrich Martin Christian Klausing / Germany / 4 / 1690"
     graphics [
       x 118641.6667
       y 75624.62500
@@ -36520,7 +36520,7 @@ graph [
   node [
     id 2148
     template "oreas:std:rect simple"
-    label "Gerhard Lüders / Germany / 0"
+    label "Gerhard Lüders / Germany / 0 / 1718"
     graphics [
       x 118891.6667
       y 75624.62500
@@ -36537,7 +36537,7 @@ graph [
   node [
     id 2149
     template "oreas:std:rect simple"
-    label "Johannes Oertel / Germany / 0"
+    label "Johannes Oertel / Germany / 0 / 1715"
     graphics [
       x 118266.6667
       y 75624.62500
@@ -36554,7 +36554,7 @@ graph [
   node [
     id 2150
     template "oreas:std:rect simple"
-    label "Friedrich Jacob Firnhaber / Germany / 1"
+    label "Friedrich Jacob Firnhaber / Germany / 1 / 1713"
     graphics [
       x 118516.6667
       y 75624.62500
@@ -36571,7 +36571,7 @@ graph [
   node [
     id 2151
     template "oreas:std:rect simple"
-    label "Georg Christoph Seybold / Germany / 0"
+    label "Georg Christoph Seybold / Germany / 0 / 1715"
     graphics [
       x 118391.6667
       y 75624.62500
@@ -36588,7 +36588,7 @@ graph [
   node [
     id 2152
     template "oreas:std:rect simple"
-    label "Jacob Wilhelm Feuerlein / Germany / 2"
+    label "Jacob Wilhelm Feuerlein / Germany / 2 / 1688"
     graphics [
       x 118766.6667
       y 75624.62500
@@ -36605,7 +36605,7 @@ graph [
   node [
     id 2153
     template "oreas:std:rect simple"
-    label "Heinrich Ludwig d'Arrest / Denmark / 1"
+    label "Heinrich Ludwig d'Arrest / Denmark / 1 / 1841"
     graphics [
       x 119016.6667
       y 75624.62500
@@ -36622,7 +36622,7 @@ graph [
   node [
     id 2154
     template "oreas:std:rect simple"
-    label "Thorvald Nicolai Thiele / Denmark / 0"
+    label "Thorvald Nicolai Thiele / Denmark / 0 / 1866"
     graphics [
       x 119141.6667
       y 75624.62500
@@ -36639,7 +36639,7 @@ graph [
   node [
     id 2155
     template "oreas:std:rect simple"
-    label "Kaspar Wenckh / Germany / 1"
+    label "Kaspar Wenckh / Germany / 1 / 1597"
     graphics [
       x 119266.6667
       y 75624.62500
@@ -36656,7 +36656,7 @@ graph [
   node [
     id 2156
     template "oreas:std:rect simple"
-    label "Magnus F. Zürcher / Germany / 0"
+    label "Magnus F. Zürcher / Germany / 0 / 1622"
     graphics [
       x 119391.6667
       y 75624.62500
@@ -36673,7 +36673,7 @@ graph [
   node [
     id 2157
     template "oreas:std:rect simple"
-    label "Theodore William Richards / UnitedStates / 201"
+    label "Theodore William Richards / UnitedStates / 201 / 1888"
     graphics [
       x 119641.6667
       y 75624.62500
@@ -36690,7 +36690,7 @@ graph [
   node [
     id 2158
     template "oreas:std:rect simple"
-    label "Josiah Parsons Cooke / UnitedStates / 202"
+    label "Josiah Parsons Cooke / UnitedStates / 202 / 1863"
     graphics [
       x 119516.6667
       y 75624.62500
@@ -36707,7 +36707,7 @@ graph [
   node [
     id 2159
     template "oreas:std:rect simple"
-    label "Gilbert Newton Lewis / UnitedStates / 4"
+    label "Gilbert Newton Lewis / UnitedStates / 4 / 1899"
     graphics [
       x 119766.6667
       y 75624.62500
@@ -36724,7 +36724,7 @@ graph [
   node [
     id 2160
     template "oreas:std:rect simple"
-    label "Fyodor Aleksandrovich Bredikhin / Russia / 42"
+    label "Fyodor Aleksandrovich Bredikhin / Russia / 42 / 1865"
     graphics [
       x 120016.6667
       y 75624.62500
@@ -36741,7 +36741,7 @@ graph [
   node [
     id 2161
     template "oreas:std:rect simple"
-    label "Aristarchus Apollonovich Belopolski / Russia / 0"
+    label "Aristarchus Apollonovich Belopolski / Russia / 0 / 1896"
     graphics [
       x 120141.6667
       y 75624.62500
@@ -36758,7 +36758,7 @@ graph [
   node [
     id 2162
     template "oreas:std:rect simple"
-    label "Witold Karlovic Tseraskii / Russia / 0"
+    label "Witold Karlovic Tseraskii / Russia / 0 / 1883"
     graphics [
       x 119891.6667
       y 75624.62500
@@ -36775,7 +36775,7 @@ graph [
   node [
     id 2163
     template "oreas:std:rect simple"
-    label "Ulrich Grubenmann / Switzerland / 20"
+    label "Ulrich Grubenmann / Switzerland / 20 / 1886"
     graphics [
       x 120391.6667
       y 75624.62500
@@ -36792,7 +36792,7 @@ graph [
   node [
     id 2164
     template "oreas:std:rect simple"
-    label "Adolf Johann Gustav Kenngott / Switzerland / 21"
+    label "Adolf Johann Gustav Kenngott / Switzerland / 21 / 1861"
     graphics [
       x 120516.6667
       y 75624.62500
@@ -36809,7 +36809,7 @@ graph [
   node [
     id 2165
     template "oreas:std:rect simple"
-    label "Albert Jacob Heim / Switzerland / 21"
+    label "Albert Jacob Heim / Switzerland / 21 / 1861"
     graphics [
       x 120266.6667
       y 75624.62500
@@ -36826,7 +36826,7 @@ graph [
   node [
     id 2166
     template "oreas:std:rect simple"
-    label "Ettore Bortolotti / Italy / 0"
+    label "Ettore Bortolotti / Italy / 0 / 1889"
     graphics [
       x 120766.6667
       y 75624.62500
@@ -36843,7 +36843,7 @@ graph [
   node [
     id 2167
     template "oreas:std:rect simple"
-    label "Salvatore Pincherle / Italy / 1"
+    label "Salvatore Pincherle / Italy / 1 / 1864"
     graphics [
       x 120641.6667
       y 75624.62500
@@ -36860,7 +36860,7 @@ graph [
   node [
     id 2168
     template "oreas:std:rect simple"
-    label "Johann Leonhard Jacobäus / Germany / 0"
+    label "Johann Leonhard Jacobäus / Germany / 0 / 1682"
     graphics [
       x 121016.6667
       y 75624.62500
@@ -36877,7 +36877,7 @@ graph [
   node [
     id 2169
     template "oreas:std:rect simple"
-    label "Johannes Georg Meisner / Germany / 1"
+    label "Johannes Georg Meisner / Germany / 1 / 1657"
     graphics [
       x 120891.6667
       y 75624.62500
@@ -36894,7 +36894,7 @@ graph [
   node [
     id 2170
     template "oreas:std:rect simple"
-    label "Magnus Georg von Paucker / Estonia / 0"
+    label "Magnus Georg von Paucker / Estonia / 0 / 1813"
     graphics [
       x 121266.6667
       y 75624.62500
@@ -36911,7 +36911,7 @@ graph [
   node [
     id 2171
     template "oreas:std:rect simple"
-    label "Sigismund Gottfried Huth / Estonia / 1"
+    label "Sigismund Gottfried Huth / Estonia / 1 / 1788"
     graphics [
       x 121141.6667
       y 75624.62500
@@ -36928,7 +36928,7 @@ graph [
   node [
     id 2172
     template "oreas:std:rect simple"
-    label "Theodore Metochites / Greece / 142620"
+    label "Theodore Metochites / Greece / 142620 / 1315"
     graphics [
       x 121516.6667
       y 75624.62500
@@ -36945,7 +36945,7 @@ graph [
   node [
     id 2173
     template "oreas:std:rect simple"
-    label "Manuel Bryennios / Greece / 142621"
+    label "Manuel Bryennios / Greece / 142621 / 1290"
     graphics [
       x 121391.6667
       y 75624.62500
@@ -36962,7 +36962,7 @@ graph [
   node [
     id 2174
     template "oreas:std:rect simple"
-    label "Wilhelm Dilthey / Germany / 6"
+    label "Wilhelm Dilthey / Germany / 6 / 1852"
     graphics [
       x 121641.6667
       y 75624.62500
@@ -36979,7 +36979,7 @@ graph [
   node [
     id 2175
     template "oreas:std:rect simple"
-    label "Eberhard Gothein / Germany / 3"
+    label "Eberhard Gothein / Germany / 3 / 1877"
     graphics [
       x 121766.6667
       y 75624.62500
@@ -36996,7 +36996,7 @@ graph [
   node [
     id 2176
     template "oreas:std:rect simple"
-    label "Jonathan Adolf Wilhelm Zenneck / Germany / 17"
+    label "Jonathan Adolf Wilhelm Zenneck / Germany / 17 / 1894"
     graphics [
       x 121891.6667
       y 75624.62500
@@ -37013,7 +37013,7 @@ graph [
   node [
     id 2177
     template "oreas:std:rect simple"
-    label "Theodor (Gustav Heinrich) Eimer / Germany / 18"
+    label "Theodor (Gustav Heinrich) Eimer / Germany / 18 / 1869"
     graphics [
       x 122016.6667
       y 75624.62500
@@ -37030,7 +37030,7 @@ graph [
   node [
     id 2178
     template "oreas:std:rect simple"
-    label "Sylvio Ferraz-Mello / Brazil / 5"
+    label "Sylvio Ferraz-Mello / Brazil / 5 / 1753"
     graphics [
       x 122266.6667
       y 75624.62500
@@ -37047,7 +37047,7 @@ graph [
   node [
     id 2179
     template "oreas:std:rect simple"
-    label "Rodolpho Vilhena de Moraes / Brazil / 0"
+    label "Rodolpho Vilhena de Moraes / Brazil / 0 / 1778"
     graphics [
       x 122141.6667
       y 75624.62500
@@ -37064,7 +37064,7 @@ graph [
   node [
     id 2180
     template "oreas:std:rect simple"
-    label "Jakob Kurtz / Germany / 0"
+    label "Jakob Kurtz / Germany / 0 / 1650"
     graphics [
       x 122391.6667
       y 75624.62500
@@ -37081,7 +37081,7 @@ graph [
   node [
     id 2181
     template "oreas:std:rect simple"
-    label "Johann Geilfus / Germany / 1"
+    label "Johann Geilfus / Germany / 1 / 1612"
     graphics [
       x 122641.6667
       y 75624.62500
@@ -37098,7 +37098,7 @@ graph [
   node [
     id 2182
     template "oreas:std:rect simple"
-    label "Michael Wolf / Germany / 24"
+    label "Michael Wolf / Germany / 24 / 1595"
     graphics [
       x 123628.6232
       y 75624.62500
@@ -37115,7 +37115,7 @@ graph [
   node [
     id 2183
     template "oreas:std:rect simple"
-    label "Johann Heinrich Vulpius / Germany / 0"
+    label "Johann Heinrich Vulpius / Germany / 0 / 1623"
     graphics [
       x 124516.6667
       y 75624.62500
@@ -37132,7 +37132,7 @@ graph [
   node [
     id 2184
     template "oreas:std:rect simple"
-    label "Georgius Judex / Germany / 0"
+    label "Georgius Judex / Germany / 0 / 1622"
     graphics [
       x 122766.6667
       y 75624.62500
@@ -37149,7 +37149,7 @@ graph [
   node [
     id 2185
     template "oreas:std:rect simple"
-    label "Achim von Bredow / Germany / 0"
+    label "Achim von Bredow / Germany / 0 / 1622"
     graphics [
       x 123141.6667
       y 75624.62500
@@ -37166,7 +37166,7 @@ graph [
   node [
     id 2186
     template "oreas:std:rect simple"
-    label "Sebastian Didelius / Germany / 0"
+    label "Sebastian Didelius / Germany / 0 / 1621"
     graphics [
       x 124766.6667
       y 75624.62500
@@ -37183,7 +37183,7 @@ graph [
   node [
     id 2187
     template "oreas:std:rect simple"
-    label "Johannes Bamberg / Germany / 0"
+    label "Johannes Bamberg / Germany / 0 / 1621"
     graphics [
       x 123391.6667
       y 75624.62500
@@ -37200,7 +37200,7 @@ graph [
   node [
     id 2188
     template "oreas:std:rect simple"
-    label "Andreas Jacobsen Langebech / Germany / 0"
+    label "Andreas Jacobsen Langebech / Germany / 0 / 1621"
     graphics [
       x 123266.6667
       y 75624.62500
@@ -37217,7 +37217,7 @@ graph [
   node [
     id 2189
     template "oreas:std:rect simple"
-    label "Christoph Maschwedel / Germany / 0"
+    label "Christoph Maschwedel / Germany / 0 / 1621"
     graphics [
       x 124641.6667
       y 75624.62500
@@ -37234,7 +37234,7 @@ graph [
   node [
     id 2190
     template "oreas:std:rect simple"
-    label "Marcus Bonaventura Pleier / Germany / 0"
+    label "Marcus Bonaventura Pleier / Germany / 0 / 1621"
     graphics [
       x 122516.6667
       y 75624.62500
@@ -37251,7 +37251,7 @@ graph [
   node [
     id 2191
     template "oreas:std:rect simple"
-    label "Henning Christoph Friederich / Germany / 0"
+    label "Henning Christoph Friederich / Germany / 0 / 1620"
     graphics [
       x 123016.6667
       y 75624.62500
@@ -37268,7 +37268,7 @@ graph [
   node [
     id 2192
     template "oreas:std:rect simple"
-    label "Johann Weinmann / Germany / 0"
+    label "Johann Weinmann / Germany / 0 / 1620"
     graphics [
       x 124391.6667
       y 75624.62500
@@ -37285,7 +37285,7 @@ graph [
   node [
     id 2193
     template "oreas:std:rect simple"
-    label "Philipp Rieckher / Germany / 0"
+    label "Philipp Rieckher / Germany / 0 / 1620"
     graphics [
       x 122891.6667
       y 75624.62500
@@ -37302,7 +37302,7 @@ graph [
   node [
     id 2194
     template "oreas:std:rect simple"
-    label "Georg Lange / Germany / 0"
+    label "Georg Lange / Germany / 0 / 1620"
     graphics [
       x 124291.6667
       y 75947.62500
@@ -37319,7 +37319,7 @@ graph [
   node [
     id 2195
     template "oreas:std:rect simple"
-    label "Johann Caroli / Germany / 0"
+    label "Johann Caroli / Germany / 0 / 1621"
     graphics [
       x 124166.6667
       y 75947.62500
@@ -37336,7 +37336,7 @@ graph [
   node [
     id 2196
     template "oreas:std:rect simple"
-    label "Albert Reinmann / Germany / 0"
+    label "Albert Reinmann / Germany / 0 / 1612"
     graphics [
       x 123916.6667
       y 75947.62500
@@ -37353,7 +37353,7 @@ graph [
   node [
     id 2197
     template "oreas:std:rect simple"
-    label "Johann Agricola / Germany / 0"
+    label "Johann Agricola / Germany / 0 / 1620"
     graphics [
       x 124041.6667
       y 75947.62500
@@ -37370,7 +37370,7 @@ graph [
   node [
     id 2198
     template "oreas:std:rect simple"
-    label "Nicolaus Neumeister / Germany / 0"
+    label "Nicolaus Neumeister / Germany / 0 / 1620"
     graphics [
       x 123791.6667
       y 75947.62500
@@ -37387,7 +37387,7 @@ graph [
   node [
     id 2199
     template "oreas:std:rect simple"
-    label "Andreas Kesler / Germany / 0"
+    label "Andreas Kesler / Germany / 0 / 1619"
     graphics [
       x 123666.6667
       y 75947.62500
@@ -37404,7 +37404,7 @@ graph [
   node [
     id 2200
     template "oreas:std:rect simple"
-    label "Philipp Stoltzenberger / Germany / 0"
+    label "Philipp Stoltzenberger / Germany / 0 / 1619"
     graphics [
       x 124416.6667
       y 75947.62500
@@ -37421,7 +37421,7 @@ graph [
   node [
     id 2201
     template "oreas:std:rect simple"
-    label "Johannes Zezeling / Germany / 0"
+    label "Johannes Zezeling / Germany / 0 / 1619"
     graphics [
       x 123291.6667
       y 75947.62500
@@ -37438,7 +37438,7 @@ graph [
   node [
     id 2202
     template "oreas:std:rect simple"
-    label "Jacob Leitner / Germany / 0"
+    label "Jacob Leitner / Germany / 0 / 1619"
     graphics [
       x 123416.6667
       y 75947.62500
@@ -37455,7 +37455,7 @@ graph [
   node [
     id 2203
     template "oreas:std:rect simple"
-    label "Timotheus Julius / Germany / 0"
+    label "Timotheus Julius / Germany / 0 / 1618"
     graphics [
       x 123541.6667
       y 75947.62500
@@ -37472,7 +37472,7 @@ graph [
   node [
     id 2204
     template "oreas:std:rect simple"
-    label "Johann Hentzelmann / Germany / 0"
+    label "Johann Hentzelmann / Germany / 0 / 1618"
     graphics [
       x 123166.6667
       y 75947.62500
@@ -37489,7 +37489,7 @@ graph [
   node [
     id 2205
     template "oreas:std:rect simple"
-    label "Georg Pötzinger / Germany / 0"
+    label "Georg Pötzinger / Germany / 0 / 1720"
     graphics [
       x 124891.6667
       y 75947.62500
@@ -37506,7 +37506,7 @@ graph [
   node [
     id 2206
     template "oreas:std:rect simple"
-    label "Friedrich Wilhelm Stübner / Germany / 2"
+    label "Friedrich Wilhelm Stübner / Germany / 2 / 1702"
     graphics [
       x 124766.6667
       y 75947.62500
@@ -37523,7 +37523,7 @@ graph [
   node [
     id 2207
     template "oreas:std:rect simple"
-    label "Georg Friedrich Behrmann / Germany / 0"
+    label "Georg Friedrich Behrmann / Germany / 0 / 1733"
     graphics [
       x 124641.6667
       y 75947.62500
@@ -37540,7 +37540,7 @@ graph [
   node [
     id 2208
     template "oreas:std:rect simple"
-    label "Johann Balthasar Lauterbach / Germany / 0"
+    label "Johann Balthasar Lauterbach / Germany / 0 / 1685"
     graphics [
       x 125141.6667
       y 75947.62500
@@ -37557,7 +37557,7 @@ graph [
   node [
     id 2209
     template "oreas:std:rect simple"
-    label "Johann Andreas Schmidt / Germany / 1"
+    label "Johann Andreas Schmidt / Germany / 1 / 1660"
     graphics [
       x 125016.6667
       y 75947.62500
@@ -37574,7 +37574,7 @@ graph [
   node [
     id 2210
     template "oreas:std:rect simple"
-    label "Georg Gottlieb Haubold / Germany / 0"
+    label "Georg Gottlieb Haubold / Germany / 0 / 1748"
     graphics [
       x 125266.6667
       y 75947.62500
@@ -37591,7 +37591,7 @@ graph [
   node [
     id 2211
     template "oreas:std:rect simple"
-    label "Christian Friedrich Berringer / Germany / 1"
+    label "Christian Friedrich Berringer / Germany / 1 / 1723"
     graphics [
       x 125391.6667
       y 75947.62500
@@ -37608,7 +37608,7 @@ graph [
   node [
     id 2212
     template "oreas:std:rect simple"
-    label "Kaarle Krohn / Finland / 6"
+    label "Kaarle Krohn / Finland / 6 / 1888"
     graphics [
       x 125516.6667
       y 75947.62500
@@ -37625,7 +37625,7 @@ graph [
   node [
     id 2213
     template "oreas:std:rect simple"
-    label "Julius Krohn / Finland / 7"
+    label "Julius Krohn / Finland / 7 / 1862"
     graphics [
       x 125641.6667
       y 75947.62500
@@ -37642,7 +37642,7 @@ graph [
   node [
     id 2214
     template "oreas:std:rect simple"
-    label "Elias Lönnrot / Finland / 8"
+    label "Elias Lönnrot / Finland / 8 / 1837"
     graphics [
       x 125766.6667
       y 75947.62500
@@ -37659,7 +37659,7 @@ graph [
   node [
     id 2215
     template "oreas:std:rect simple"
-    label "Karl Bücher / Germany / 31"
+    label "Karl Bücher / Germany / 31 / 1870"
     graphics [
       x 126141.6667
       y 75947.62500
@@ -37676,7 +37676,7 @@ graph [
   node [
     id 2216
     template "oreas:std:rect simple"
-    label "Adolf Köcher / Germany / 0"
+    label "Adolf Köcher / Germany / 0 / 1871"
     graphics [
       x 125891.6667
       y 75947.62500
@@ -37693,7 +37693,7 @@ graph [
   node [
     id 2217
     template "oreas:std:rect simple"
-    label "Johann Frotzheim / Germany / 0"
+    label "Johann Frotzheim / Germany / 0 / 1873"
     graphics [
       x 126391.6667
       y 75947.62500
@@ -37710,7 +37710,7 @@ graph [
   node [
     id 2218
     template "oreas:std:rect simple"
-    label "Arnold Schaefer / Germany / 34"
+    label "Arnold Schaefer / Germany / 34 / 1846"
     graphics [
       x 126266.6667
       y 75947.62500
@@ -37727,7 +37727,7 @@ graph [
   node [
     id 2219
     template "oreas:std:rect simple"
-    label "Heinrich von Sybel / Germany / 2"
+    label "Heinrich von Sybel / Germany / 2 / 1847"
     graphics [
       x 126016.6667
       y 75947.62500
@@ -37744,7 +37744,7 @@ graph [
   node [
     id 2220
     template "oreas:std:rect simple"
-    label "Maximilian Duncker / Germany / 1"
+    label "Maximilian Duncker / Germany / 1 / 1811"
     graphics [
       x 126641.6667
       y 75947.62500
@@ -37761,7 +37761,7 @@ graph [
   node [
     id 2221
     template "oreas:std:rect simple"
-    label "Sanwar Sunny / Germany / 0"
+    label "Sanwar Sunny / Germany / 0 / 1836"
     graphics [
       x 126516.6667
       y 75947.62500
@@ -37778,7 +37778,7 @@ graph [
   node [
     id 2222
     template "oreas:std:rect simple"
-    label "Friedrich von Wieser / Austria / 19"
+    label "Friedrich von Wieser / Austria / 19 / 1883"
     graphics [
       x 127016.6667
       y 75947.62500
@@ -37795,7 +37795,7 @@ graph [
   node [
     id 2223
     template "oreas:std:rect simple"
-    label "Eugen Böhm von Bawerk / Austria / 2096"
+    label "Eugen Böhm von Bawerk / Austria / 2096 / 1880"
     graphics [
       x 127141.6667
       y 75947.62500
@@ -37812,7 +37812,7 @@ graph [
   node [
     id 2224
     template "oreas:std:rect simple"
-    label "Richard Reisch / Austria / 0"
+    label "Richard Reisch / Austria / 0 / 1898"
     graphics [
       x 127266.6667
       y 75947.62500
@@ -37829,7 +37829,7 @@ graph [
   node [
     id 2225
     template "oreas:std:rect simple"
-    label "Carl Menger / Austria / 2113"
+    label "Carl Menger / Austria / 2113 / 1872"
     graphics [
       x 126891.6667
       y 75947.62500
@@ -37846,7 +37846,7 @@ graph [
   node [
     id 2226
     template "oreas:std:rect simple"
-    label "Lorenz von Stein / Austria / 2114"
+    label "Lorenz von Stein / Austria / 2114 / 1847"
     graphics [
       x 126766.6667
       y 75947.62500
@@ -37863,7 +37863,7 @@ graph [
   node [
     id 2227
     template "oreas:std:rect simple"
-    label "Johann Daniel Tietz (Titius) / Germany / 0"
+    label "Johann Daniel Tietz (Titius) / Germany / 0 / 1752"
     graphics [
       x 127391.6667
       y 75947.62500
@@ -37880,7 +37880,7 @@ graph [
   node [
     id 2228
     template "oreas:std:rect simple"
-    label "Johann Traugott Schulz / Germany / 1"
+    label "Johann Traugott Schulz / Germany / 1 / 1727"
     graphics [
       x 127516.6667
       y 75947.62500
@@ -37897,7 +37897,7 @@ graph [
   node [
     id 2229
     template "oreas:std:rect simple"
-    label "Georg Paul Jenisch / Germany / 0"
+    label "Georg Paul Jenisch / Germany / 0 / 1654"
     graphics [
       x 127641.6667
       y 75947.62500
@@ -37914,7 +37914,7 @@ graph [
   node [
     id 2230
     template "oreas:std:rect simple"
-    label "Johann Rudolph Saltzmann / Germany / 1"
+    label "Johann Rudolph Saltzmann / Germany / 1 / 1629"
     graphics [
       x 127766.6667
       y 75947.62500
@@ -37931,7 +37931,7 @@ graph [
   node [
     id 2231
     template "oreas:std:rect simple"
-    label "Johann Gottlieb Krüger / Germany / 0"
+    label "Johann Gottlieb Krüger / Germany / 0 / 1734"
     graphics [
       x 128391.6667
       y 75947.62500
@@ -37948,7 +37948,7 @@ graph [
   node [
     id 2232
     template "oreas:std:rect simple"
-    label "Christoph Andreas Büttner / Germany / 1"
+    label "Christoph Andreas Büttner / Germany / 1 / 1726"
     graphics [
       x 128266.6667
       y 75947.62500
@@ -37965,7 +37965,7 @@ graph [
   node [
     id 2233
     template "oreas:std:rect simple"
-    label "Christian Gottlieb Schwarz / Germany / 2"
+    label "Christian Gottlieb Schwarz / Germany / 2 / 1699"
     graphics [
       x 128016.6667
       y 75947.62500
@@ -37982,7 +37982,7 @@ graph [
   node [
     id 2234
     template "oreas:std:rect simple"
-    label "Samuel Barthel / Germany / 3"
+    label "Samuel Barthel / Germany / 3 / 1696"
     graphics [
       x 127891.6667
       y 75947.62500
@@ -37999,7 +37999,7 @@ graph [
   node [
     id 2235
     template "oreas:std:rect simple"
-    label "Gottfried Dewerdek / Germany / 4"
+    label "Gottfried Dewerdek / Germany / 4 / 1671"
     graphics [
       x 128141.6667
       y 75947.62500
@@ -38016,7 +38016,7 @@ graph [
   node [
     id 2236
     template "oreas:std:rect simple"
-    label "Johann Frischmuth / Germany / 1"
+    label "Johann Frischmuth / Germany / 1 / 1639"
     graphics [
       x 128516.6667
       y 75947.62500
@@ -38033,7 +38033,7 @@ graph [
   node [
     id 2237
     template "oreas:std:rect simple"
-    label "Paul Heigel / Germany / 0"
+    label "Paul Heigel / Germany / 0 / 1660"
     graphics [
       x 128641.6667
       y 75947.62500
@@ -38050,7 +38050,7 @@ graph [
   node [
     id 2238
     template "oreas:std:rect simple"
-    label "Johann Kob / Germany / 2"
+    label "Johann Kob / Germany / 2 / 1614"
     graphics [
       x 128516.6667
       y 76033.12500
@@ -38067,7 +38067,7 @@ graph [
   node [
     id 2239
     template "oreas:std:rect simple"
-    label "Johannes Adolph von Kries / Germany / 2"
+    label "Johannes Adolph von Kries / Germany / 2 / 1874"
     graphics [
       x 128791.6667
       y 76033.12500
@@ -38084,7 +38084,7 @@ graph [
   node [
     id 2240
     template "oreas:std:rect simple"
-    label "Hermann Cochius / Germany / 3"
+    label "Hermann Cochius / Germany / 3 / 1849"
     graphics [
       x 128916.6667
       y 76033.12500
@@ -38101,7 +38101,7 @@ graph [
   node [
     id 2241
     template "oreas:std:rect simple"
-    label "Christian Wilhelm Braune / Germany / 3"
+    label "Christian Wilhelm Braune / Germany / 3 / 1849"
     graphics [
       x 128666.6667
       y 76033.12500
@@ -38118,7 +38118,7 @@ graph [
   node [
     id 2242
     template "oreas:std:rect simple"
-    label "Johannes Wilhelm Heyl / Germany / 1"
+    label "Johannes Wilhelm Heyl / Germany / 1 / 1716"
     graphics [
       x 129166.6667
       y 76033.12500
@@ -38135,7 +38135,7 @@ graph [
   node [
     id 2243
     template "oreas:std:rect simple"
-    label "Christian Pescheck / Germany / 0"
+    label "Christian Pescheck / Germany / 0 / 1699"
     graphics [
       x 129291.6667
       y 76033.12500
@@ -38152,7 +38152,7 @@ graph [
   node [
     id 2244
     template "oreas:std:rect simple"
-    label "Johann Boecler / Germany / 2"
+    label "Johann Boecler / Germany / 2 / 1691"
     graphics [
       x 129041.6667
       y 76033.12500
@@ -38169,7 +38169,7 @@ graph [
   node [
     id 2245
     template "oreas:std:rect simple"
-    label "Martin Knorr / Germany / 2"
+    label "Martin Knorr / Germany / 2 / 1670"
     graphics [
       x 129541.6667
       y 76033.12500
@@ -38186,7 +38186,7 @@ graph [
   node [
     id 2246
     template "oreas:std:rect simple"
-    label "Augustin Vaget / Germany / 0"
+    label "Augustin Vaget / Germany / 0 / 1692"
     graphics [
       x 129666.6667
       y 76033.12500
@@ -38203,7 +38203,7 @@ graph [
   node [
     id 2247
     template "oreas:std:rect simple"
-    label "Friedrich David Stübner / Germany / 0"
+    label "Friedrich David Stübner / Germany / 0 / 1698"
     graphics [
       x 129416.6667
       y 76033.12500
@@ -38220,7 +38220,7 @@ graph [
   node [
     id 2248
     template "oreas:std:rect simple"
-    label "Christian Röhrensee / Germany / 1"
+    label "Christian Röhrensee / Germany / 1 / 1665"
     graphics [
       x 129916.6667
       y 76033.12500
@@ -38237,7 +38237,7 @@ graph [
   node [
     id 2249
     template "oreas:std:rect simple"
-    label "Johannes Heyl / Germany / 0"
+    label "Johannes Heyl / Germany / 0 / 1696"
     graphics [
       x 130041.6667
       y 76033.12500
@@ -38254,7 +38254,7 @@ graph [
   node [
     id 2250
     template "oreas:std:rect simple"
-    label "Johannes Deutschmann / Germany / 2"
+    label "Johannes Deutschmann / Germany / 2 / 1640"
     graphics [
       x 129791.6667
       y 76033.12500
@@ -38271,7 +38271,7 @@ graph [
   node [
     id 2251
     template "oreas:std:rect simple"
-    label "Simon Vissering / Netherlands / 49"
+    label "Simon Vissering / Netherlands / 49 / 1850"
     graphics [
       x 130166.6667
       y 76033.12500
@@ -38288,7 +38288,7 @@ graph [
   node [
     id 2252
     template "oreas:std:rect simple"
-    label "Hendrik Barend Greven / Netherlands / 48"
+    label "Hendrik Barend Greven / Netherlands / 48 / 1875"
     graphics [
       x 130291.6667
       y 76033.12500
@@ -38305,7 +38305,7 @@ graph [
   node [
     id 2253
     template "oreas:std:rect simple"
-    label "Hermann Eduard von Holst / Germany / 483"
+    label "Hermann Eduard von Holst / Germany / 483 / 1865"
     graphics [
       x 130541.6667
       y 76033.12500
@@ -38322,7 +38322,7 @@ graph [
   node [
     id 2254
     template "oreas:std:rect simple"
-    label "Albert Bushnell Hart / Germany / 482"
+    label "Albert Bushnell Hart / Germany / 482 / 1885"
     graphics [
       x 130666.6667
       y 76033.12500
@@ -38339,7 +38339,7 @@ graph [
   node [
     id 2255
     template "oreas:std:rect simple"
-    label "Ludwig Häusser / Germany / 484"
+    label "Ludwig Häusser / Germany / 484 / 1840"
     graphics [
       x 130416.6667
       y 76033.12500
@@ -38356,7 +38356,7 @@ graph [
   node [
     id 2256
     template "oreas:std:rect simple"
-    label "Friedrich Caspar Hagen / Germany / 0"
+    label "Friedrich Caspar Hagen / Germany / 0 / 1700"
     graphics [
       x 130916.6667
       y 76033.12500
@@ -38373,7 +38373,7 @@ graph [
   node [
     id 2257
     template "oreas:std:rect simple"
-    label "Georg Albert Stübner / Germany / 1"
+    label "Georg Albert Stübner / Germany / 1 / 1675"
     graphics [
       x 130791.6667
       y 76033.12500
@@ -38390,7 +38390,7 @@ graph [
   node [
     id 2258
     template "oreas:std:rect simple"
-    label "Karl Heribert Ignatius Buzengeiger / Germany / 1"
+    label "Karl Heribert Ignatius Buzengeiger / Germany / 1 / 1797"
     graphics [
       x 131041.6667
       y 76033.12500
@@ -38407,7 +38407,7 @@ graph [
   node [
     id 2259
     template "oreas:std:rect simple"
-    label "Karl Wilhelm Feuerbach / Germany / 0"
+    label "Karl Wilhelm Feuerbach / Germany / 0 / 1822"
     graphics [
       x 131166.6667
       y 76033.12500
@@ -38424,7 +38424,7 @@ graph [
   node [
     id 2260
     template "oreas:std:rect simple"
-    label "Johann Paul Gumprecht / Germany / 1"
+    label "Johann Paul Gumprecht / Germany / 1 / 1698"
     graphics [
       x 131416.6667
       y 76033.12500
@@ -38441,7 +38441,7 @@ graph [
   node [
     id 2261
     template "oreas:std:rect simple"
-    label "Johann Heinrich Winkler / Germany / 0"
+    label "Johann Heinrich Winkler / Germany / 0 / 1724"
     graphics [
       x 131541.6667
       y 76033.12500
@@ -38458,7 +38458,7 @@ graph [
   node [
     id 2262
     template "oreas:std:rect simple"
-    label "Andreas Christoph Calvisius / Germany / 2"
+    label "Andreas Christoph Calvisius / Germany / 2 / 1673"
     graphics [
       x 131291.6667
       y 76033.12500
@@ -38475,7 +38475,7 @@ graph [
   node [
     id 2263
     template "oreas:std:rect simple"
-    label "Otto Wilhelm Helmut von Zwiedineck-Südenhorst / Austria / 4"
+    label "Otto Wilhelm Helmut von Zwiedineck-Südenhorst / Austria / 4 / 1895"
     graphics [
       x 131666.6667
       y 76033.12500
@@ -38492,7 +38492,7 @@ graph [
   node [
     id 2264
     template "oreas:std:rect simple"
-    label "Richard Hildebrand / Austria / 5"
+    label "Richard Hildebrand / Austria / 5 / 1870"
     graphics [
       x 131791.6667
       y 76033.12500
@@ -38509,7 +38509,7 @@ graph [
   node [
     id 2265
     template "oreas:std:rect simple"
-    label "Edmund Beecher Wilson / UnitedStates / 60"
+    label "Edmund Beecher Wilson / UnitedStates / 60 / 1881"
     graphics [
       x 132041.6667
       y 76033.12500
@@ -38526,7 +38526,7 @@ graph [
   node [
     id 2266
     template "oreas:std:rect simple"
-    label "William Keith Brooks / UnitedStates / 61"
+    label "William Keith Brooks / UnitedStates / 61 / 1856"
     graphics [
       x 131916.6667
       y 76033.12500
@@ -38543,7 +38543,7 @@ graph [
   node [
     id 2267
     template "oreas:std:rect simple"
-    label "Johann Pali / Germany / 0"
+    label "Johann Pali / Germany / 0 / 1751"
     graphics [
       x 132166.6667
       y 76033.12500
@@ -38560,7 +38560,7 @@ graph [
   node [
     id 2268
     template "oreas:std:rect simple"
-    label "Berthold Hauser / Germany / 2"
+    label "Berthold Hauser / Germany / 2 / 1726"
     graphics [
       x 132291.6667
       y 76033.12500
@@ -38577,7 +38577,7 @@ graph [
   node [
     id 2269
     template "oreas:std:rect simple"
-    label "Bartolomäus Kün / Germany / 0"
+    label "Bartolomäus Kün / Germany / 0 / 1751"
     graphics [
       x 132416.6667
       y 76033.12500
@@ -38594,7 +38594,7 @@ graph [
   node [
     id 2270
     template "oreas:std:rect simple"
-    label "Johann Vollbracht / Germany / 1"
+    label "Johann Vollbracht / Germany / 1 / 1597"
     graphics [
       x 132666.6667
       y 76033.12500
@@ -38611,7 +38611,7 @@ graph [
   node [
     id 2271
     template "oreas:std:rect simple"
-    label "Johann Friedrich Rhaetius jun. / Germany / 0"
+    label "Johann Friedrich Rhaetius jun. / Germany / 0 / 1622"
     graphics [
       x 132541.6667
       y 76033.12500
@@ -38628,7 +38628,7 @@ graph [
   node [
     id 2272
     template "oreas:std:rect simple"
-    label "Leonhard Etzler / Germany / 1"
+    label "Leonhard Etzler / Germany / 1 / 1558"
     graphics [
       x 132791.6667
       y 76033.12500
@@ -38645,7 +38645,7 @@ graph [
   node [
     id 2273
     template "oreas:std:rect simple"
-    label "Anton Euonymus / Germany / 0"
+    label "Anton Euonymus / Germany / 0 / 1583"
     graphics [
       x 132916.6667
       y 76033.12500
@@ -38662,7 +38662,7 @@ graph [
   node [
     id 2274
     template "oreas:std:rect simple"
-    label "Georg Wolfgang Krafft / Germany / 0"
+    label "Georg Wolfgang Krafft / Germany / 0 / 1725"
     graphics [
       x 133041.6667
       y 76033.12500
@@ -38679,7 +38679,7 @@ graph [
   node [
     id 2275
     template "oreas:std:rect simple"
-    label "Johann Michael Hallwachs / Germany / 1"
+    label "Johann Michael Hallwachs / Germany / 1 / 1725"
     graphics [
       x 133166.6667
       y 76033.12500
@@ -38696,7 +38696,7 @@ graph [
   node [
     id 2276
     template "oreas:std:rect simple"
-    label "Christoph Friedrich Gross / Germany / 2"
+    label "Christoph Friedrich Gross / Germany / 2 / 1700"
     graphics [
       x 133291.6667
       y 76033.12500
