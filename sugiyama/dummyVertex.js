@@ -14,7 +14,7 @@ class DummyVertex extends Vertex {
 
   draw(ctx) {
     // Nothing needs to be drawn.
-    // ctx.fillStyle = "black";
-    // ctx.fillRect(this._x + 2, this._y + 2, 5, 5);
+    ctx.fillStyle = "black";
+    ctx.fillRect(this._x + 2, this._y + 2, 5, 5);
   }
 }

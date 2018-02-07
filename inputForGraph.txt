@@ -1,0 +1,8 @@
+n m
+name1
+descendants1
+year1
+country1
+...
+from1 to1
+...

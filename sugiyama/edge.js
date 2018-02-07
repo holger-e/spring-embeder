@@ -13,6 +13,9 @@ class Edge {
   }
 
   draw(ctx) {
+    if (typeof(this._from.getDimensions) !== "function") {
+      console.log(this._from);
+    }
     let from = this._from.getDimensions(ctx);
     let to = this._to.getDimensions(ctx);
 

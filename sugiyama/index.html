@@ -17,7 +17,7 @@
     </style>
     <script>
       const CANVAS_ID = "canvas";
-      const CANVAS_WIDTH = 1500;
+      const CANVAS_WIDTH = 3000;
       const CANVAS_HEIGHT = 12000;
 
       window.addEventListener("load", function() {
@@ -32,11 +32,11 @@
 
         // Initializes embedder.
         let embedder = new GraphEmbedder(ctx);
-        let sugiyama = new Sugiyama(embedder, COMP_0);
+        let test = new Test(embedder, COMP_71);
 
         // Rendering loop.
         function draw() {
-          sugiyama.draw();
+          test.draw();
           //window.requestAnimationFrame(draw);
         }
         window.requestAnimationFrame(draw);
@@ -58,12 +58,12 @@
     </div>
     <script src="../numeric/numeric.js"></script>
     <script src="../components/comp0.js"></script>
-    <script src="../components/comp1.js"></script>
+    <script src="../components/all.js"></script>
     <script src="../components/comp71.js"></script>
     <script src="vertex.js"></script>
     <script src="dummyVertex.js"></script>
     <script src="edge.js"></script>
     <script src="graphEmbedder.js"></script>
-    <script src="sugiyama.js"></script>
+    <script src="test.js"></script>
   </body>
 </html>
