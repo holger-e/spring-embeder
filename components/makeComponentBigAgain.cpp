@@ -52,6 +52,8 @@ int main() {
         adjlist[j + offset].push_back(to + offset);
       }
     }
+
+    offset += n;
   }
 
   freopen("bigGraph.txt", "w", stdout);
