@@ -3709,7 +3709,7 @@ width 1.0
 node [
 id 247
 template "oreas:std:rect simple"
-label "&nbsp; Meyer / Germany / 0 / 1881"
+label "Meyer / Germany / 0 / 1881"
 graphics [
 w 100.0
 h 23.0
