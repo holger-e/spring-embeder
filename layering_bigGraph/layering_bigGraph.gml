@@ -4203,7 +4203,7 @@ graph [
   node [
     id 247
     template "oreas:std:rect simple"
-    label "&nbsp; Meyer / Germany / 0 / 1881"
+    label "Meyer / Germany / 0 / 1881"
     graphics [
       x 6475.000000
       y 20602.63889
