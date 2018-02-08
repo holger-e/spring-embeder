@@ -214,7 +214,7 @@ string outputMathematician(vertex &m) {
       to_string(height / 2) + "\"/>";
   res += "<text x=\"" + to_string(m.cx - width / 2 + 25) + "\" y=\"" +
       to_string(m.cy + 5) + "\" textLength=\"" +
-      to_string(width - 50) + "\" textAdjust=\"spacingAndGlyphs\">" + m.name + "</text>\n";
+      to_string(width - 50) + "\" textAdjust=\"spacingAndGlyphs\" style=\"text-align:center;\">" + m.name + "</text>\n";
   return res;
 }
 
