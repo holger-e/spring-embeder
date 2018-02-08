@@ -224,7 +224,7 @@ string outputEdge(vector<PT> &edge) {
     if (i) res += " ";
     res += to_string(edge[i].x) + "," + to_string(edge[i].y);
   }
-  res += "\"/>\n";
+  res += "\" stroke-width=\"2\"/>\n";
   return res;
 }
 
