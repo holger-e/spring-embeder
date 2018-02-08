@@ -5,8 +5,8 @@
 #define y imag()
 
 // Dimensions of the SVG.
-#define SVG_WIDTH 80000
-#define SVG_HEIGHT 80000
+#define SVG_WIDTH 134000
+#define SVG_HEIGHT 77000
 
 // Path to the file containing only the coordinates of the vertices and country
 // identifiers.
@@ -202,8 +202,9 @@ string outputPolygon(POLY &poly, string color) {
 
 // Returns an SVG string for a mathematician/vertex.
 string outputMathematician(vertex &m) {
-  int width = 150;
-  int height = 60;
+  int offset = round(10 * log2(m.descendants + 1));
+  int width = 150 + offset;
+  int height = 60 + offset;
 
   string res = "";
   res += "<ellipse fill=\"white\" stroke=\"black\" cx=\"" +
