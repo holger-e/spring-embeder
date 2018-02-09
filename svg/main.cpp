@@ -19,11 +19,14 @@
 #define EPS 1e-6
 
 // The number of characters in the name before a line break.
-#define CHARS_PER_LINE 16
+#define CHARS_PER_LINE 19
 
 // Width and height of a vertex.
-#define VERT_WIDTH 115
+#define VERT_WIDTH 120
 #define VERT_HEIGHT 60
+
+// How much space is between two year annotations.
+#define YEAR_ANNOTATION_OFFSET 5000
 
 using namespace std;
 
@@ -184,7 +187,7 @@ string outputPolygon(POLY &poly, string color) {
     res += to_string(poly[i].x) + "," + to_string(poly[i].y);
   }
   res += "\"";
-  res += " style=\"fill: " + color + ";\"";
+  res += " style=\"fill: " + color + "; opacity: 0.3;\"";
   res += "/>\n";
   return res;
 }
@@ -192,7 +195,7 @@ string outputPolygon(POLY &poly, string color) {
 // Outputs a single row of the name. If the name is long, spacing is reduced.
 string outputNameRow(double cx, double dy, string row) {
   string res = "";
-  if (row.length() >= CHARS_PER_LINE - 1) {
+  if (row.length() >= CHARS_PER_LINE - 2) {
     res += "<tspan x=\"" + to_string(cx) + "\" dy=\"" +
            to_string(dy) + "\" textLength=\"" + to_string(VERT_WIDTH - 10) +
            "\" textAdjust=\"spacingAndGlyphs\">" + row + "</tspan>";
@@ -226,8 +229,15 @@ string outputName(double cx, double cy, string name) {
     }
     res += "</text>";
   } else {
-    res += "<text x=\"" + to_string(cx) + "\" y=\"" + to_string(cy + 4) +
+    if (name.length() >= CHARS_PER_LINE - 2) {
+      res += "<text x=\"" + to_string(cx) + "\" y=\"" + to_string(cy + 4) +
+           "\" text-anchor=\"middle\" textLength=\"" +
+           to_string(VERT_WIDTH - 10) + "\" textAdjust=\"spacingAndGlyphs\">" +
+           name + "</text>\n";
+    } else {
+      res += "<text x=\"" + to_string(cx) + "\" y=\"" + to_string(cy + 4) +
            "\" text-anchor=\"middle\">" + name + "</text>\n";
+    }
   }
   return res;
 }
@@ -242,9 +252,7 @@ string outputMathematician(vertex &m) {
       to_string(m.cx - width / 2) + "\" y=\"" +
       to_string(m.cy - height / 2) + "\" width=\"" +
       to_string(width) + "\" height=\"" +
-      to_string(height) + "\" rx=\"" +
-      to_string(5) + "\" ry=\"" +
-      to_string(5) + "\"/>";
+      to_string(height) + "\" rx=\"7\" ry=\"7\"/>";
   res += outputName(m.cx, m.cy, m.name);
   return res;
 }
@@ -260,6 +268,20 @@ string outputEdge(vector<PT> &edge) {
   return res;
 }
 
+// Returns an SVG dotted line for a year.
+string outputYearLine(int ycoord, int year) {
+  string res = "";
+  res += "<polyline fill=\"none\" stroke=\"lightgray\" points=\"0," +
+          to_string(ycoord) + " " + to_string(SVG_WIDTH) +
+          "," + to_string(ycoord) +
+          "\" stroke-width=\"1\" stroke-dasharray=\"5, 10\"/>";
+  for (int i = YEAR_ANNOTATION_OFFSET; i < SVG_WIDTH; i += YEAR_ANNOTATION_OFFSET) {
+    res += "<text style=\"fill: gray;\" x=\"" + to_string(i) +
+           "\" y=\"" + to_string(ycoord - 10) + "\">" + to_string(year) + "</text>";
+  }
+  return res;
+}
+
 // Outputs the SVG.
 void output() {
   // Open SVG file.
@@ -270,8 +292,18 @@ void output() {
       SVG_WIDTH, SVG_HEIGHT, SVG_WIDTH, SVG_HEIGHT);
 
   // Print background polygons.
+  printf("<rect x=\"0\" y=\"0\" width=\"%d\" height=\"%d\" style=\"fill: white;\"/>\n", SVG_WIDTH, SVG_HEIGHT);
   for (int i = 0; i < (int)polys.size(); i++) {
     printf("  %s\n", outputPolygon(polys[i], colors[mathematicians[i].country]).c_str());
+  }
+
+  // Print year lines.
+  set<pair<int, int>> years;
+  for (auto &m : mathematicians) {
+    years.insert(pair<int, int> (m.cy, m.year));
+  }
+  for (auto &s : years) {
+    printf("  %s\n", outputYearLine(s.first, s.second).c_str());
   }
 
   // Print edges to the foreground.
