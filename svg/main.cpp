@@ -5,7 +5,7 @@
 #define y imag()
 
 // Dimensions of the SVG.
-#define SVG_WIDTH 66500
+#define SVG_WIDTH 63700
 #define SVG_HEIGHT 73000
 
 // Path to the file containing the complete foreground drawing information.

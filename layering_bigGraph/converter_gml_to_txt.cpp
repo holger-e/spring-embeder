@@ -65,6 +65,7 @@ int main(){
         getline(cin,text); // graphics
         getline(cin,text); // x
         float x = stof(text.substr(8,text.length()));
+        x += 30;
         //cout << x << endl;
         getline(cin,text); // y
         float y = stof(text.substr(8,text.length()));
@@ -111,6 +112,7 @@ int main(){
                // cout << text << endl;
                // cout << text.substr(j+2, text.length() - j -2) << endl;
                 float x = stof(text.substr(18, j -19));
+                 x += 30;
                 float y = stof(text.substr(j+2, text.length() - j -2));
                 pair<int,int> c;
                 c.first = (int) floor(x + 0.5);
@@ -138,13 +140,18 @@ int main(){
        cout << n.descendants << endl;
        cout << n.year << endl;
        cout << n.country << endl;
-       cout << n.coord.first << endl;
+       cout << n.coord.first << endl; 
        cout << n.coord.second << endl;
    }
    
    // export edges
    for (edge e: edges){
-        cout << e.from << " " << e.to << " " << e.bends.size();
+        cout << e.from << " " << e.to << " " << max((int) e.bends.size(),2);
+        
+        if (e.bends.size() == 0){
+            cout << " " << nodes[e.from].coord.first << " " << nodes[e.from].coord.second << " ";
+            cout << nodes[e.to].coord.first << " " << nodes[e.to].coord.second;
+        }
         
         for (pair<int,int> p : e.bends){
             cout << " " << p.first << " " << p.second;

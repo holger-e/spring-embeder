@@ -52,6 +52,8 @@ int main(int argc, char *argv[]){
     }
     
     
+    getline(cin, s);
+    
     // parse edges
     for (int i = 0; i < m; ++i){
         edge e;
@@ -59,10 +61,11 @@ int main(int argc, char *argv[]){
        /* if (e.from == e.to)
             cout << "LOOP" << endl;*/
         edges.push_back(e);
+       // cout << e.from << " " << e.to << endl;
     }   
     
     
-    /*
+    
       
 
     cout << "Creator \"...\"" << endl << "directed 1" << endl << "graph [" << endl;
@@ -83,13 +86,13 @@ int main(int argc, char *argv[]){
     }
     
     cout << "]" << endl;
-    */
+    
 
         // output levels
     
     //cout << endl << endl;
     
-    
+    /*
      sort(nodes.begin(),nodes.end(), node_comp);
      
     int level = 0;
@@ -114,7 +117,7 @@ int main(int argc, char *argv[]){
     }
     
     cout << endl;
-    
+    */
     
     
     return 0;
