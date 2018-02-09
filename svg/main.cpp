@@ -194,7 +194,7 @@ string outputPolygon(POLY &poly, string color) {
   }
   res += "\"";
   res += " style=\"fill: " + color + "; opacity: 0.3;\"";
-  res += "/>\n";
+  res += " filter=\"url(#blurrer)\"/>\n";
   return res;
 }
 
@@ -318,6 +318,11 @@ void output() {
       "<svg xmlns=\"%s\" width=\"%d\" height=\"%d\" viewport=\"0 0 %d %d\">\n",
       "http://www.w3.org/2000/svg",
       SVG_WIDTH, SVG_HEIGHT, SVG_WIDTH, SVG_HEIGHT);
+
+  // Gaussian filter.
+  printf("<filter id=\"blurrer\">\n");
+  printf("<feGaussianBlur in=\"SourceGraphic\" stdDeviation=\"10\"/>\n");
+  printf("</filter>\n");
 
   // Print background polygons.
   printf("<rect x=\"0\" y=\"0\" width=\"%d\" height=\"%d\" style=\"fill: white;\"/>\n", SVG_WIDTH, SVG_HEIGHT);
