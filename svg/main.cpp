@@ -26,7 +26,7 @@
 #define VERT_HEIGHT 60
 
 // How much space is between two year annotations.
-#define YEAR_ANNOTATION_OFFSET 5000
+#define YEAR_ANNOTATION_OFFSET 3000
 
 // Dimensions of the legend.
 #define LEGEND_X 0
