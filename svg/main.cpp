@@ -6,7 +6,7 @@
 
 // Dimensions of the SVG.
 #define SVG_WIDTH 63700
-#define SVG_HEIGHT 73000
+#define SVG_HEIGHT 73400
 
 // Path to the file containing the complete foreground drawing information.
 #define GRAPH_TEST_FILE "test_everything.txt"

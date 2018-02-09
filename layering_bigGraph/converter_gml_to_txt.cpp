@@ -4,6 +4,9 @@
 #include <algorithm>
 #include <math.h>
 
+#define X_OFFSET 400
+#define Y_OFFSET 200
+
 using namespace std;
 
 
@@ -65,10 +68,11 @@ int main(){
         getline(cin,text); // graphics
         getline(cin,text); // x
         float x = stof(text.substr(8,text.length()));
-        x += 30;
+        x += X_OFFSET;
         //cout << x << endl;
         getline(cin,text); // y
         float y = stof(text.substr(8,text.length()));
+        y += Y_OFFSET;
         n.coord.first = (int) floor(x + 0.5);
         n.coord.second = (int) floor(y + 0.5);
         getline(cin,text); // w
@@ -112,8 +116,9 @@ int main(){
                // cout << text << endl;
                // cout << text.substr(j+2, text.length() - j -2) << endl;
                 float x = stof(text.substr(18, j -19));
-                 x += 30;
+                 x += X_OFFSET;
                 float y = stof(text.substr(j+2, text.length() - j -2));
+                y += Y_OFFSET;
                 pair<int,int> c;
                 c.first = (int) floor(x + 0.5);
                 c.second = (int) floor(y + 0.5);
