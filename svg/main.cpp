@@ -8,11 +8,6 @@
 #define SVG_WIDTH 134000
 #define SVG_HEIGHT 77000
 
-// Path to the file containing only the coordinates of the vertices and country
-// identifiers.
-#define VORONOI_TEST_FILE "test_coordinates.txt"
-#define VORONOI_FILE "../layering_bigGraph/bigGraph_for_voronoi.txt"
-
 // Path to the file containing the complete foreground drawing information.
 #define GRAPH_TEST_FILE "test_everything.txt"
 #define GRAPH_FILE "../layering_bigGraph/bigGraph_complete_layout.txt"
@@ -22,6 +17,13 @@
 
 // Epsilon value for counter clockwise function.
 #define EPS 1e-6
+
+// The number of characters in the name before a line break.
+#define CHARS_PER_LINE 16
+
+// Width and height of a vertex.
+#define VERT_WIDTH 115
+#define VERT_HEIGHT 60
 
 using namespace std;
 
@@ -48,14 +50,7 @@ vector<vector<PT>> edges;
 
 // List with all polygons to draw in the background and colors.
 vector<POLY> polys;
-vector<string> colors = {"red", "green", "blue", "yellow", "purple", "FUCHSIA",
-    "NAVY", "TEAL", "AQUA", "LIME", "OLIVE", "MAROON", "GRAY", "Silver",
-    "#F3E5AB", "#E4AAF2", "#B3AAF2", "#AAF2B3", "#F2B3AA", "#A2635A",
-    "#A3A15B", "#5B5EA3"};
-
-// All points and their respective countries.
-vector<PT> points;
-vector<int> countries;
+map<string, string> colors;
 
 // z-coordinate of cross product of a and b.
 double cross(PT a, PT b) {
@@ -136,30 +131,24 @@ POLY voronoiCell(POLY &poly, vector<PT> &points, PT p) {
 // Reads the coordinates of the vertices and country ids to compute a Voronoi
 // diagram of the background.
 void voronoiBackground() {
-  // Read in points.
-  freopen(VORONOI_FILE, "r", stdin);
-  int n;
-  scanf("%d", &n);
-  for (int i = 0; i < n; i++) {
-    double xcoord, ycoord;
-    int country;
-    scanf("%lf %lf %d", &xcoord, &ycoord, &country);
-    points.push_back(PT(xcoord, ycoord));
-    countries.push_back(country);
+  // Extract array with all points.
+  vector<PT> points;
+  for (auto &m : mathematicians) {
+    points.push_back(PT (m.cx, m.cy));
   }
 
   // Compute Voronoi cells for each points.
   // Initialize with the complete rectangle.
-  for (int i = 0; i < n; i++) {
+  for (auto &m : mathematicians) {
     POLY cell = {PT(0, 0), PT(SVG_WIDTH, 0), PT(SVG_WIDTH, SVG_HEIGHT),
         PT(0, SVG_HEIGHT)};
-    cell = voronoiCell(cell, points, points[i]);
+    cell = voronoiCell(cell, points, PT(m.cx, m.cy));
     polys.push_back(cell);
   }
 }
 
 // Reads the graph and all coordinates.
-void graphForeground() {
+void readGraph() {
   // Read graph.
   freopen(GRAPH_FILE, "r", stdin);
   int n, m;
@@ -195,26 +184,68 @@ string outputPolygon(POLY &poly, string color) {
     res += to_string(poly[i].x) + "," + to_string(poly[i].y);
   }
   res += "\"";
-  res += " style=\"fill: " + color + "; opacity: 0.3;\"";
+  res += " style=\"fill: " + color + ";\"";
   res += "/>\n";
+  return res;
+}
+
+// Outputs a single row of the name. If the name is long, spacing is reduced.
+string outputNameRow(double cx, double dy, string row) {
+  string res = "";
+  if (row.length() >= CHARS_PER_LINE - 1) {
+    res += "<tspan x=\"" + to_string(cx) + "\" dy=\"" +
+           to_string(dy) + "\" textLength=\"" + to_string(VERT_WIDTH - 10) +
+           "\" textAdjust=\"spacingAndGlyphs\">" + row + "</tspan>";
+  } else {
+    res += "<tspan x=\"" + to_string(cx) + "\" dy=\"" +
+           to_string(dy) + "\">" + row + "</tspan>";
+  }
+  return res;
+}
+
+// Outputs the name. Breaks long names in two or three rows.
+string outputName(double cx, double cy, string name) {
+  string res = "";
+
+  if (name.length() >= CHARS_PER_LINE) {
+    int breakSpace = name.find_last_of(" ", CHARS_PER_LINE);
+    string line1 = name.substr(0, breakSpace);
+    string line2 = name.substr(breakSpace + 1);
+    res += "<text y=\"" + to_string(cy) + "\" text-anchor=\"middle\">";
+
+    if (line2.length() >= CHARS_PER_LINE) {
+      breakSpace = line2.find_last_of(" ", CHARS_PER_LINE);
+      string line21 = line2.substr(0, breakSpace);
+      string line22 = line2.substr(breakSpace + 1);
+      res += outputNameRow(cx, -11, line1);
+      res += outputNameRow(cx, 16, line21);
+      res += outputNameRow(cx, 16, line22);
+    } else {
+      res += outputNameRow(cx, -3, line1);
+      res += outputNameRow(cx, 16, line2);
+    }
+    res += "</text>";
+  } else {
+    res += "<text x=\"" + to_string(cx) + "\" y=\"" + to_string(cy + 4) +
+           "\" text-anchor=\"middle\">" + name + "</text>\n";
+  }
   return res;
 }
 
 // Returns an SVG string for a mathematician/vertex.
 string outputMathematician(vertex &m) {
-  int offset = round(10 * log2(m.descendants + 1));
-  int width = 150 + offset;
-  int height = 60 + offset;
+  int width = VERT_WIDTH;
+  int height = VERT_HEIGHT;
 
   string res = "";
-  res += "<ellipse fill=\"white\" stroke=\"black\" cx=\"" +
-      to_string(m.cx) + "\" cy=\"" +
-      to_string(m.cy) + "\" rx=\"" +
-      to_string(width / 2) + "\" ry=\"" +
-      to_string(height / 2) + "\"/>";
-  res += "<text x=\"" + to_string(m.cx - width / 2 + 25) + "\" y=\"" +
-      to_string(m.cy + 5) + "\" textLength=\"" +
-      to_string(width - 50) + "\" textAdjust=\"spacingAndGlyphs\" style=\"text-align:center;\">" + m.name + "</text>\n";
+  res += "<rect fill=\"white\" stroke=\"black\" x=\"" +
+      to_string(m.cx - width / 2) + "\" y=\"" +
+      to_string(m.cy - height / 2) + "\" width=\"" +
+      to_string(width) + "\" height=\"" +
+      to_string(height) + "\" rx=\"" +
+      to_string(5) + "\" ry=\"" +
+      to_string(5) + "\"/>";
+  res += outputName(m.cx, m.cy, m.name);
   return res;
 }
 
@@ -240,7 +271,7 @@ void output() {
 
   // Print background polygons.
   for (int i = 0; i < (int)polys.size(); i++) {
-    printf("  %s\n", outputPolygon(polys[i], colors[countries[i]]).c_str());
+    printf("  %s\n", outputPolygon(polys[i], colors[mathematicians[i].country]).c_str());
   }
 
   // Print edges to the foreground.
@@ -258,9 +289,31 @@ void output() {
 }
 
 int main() {
-  voronoiBackground();
-  graphForeground();
+  colors["Austria"] = "#876FFF";
+  colors["Belgium"] = "#0069FF";
+  colors["Brazil"] = "#FF003F";
+  colors["CzechRepublic"] = "#D30000";
+  colors["Denmark"] = "#8DF96B";
+  colors["Estonia"] = "#F9766B";
+  colors["Finland"] = "#2D953C";
+  colors["France"] = "#F986EB";
+  colors["Germany"] = "#84ACFF";
+  colors["Greece"] = "#6BF9EA";
+  colors["Italy"] = "#FFC46F";
+  colors["Netherlands"] = "#FF7E7C";
+  colors["Norway"] = "#5D2D95";
+  colors["Poland"] = "#952D7F";
+  colors["Russia"] = "#FF00F1";
+  colors["Slovenia"] = "#95912D";
+  colors["Spain"] = "#2D958F";
+  colors["Sweden"] = "#2D3595";
+  colors["Switzerland"] = "#FFFFAF";
+  colors["Ukraine"] = "#39952D";
+  colors["UnitedKingdom"] = "#6FFFC2";
+  colors["UnitedStates"] = "#A1E6AB";
 
+  readGraph();
+  voronoiBackground();
   output();
   return 0;
 }
