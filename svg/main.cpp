@@ -5,8 +5,8 @@
 #define y imag()
 
 // Dimensions of the SVG.
-#define SVG_WIDTH 134000
-#define SVG_HEIGHT 77000
+#define SVG_WIDTH 66500
+#define SVG_HEIGHT 73000
 
 // Path to the file containing only the coordinates of the vertices and country
 // identifiers.

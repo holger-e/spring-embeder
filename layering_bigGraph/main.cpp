@@ -57,7 +57,7 @@ int main()
     for(node v : G.nodes)
         rank[v] = r[i++];
     SugiyamaLayout SL;
-    SL.setCrossMin(new BarycenterHeuristic);//BarycenterHeuristic
+    SL.setCrossMin(new MedianHeuristic);//BarycenterHeuristic
     SL.arrangeCCs(false);
     OptimalHierarchyLayout *ohl = new OptimalHierarchyLayout;
     ohl->layerDistance(30.0);
