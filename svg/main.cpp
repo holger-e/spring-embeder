@@ -32,7 +32,7 @@
 #define LEGEND_X 0
 #define LEGEND_Y 0
 #define LEGEND_WIDTH 250
-#define LEGEND_HEIGHT 1200
+#define LEGEND_HEIGHT 1140
 
 using namespace std;
 
