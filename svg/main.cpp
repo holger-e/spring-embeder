@@ -28,6 +28,12 @@
 // How much space is between two year annotations.
 #define YEAR_ANNOTATION_OFFSET 5000
 
+// Dimensions of the legend.
+#define LEGEND_X 0
+#define LEGEND_Y 0
+#define LEGEND_WIDTH 250
+#define LEGEND_HEIGHT 1200
+
 using namespace std;
 
 // Typedefs for geometry library.
@@ -282,6 +288,28 @@ string outputYearLine(int ycoord, int year) {
   return res;
 }
 
+// Outputs the legend.
+string outputLegend() {
+  string res = "";
+  res += "<rect x=\"" + to_string(LEGEND_X) + "\" y=\"" + to_string(LEGEND_Y) +
+         "\" width=\"" + to_string(LEGEND_WIDTH) + "\" height=\"" +
+         to_string(LEGEND_HEIGHT) + "\" style=\"fill: white;\"/>";
+  int cx = LEGEND_X + 50;
+  int cy = LEGEND_Y + 30;
+  res += "<text x=\"" + to_string(cx) + "\" y=\"" + to_string(cy) +
+         "\">Colors of Countries:</text>";
+  cy += 20;
+  for (auto &c : colors) {
+    res += "<rect x=\"" + to_string(cx) + "\" y=\"" + to_string(cy) +
+           "\" width=\"20\" height=\"20\" style=\"fill: " +
+           c.second + ";\" stroke=\"black\"/>";
+    res += "<text x=\"" + to_string(cx + 40) + "\" y=\"" +
+           to_string(cy + 17) + "\">" + c.first + "</text>";
+    cy += 50;
+  }
+  return res;
+}
+
 // Outputs the SVG.
 void output() {
   // Open SVG file.
@@ -306,6 +334,9 @@ void output() {
     printf("  %s\n", outputYearLine(s.first, s.second).c_str());
   }
 
+  // Print legend.
+  printf("  %s\n", outputLegend().c_str());
+
   // Print edges to the foreground.
   for (auto &e : edges) {
     printf("  %s\n", outputEdge(e).c_str());
@@ -324,7 +355,7 @@ int main() {
   colors["Austria"] = "#876FFF";
   colors["Belgium"] = "#0069FF";
   colors["Brazil"] = "#FF003F";
-  colors["CzechRepublic"] = "#D30000";
+  colors["CzechRepublic"] = "#6FFFC2";
   colors["Denmark"] = "#8DF96B";
   colors["Estonia"] = "#F9766B";
   colors["Finland"] = "#2D953C";
@@ -341,7 +372,7 @@ int main() {
   colors["Sweden"] = "#2D3595";
   colors["Switzerland"] = "#FFFFAF";
   colors["Ukraine"] = "#39952D";
-  colors["UnitedKingdom"] = "#6FFFC2";
+  colors["UnitedKingdom"] = "#D30000";
   colors["UnitedStates"] = "#A1E6AB";
 
   readGraph();
